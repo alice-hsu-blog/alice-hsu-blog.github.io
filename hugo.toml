@@ -41,7 +41,7 @@ shortName = "Alice Hsu"
 
 images = [ "/images/og-default.avif" ]
 stickyHeader = true
-showThemeSwitch = false
+showThemeSwitch = true
 showDarkModeSwitch = true
 showLanguageSwitch = true
 languageSwitchMode = "dropdown"
