@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aaa on Alice Hsu&#39;s Website</title>
+    <link>http://localhost:1313/categories/aaa/</link>
+    <description>Recent content in Aaa on Alice Hsu&#39;s Website</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 28 Sep 2025 21:21:01 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/aaa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 2nd Post Ha ha ha</title>
+      <link>http://localhost:1313/posts/2025/09/my-2nd-post-ha-ha-ha/</link>
+      <pubDate>Sun, 28 Sep 2025 21:21:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/09/my-2nd-post-ha-ha-ha/</guid>
+      <description>&lt;h1 id=&#34;my-2nd-post-ha-ha-ha&#34;&gt;My 2nd Post Ha ha ha&lt;/h1&gt;&#xA;&lt;h2 id=&#34;do-you-know-that-meowme-is-also-called-rachmeowninoff&#34;&gt;Do you know that meowme is also called Rachmeowninoff?&lt;/h2&gt;&#xA;&lt;p&gt;Yes, this is the nickname I gave him hahahaha🥰🥰🥰&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

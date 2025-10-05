@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "categories": [
+    "blog",
+    "technology",
+    "education"
+  ],
+  "description": "Site description",
+  "dir": "ltr",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "any",
+      "src": "/favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": [
+    "en-US",
+    "zh-TW"
+  ],
+  "name": "Alice Hsu's Website",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Alice Hsu",
+  "start_url": "/",
+  "theme_color": "#09090b"
+}
