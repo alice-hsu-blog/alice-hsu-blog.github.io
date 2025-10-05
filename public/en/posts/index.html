@@ -1,7 +1,7 @@
 <!doctype html>
 <html
   lang="en-US"
-  data-theme="default">
+  data-theme="sunset">
   <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8" />
 <meta
@@ -21,7 +21,7 @@
 
 
 
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="icon" type="image/svg+xml" href="/images/music.png" />
 
 
 
@@ -177,8 +177,9 @@
     <script>
       
       (function() {
+        localStorage.setItem("theme", 'light');
         const theme = localStorage.getItem('theme') || 'system';
-        const colorScheme = localStorage.getItem('colorScheme') || 'shadcn';
+        const colorScheme = localStorage.getItem('colorScheme') || 'sunset';
 
         
         document.documentElement.setAttribute('data-theme', colorScheme);
@@ -325,7 +326,7 @@
             class="flex h-10 w-10 items-center justify-center overflow-hidden rounded-full transition-transform duration-200 hover:scale-105"
             aria-label="Alice Hsu&#39;s Website">
             <img
-              src="/images/logo.svg"
+              src="/images/home.png"
               alt="Alice Hsu&#39;s Website"
               class="h-full w-full object-cover" />
           </a>
@@ -336,6 +337,36 @@
       <nav class="mx-8 flex flex-1 items-center justify-center">
         <div class="flex items-center space-x-1">
           
+          
+            
+            
+            
+              
+                
+              
+            
+            
+            <a
+              href="/en/about/"
+              class="nav-link 
+                text-muted-foreground hover:text-primary hover:bg-primary/10
+               focus:ring-primary/20 relative flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-medium transition-all duration-300 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none">
+              
+                
+  <svg class="h-5 w-5"
+    fill="none"
+    stroke="currentColor"
+    viewBox="0 0 24 24" aria-label="nav.about_us">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+
+</svg>
+              
+              <span
+                >
+                  About Me
+                </span
+              >
+            </a>
           
             
             
@@ -406,7 +437,7 @@
             
             
             <a
-              href="/en/tags/"
+              href="/en/portfolio/"
               class="nav-link 
                 text-muted-foreground hover:text-primary hover:bg-primary/10
                focus:ring-primary/20 relative flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-medium transition-all duration-300 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none">
@@ -415,14 +446,14 @@
   <svg class="h-5 w-5"
     fill="none"
     stroke="currentColor"
-    viewBox="0 0 24 24" aria-label="nav.tags">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z" />
+    viewBox="0 0 24 24" aria-label="nav.portfolio">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
 
 </svg>
               
               <span
                 >
-                  Tags
+                  Portfolio
                 </span
               >
             </a>
@@ -454,7 +485,7 @@
     class="dropdown-menu border-border bg-popover/95 absolute top-12 right-0 z-[60] hidden w-40 rounded-lg border p-1 shadow-lg backdrop-blur-sm transition-all duration-200 ease-out"
     data-dropdown-type="language"
     role="menu"
-    aria-labelledby="language-toggle"><a href="/en/" class="text-accent-foreground hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground flex w-full items-center rounded-md px-4 py-2 text-sm transition-all duration-200 ease-out focus:outline-none" role="menuitem" aria-current="true"><span class="font-medium">English</span></a><a href="/zh-tw/" class="text-accent-foreground hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground flex w-full items-center rounded-md px-4 py-2 text-sm transition-all duration-200 ease-out focus:outline-none" role="menuitem"><span class="font-medium">繁體中文</span></a></div>
+    aria-labelledby="language-toggle"><a href="/en/" class="text-accent-foreground hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground flex w-full items-center rounded-md px-4 py-2 text-sm transition-all duration-200 ease-out focus:outline-none" role="menuitem" aria-current="true"><span class="font-medium">English</span></a><a href="/posts/" class="text-accent-foreground hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground flex w-full items-center rounded-md px-4 py-2 text-sm transition-all duration-200 ease-out focus:outline-none" role="menuitem"><span class="font-medium">繁體中文</span></a></div>
 </div>
 
         
@@ -567,6 +598,38 @@
         
         
         <a
+          href="/en/about/"
+          class="nav-link 
+            text-muted-foreground hover:text-primary hover:bg-primary/10
+           focus:ring-primary/20 relative flex items-center gap-3 rounded-md px-4 py-3 text-sm font-medium transition-all duration-200 ease-out hover:translate-x-1 focus:ring-2 focus:outline-none"
+          role="menuitem"
+          >
+          
+            
+  <svg class="h-5 w-5"
+    fill="none"
+    stroke="currentColor"
+    viewBox="0 0 24 24" aria-label="nav.about_us">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+
+</svg>
+          
+          <span
+            >
+              About Me
+            </span
+          >
+        </a>
+      
+        
+        
+        
+          
+            
+          
+        
+        
+        <a
           href="/en/posts/"
           class="nav-link 
             nav-active-indicator bg-accent text-accent-foreground
@@ -631,7 +694,7 @@
         
         
         <a
-          href="/en/tags/"
+          href="/en/portfolio/"
           class="nav-link 
             text-muted-foreground hover:text-primary hover:bg-primary/10
            focus:ring-primary/20 relative flex items-center gap-3 rounded-md px-4 py-3 text-sm font-medium transition-all duration-200 ease-out hover:translate-x-1 focus:ring-2 focus:outline-none"
@@ -642,14 +705,14 @@
   <svg class="h-5 w-5"
     fill="none"
     stroke="currentColor"
-    viewBox="0 0 24 24" aria-label="nav.tags">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z" />
+    viewBox="0 0 24 24" aria-label="nav.portfolio">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4" />
 
 </svg>
           
           <span
             >
-              Tags
+              Portfolio
             </span
           >
         </a>
@@ -683,7 +746,7 @@
     class="dropdown-menu border-border bg-popover/95 absolute top-12 right-0 z-[60] hidden w-40 rounded-lg border p-1 shadow-lg backdrop-blur-sm transition-all duration-200 ease-out"
     data-dropdown-type="language"
     role="menu"
-    aria-labelledby="language-toggle"><a href="/en/" class="text-accent-foreground hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground flex w-full items-center rounded-md px-4 py-2 text-sm transition-all duration-200 ease-out focus:outline-none" role="menuitem" aria-current="true"><span class="font-medium">English</span></a><a href="/zh-tw/" class="text-accent-foreground hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground flex w-full items-center rounded-md px-4 py-2 text-sm transition-all duration-200 ease-out focus:outline-none" role="menuitem"><span class="font-medium">繁體中文</span></a></div>
+    aria-labelledby="language-toggle"><a href="/en/" class="text-accent-foreground hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground flex w-full items-center rounded-md px-4 py-2 text-sm transition-all duration-200 ease-out focus:outline-none" role="menuitem" aria-current="true"><span class="font-medium">English</span></a><a href="/posts/" class="text-accent-foreground hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground flex w-full items-center rounded-md px-4 py-2 text-sm transition-all duration-200 ease-out focus:outline-none" role="menuitem"><span class="font-medium">繁體中文</span></a></div>
 </div>
 
         
@@ -827,7 +890,7 @@
 
       
         <p class="text-muted-foreground mb-6">
-          Here are all published articles, sorted by date in descending order.
+          
         </p>
       
 
@@ -875,37 +938,35 @@
 
 
 <article class="group">
-  <a href="/en/posts/2025/09/my-very-firstttttt-post-ha-ha-ha/" class="block">
+  <a href="/en/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/" class="block">
     <div class="bg-card border-border hover:bg-primary/5 hover:border-primary/20 focus:ring-primary/20 relative flex flex-col overflow-hidden rounded-xl border transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:shadow-lg focus:ring-2 focus:outline-none">
       
       <div class="block md:hidden">
         <div class="aspect-[2/1] overflow-hidden">
     
-    <div class="from-green-500/20 to-blue-500/10 relative aspect-[2/1] overflow-hidden bg-gradient-to-br" style="background-blend-mode: overlay; background-color: color-mix(in srgb, var(--color-primary) 15%, transparent);">
+    <div class="from-indigo-500/20 to-purple-500/10 relative aspect-[2/1] overflow-hidden bg-gradient-to-br" style="background-blend-mode: overlay; background-color: color-mix(in srgb, var(--color-primary) 15%, transparent);">
       
       <div class="absolute inset-0">
         
           
           
-          <div class="absolute left-[20%] top-[20%] h-6 w-6 rounded-full border-2 border-white/80 bg-white/15"></div>
+          <div class="absolute left-[20%] top-[20%] h-5 w-5 rotate-45 border-2 border-white/80 bg-white/15"></div>
           
-          <div class="absolute right-[25%] top-[25%] h-5 w-5 rounded-full border border-white/70 bg-white/12"></div>
+          <div class="absolute right-[25%] top-[25%] h-4 w-4 rotate-12 border border-white/70 bg-white/12"></div>
           
-          <div class="absolute left-[30%] bottom-[30%] h-4 w-4 rounded-full border border-white/60 bg-white/10"></div>
+          <div class="absolute left-[30%] bottom-[30%] h-3 w-3 rotate-60 border border-white/60 bg-white/10"></div>
           
-          <div class="absolute right-[20%] bottom-[20%] h-5 w-5 rounded-full border border-white/65 bg-white/13"></div>
+          <div class="absolute right-[20%] bottom-[20%] h-4 w-4 rotate-30 border border-white/65 bg-white/13"></div>
           
-          <div class="absolute left-[45%] top-[45%] h-3 w-3 rounded-full border border-white/50 bg-white/8"></div>
+          <div class="absolute left-[45%] top-[45%] h-2 w-2 rotate-45 border border-white/50 bg-white/8"></div>
           
-          <div class="absolute right-[35%] top-[35%] h-2 w-2 rounded-full bg-white/50"></div>
-          <div class="absolute left-[40%] bottom-[35%] h-1.5 w-1.5 rounded-full bg-white/45"></div>
-          <div class="absolute left-[35%] top-[50%] h-1 w-1 rounded-full bg-white/40"></div>
-          <div class="absolute right-[40%] bottom-[50%] h-1 w-1 rounded-full bg-white/35"></div>
-          <div class="absolute left-[50%] top-[30%] h-1 w-1 rounded-full bg-white/30"></div>
-          <div class="absolute right-[50%] bottom-[30%] h-1 w-1 rounded-full bg-white/25"></div>
+          <div class="absolute left-[15%] top-[40%] h-0.5 w-8 rotate-45 bg-white/40"></div>
+          <div class="absolute right-[15%] top-[35%] h-0.5 w-6 rotate-12 bg-white/35"></div>
+          <div class="absolute left-[40%] bottom-[15%] h-0.5 w-5 -rotate-30 bg-white/30"></div>
           
-          <div class="absolute top-[40%] left-[15%] h-0.5 w-6 rotate-30 bg-white/25"></div>
-          <div class="absolute bottom-[40%] right-[15%] h-0.5 w-4 -rotate-30 bg-white/20"></div>
+          <div class="absolute top-[35%] right-[40%] h-2 w-2 rounded-full bg-white/35"></div>
+          <div class="absolute bottom-[40%] left-[35%] h-1.5 w-1.5 rounded-full bg-white/30"></div>
+          <div class="absolute top-[50%] left-[50%] h-1 w-1 rounded-full bg-white/25"></div>
         
       </div>
     </div>
@@ -917,31 +978,29 @@
       <div class="absolute top-0 right-0 hidden h-full w-80 transition-opacity duration-300 group-hover:opacity-90 md:block">
         <div class="h-full w-full">
     
-    <div class="from-green-500/20 to-blue-500/10 relative h-full w-full overflow-hidden bg-gradient-to-br" style="background-blend-mode: overlay; background-color: color-mix(in srgb, var(--color-primary) 15%, transparent);">
+    <div class="from-indigo-500/20 to-purple-500/10 relative h-full w-full overflow-hidden bg-gradient-to-br" style="background-blend-mode: overlay; background-color: color-mix(in srgb, var(--color-primary) 15%, transparent);">
       
       <div class="absolute inset-0">
         
           
           
-          <div class="absolute left-[20%] top-[20%] h-6 w-6 rounded-full border-2 border-white/80 bg-white/15"></div>
+          <div class="absolute left-[20%] top-[20%] h-5 w-5 rotate-45 border-2 border-white/80 bg-white/15"></div>
           
-          <div class="absolute right-[25%] top-[25%] h-5 w-5 rounded-full border border-white/70 bg-white/12"></div>
+          <div class="absolute right-[25%] top-[25%] h-4 w-4 rotate-12 border border-white/70 bg-white/12"></div>
           
-          <div class="absolute left-[30%] bottom-[30%] h-4 w-4 rounded-full border border-white/60 bg-white/10"></div>
+          <div class="absolute left-[30%] bottom-[30%] h-3 w-3 rotate-60 border border-white/60 bg-white/10"></div>
           
-          <div class="absolute right-[20%] bottom-[20%] h-5 w-5 rounded-full border border-white/65 bg-white/13"></div>
+          <div class="absolute right-[20%] bottom-[20%] h-4 w-4 rotate-30 border border-white/65 bg-white/13"></div>
           
-          <div class="absolute left-[45%] top-[45%] h-3 w-3 rounded-full border border-white/50 bg-white/8"></div>
+          <div class="absolute left-[45%] top-[45%] h-2 w-2 rotate-45 border border-white/50 bg-white/8"></div>
           
-          <div class="absolute right-[35%] top-[35%] h-2 w-2 rounded-full bg-white/50"></div>
-          <div class="absolute left-[40%] bottom-[35%] h-1.5 w-1.5 rounded-full bg-white/45"></div>
-          <div class="absolute left-[35%] top-[50%] h-1 w-1 rounded-full bg-white/40"></div>
-          <div class="absolute right-[40%] bottom-[50%] h-1 w-1 rounded-full bg-white/35"></div>
-          <div class="absolute left-[50%] top-[30%] h-1 w-1 rounded-full bg-white/30"></div>
-          <div class="absolute right-[50%] bottom-[30%] h-1 w-1 rounded-full bg-white/25"></div>
+          <div class="absolute left-[15%] top-[40%] h-0.5 w-8 rotate-45 bg-white/40"></div>
+          <div class="absolute right-[15%] top-[35%] h-0.5 w-6 rotate-12 bg-white/35"></div>
+          <div class="absolute left-[40%] bottom-[15%] h-0.5 w-5 -rotate-30 bg-white/30"></div>
           
-          <div class="absolute top-[40%] left-[15%] h-0.5 w-6 rotate-30 bg-white/25"></div>
-          <div class="absolute bottom-[40%] right-[15%] h-0.5 w-4 -rotate-30 bg-white/20"></div>
+          <div class="absolute top-[35%] right-[40%] h-2 w-2 rounded-full bg-white/35"></div>
+          <div class="absolute bottom-[40%] left-[35%] h-1.5 w-1.5 rounded-full bg-white/30"></div>
+          <div class="absolute top-[50%] left-[50%] h-1 w-1 rounded-full bg-white/25"></div>
         
       </div>
     </div>
@@ -956,14 +1015,13 @@
       <div class="relative z-10 flex flex-1 flex-col p-6 md:pr-[21rem]">
         
         <h3 class="text-foreground group-hover:text-primary mb-4 text-lg font-semibold leading-tight transition-colors duration-200">
-          My Very Firstttttt Post Ha ha ha
+          What Happened When I Deleted My Facebook and Instagram App?
         </h3>
 
         
         
           <p class="text-muted-foreground mb-4 text-sm leading-relaxed">
-            My Very Firstttttt Post Ha ha ha Do you know that meowme is also called Rachmeowninoff? Yes, this is the nickname I gave him hahahaha🥰🥰🥰
-
+            The following post was originally published on Medium on April 5, 2019. Six years later, I not only deleted the apps but also permanently …
           </p>
         
 
@@ -990,7 +1048,7 @@
     stroke="currentColor"
     viewBox="0 0 24 24" aria-label="Reading time"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
 </svg>
-                <span class="font-medium">1 minute</span>
+                <span class="font-medium">4 minute</span>
               </div>
             
           </div>
@@ -1036,60 +1094,6 @@
             
             
             
-              
-                
-              
-            
-            <a
-              href="/en/"
-              
-              class="nav-link hover:text-primary hover:bg-primary/10 text-muted-foreground flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-medium transition-all duration-300 hover:scale-105">
-              
-                
-  <svg class="h-5 w-5"
-    fill="none"
-    stroke="currentColor"
-    viewBox="0 0 24 24" aria-label="About">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-
-</svg>
-              
-              <span
-                >
-                  About
-                </span
-              >
-            </a>
-          
-            
-            
-            
-            <a
-              href="https://example.com/contact"
-              
-                target="_blank" rel="noopener noreferrer"
-              
-              class="nav-link hover:text-primary hover:bg-primary/10 text-muted-foreground flex items-center gap-2 rounded-lg px-4 py-2 text-sm font-medium transition-all duration-300 hover:scale-105">
-              
-                
-  <svg class="h-5 w-5"
-    fill="none"
-    stroke="currentColor"
-    viewBox="0 0 24 24" aria-label="Contact">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-
-</svg>
-              
-              <span
-                >
-                  Contact
-                </span
-              >
-            </a>
-          
-            
-            
-            
             <a
               href="/index.xml"
               
@@ -1099,7 +1103,7 @@
   <svg class="h-5 w-5"
     fill="none"
     stroke="currentColor"
-    viewBox="0 0 24 24" aria-label="RSS Feed">
+    viewBox="0 0 24 24" aria-label="footer.rss_feed">
   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 5c7.18 0 13 5.82 13 13M6 11a7 7 0 017 7m-6 0a1 1 0 11-2 0 1 1 0 012 0z" />
 
 </svg>
@@ -1117,8 +1121,6 @@
 
 
     
-    
-      <div class="border-border mb-6 border-t"></div>
     
 
 
@@ -1153,79 +1155,6 @@
       </div>
 
       
-      
-        <div class="flex items-center gap-3">
-          
-            <a
-              href="https://github.com/username"
-              
-                target="_blank" rel="noopener noreferrer"
-              
-              class="text-muted-foreground hover:text-primary focus:ring-primary/20 rounded-lg p-1 transition-all duration-300 ease-out hover:scale-110 focus:ring-2 focus:outline-none"
-              title="GitHub"
-              aria-label="GitHub">
-              
-                
-  <svg class="h-6 w-6"
-    fill="none"
-    stroke="currentColor"
-    viewBox="0 0 24 24" aria-label="GitHub"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5c.08-1.25-.27-2.48-1-3.5c.28-1.15.28-2.35 0-3.5c0 0-1 0-3 1.5c-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.4 5.4 0 0 0 4 9c0 3.5 3 5.5 6 5.5c-.39.49-.68 1.05-.85 1.65S8.93 17.38 9 18v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></g></svg>
-              
-            </a>
-          
-            <a
-              href="https://twitter.com/username"
-              
-                target="_blank" rel="noopener noreferrer"
-              
-              class="text-muted-foreground hover:text-primary focus:ring-primary/20 rounded-lg p-1 transition-all duration-300 ease-out hover:scale-110 focus:ring-2 focus:outline-none"
-              title="Twitter"
-              aria-label="Twitter">
-              
-                
-  <svg class="h-6 w-6"
-    fill="none"
-    stroke="currentColor"
-    viewBox="0 0 24 24" aria-label="Twitter"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6c2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4c-.9-4.2 4-6.6 7-3.8c1.1 0 3-1.2 3-1.2"/></svg>
-              
-            </a>
-          
-            <a
-              href="https://linkedin.com/in/username"
-              
-                target="_blank" rel="noopener noreferrer"
-              
-              class="text-muted-foreground hover:text-primary focus:ring-primary/20 rounded-lg p-1 transition-all duration-300 ease-out hover:scale-110 focus:ring-2 focus:outline-none"
-              title="LinkedIn"
-              aria-label="LinkedIn">
-              
-                
-  <svg class="h-6 w-6"
-    fill="none"
-    stroke="currentColor"
-    viewBox="0 0 24 24" aria-label="LinkedIn"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2a2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6M2 9h4v12H2z"/><circle cx="4" cy="4" r="2"/></g></svg>
-              
-            </a>
-          
-            <a
-              href="mailto:your.email@example.com"
-              
-              class="text-muted-foreground hover:text-primary focus:ring-primary/20 rounded-lg p-1 transition-all duration-300 ease-out hover:scale-110 focus:ring-2 focus:outline-none"
-              title="Email"
-              aria-label="Email">
-              
-                
-  <svg class="h-6 w-6"
-    fill="none"
-    stroke="currentColor"
-    viewBox="0 0 24 24" aria-label="Email">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-
-</svg>
-              
-            </a>
-          
-        </div>
       
 
     </div>
