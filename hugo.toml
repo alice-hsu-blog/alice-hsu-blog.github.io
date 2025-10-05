@@ -1,0 +1,172 @@
+baseURL = "https://example.com"
+title = "Alice Hsu's Website"
+theme = ["HugoNarrow", "hugo-embed-pdf-shortcode"]
+enableInlineShortcodes = true
+languageCode = "en-US"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+timeZone = "America/Chicago"
+hasCJKLanguage = true
+enableEmoji = true
+
+[pagination]
+pagerSize = 6
+
+[permalinks]
+posts = "/posts/:year/:month/:slug/"
+pages = "/:slug/"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[languages.en]
+languageCode = "en-US"
+languageName = "English"
+weight = 1
+
+[languages.zh-tw]
+languageCode = "zh-TW"
+languageName = "繁體中文"
+weight = 2
+
+
+[params]
+# seo
+description = "Site description"
+keywords = [ "keyword1", "keyword2" ]
+defaultAuthor = "Alice Hsu"
+language = "en-US"
+shortName = "Alice Hsu"
+
+images = [ "/images/og-default.avif" ]
+stickyHeader = true
+showThemeSwitch = false
+showDarkModeSwitch = true
+showLanguageSwitch = true
+languageSwitchMode = "dropdown"
+
+[params.logo]
+image = "/images/home.png"
+link = "/"
+
+[params.favicon]
+svg = "/images/music.png"
+
+[params.author]
+name = "authors.author_name"
+title = "authors.author_title"
+description = "authors.author_description"
+avatar = "/images/avatar.jpg"
+
+
+[params.home]
+recentPostsCount = 5
+
+[params.post]
+showRelated = true
+relatedPostsCount = 3
+
+[params.post.license]
+show = false
+author = "Hugo Narrow"
+name = "CC BY-NC-SA 4.0"
+description = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
+url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+displayName = "CC BY-NC-SA 4.0"
+
+[params.readingProgress]
+enabled = true
+height = 3
+showOnHomepage = false
+smoothScroll = true
+hideOnComplete = false
+
+colorScheme = "sunset"
+
+[params.themes.default]
+name = "Default"
+order = 1
+
+[params.themes.claude]
+name = "Claude"
+order = 2
+
+[params.themes.bumblebee]
+name = "Bumblebee"
+order = 3
+
+[params.themes.emerald]
+name = "Emerald"
+order = 4
+
+[params.themes.nord]
+name = "Nord"
+order = 5
+
+[params.themes.sunset]
+name = "Sunset"
+order = 6
+
+[params.themes.abyss]
+name = "Abyss"
+order = 7
+
+[params.themes.dracula]
+name = "Dracula"
+order = 8
+
+[outputs]
+home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+baseName = "site"
+isPlainText = true
+
+[[menus.main]]
+name = "nav.about_us"
+pageRef = "/about"
+weight = 10
+
+  [menus.main.params]
+  icon = "about"
+
+[[menus.main]]
+name = "nav.posts"
+pageRef = "/posts"
+weight = 20
+
+  [menus.main.params]
+  icon = "posts"
+
+[[menus.main]]
+name = "nav.categories"
+pageRef = "/categories"
+weight = 30
+
+  [menus.main.params]
+  icon = "categories"
+
+[[menus.main]]
+name = "nav.portfolio"
+pageRef = "/portfolio"
+weight = 40
+
+  [menus.main.params]
+  icon = "archive"
+
+
+
+
+[[menus.footer]]
+name = "footer.rss_feed"
+url = "/index.xml"
+weight = 30
+
+  [menus.footer.params]
+  icon = "rss"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

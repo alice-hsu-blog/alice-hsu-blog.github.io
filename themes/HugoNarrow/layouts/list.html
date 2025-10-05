@@ -1,0 +1,67 @@
+{{ define "main" }}
+  <div class="mx-auto max-w-4xl">
+    <!-- 面包屑导航 -->
+    {{ partial "navigation/breadcrumb.html" . }}
+
+
+    <!-- 页面标题和描述 -->
+    <header class="mb-8">
+      <h1 class="text-foreground mb-4 text-3xl font-bold">
+        {{ if eq .Section "posts" }}
+          {{ i18n "nav.posts" | default "Posts" }}
+        {{ else if eq .Section "archives" }}
+          {{ i18n "nav.archives" | default "Archives" }}
+        {{ else if eq .Section "tags" }}
+          {{ i18n "nav.tags" | default "Tags" }}
+        {{ else if eq .Section "categories" }}
+          {{ i18n "nav.categories" | default "Categories" }}
+        {{ else }}
+          {{ .Title }}
+        {{ end }}
+      </h1>
+
+      {{ if .Content }}
+        <div class="prose prose-neutral dark:prose-invert max-w-none">
+          {{ .Content }} 
+        </div>
+      {{ else if eq .Section "posts" }}
+        <p class="text-muted-foreground">
+          {{ i18n "post.list_desc" | default "" }}
+        </p>
+      {{ end }}
+
+
+      <!-- 文章统计信息 -->
+      {{ if eq .Section "posts" }}
+        <div class="text-muted-foreground mt-4 flex items-center gap-4 text-sm">
+          <div class="flex items-center gap-1">
+            {{ partial "features/icon.html" (dict "name" "folder" "size" "sm" "ariaLabel" "") }}
+            <span
+              >{{ i18n "post.total_posts" (dict "count" .Paginator.TotalNumberOfElements) | default (printf "%d posts" .Paginator.TotalNumberOfElements) }}</span
+            >
+          </div>
+          {{ if gt .Paginator.TotalPages 1 }}
+            <div class="flex items-center gap-1">
+              {{ partial "features/icon.html" (dict "name" "layers" "size" "sm" "ariaLabel" "") }}
+              <span
+                >{{ i18n "nav.total_pages" (dict "count" .Paginator.TotalPages) | default (printf "%d pages" .Paginator.TotalPages) }}</span
+              >
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
+    </header>
+
+    <!-- 文章列表 -->
+    {{ $posts := .Paginator.Pages }}
+    {{ if $posts }}
+      {{ partial "content/post-list.html" (dict "posts" $posts) }}
+    {{ else }}
+    {{ end }}
+
+
+    <!-- 分页导航 -->
+    {{ partial "navigation/pagination.html" . }}
+
+  </div>
+{{ end }}
