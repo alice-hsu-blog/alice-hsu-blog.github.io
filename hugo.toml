@@ -41,10 +41,12 @@ shortName = "Alice Hsu"
 
 images = [ "/images/og-default.avif" ]
 stickyHeader = true
-showThemeSwitch = true
+showThemeSwitch = false
 showDarkModeSwitch = true
 showLanguageSwitch = true
 languageSwitchMode = "dropdown"
+colorScheme = "sunset"
+
 
 [params.logo]
 image = "/images/home.png"
@@ -82,7 +84,6 @@ showOnHomepage = false
 smoothScroll = true
 hideOnComplete = false
 
-colorScheme = "sunset"
 
 [params.themes.default]
 name = "Default"
