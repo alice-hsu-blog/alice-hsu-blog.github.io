@@ -46,10 +46,10 @@ I originally thought I’d need sheer willpower to resist, but to my surprise, i
 
 1. **My mood felt lighter.** No more waiting for “who hasn’t liked my post yet” and no more compulsive urge to clear red notification badges. It felt like pressing Ctrl+Shift+Esc to open my brain’s Task Manager and shutting down background apps of social media. Suddenly, I had so much more mental capacity freed up—enough to focus on meaningful things with ease instead of circling anxiously in the same place.
 
-2. **My awareness increased.** Things I never noticed before began to stand out. With my eyes off the phone screen, I was no longer a passive duck being stuffed with information, but an active, curious explorer of the world. The colors of real life became sharper, and I even became more sensitive to subtle sensations: the perfect humidity of the breeze brushing against my face, like the cool freshness of a face mask just applied.
+2. **My senses have become sharper.** Things I never noticed before began to stand out. With my eyes off the phone screen, I was no longer a passive receiver being flooded with information, but an active, curious explorer of the world. The colors of real life became sharper, and I even became more sensitive to subtle things: the perfect humidity of the breeze brushing against my face, like the cool freshness of a face mask just applied.
 ![The colored pencil wall at Eslite Bookstore in Xinyi District.](/images/Post/1/1.jpg)
 ![The sunset in front of Taipei City Hall.](/images/Post/1/2.jpg)
-3. **Drinking water no longer feels difficult.**
+1. **Drinking water no longer feels difficult.(This may relates to the second point)**
 This is a surprising change. I usually love sweet drinks, and recently I’d been struggling to cut down. But today, something shifted. I became more sensitive to the taste of water. Drinks that I usually had, even mildly sweetened, suddenly felt cloying. I didn’t want them anymore. Instead, I began to enjoy the pure taste of water.
 
 At the end of the day, my feeling was this: Ah! Relief! Quitting Facebook and Instagram on the first day felt like the sky finally broke into a heavy downpour after being stuffy and humid for too long. My heart was leaping with joy. I could sense that the parts of me dulled or weakened by social media were slowly, step by step, coming back to life.
