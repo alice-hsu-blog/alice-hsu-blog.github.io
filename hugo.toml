@@ -53,7 +53,7 @@ image = "/images/home.png"
 link = "/"
 
 [params.favicon]
-svg = "/images/music.png"
+svg = "/favicon.png"
 
 [params.author]
 name = "authors.author_name"

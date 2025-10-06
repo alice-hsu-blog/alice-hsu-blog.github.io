@@ -11,7 +11,7 @@
   "icons": [
     {
       "sizes": "any",
-      "src": "/images/music.png",
+      "src": "/favicon.png",
       "type": "image/svg+xml"
     }
   ],
