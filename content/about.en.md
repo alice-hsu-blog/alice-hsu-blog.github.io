@@ -17,7 +17,7 @@ Hi, I’m Alice Hsu. I was born in Taiwan and now live in the United States. I a
 
 This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. I only reactivate it when I need to buy or sell something. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: *[What Happened When I Deleted My Facebook and Instagram App?](../posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/)*
 
-Here, I share my musical work, including original piano compositions, piano covers, and recordings of classical pieces. At times, I also write about the reflections behind my compositions or share personal thoughts on reading and life.
+Here, I share my musical works, including original piano compositions, piano covers, and recordings of classical pieces. At times, I also write about the reflections behind my compositions or share personal thoughts on reading and life.
 
 Finally, I’d like to thank my husband  [Samuel](https://mhyeh.github.io/)  for building this website and making it look as beautiful as it does now ❤️
 
