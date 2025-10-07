@@ -10,23 +10,23 @@ categories = []
   lastRow = 'center'
   rowHeight = 400
 +++
-The following post was originally published on Medium on April 5, 2019. Six years later, I not only deleted the apps but also permanently deleted my Instagram account, and I often keep my Facebook account deactivated. Looking back now, I truly feel that my past self had taken a very good first step.
+The following post was originally published on Medium on April 5, 2019. Six years later, I not only deleted the apps but also permanently deleted my Instagram account, and I often keep my Facebook account deactivated. Looking back now, I truly feel that my past self had taken an excellent first step.
 
 ---
 
-I joined Facebook in 2009, and now I’ve been using it for almost ten years.
+I joined Facebook in 2009 and have been using it for almost ten years now.
 
-Over the years, the changes have been dramatic. It started with just a few friends playing Happy Farm together, but soon exploded into over 400 friends (I know it’s still considered “few” by some people.) flooding my feed. Not only my elementary school teachers, but even distant relatives and aunts I barely knew started adding me as a Facebook friend. My friend list became a strange mix of familiar yet unfamiliar people, and before long, I turned into a lurker, quietly scrolling through everyone’s updates.
+Over the years, the changes have been dramatic. It started with just a few friends playing Happy Farm together, but soon exploded into over 400 friends (I know it’s still considered “few” by some people) flooding my feed. Not only my elementary school teachers, but even distant relatives and aunts I barely knew started adding me as a Facebook friend. My friend list became a strange mix of familiar yet unfamiliar people, and before long, I turned into a lurker, quietly scrolling through everyone’s updates.
 
 When posting on Facebook became too full of worries and self-consciousness, I shifted my focus to Instagram, where I created a small space of freedom to write. Sometimes, after viewing someone’s story, I’d respond with a heart-eyes emoji—just let them know I cared.
 
 Yet, I found myself becoming more and more unhappy.
 
-I would often think, “That post was actually pretty good. Why didn’t He/She like it?” Or when I was tired from writing assignments and wanted to relax by browsing social media, I’d see a classmate from the same course posting a big update celebrating that they’d finished theirs, which made me more anxious. 
+I would often think, “That post was actually pretty good. Why didn’t he/she like it?” Or when I was tired from writing assignments and wanted to relax by browsing social media, I’d see a classmate from the same course posting a big update celebrating that they’d finished theirs, which made me more anxious.
 
 Moreover, I also came to realize that the people who truly matter in my life—family, close friends, mentors—are barely active on social media at all. My most precious memories with them don’t come from likes on a post, but from real moments: laughing together in sync, or being hugged and comforted when I was sad, safe enough to cry in their arms.
 
-It wasn’t until yesterday that I fully realized this. I made up my mind and posted on both Facebook and Instagram announcing I’d disappear from the platforms for a month. I would still keep Messenger and Line, but turn off phone notifications. That way, I wouldn’t be “on-call” all the time; instead, I’d check messages and reply only once a day.
+It wasn’t until yesterday that I fully realized this. I made up my mind and posted on both Facebook and Instagram, announcing I’d disappear from the platforms for a month. I would still keep Messenger and Line, but turn off phone notifications. That way, I wouldn’t be “on-call” all the time; instead, I’d check messages and reply only once a day.
 
 Then, I carried out the following steps in one go:
 
@@ -49,7 +49,8 @@ I originally thought I’d need sheer willpower to resist, but to my surprise, i
 2. **My senses have become sharper.** Things I never noticed before began to stand out. With my eyes off the phone screen, I was no longer a passive receiver being flooded with information, but an active, curious explorer of the world. The colors of real life became sharper, and I even became more sensitive to subtle things: the perfect humidity of the breeze brushing against my face, like the cool freshness of a face mask just applied.
 ![The colored pencil wall at Eslite Bookstore in Xinyi District.](/images/Post/1/1.jpg)
 ![The sunset in front of Taipei City Hall.](/images/Post/1/2.jpg)
-1. **Drinking water no longer feels difficult.(This may relates to the second point)**
-This is a surprising change. I usually love sweet drinks, and recently I’d been struggling to cut down. But today, something shifted. I became more sensitive to the taste of water. Drinks that I usually had, even mildly sweetened, suddenly felt cloying. I didn’t want them anymore. Instead, I began to enjoy the pure taste of water.
+
+3.  **Drinking water no longer feels difficult. (This may relate to the second point)**
+This is a surprising change. I usually love sweet drinks, and recently I’ve been struggling to cut down. But today, something shifted. I became more sensitive to the taste of water. Drinks that I usually had, even mildly sweetened, suddenly felt cloying. I didn’t want them anymore. Instead, I began to enjoy the pure taste of water.
 
 At the end of the day, my feeling was this: Ah! Relief! Quitting Facebook and Instagram on the first day felt like the sky finally broke into a heavy downpour after being stuffy and humid for too long. My heart was leaping with joy. I could sense that the parts of me dulled or weakened by social media were slowly, step by step, coming back to life.
