@@ -33,11 +33,11 @@ weight = 2
 
 [params]
 # seo
-description = "Alice Hsu Blog"
-keywords = [ "blog", "music", "piano" ]
+description = "Alice Hsu is a pianist and composer sharing original piano compositions, covers, and thoughts on music and creativity." 
+keywords = [ "Alice Hsu", "piano music", "original compositions", "piano covers", "classical piano", "music blog", "composer", "musician" ]
 defaultAuthor = "Alice Hsu"
 language = "en-US"
-shortName = "Alice Hsu"
+shortName = "Alice Hsu Website"
 
 images = [ "/images/og-default.avif" ]
 stickyHeader = true
