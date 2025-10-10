@@ -5,7 +5,7 @@
     "technology",
     "education"
   ],
-  "description": "Alice Hsu Blog",
+  "description": "Alice Hsu is a pianist and composer sharing original piano compositions, covers, and thoughts on music and creativity.",
   "dir": "ltr",
   "display": "standalone",
   "icons": [
@@ -19,7 +19,7 @@
   "name": "Alice Hsu's Website",
   "orientation": "portrait-primary",
   "scope": "/",
-  "short_name": "Alice Hsu",
+  "short_name": "Alice Hsu Website",
   "start_url": "/",
   "theme_color": "#09090b"
 }
