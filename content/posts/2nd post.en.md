@@ -1,5 +1,5 @@
 +++
-date = '2025-10-10T22:15:47-05:00'
+date = '2025-10-13T22:15:47-05:00'
 draft = true
 title = '🔔 The Story Behind Bell'
 cover = '/images/Post2home.png'
