@@ -7,6 +7,8 @@ date: 2024-01-01T00:00:00+08:00
 ### 原創作品
 | 發表日期 | 曲名                 | 演奏連結                 | 琴譜 |
 |----------------|------------------------|-----------------------------|-------|
+| 10-13-2025   | Bell (Stage E. Piano)         | [YouTube]/ [SoundCloud]         | [下載](/pdf/Bell.pdf)   |
+| 10-13-2025   | Bell         | [YouTube]/ [SoundCloud]         | [下載](/pdf/Bell.pdf)   |
 | 08-27-2025   | Ruins         | [YouTube](https://youtu.be/RsftgIKy3LM ) / [SoundCloud](https://on.soundcloud.com/USjfFvWS2FYXasseaL)         | [下載](/pdf/Ruins.pdf)  |
 | 07-01-2025   | Bitter Sweet  | [YouTube](https://youtu.be/iFkaTUgE1PE) / [SoundCloud](https://on.soundcloud.com/EUAzsPntLhmjrm2gCZ)    | [下載](/pdf/Bitter%20Sweet.pdf)   |
 | 06-18-2025   | Farewell      | [YouTube](https://youtu.be/Rx4R5YYzuEg) / [SoundCloud](https://on.soundcloud.com/KXcNYTUocrhkzbLj8z)        | [下載](/pdf/Farewell.pdf)  |

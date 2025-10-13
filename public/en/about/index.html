@@ -1149,7 +1149,7 @@ This personal website is my online home. A..." />
 })();
 </script>
 Hi, I’m Alice Hsu. I was born in Taiwan and now live in the United States. I am a musician and a writer.</p>
-<p>This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. I only reactivate it when I need to buy or sell something. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: <em><a href="../posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/">What Happened When I Deleted My Facebook and Instagram App?</a></em></p>
+<p>This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. I only reactivate it when I need to buy or sell something. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: <em><a href="/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/">What Happened When I Deleted My Facebook and Instagram App?</a></em></p>
 <p>Here, I share my musical works, including original piano compositions, piano covers, and recordings of classical pieces. At times, I also write about the reflections behind my compositions or share personal thoughts on reading and life.</p>
 <p>Finally, I’d like to thank my husband  <a href="https://mhyeh.github.io/"target="_blank"
 >Samuel
@@ -1513,6 +1513,49 @@ Hi, I’m Alice Hsu. I was born in Taiwan and now live in the United States. I a
     
 
 
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css"
+    integrity="sha384-5TcZemv2l/9On385z///+d7MSYlvIEw9FuZTIdZ14vJLqWphw7e7ZPuOiCHJcFCP"
+    crossorigin="anonymous" />
+  <script
+    defer
+    src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js"
+    integrity="sha384-cMkvdD8LoxVzGF/RPUKAcvmm49FQ0oxwDF3BGKtDXcEc+T1b2N+teh/OJfpU0jr6"
+    crossorigin="anonymous"></script>
+  <script
+    defer
+    src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js"
+    integrity="sha384-hCXGrW6PitJEwbkoStFjeJxv+fSOOQKOPbJxSfM6G5sWZjAyWhXiTIIAmQqnlLlh"
+    crossorigin="anonymous"></script>
+
+<script>
+    
+    function initKaTeX() {
+        if (typeof renderMathInElement === 'undefined') {
+            setTimeout(initKaTeX, 100);
+            return;
+        }
+
+        var delimiters = [{"display":true,"left":"$$","right":"$$"},{"display":false,"left":"$","right":"$"},{"display":false,"left":"\\(","right":"\\)"},{"display":true,"left":"\\[","right":"\\]"}];
+
+        renderMathInElement(document.body, {
+            delimiters: delimiters,
+            throwOnError: false,
+            errorColor: '#cc0000',
+            fleqn: false,
+            leqno: false,
+            trust: false
+        });
+    }
+
+    
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initKaTeX);
+    } else {
+        initKaTeX();
+    }
+</script>
     
 
 

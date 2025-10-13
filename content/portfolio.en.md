@@ -7,6 +7,8 @@ date: 2024-01-01T00:00:00+08:00
 ### Original Composition
 | Published Date | Title                  | Performance                 | Score |
 |----------------|------------------------|-----------------------------|-------|
+| 10-13-2025   | Bell (Stage E. Piano)         | [YouTube]/ [SoundCloud]         | [Download](/pdf/Bell.pdf)   |
+| 10-13-2025   | Bell         | [YouTube]/ [SoundCloud]         | [Download](/pdf/Bell.pdf)   |
 | 08-27-2025   | Ruins         | [YouTube](https://youtu.be/RsftgIKy3LM )/ [SoundCloud](https://on.soundcloud.com/USjfFvWS2FYXasseaL)         | [Download](/pdf/Ruins.pdf)   |
 | 07-01-2025   | Bitter Sweet  | [YouTube](https://youtu.be/iFkaTUgE1PE) / [SoundCloud](https://on.soundcloud.com/EUAzsPntLhmjrm2gCZ)    | [Download](/pdf/Bitter%20Sweet.pdf)   |
 | 06-18-2025   | Farewell      | [YouTube](https://youtu.be/Rx4R5YYzuEg) / [SoundCloud](https://on.soundcloud.com/KXcNYTUocrhkzbLj8z)        | [Download](/pdf/Farewell.pdf)  |

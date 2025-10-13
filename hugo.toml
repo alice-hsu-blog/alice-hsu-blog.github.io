@@ -117,6 +117,29 @@ order = 7
 name = "Dracula"
 order = 8
 
+[params.katex]
+enabled = true
+
+  [[params.katex.delimiters]]
+  left = "$$"
+  right = "$$"
+  display = true
+
+  [[params.katex.delimiters]]
+  left = "$"
+  right = "$"
+  display = false
+
+  [[params.katex.delimiters]]
+  left = "\\("
+  right = "\\)"
+  display = false
+
+  [[params.katex.delimiters]]
+  left = "\\["
+  right = "\\]"
+  display = true
+
 [outputs]
 home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
 

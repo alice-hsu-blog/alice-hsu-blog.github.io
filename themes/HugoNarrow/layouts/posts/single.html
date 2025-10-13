@@ -4,7 +4,7 @@
 
 
   <!-- 文章封面 -->
-  {{- if .Params.cover -}}
+  {{- if and .Params.cover .Params.cover_on_post -}}
     {{/* 使用通用图片处理器 */}}
     {{- partial "content/image-processor.html" (dict
       "context" .
@@ -29,14 +29,12 @@
           class="h-64 w-full object-cover md:h-80"
           loading="eager"
           onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" />
-        <!-- 图片加载失败时的占位图 -->
         <div class="{{ index $gradients $colorIndex }} relative h-64 md:h-80 w-full bg-gradient-to-br" style="display: none;">
           <div class="absolute inset-0 flex items-center justify-center">
             <div class="flex h-24 w-24 items-center justify-center rounded-full border border-white/30 bg-white/20 backdrop-blur-sm">
               <span class="text-3xl font-bold text-white">{{ substr .Title 0 1 | upper }}</span>
             </div>
           </div>
-          <!-- 装饰元素 -->
           <div class="absolute top-8 right-8 h-20 w-20 rounded-full bg-white/15"></div>
           <div class="absolute bottom-8 left-8 h-16 w-16 rounded-full bg-white/20"></div>
         </div>
