@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/posts/2025/10/stories-behind-bell/</loc>
-    <lastmod>2025-10-10T22:15:47-05:00</lastmod>
+    <loc>http://localhost:1313/en/posts/2025/10/the-story-behind-bell/</loc>
+    <lastmod>2025-10-12T22:15:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
@@ -12,11 +12,11 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/2025/10/stories-behind-bell/"
+                href="http://localhost:1313/en/posts/2025/10/the-story-behind-bell/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-10-10T22:15:47-05:00</lastmod>
+    <lastmod>2025-10-12T22:15:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2025-10-10T22:15:47-05:00</lastmod>
+    <lastmod>2025-10-12T22:15:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"

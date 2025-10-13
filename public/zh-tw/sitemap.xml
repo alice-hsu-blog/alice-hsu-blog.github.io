@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/</loc>
-    <lastmod>2025-10-10T22:15:47-05:00</lastmod>
+    <lastmod>2025-10-12T22:15:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/2025/10/stories-behind-bell/"
+                href="http://localhost:1313/en/posts/2025/10/the-story-behind-bell/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-10T22:15:47-05:00</lastmod>
+    <lastmod>2025-10-12T22:15:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-10T22:15:47-05:00</lastmod>
+    <lastmod>2025-10-12T22:15:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
