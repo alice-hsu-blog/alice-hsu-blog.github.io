@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://alice-hsu-blog.github.io/"
 title = "Alice Hsu's Blog"
 theme = ["HugoNarrow", "hugo-embed-pdf-shortcode"]
 enableInlineShortcodes = true
@@ -204,4 +204,4 @@ weight = 30
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ":cacheDir/images"
