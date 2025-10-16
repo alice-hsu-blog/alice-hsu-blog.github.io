@@ -12,13 +12,6 @@
     {{ .Title }}
   </h1>
 
-  <!-- 文章摘要 -->
-  {{ if .Params.summary }}
-    <div class="text-muted-foreground mb-6 text-lg leading-relaxed">
-      {{ .Params.summary | plainify }}
-    </div>
-  {{ end }}
-
 
   <!-- 元信息区域 -->
   <div class="bg-card border-border flex flex-col gap-4 rounded-xl border p-6">
