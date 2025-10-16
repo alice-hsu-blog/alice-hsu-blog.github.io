@@ -4,6 +4,10 @@ draft = false
 title = '🔔 Bell 的創作歷程'
 cover = '/images/Post2home.png'
 cover_on_post = false
+summary = ''
+featured_image = '/images/Post2home.png'
+author_twitter_handle = '@Alicehsu77' 
+og_type = 'article'
 categories = []
 
 [lightbox]

@@ -2,6 +2,8 @@
 title: "Portfolio"
 layout: "portfolio"
 date: 2024-01-01T00:00:00+08:00
+author_twitter_handle: "@Alicehsu77" 
+og_type: "article"
 ---
 
 ### Original Composition

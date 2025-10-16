@@ -2,6 +2,12 @@
 date = '2025-09-28T21:21:01-05:00'
 draft = false
 title = 'What Happened When I Deleted My Facebook and Instagram App?'
+cover = '/images/Post1home.png'
+summary = 'I joined Facebook in 2009 and have been using it for almost ten years now.'
+cover_on_post = false
+featured_image = '/images/Post1home.png'
+author_twitter_handle = '@Alicehsu77' 
+og_type = 'article'
 categories = []
 [lightbox]
   enabled = true

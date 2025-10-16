@@ -14,6 +14,45 @@
 <meta name="robots" content="{{- with .Params.robots -}}{{ . }}{{- else -}}index, follow{{- end -}}" />
 <link rel="canonical" href="{{ .Permalink }}" />
 
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="{{ site.Params.Twitter_Site }}" />
+{{- if .IsHome -}}
+ <meta name="og:title" content="{{ site.Title }}" />
+ <meta property="og:type" content="website" />
+ <meta property="og:description" content="{{ site.Params.Description }}" />
+ <meta property="og:url" content="{{ site.BaseURL }}" />
+ <meta name="og:image" content="{{ site.Params.Image }}" />
+ <meta name="twitter:creator" content="{{ site.Params.Twitter_Site }}" />
+ <meta name="twitter:title" content="{{ site.Title }}" />
+ {{- with site.Params.Twitter_Image -}}
+   <meta name="twitter:image" content="{{ site.Params.Twitter_Image }}" />
+ {{- else -}}
+   <meta name="twitter:image" content="{{ site.Params.Image }}" />
+ {{- end -}}
+{{- else -}}
+ <meta name="og:title" content="{{ .Title }}" />
+ {{- with .Params.og_type -}}
+   <meta property="og:type" content="{{ . }}" />
+ {{- else -}}
+   <meta property="og:type" content="website" />
+ {{- end -}}
+ <meta property="og:description" content="{{ .Params.Description }}" />
+ <meta property="og:url" content="{{ .Permalink }}" />
+ {{- with .Params.Featured_image -}}
+   <meta name="og:image/" content="{{ . }}" />
+   <meta name="twitter:image" content="{{ . }}" />
+ {{- else -}}
+   <meta name="og:image" content="{{ site.Params.Image }}" />
+   <meta name="twitter:image" content="{{ site.Params.Image }}" />
+ {{- end -}}
+ {{- with .Params.Author_twitter_handle -}}  
+   <meta name="twitter:creator" content="{{ . }}" />
+ {{- else -}}
+   <meta name="twitter:creator" content="{{ site.Params.Twitter_Site }}" />
+ {{- end -}}
+ <meta name="twitter:title" content="{{ .Title }}" />
+{{- end }}
+
 
 {{ with site.Params.favicon.svg }}
   <link rel="icon" type="image/png" href="{{ . }}" sizes="24x24" />
@@ -30,7 +69,7 @@
 
 <script>
   window.HUGO_SEARCH_CONFIG = {
-    searchIndexURL: {{ printf "%sindex.json" site.Home.RelPermalink | jsonify }}
+    searchIndexURL: '{{ printf "%sindex.json" site.Home.RelPermalink | jsonify }}'
   };
 </script>
 

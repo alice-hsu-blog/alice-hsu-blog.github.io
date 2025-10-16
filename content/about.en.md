@@ -3,6 +3,9 @@ title: "About Me"
 layout: "about"
 summary: ""
 date: 2024-01-01T00:00:00+08:00
+featured_image: "/images/avatar.png"
+author_twitter_handle: "@Alicehsu77" 
+og_type: "article"
 links:
   - name: "YouTube"
     url: "https://www.youtube.com/@alice_h_hsu"
