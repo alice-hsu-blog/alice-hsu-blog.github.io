@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alice Hsu&#39;s Blog</title>
-    <link>https://alice-hsu-blog.github.io/en/posts/</link>
+    <link>https://alicehsu.blog/en/posts/</link>
     <description>Recent content in Posts on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 12 Oct 2025 22:15:47 -0500</lastBuildDate>
-    <atom:link href="https://alice-hsu-blog.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alicehsu.blog/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🔔 The Story Behind Bell</title>
-      <link>https://alice-hsu-blog.github.io/en/posts/2025/10/the-story-behind-bell/</link>
+      <link>https://alicehsu.blog/en/posts/2025/10/the-story-behind-bell/</link>
       <pubDate>Sun, 12 Oct 2025 22:15:47 -0500</pubDate>
-      <guid>https://alice-hsu-blog.github.io/en/posts/2025/10/the-story-behind-bell/</guid>
+      <guid>https://alicehsu.blog/en/posts/2025/10/the-story-behind-bell/</guid>
       <description>One day while improvising, I played the opening eight measures by chance and thought they sounded nice.</description>
     </item>
     <item>
       <title>What Happened When I Deleted My Facebook and Instagram App?</title>
-      <link>https://alice-hsu-blog.github.io/en/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</link>
+      <link>https://alicehsu.blog/en/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</link>
       <pubDate>Sun, 28 Sep 2025 21:21:01 -0500</pubDate>
-      <guid>https://alice-hsu-blog.github.io/en/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</guid>
+      <guid>https://alicehsu.blog/en/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</guid>
       <description>I joined Facebook in 2009 and have been using it for almost ten years now.</description>
     </item>
   </channel>

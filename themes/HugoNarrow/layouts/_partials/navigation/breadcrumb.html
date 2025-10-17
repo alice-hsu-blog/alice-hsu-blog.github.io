@@ -130,7 +130,7 @@
               <span class="max-w-[3rem] md:max-w-none truncate">{{ i18n "nav.portfolio" | default "Portfolio" }}</span>
             {{ else }}
             <span class="text-foreground flex items-center gap-0.5 md:gap-1 font-medium min-w-0">
-              {{ partial "features/icon.html" (dict "name" "file-text" "size" "sm" "ariaLabel" "") }}
+              <!-- {{ partial "features/icon.html" (dict "name" "file-text" "size" "sm" "ariaLabel" "") }} -->
               <span class="max-w-[8rem] md:max-w-[16rem] lg:max-w-none truncate">{{ .Title }}</span>
             </span>
             {{ end }}

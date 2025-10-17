@@ -1,4 +1,4 @@
-baseURL = "https://alice-hsu-blog.github.io/"
+baseURL = "https://alicehsu.blog/"
 title = "Alice Hsu's Blog"
 theme = ["HugoNarrow", "hugo-embed-pdf-shortcode"]
 enableInlineShortcodes = true

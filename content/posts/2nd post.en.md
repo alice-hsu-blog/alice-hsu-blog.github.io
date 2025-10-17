@@ -50,10 +50,8 @@ The writing of section B mainly aims to create a musical texture different from 
 {{< /masonry >}}
 
 **mm. 27–30**: This passage mirrors measures 9–12 from section A.
-{{< masonry columns=2 gutter=50 maxColumns=10 width=100 >}}
 ![](/images/Post/2/8.png)
 ![](/images/Post/2/7.png)
-{{< /masonry >}}
 
 To be honest, this part (measures 23–30) didn’t exist at first—section B originally began at measure 31. Later, I felt the piece needed more buildup before reaching the climax, so I added this transition. To make it more engaging, I deliberately varied the melodic contour and chord progression to create more contrast and dialogue. I ended up liking how it turned out.
 
