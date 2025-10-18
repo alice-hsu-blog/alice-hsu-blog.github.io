@@ -9,12 +9,12 @@
 <title>{{- if .IsHome -}}{{ site.Title }}{{- else if .Title -}}{{ .Title }} | {{ site.Title }}{{- else -}}{{ site.Title }}{{- end -}}</title>
 
 <script type="application/ld+json">
-    {
-      "@context" : "https://schema.org",
-      "@type" : "WebSite",
-      "name" : "Alice Hsu' Blog",
-      "url" : "https://alicehsu.blog/"
-    }
+{{ printf `{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Alice Hsu' Blog",
+  "url": "%s"
+}` site.BaseURL | safeJS }}
   </script>
 
 
@@ -66,12 +66,12 @@
 {{- end }}
 
 
-{{ with site.Params.favicon.svg }}
-  <link rel="icon" type="image/png" href="{{ . }}" sizes="24x24" />
-{{ else }}
-
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-{{ end }}
+{{- with site.Params.favicon.svg -}}
+  <link rel="icon" type="image/svg+xml" href="{{ . }}" sizes="24x24" />
+{{- end -}}
+{{- with site.Params.favicon.ico -}}
+  <link rel="icon" href="{{ . }}" sizes="24x24" />
+{{- end -}}
 
 
 <link rel="manifest" href="/site.webmanifest" />

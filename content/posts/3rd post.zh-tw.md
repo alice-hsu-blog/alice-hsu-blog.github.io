@@ -4,7 +4,7 @@ draft = true
 title = '📚免費學習樂理的線上資源'
 cover = '/images/Post3home.jpg'
 cover_on_post = false
-summary = ''
+summary = '我的網頁瀏覽器有一個名為「music」的書籤資料夾，放了我歷年來找到很棒、與音樂相關的資源。'
 featured_image = '/images/Post3home.jpg'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
@@ -20,7 +20,7 @@ categories = []
 
 ## 中文資源
 ### 1. 好和弦 NiceChord.com  
-中文的樂理資源本就不多，願意免費且公開提供樂理學習資源的，目前我除了 NiceChord.com 就找不到其他的了。NiceChord.com 由台灣鋼琴家官大為（Wiwi Kuan）所創立，他擅長將困難的樂理知識講解地清楚易懂！Wiwi 創立的 [YouTube](https://www.youtube.com/@nicechordwiwi/videos) 頻道也有許多豐富的內容，不過由於近年來他將重心移到自架的部落格和影音平台，我在這裡還是主推他的部落格了。
+中文的樂理資源本就不多，願意免費且公開提供樂理學習資源的，目前我除了 NiceChord.com 就找不到其他的了。NiceChord.com 由台灣鋼琴家官大為（Wiwi Kuan）所創立，他擅長將困難的樂理知識講解地清楚易懂！Wiwi 創立的 [YouTube](https://www.youtube.com/@nicechordwiwi/videos) 頻道也有許多豐富的內容，不過由於近年來他將重心移到自架的部落格和影音平台，我在這裡還是主推他的個人網頁了。
 
 **⭐ 亮點**
 1. 網站的樂理知識大多是現代流行音樂會運用的概念，你可以一次搞懂現代和弦代號，還能理解一些在爵士裡常出現的酷炫和弦怎麼使用。當然也有基礎的樂理知識，包含：搞懂音程名稱、理解大調和小調的原理......等等。
@@ -79,5 +79,5 @@ teoría是由任職波多黎各音樂學院 (Puerto Rico Conservatory of Music) 
 ## 小結
 以上這三個是我最常逛的樂理網站，偶爾會逛的還有： [musictheory.net](https://www.musictheory.net/lessons)、[Musicca](https://www.musicca.com/tw)、[Piano With Jonny](https://pianowithjonny.com/library/) 等等。
 
-以上這些網站有沒有幫到你呢？或是你有喜歡的樂理網站嗎？歡迎來信和我分享心得：
+這些網站有沒有幫到你呢？或是你有喜歡的樂理網站嗎？歡迎來信和我分享心得：
 alicemusicwonderland77@gmail.com 

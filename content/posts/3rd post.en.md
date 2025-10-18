@@ -15,18 +15,19 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
-I have a bookmark folder in my browser called “music”, where I’ve saved all kinds of wonderful music-related resources I’ve found over the years. I thought it was a bit of a waste to keep them just for myself, so I decided to share them here! I believe these resources will be helpful both for students who want to study music theory on their own and for teachers looking for quality teaching materials.
+I have a bookmark folder in my browser called “music”, where I’ve saved all kinds of wonderful music-related resources I’ve found over the years. I thought it was a bit of a waste to keep them just for myself, so I decided to share them here! I believe these resources will be helpful to both students who want to study music theory independently and to teachers seeking high-quality teaching materials.
+
 
 ## Chinese Resources
 ### 1. NiceChord.com
 
-There aren’t many Chinese-language resources on music theory, and among those that are free and publicly available, I’ve only found one that really stands out — NiceChord.com, founded by Taiwanese pianist Wiwi Kuan.
+There aren’t many Chinese-language resources on music theory, and among those that are free and publicly available, I’ve only found one that really stands out. That is, NiceChord.com, founded by Taiwanese pianist Wiwi Kuan.
 
-Wiwi has a gift for making complex theory concepts easy to understand. His [YouTube channel]((https://www.youtube.com/@nicechordwiwi/videos))
- is also full of great content, but since he’s recently shifted his focus to his self-hosted blog and video platform, I’ll highlight his website here.
+Wiwi has a gift for making complex theory concepts easy to understand. His [YouTube channel](https://www.youtube.com/@nicechordwiwi/videos)
+ is also full of great content, but since he’s recently shifted his focus to his self-hosted website and video platform, I’ll highlight his website here.
 
 **⭐ Highlights**
-1. Most of the theory covered focuses on modern and pop music concepts. You can learn how chord symbols work, understand how those colorful and extended chords are used in Jazz music, and review fundamental theory like intervals and modes.
+1. Most of the theory covered focuses on modern and pop music concepts. You can learn how chord symbols work, understand how those colorful and cool extended chords are used in Jazz music, and review fundamental theory like intervals and modes.
 2. You’ll also find articles on piano playing, improvisation, arranging, and mixing.
 3. Wiwi even developed a series of [tools]((https://nicechord.com/tools/)), such as chord finders, a customizable metronome, and a music term dictionary (in Chinese) that make learning even more effective.
 
@@ -73,7 +74,7 @@ teoría was created in 1997 by [José Rodríguez Alvira](https://jeanne-inc.com/
 
 **⭐ Highlights**
 1. The Tutorials section offers solid coverage of fundamental topics from rhythm and note values to harmony and chord progressions.
-2. There’s a wide range of customizable ear-training exercises. For example, you can select whether to include major, minor, augmented, or diminished triads.Or, just hit “Play, Don’t Ask” button if you want a surprise quiz. Perfect for students preparing for theory exams or simply testing their ears.
+2. There’s a wide range of customizable ear-training exercises. For example, you can select whether to include major, minor, augmented, or diminished triads. Or, just hit the “Play, Don’t Ask” button if you want a surprise quiz. Perfect for students preparing for theory exams or simply testing their ears.
 3. The Articles section features the author’s detailed analyses of classical works, including Chopin’s 24 Preludes, Bach’s Brandenburg Concertos, and Schumann’s Kinderszenen. It’s a great place to explore harmonic progressions and compositional thinking in classical music.
 
 📸 Website Screenshots
@@ -88,7 +89,7 @@ Website：[teoría](https://www.teoria.com/index.php)
 ## Final Thoughts
 
 These three are the music theory sites I visit most often.
-Other sites I occasionally check out include [musictheory.net](https://www.musictheory.net/lessons), [Musicca](https://www.musicca.com/tw), [Piano With Jonny](https://pianowithjonny.com/library/)......etc.
+Other sites I occasionally check out include [musictheory.net](https://www.musictheory.net/lessons), [Musicca](https://www.musicca.com/tw), [Piano With Jonny](https://pianowithjonny.com/library/), etc.
 
 Have any of these sites helped you? Or do you have a favorite theory website of your own?
 Feel free to reach out and share your thoughts with me. I’d love to hear your recommendations!

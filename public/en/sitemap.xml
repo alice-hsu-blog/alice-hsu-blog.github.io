@@ -2,106 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alicehsu.blog/en/</loc>
+    <loc>https://alicehsu.blog/</loc>
     <lastmod>2025-10-16T21:37:37-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
                 href="https://alicehsu.blog/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/en/"
-                />
   </url><url>
-    <loc>https://alicehsu.blog/en/posts/</loc>
+    <loc>https://alicehsu.blog/posts/</loc>
     <lastmod>2025-10-16T21:37:37-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="https://alicehsu.blog/posts/"
+                href="https://alicehsu.blog/zh-tw/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://alicehsu.blog/en/posts/"
+                href="https://alicehsu.blog/posts/"
                 />
   </url><url>
-    <loc>https://alicehsu.blog/en/posts/2025/10/the-story-behind-bell/</loc>
+    <loc>https://alicehsu.blog/posts/2025/10/the-story-behind-bell/</loc>
     <lastmod>2025-10-12T22:15:47-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="https://alicehsu.blog/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/"
+                href="https://alicehsu.blog/zh-tw/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://alicehsu.blog/en/posts/2025/10/the-story-behind-bell/"
+                href="https://alicehsu.blog/posts/2025/10/the-story-behind-bell/"
                 />
   </url><url>
-    <loc>https://alicehsu.blog/en/about/</loc>
+    <loc>https://alicehsu.blog/about/</loc>
     <lastmod>2025-10-05T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
                 href="https://alicehsu.blog/about/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/en/about/"
-                />
   </url><url>
-    <loc>https://alicehsu.blog/en/portfolio/</loc>
+    <loc>https://alicehsu.blog/portfolio/</loc>
     <lastmod>2025-10-05T09:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="https://alicehsu.blog/portfolio/"
+                href="https://alicehsu.blog/zh-tw/portfolio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://alicehsu.blog/en/portfolio/"
+                href="https://alicehsu.blog/portfolio/"
                 />
   </url><url>
-    <loc>https://alicehsu.blog/en/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</loc>
+    <loc>https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</loc>
     <lastmod>2025-09-28T21:21:01-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="https://alicehsu.blog/posts/2025/09/%E5%88%AA%E6%8E%89-fb-%E8%88%87-ig-%E7%9A%84%E6%88%91%E7%99%BC%E7%94%9F%E4%BA%86%E4%BB%80%E9%BA%BC%E8%AE%8A%E5%8C%96/"
+                href="https://alicehsu.blog/zh-tw/posts/2025/09/%E5%88%AA%E6%8E%89-fb-%E8%88%87-ig-%E7%9A%84%E6%88%91%E7%99%BC%E7%94%9F%E4%BA%86%E4%BB%80%E9%BA%BC%E8%AE%8A%E5%8C%96/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://alicehsu.blog/en/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/"
+                href="https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/"
                 />
   </url><url>
-    <loc>https://alicehsu.blog/en/categories/</loc>
+    <loc>https://alicehsu.blog/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
                 href="https://alicehsu.blog/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/en/categories/"
-                />
   </url><url>
-    <loc>https://alicehsu.blog/en/tags/</loc>
+    <loc>https://alicehsu.blog/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="https://alicehsu.blog/tags/"
+                href="https://alicehsu.blog/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://alicehsu.blog/en/tags/"
+                href="https://alicehsu.blog/tags/"
                 />
   </url>
 </urlset>

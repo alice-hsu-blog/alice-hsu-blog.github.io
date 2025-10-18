@@ -6,7 +6,7 @@
         <div class="flex flex-wrap items-center justify-center gap-1">
           {{ range site.Menus.footer }}
             {{/* 生成语言感知的URL */}}
-            {{ $menuURL := .URL }}
+            {{ $menuURL := .URL | relLangURL }}
             {{ if .PageRef }}
               {{ with site.GetPage .PageRef }}
                 {{ $menuURL = .RelPermalink }}

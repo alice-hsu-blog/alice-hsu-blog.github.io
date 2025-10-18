@@ -3,7 +3,7 @@ title = "Alice Hsu's Blog"
 theme = ["HugoNarrow", "hugo-embed-pdf-shortcode"]
 enableInlineShortcodes = true
 languageCode = "en-US"
-defaultContentLanguage = "zh-TW"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 timeZone = "America/Chicago"
 hasCJKLanguage = true
@@ -60,11 +60,12 @@ colorScheme = "sunset"
 
 
 [params.logo]
-image = "/images/home.png"
+image = "/favicon/favicon2.svg"
 link = "/"
 
 [params.favicon]
-svg = "/favicon.png"
+svg = "/favicon/favicon1.svg"
+ico = "/favicon/favicon1.ico"
 
 [params.author]
 name = "authors.author_name"
