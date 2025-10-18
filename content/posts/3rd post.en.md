@@ -1,8 +1,8 @@
 +++
-date = '2025-10-16T21:37:37-05:00'
-draft = true
+date = '2025-10-17T21:37:37-05:00'
+draft = false
 title = '📚Free Online Music Theory Resources '
-summary = ''
+summary = 'I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years.'
 cover = '/images/Post3home.jpg'
 cover_on_post = false
 categories = []
@@ -15,7 +15,7 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
-I have a bookmark folder in my browser called “music”, where I’ve saved all kinds of wonderful music-related resources I’ve found over the years. I thought it was a bit of a waste to keep them just for myself, so I decided to share them here! I believe these resources will be helpful to both students who want to study music theory independently and to teachers seeking high-quality teaching materials.
+I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years. I thought it was a bit of a waste to keep them just for myself, so I decided to share them here! I believe these resources will be helpful to both students who want to study music theory independently and to teachers seeking high-quality teaching materials.
 
 
 ## Chinese Resources
@@ -29,7 +29,7 @@ Wiwi has a gift for making complex theory concepts easy to understand. His [YouT
 **⭐ Highlights**
 1. Most of the theory covered focuses on modern and pop music concepts. You can learn how chord symbols work, understand how those colorful and cool extended chords are used in Jazz music, and review fundamental theory like intervals and modes.
 2. You’ll also find articles on piano playing, improvisation, arranging, and mixing.
-3. Wiwi even developed a series of [tools]((https://nicechord.com/tools/)), such as chord finders, a customizable metronome, and a music term dictionary (in Chinese) that make learning even more effective.
+3. Wiwi even developed a series of [tools](https://nicechord.com/tools/), such as chord finders, a customizable metronome, and a music term dictionary (in Chinese) that make learning even more effective.
 
 **📸 Website Screenshots**
 ![](/images/Post/3/1.png)
@@ -44,7 +44,7 @@ Website: [好和弦 NiceChord.com](https://nicechord.com/)
 To be honest, there are far more free English websites sharing music theory knowledge than Chinese ones. Here are some of my favorites.
 
 ### 1. Music Theory for the 21st-Century Classroom
-This one is my top recommendation among English resources! Professor [Robert Hutchinson]((https://www.pugetsound.edu/directory/robert-hutchinson))
+This one is my top recommendation among English resources! Professor [Robert Hutchinson](https://www.pugetsound.edu/directory/robert-hutchinson)
  from the University of Puget Sound has generously made his four-semester college-level music theory textbook available online for free, allowing you to systematically study theory step-by-step.
 
 **⭐ Highlights**
