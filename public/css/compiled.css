@@ -2820,8 +2820,8 @@
     --tw-prose-th-borders: var(--color-border);
     --tw-prose-td-borders: var(--color-border);
     font-family: ui-sans-serif, system-ui, sans-serif;
-    line-height: 1.7;
-    font-size: 1rem;
+    line-height: calc(var(--spacing) * 8);
+    font-size: 1.1rem;
     max-width: none;
   }
   .prose h1 {
@@ -2929,8 +2929,8 @@
     color: var(--tw-prose-headings);
   }
   .prose p {
-    --tw-leading: calc(var(--spacing) * 7);
-    line-height: calc(var(--spacing) * 7);
+    --tw-leading: calc(var(--spacing) * 8);
+    line-height: calc(var(--spacing) * 8);
     margin-top: 1.25rem;
     margin-bottom: 1.25rem;
     color: var(--tw-prose-body);
@@ -3601,7 +3601,7 @@
   }
   @media (max-width: 640px) {
     .prose {
-      font-size: 0.9rem;
+      font-size: 1rem;
     }
     .prose h1 {
       font-size: var(--text-3xl);
