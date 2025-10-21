@@ -50,7 +50,6 @@ Twitter_Image = "/images/avatar.jpg"
 Twitter_Site = "@Alicehsu77"
 Image = "/images/avatar.jpg"
 
-# images = [ "/images/og-default.avif" ]
 stickyHeader = true
 showThemeSwitch = false
 showDarkModeSwitch = true
