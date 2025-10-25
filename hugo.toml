@@ -59,12 +59,12 @@ colorScheme = "sunset"
 
 
 [params.logo]
-image = "/favicon/favicon2.svg"
+image = "/favicon2.svg"
 link = "/"
 
 [params.favicon]
-svg = "/favicon/favicon1.svg"
-ico = "/favicon/favicon1.ico"
+svg = "/favicon.svg"
+ico = "/favicon.ico"
 
 [params.author]
 name = "authors.author_name"
