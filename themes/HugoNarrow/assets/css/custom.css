@@ -48,3 +48,5 @@
   .prose a:not(.footnote-ref):not(.footnote-backref):hover::before {
     width: 0;
   }
+
+

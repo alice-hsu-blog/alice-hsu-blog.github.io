@@ -159,7 +159,7 @@
     bottom: -0.25em;
   }
   sup {
-    top: -0.5em;
+    top: 0.1em;
   }
   table {
     text-indent: 0;
@@ -2945,7 +2945,6 @@
     border-left-style: var(--tw-border-style);
     border-left-width: 4px;
     padding-left: calc(var(--spacing) * 6);
-    font-style: italic;
     border-left-color: var(--color-primary);
     background: var(--color-muted);
     @supports (color: color-mix(in lab, red, red)) {
@@ -2973,7 +2972,6 @@
   }
   .prose blockquote p {
     margin: 0;
-    font-style: italic;
     font-size: 1.1rem;
     color: var(--tw-prose-quotes);
   }
@@ -3030,9 +3028,7 @@
     transform: scale(1);
   }
   .prose .footnotes {
-    margin-top: 3rem;
     padding-top: 1.5rem;
-    border-top: 1px solid var(--color-border);
     font-size: 0.875rem;
   }
   .prose .footnotes ol {
