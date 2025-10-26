@@ -6,7 +6,7 @@ summary = 'Early in the morning, Samuel and I went to Devil’s Lake to see the 
 cover = '/images/Post/5/30.jpg'
 cover_on_post = false
 categories = []
-featured_image = ''
+featured_image = '/images/Post/5/30.jpg'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

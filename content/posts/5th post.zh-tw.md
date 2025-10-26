@@ -6,7 +6,7 @@ summary = '一早和我先生 Samuel 一起去 Devil’s Lake 賞楓過生日。
 cover = '/images/Post/5/30.jpg'
 cover_on_post = false
 categories = []
-featured_image = ''
+featured_image = '/images/Post/5/30.jpg'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
