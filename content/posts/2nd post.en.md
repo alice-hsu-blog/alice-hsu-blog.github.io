@@ -5,7 +5,6 @@ title = '🔔 The Story Behind Bell'
 cover = '/images/Post2home.png'
 cover_on_post = false
 summary = 'One day while improvising, I played the opening eight measures by chance and thought they sounded nice.'
-featured_image = '/images/Post2home.png'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 categories = []

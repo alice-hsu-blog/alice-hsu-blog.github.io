@@ -6,7 +6,6 @@ summary = ''
 cover = '/images/Post4home.JPG'
 cover_on_post = true
 categories = []
-featured_image = '/images/Post4home.JPG'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

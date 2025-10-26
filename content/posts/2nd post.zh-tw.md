@@ -5,7 +5,6 @@ title = '🔔 Bell 的創作歷程'
 cover = '/images/Post2home.png'
 cover_on_post = false
 summary = '有一天即興時忽然彈出前八小節，覺得不錯聽，就錄進了我的 Yamaha P525。'
-featured_image = '/images/Post2home.png'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 categories = []

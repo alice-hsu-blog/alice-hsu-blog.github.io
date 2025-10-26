@@ -5,7 +5,6 @@ title = 'What Happened When I Deleted My Facebook and Instagram App?'
 cover = '/images/Post1home.PNG'
 summary = 'I joined Facebook in 2009 and have been using it for almost ten years now.'
 cover_on_post = false
-featured_image = '/images/Post1home.PNG'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 categories = []

@@ -5,7 +5,6 @@ title = '刪掉 FB 與 IG 的我，發生了什麼變化?'
 cover = '/images/Post1home.PNG'
 cover_on_post = false
 summary = '從 2009 年加入 FB 至現在，我使用 FB 將近十年了。'
-featured_image = '/images/Post1home.PNG'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 categories = []

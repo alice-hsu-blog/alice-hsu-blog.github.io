@@ -6,7 +6,6 @@ summary = '最近在讀林文月先生（1933-2023）的《生活可以如此美
 cover = '/images/Post4home.JPG'
 cover_on_post = true
 categories = []
-featured_image = '/images/Post4home.JPG'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

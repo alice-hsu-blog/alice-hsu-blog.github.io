@@ -6,7 +6,6 @@ summary = 'I have a bookmark folder in my browser called “music,” where I’
 cover = '/images/Post3home.jpg'
 cover_on_post = false
 categories = []
-featured_image = '/images/Post3home.jpg'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
