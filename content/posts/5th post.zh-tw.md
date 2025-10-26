@@ -2,7 +2,7 @@
 date = '2025-10-25T23:47:21-05:00'
 draft = false
 title = '🍁 生日之旅'
-summary = ''
+summary = '一早和我先生 Samuel 一起去 Devil’s Lake 賞楓過生日。'
 cover = '/images/Post/5/30.jpg'
 cover_on_post = false
 categories = []

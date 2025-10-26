@@ -2,7 +2,7 @@
 date = '2025-10-25T23:47:21-05:00'
 draft = false
 title = '🍁 Birthday Trip to Devil’s Lake'
-summary = ''
+summary = 'Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays.'
 cover = '/images/Post/5/30.jpg'
 cover_on_post = false
 categories = []
