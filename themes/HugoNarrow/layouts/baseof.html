@@ -7,8 +7,8 @@
     <script>
       // 主题初始化脚本
       (function() {
-        localStorage.setItem("theme", 'light');
-        const theme = localStorage.getItem('theme') || 'system';
+        const theme = localStorage.getItem('theme') || 'light';
+        localStorage.setItem("theme", theme);
         const colorScheme = localStorage.getItem('colorScheme') || '{{ site.Params.colorScheme | default "shadcn" }}';
 
         // 设置颜色主题

@@ -243,8 +243,8 @@
     <script>
       
       (function() {
-        localStorage.setItem("theme", 'light');
-        const theme = localStorage.getItem('theme') || 'system';
+        const theme = localStorage.getItem('theme') || 'light';
+        localStorage.setItem("theme", theme);
         const colorScheme = localStorage.getItem('colorScheme') || 'sunset';
 
         
