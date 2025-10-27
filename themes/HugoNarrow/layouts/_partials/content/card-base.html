@@ -86,18 +86,28 @@
                 <span class="font-medium">{{ $page.ReadingTime }} {{ i18n "time.minute" | default "min" }}</span>
               </div>
             {{ end }}
+
+            <!-- 标签行 -->
+            {{ if isset $page.Params "categories" }}
+              <div class="flex flex-wrap items-center gap-1.5">
+                {{ range $tag := $page.Params.categories }}
+                  <span class="bg-primary/20 border-muted/30 flex items-center gap-1 rounded-md border px-2 py-1">
+                    <span class="font-medium">{{ $tag }}</span>
+                  </span>
+                {{ end }}
+              </div>
+            {{ end }}
+            {{ if isset $page.Params "tags" }}
+              <div class="flex flex-wrap items-center gap-1.5">
+                {{ range $tag := $page.Params.tags }}
+                  <span class="bg-primary/20 border-muted/30 flex items-center gap-1 rounded-md border px-2 py-1">
+                    <span class="font-medium">{{ $tag }}</span>
+                  </span>
+                {{ end }}
+              </div>
+            {{ end }}
           </div>
 
-          <!-- 标签行 -->
-          {{ if isset $page.Params "tags" }}
-            <div class="flex flex-wrap items-center gap-1.5 mt-2">
-              {{ range $tag := $page.Params.tags }}
-                <span class="bg-muted/50 border-muted/30 flex items-center gap-1 rounded-md border px-2 py-1">
-                  <span class="font-medium">{{ $tag }}</span>
-                </span>
-              {{ end }}
-            </div>
-          {{ end }}
         </div>
       </div>
     </div>
