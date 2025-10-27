@@ -85,6 +85,12 @@ taxonomy:
   no_terms: "暫無分類"
   no_terms_desc: ""
 
+# Taxonomy term pages
+term:
+  total_posts: "共 {{ .count }} 篇文章"
+  no_posts: "暫無文章"
+
+
 # Time related
 time:
   minute: "分鐘"

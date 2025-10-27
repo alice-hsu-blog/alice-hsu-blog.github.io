@@ -63,7 +63,7 @@ post:
   no_posts: "No posts yet"
   no_posts_desc: ""
   list_desc: ""
-  total_posts: "{{ .count }} posts total"
+  total_posts: "{{ .count }} post(s) total"
   author: "Author"
   words: "words"
   words_count: "Word count"
@@ -134,7 +134,7 @@ archives:
   posts_count: "posts"
   no_posts: "No posts yet"
   no_posts_desc: ""
-  total_posts: "{{ .count }} posts total"
+  total_posts: "{{ .count }} post(s) total"
   timeline: "Timeline view"
 
 # Taxonomy related
@@ -153,7 +153,7 @@ term:
   tag_desc: "All posts under tag \"{{ .tag }}\""
   category_desc: "All posts under category \"{{ .category }}\""
   desc: "All posts under \"{{ .term }}\""
-  total_posts: "{{ .count }} posts total"
+  total_posts: "{{ .count }} post(s) total"
   date_range: "Sorted by date"
   no_posts: "No posts yet"
   no_posts_tag: "No posts under this tag yet."

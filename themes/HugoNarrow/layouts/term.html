@@ -22,16 +22,6 @@
       <div class="prose prose-neutral dark:prose-invert mb-6 max-w-none">
         {{ .Content }}
       </div>
-    {{ else }}
-      <p class="text-muted-foreground mb-6">
-        {{ if eq .Data.Singular "tag" }}
-          {{ i18n "term.tag_desc" (dict "tag" .Title) | default (printf "" .Title) }}
-        {{ else if eq .Data.Singular "category" }}
-          {{ i18n "term.category_desc" (dict "category" .Title) | default (printf "" .Title) }}
-        {{ else }}
-          {{ i18n "term.desc" (dict "term" .Title) | default (printf "" .Title) }}
-        {{ end }}
-      </p>
     {{ end }}
 
 
@@ -42,10 +32,6 @@
         <span
           >{{ i18n "term.total_posts" (dict "count" (len .Pages)) | default (printf " %d pages" (len .Pages)) }}</span
         >
-      </div>
-      <div class="flex items-center gap-1">
-        {{ partial "features/icon.html" (dict "name" "calendar" "size" "sm" "ariaLabel" "") }}
-        <span>{{ i18n "term.date_range" | default "" }}</span>
       </div>
     </div>
   </header>

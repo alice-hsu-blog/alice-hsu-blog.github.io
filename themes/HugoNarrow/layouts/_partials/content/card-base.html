@@ -73,7 +73,7 @@
         <!-- 元信息 -->
         <div class="mt-auto text-sm text-muted-foreground">
           <!-- 时间信息行 -->
-          <div class="flex items-center gap-3">
+          <div class="flex items-center gap-3 mb-2">
             <div class="flex items-center gap-1.5">
               {{ partial "features/icon.html" (dict "name" "calendar" "size" "sm" "ariaLabel" (i18n "post.published_on")) }}
               <time datetime="{{ $page.Date.Format "2006-01-02" }}" class="font-medium">
@@ -86,28 +86,42 @@
                 <span class="font-medium">{{ $page.ReadingTime }} {{ i18n "time.minute" | default "min" }}</span>
               </div>
             {{ end }}
-
-            <!-- 标签行 -->
-            {{ if isset $page.Params "categories" }}
-              <div class="flex flex-wrap items-center gap-1.5">
-                {{ range $tag := $page.Params.categories }}
-                  <span class="bg-primary/20 border-muted/30 flex items-center gap-1 rounded-md border px-2 py-1">
-                    <span class="font-medium">{{ $tag }}</span>
-                  </span>
-                {{ end }}
-              </div>
-            {{ end }}
-            {{ if isset $page.Params "tags" }}
-              <div class="flex flex-wrap items-center gap-1.5">
-                {{ range $tag := $page.Params.tags }}
-                  <span class="bg-primary/20 border-muted/30 flex items-center gap-1 rounded-md border px-2 py-1">
-                    <span class="font-medium">{{ $tag }}</span>
-                  </span>
-                {{ end }}
-              </div>
-            {{ end }}
+            
           </div>
+          <!-- 标签行 -->
 
+          {{ if and (isset $page.Params "categories") (gt (len $page.Params.categories) 0) }}
+            <div class="flex items-center">
+              {{ partial "features/icon.html" (dict "name" "folder" "size" "sm" "ariaLabel" (i18n "post.categories")) }}
+              <div class="flex flex-wrap gap-2">
+                {{ range $tag := $page.Params.categories }}
+                  <a
+                    href="{{ "/categories/" | relLangURL }}{{ . | urlize }}/"
+                    class="bg-primary/10 text-primary hover:bg-primary/20 focus:ring-primary/20 inline-flex items-center rounded-full px-2 py-1 text-sm font-medium transition-all duration-200 ease-out hover:-translate-y-0.5 hover:scale-105 hover:shadow-md focus:ring-2 focus:outline-none">
+                    {{ $tag }}
+                  </a>
+                {{ end }}
+              </div>
+            </div>
+          {{ end }}
+
+
+          <!-- 标签 -->
+          {{ if and (isset $page.Params "tags") (gt (len $page.Params.tags) 0) }}
+            <div class="flex items-center">
+              {{ partial "features/icon.html" (dict "name" "tag" "size" "sm" "ariaLabel" (i18n "post.tags")) }}
+              <div class="flex flex-wrap gap-2">
+                {{ range $tag := $page.Params.tags }}
+                  <a
+                    href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/"
+                    class="bg-muted/50 text-muted-foreground hover:bg-primary/10 hover:text-primary focus:ring-primary/20 inline-flex items-center rounded px-2 py-1 text-sm transition-all duration-200 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none">
+                    #{{ $tag }}
+                  </a>
+                {{ end }}
+              </div>
+            </div>
+          {{ end }}
+           
         </div>
       </div>
     </div>

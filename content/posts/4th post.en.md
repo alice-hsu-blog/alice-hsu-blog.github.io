@@ -2,7 +2,7 @@
 date = '2025-10-24T21:50:24-05:00'
 draft = false
 title = '⛲ Source of Creation'
-summary = ''
+summary = 'Recently, I’ve been reading Life Can Be So Beautiful.'
 cover = '/images/Post4home.JPG'
 cover_on_post = true
 categories = ['Thoughts and Talks']
