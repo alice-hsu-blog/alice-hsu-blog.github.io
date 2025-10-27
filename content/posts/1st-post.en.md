@@ -7,7 +7,7 @@ summary = 'I joined Facebook in 2009 and have been using it for almost ten years
 cover_on_post = false
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
-categories = []
+categories = ['Life']
 [lightbox]
   enabled = true
 [justified_gallery]
@@ -15,7 +15,7 @@ categories = []
   lastRow = 'center'
   rowHeight = 400
 +++
-The following post was originally published on Medium on April 5, 2019. Six years later, I not only deleted the apps but also permanently deleted my Instagram account, and I often keep my Facebook account deactivated. Looking back now, I truly feel that my past self had taken an excellent first step.
+The following post was originally published on Medium on April 5, 2019. Six years later, I not only deleted the apps but also permanently deleted my Instagram account, and I often keep my Facebook account deactivated. I only reactivate it when I need to buy or sell something. Looking back now, I truly feel that my past self had taken an excellent first step.
 
 ---
 

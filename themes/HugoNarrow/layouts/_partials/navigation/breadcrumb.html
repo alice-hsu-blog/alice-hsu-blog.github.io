@@ -43,7 +43,7 @@
           <!-- 分类法页面 (标签/分类列表页或术语页) -->
           {{ if eq .Data.Singular "tag" }}
             <!-- 标签相关页面 -->
-            {{ if .IsNode }}
+            {{ if eq .Title "Tags" }}
               <!-- 标签列表页 (/tags/) -->
               <span class="text-foreground flex items-center gap-0.5 md:gap-1 font-medium flex-shrink-0">
                 {{ partial "features/icon.html" (dict "name" "tag" "size" "sm" "ariaLabel" "") }}
@@ -68,7 +68,7 @@
             {{ end }}
           {{ else if eq .Data.Singular "category" }}
             <!-- 分类相关页面 -->
-            {{ if .IsNode }}
+            {{ if eq .Title "Categories" }}
               <!-- 分类列表页 (/categories/) -->
               <span class="text-foreground flex items-center gap-0.5 md:gap-1 font-medium flex-shrink-0">
                 {{ partial "features/icon.html" (dict "name" "folder" "size" "sm" "ariaLabel" "") }}

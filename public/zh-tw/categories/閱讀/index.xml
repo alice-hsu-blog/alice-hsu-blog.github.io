@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>閱讀 on Alice Hsu&#39;s Blog</title>
+    <link>http://localhost:1313/zh-tw/categories/%E9%96%B1%E8%AE%80/</link>
+    <description>Recent content in 閱讀 on Alice Hsu&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Fri, 24 Oct 2025 21:50:24 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/categories/%E9%96%B1%E8%AE%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⛲ 創作的泉源</title>
+      <link>http://localhost:1313/zh-tw/posts/2025/10/%E5%89%B5%E4%BD%9C%E7%9A%84%E6%B3%89%E6%BA%90/</link>
+      <pubDate>Fri, 24 Oct 2025 21:50:24 -0500</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/2025/10/%E5%89%B5%E4%BD%9C%E7%9A%84%E6%B3%89%E6%BA%90/</guid>
+      <description>最近在讀林文月先生（1933-2023）的《生活可以如此美好》散文集</description>
+    </item>
+  </channel>
+</rss>

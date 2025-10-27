@@ -5,7 +5,7 @@ title = '🍁 生日之旅'
 summary = '一早和我先生 Samuel 一起去 Devil’s Lake 賞楓過生日。'
 cover = '/images/Post/5/30.jpg'
 cover_on_post = false
-categories = []
+categories = ['生活']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
@@ -21,7 +21,7 @@ og_type = 'article'
   maxRowsCount= 999999
   calculateItemsHeight= false
 +++
-一早和我先生 Samuel 一起去 Devil's Lake 賞楓過生日。Devil's Lake 是 Wisconsin 的州立公園，之前來的時候人沒那麼多，今天有好多遊客，大家都是來賞楓的，沒話說，實在太漂亮了。
+一早和 Samuel 一起去 Devil's Lake 賞楓過生日。Devil's Lake 是 Wisconsin 的州立公園，之前來的時候人沒那麼多，今天有好多遊客，大家都是來賞楓的，沒話說，實在太漂亮了。
 ## Devil's Lake
 ![](/images/Post/5/9.jpg)
 ![](/images/Post/5/10.jpg)
@@ -49,9 +49,9 @@ og_type = 'article'
 午餐在 Devil's Lake 附近的 Balanced Rock Winery 享用很厲害的 Signature Charcuterie Board 和 Wine flight。 拼盤配料豐富價格實惠，我們兩人點了最小的份量還是吃不完，打包後又是滿滿的一盒，不愧是起司州！Wine Flight 的話，我個人最喜歡最右邊的水果酒，酒有桃子的香甜味。
 
 {{< masonry columns=4 gutter=15 >}}
-![](/images/Post/5/21.jpg)
-![](/images/Post/5/22.jpg)
-![](/images/Post/5/23.jpg)
+![從左至右：Roustabout Red（紅酒）、Edelweiss（白酒）、Isabella（粉紅酒）、Perfectly Peach（水果酒）](/images/Post/5/21.jpg)
+![漂亮的粉紅酒 Isabella](/images/Post/5/22.jpg)
+![Charcuterie board（熟食冷肉盤）有很多有趣的食物，其中包含長得有點像筍子的 artichoke heart（朝鮮薊心）以及 dried apricot（乾杏）。](/images/Post/5/23.jpg)
 ![](/images/Post/5/24.jpg)
 ![](/images/Post/5/25.jpg)
 ![](/images/Post/5/26.jpg)

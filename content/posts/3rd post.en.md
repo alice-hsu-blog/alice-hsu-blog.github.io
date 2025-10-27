@@ -5,7 +5,7 @@ title = '📚Free Online Music Theory Resources '
 summary = 'I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years.'
 cover = '/images/Post3home.jpg'
 cover_on_post = false
-categories = []
+categories = ['Resources']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

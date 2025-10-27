@@ -7,7 +7,7 @@ cover_on_post = false
 summary = '從 2009 年加入 FB 至現在，我使用 FB 將近十年了。'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
-categories = []
+categories = ['生活']
 [lightbox]
   enabled = true
 [justified_gallery]
@@ -15,7 +15,7 @@ categories = []
   lastRow = 'center'
   rowHeight = 400
 +++
-以下這篇文章在 2019 年 4 月 5 日於 Medium  發表。六年後的我，不只刪除了app，也刪除了 Instagram 的帳號，並且常讓 Facebook 處於停用的狀態。現在回看，真覺得六年前的自己開了很好的頭。
+以下這篇文章在 2019 年 4 月 5 日於 Medium  發表。六年後的我，不只刪除了app，也刪除了 Instagram 的帳號，並且常讓 Facebook 處於停用的狀態，只有在還需用  Marketplace 的時候才會開啟帳號。現在回看，真覺得六年前的自己開了很好的頭。
 
 ---
 

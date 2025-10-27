@@ -59,7 +59,7 @@ colorScheme = "sunset"
 
 
 [params.logo]
-image = "/favicon2.svg"
+image = "/favicon.svg"
 link = "/"
 
 [params.favicon]

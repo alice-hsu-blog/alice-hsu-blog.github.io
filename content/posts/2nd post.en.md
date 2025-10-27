@@ -7,7 +7,7 @@ cover_on_post = false
 summary = 'One day while improvising, I played the opening eight measures by chance and thought they sounded nice.'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
-categories = []
+categories = ['Creations']
 
 [lightbox]
 enabled = true

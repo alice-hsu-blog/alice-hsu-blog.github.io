@@ -7,7 +7,7 @@ cover_on_post = false
 summary = '我的網頁瀏覽器有一個名為「music」的書籤資料夾，放了我歷年來找到很棒、與音樂相關的資源。'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
-categories = []
+categories = ['資源']
 
 [lightbox]
   enabled = true

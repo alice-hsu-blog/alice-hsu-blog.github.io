@@ -7,7 +7,7 @@ cover_on_post = false
 summary = '有一天即興時忽然彈出前八小節，覺得不錯聽，就錄進了我的 Yamaha P525。'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
-categories = []
+categories = ['創作']
 
 [lightbox]
   enabled = true
