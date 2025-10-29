@@ -2834,6 +2834,9 @@
     font-size: 1.1rem;
     max-width: none;
     text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+    overflow-wrap: break-word; /* 防止太長的單字超出邊界 */
   }
   .prose h1 {
     scroll-margin: calc(var(--spacing) * 20);
