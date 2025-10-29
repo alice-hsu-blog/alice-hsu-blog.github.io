@@ -14,6 +14,13 @@ enabled = true
 [justified_gallery]
 enabled = true
 lastRow = 'center'
+rowHeight= 200
+gutter = 30
+transitionDuration = '0.3s'
+resizeDebounce= 100
+rowHeightTolerance= 0.25
+maxRowsCount= 999999
+calculateItemsHeight= false
 +++
 > [!WARNING]
 > The complete piano score can be downloaded from my [Portfolio](/en/portfolio/), where you can also find my YouTube performance video!
@@ -37,8 +44,10 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 ![](/images/Post/2/2.png)
 {{< /masonry >}}
 
+{{< masonry columns=2 gutter=20 maxColumns=10 width=100 >}}
 ![](/images/Post/2/3.png)
 ![](/images/Post/2/4.png)
+{{< /masonry >}}
 
 ### Section B (mm. 23–54)
 The writing of section B mainly aims to create a musical texture different from section A. It is developed from the motive of section A, with variations in rhythm, melodic direction, and articulation.
@@ -49,8 +58,11 @@ The writing of section B mainly aims to create a musical texture different from 
 {{< /masonry >}}
 
 **mm. 27–30**: This passage mirrors measures 9–12 from section A.
+{{< masonry columns=2 gutter=20 maxColumns=10 width=100 >}}
 ![](/images/Post/2/8.png)
 ![](/images/Post/2/7.png)
+{{< /masonry >}}
+
 
 To be honest, this part (measures 23–30) didn’t exist at first—section B originally began at measure 31. Later, I felt the piece needed more buildup before reaching the climax, so I added this transition. To make it more engaging, I deliberately varied the melodic contour and chord progression to create more contrast and dialogue. I ended up liking how it turned out.
 

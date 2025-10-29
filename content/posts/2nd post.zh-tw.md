@@ -14,6 +14,13 @@ categories = ['創作']
 [justified_gallery]
   enabled = true
   lastRow = 'center'
+  rowHeight= 200
+  gutter = 30
+  transitionDuration = '0.3s'
+  resizeDebounce= 100
+  rowHeightTolerance= 0.25
+  maxRowsCount= 999999
+  calculateItemsHeight= false
 +++
 > [!WARNING]
 > 完整琴譜請至[作品集](/portfolio/)下載，也可在這裡找到我的 YouTube 演奏影片喔！
@@ -34,8 +41,10 @@ A 段的寫作，大多數是在鋼琴上即興而來。
 ![](/images/Post/2/2.png)
 {{< /masonry >}}
 
+{{< masonry columns=2 gutter=20 maxColumns=10 width=100 >}}
 ![](/images/Post/2/3.png)
 ![](/images/Post/2/4.png)
+{{< /masonry >}}
 
 ### B 段（23-54 小節）
 B 段的寫作，主要是想要寫一個不同於 A 段質地的音樂，所以運用了 A 段的動機，變換節奏、旋律方向和演奏方法而來的。
@@ -48,8 +57,10 @@ B 段的寫作，主要是想要寫一個不同於 A 段質地的音樂，所以
 
 
 **27-30 小節**：此段是模仿 A 段的 9-12 小節。
+{{< masonry columns=2 gutter=20 maxColumns=10 width=100 >}}
 ![](/images/Post/2/8.png)
 ![](/images/Post/2/7.png)
+{{< /masonry >}}
 
 
 老實說，一開始我沒寫 23-30 小節的樂段，B 段原本是從 31 小節開始的。後來覺得整個曲子太短了，覺得後方的高潮需要一些鋪陳才加上的。並且，為了讓曲子不無聊、多一些對話，我刻意變換音符走向與和弦進行。寫完之後，覺得這樣的效果還挺不錯的。

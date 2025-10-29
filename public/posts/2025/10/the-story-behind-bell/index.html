@@ -96,6 +96,34 @@
 
 
   
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
 
   
     
@@ -119,7 +147,7 @@
   window.HUGO_GALLERY_CONFIG = {
     justified_gallery:  true ,
     lightbox:  true ,
-    justified: "{\"lastrow\":\"center\"}",
+    justified: "{\"calculateitemsheight\":false,\"gutter\":30,\"lastrow\":\"center\",\"maxrowscount\":999999,\"resizedebounce\":100,\"rowheight\":200,\"rowheighttolerance\":0.25,\"transitionduration\":\"0.3s\"}",
     lightbox_options: "{}"
   };
 </script>
@@ -131,8 +159,8 @@
     
       <link
         rel="stylesheet"
-        href="/css/compiled.min.36697c0136f062629ce6727ac3c735feee845acbd0fbae2896d74c92aa984468.css"
-        integrity="sha256-Nml8ATbwYmKc5nJ6w8c1/u6EWsvQ&#43;64oltdMkqqYRGg="
+        href="/css/compiled.min.9e1c2b136aece0b9b1c26ceb4dcf68ec6ba0f8b80815276bc076f00284b1b7df.css"
+        integrity="sha256-nhwrE2rs4LmxwmzrTc9o7Gug&#43;LgIFSdrwHbwAoSxt98="
         crossorigin="anonymous" />
     
   
@@ -384,7 +412,7 @@
     })();
   </script>
 
-    <header class="sticky top-0 z-50 mx-auto max-w-4xl px-4 py-6">
+    <header class="sticky top-0 z-50 mx-auto max-w-3xl px-4 py-6">
   <div
     class="border-border bg-card/80 flex items-center rounded-xl border px-6 py-4 shadow-sm backdrop-blur-sm">
     
@@ -892,7 +920,7 @@
 </header>
 
 
-    <main class="mx-auto max-w-4xl px-4 py-6">
+    <main class="mx-auto max-w-3xl px-4 py-6">
       
   
   <nav
@@ -1409,43 +1437,6 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   }
 })();
 </script></p>
-<p>
-<figure class="image-figure not-prose my-8" 
-        data-lightbox-enabled="true"
-        data-gallery-type="auto">
-  <div class="image-container">
-    <img
-    src="/images/Post/2/3.png"
-    alt=""
-    
-    
-    loading="lazy"
-    decoding="async"
-    data-gallery-src="/images/Post/2/3.png"
-    data-gallery-alt=""
-    data-gallery-title="" /></div>
-
-  </figure>
-
-<figure class="image-figure not-prose my-8" 
-        data-lightbox-enabled="true"
-        data-gallery-type="auto">
-  <div class="image-container">
-    <img
-    src="/images/Post/2/4.png"
-    alt=""
-    
-    
-    loading="lazy"
-    decoding="async"
-    data-gallery-src="/images/Post/2/4.png"
-    data-gallery-alt=""
-    data-gallery-title="" /></div>
-
-  </figure></p>
-<h3 id="section-b-mm-2354">Section B (mm. 23–54)</h3>
-<p>The writing of section B mainly aims to create a musical texture different from section A. It is developed from the motive of section A, with variations in rhythm, melodic direction, and articulation.</p>
-<p><strong>mm. 23–26</strong>: Here, the main melody is transferred to the left hand—an inversion of the first two measures from section A. The right-hand line, meanwhile, augments the same material.
 
 <style>
   
@@ -1461,7 +1452,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 #masonry-f0318147433ee59e9e9c9568e7ea2f79-2 .masonry-item {
   display: inline-block;
   width: 100%;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   break-inside: avoid;
   box-sizing: border-box;
 }
@@ -1500,6 +1491,268 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 
 <div class="masonry-gallery" 
      id="masonry-f0318147433ee59e9e9c9568e7ea2f79-2"
+     data-columns="2"
+     data-gutter="20"
+     data-animate="true"
+     data-use-transform="true"
+     data-center="true"
+     data-max-columns="10"
+     data-lightbox="true">
+
+  <div class="masonry-container">
+    <div class="masonry-item"><a href="/images/Post/2/3.png" 
+             class="glightbox"
+             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-2">
+            
+            <img
+    src="/images/Post/2/3.png"
+    alt=""
+    
+    
+    loading="lazy"
+    decoding="async"
+    data-gallery-src="/images/Post/2/3.png"
+    data-gallery-alt=""
+    data-gallery-title="" /></a></div><div class="masonry-item"><a href="/images/Post/2/4.png" 
+             class="glightbox"
+             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-2">
+            
+            <img
+    src="/images/Post/2/4.png"
+    alt=""
+    
+    
+    loading="lazy"
+    decoding="async"
+    data-gallery-src="/images/Post/2/4.png"
+    data-gallery-alt=""
+    data-gallery-title="" /></a></div></div>
+</div>
+
+
+<script>
+(function() {
+  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-2';
+  const config = {
+    columns:  2 ,
+    gutter:  20 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: "true",
+    useTransform: "true",
+    center: "true"
+  };
+  
+  console.log('Initializing masonry gallery:', containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error('Masonry container not found:', containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector('.masonry-container');
+    if (!masonryContainer) {
+      console.error('Masonry inner container not found');
+      return;
+    }
+    
+    
+    if (typeof Macy === 'undefined') {
+      console.error('Macy.js not loaded');
+      return;
+    }
+    
+    console.log('Found container and Macy, initializing...');
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log('Macy initialized successfully for', containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll('img');
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() => {
+            if (macyInstance && macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log('Macy layout recalculated after all images loaded');
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img => {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener('load', onImageLoad);
+          img.addEventListener('error', onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error('Error initializing Macy:', error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== 'undefined') {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === 'string') {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error('Error parsing masonry GLightbox config:', e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || '90vw',
+            height: globalLightboxConfig.height || '90vh',
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || 'bottom',
+            onOpen: () => {
+              console.log('GLightbox opened for', containerId);
+            }
+          });
+          
+          console.log('GLightbox initialized successfully for', containerId, 'with global config');
+          
+        } catch (error) {
+          console.error('Error initializing GLightbox:', error);
+        }
+      } else {
+        console.error('GLightbox not loaded but lightbox is enabled');
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== 'undefined';
+      const lightboxReady = !config.lightbox || typeof GLightbox !== 'undefined';
+      
+      if (macyReady && lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts < maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error('Timeout waiting for libraries. Macy:', macyReady, 'GLightbox:', lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+</script>
+<h3 id="section-b-mm-2354">Section B (mm. 23–54)</h3>
+<p>The writing of section B mainly aims to create a musical texture different from section A. It is developed from the motive of section A, with variations in rhythm, melodic direction, and articulation.</p>
+<p><strong>mm. 23–26</strong>: Here, the main melody is transferred to the left hand—an inversion of the first two measures from section A. The right-hand line, meanwhile, augments the same material.
+
+<style>
+  
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 {
+  width: 100%;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 50px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .glightbox:hover,
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+</style>
+
+<div class="masonry-gallery" 
+     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-3"
      data-columns="1"
      data-gutter="50"
      data-animate="true"
@@ -1511,7 +1764,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   <div class="masonry-container">
     <div class="masonry-item"><a href="/images/Post/2/5.png" 
              class="glightbox"
-             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-2">
+             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-3">
             
             <img
     src="/images/Post/2/5.png"
@@ -1528,7 +1781,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 
 <script>
 (function() {
-  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-2';
+  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-3';
   const config = {
     columns:  1 ,
     gutter:  50 ,
@@ -1694,11 +1947,73 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 </script></p>
 <p><strong>mm. 27–30</strong>: This passage mirrors measures 9–12 from section A.
 
-<figure class="image-figure not-prose my-8" 
-        data-lightbox-enabled="true"
-        data-gallery-type="auto">
-  <div class="image-container">
-    <img
+<style>
+  
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 {
+  width: 100%;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 20px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .glightbox:hover,
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+</style>
+
+<div class="masonry-gallery" 
+     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-4"
+     data-columns="2"
+     data-gutter="20"
+     data-animate="true"
+     data-use-transform="true"
+     data-center="true"
+     data-max-columns="10"
+     data-lightbox="true">
+
+  <div class="masonry-container">
+    <div class="masonry-item"><a href="/images/Post/2/8.png" 
+             class="glightbox"
+             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-4">
+            
+            <img
     src="/images/Post/2/8.png"
     alt=""
     
@@ -1707,15 +2022,11 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
     decoding="async"
     data-gallery-src="/images/Post/2/8.png"
     data-gallery-alt=""
-    data-gallery-title="" /></div>
-
-  </figure>
-
-<figure class="image-figure not-prose my-8" 
-        data-lightbox-enabled="true"
-        data-gallery-type="auto">
-  <div class="image-container">
-    <img
+    data-gallery-title="" /></a></div><div class="masonry-item"><a href="/images/Post/2/7.png" 
+             class="glightbox"
+             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-4">
+            
+            <img
     src="/images/Post/2/7.png"
     alt=""
     
@@ -1724,24 +2035,191 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
     decoding="async"
     data-gallery-src="/images/Post/2/7.png"
     data-gallery-alt=""
-    data-gallery-title="" /></div>
+    data-gallery-title="" /></a></div></div>
+</div>
 
-  </figure></p>
+
+<script>
+(function() {
+  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-4';
+  const config = {
+    columns:  2 ,
+    gutter:  20 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: "true",
+    useTransform: "true",
+    center: "true"
+  };
+  
+  console.log('Initializing masonry gallery:', containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error('Masonry container not found:', containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector('.masonry-container');
+    if (!masonryContainer) {
+      console.error('Masonry inner container not found');
+      return;
+    }
+    
+    
+    if (typeof Macy === 'undefined') {
+      console.error('Macy.js not loaded');
+      return;
+    }
+    
+    console.log('Found container and Macy, initializing...');
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log('Macy initialized successfully for', containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll('img');
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() => {
+            if (macyInstance && macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log('Macy layout recalculated after all images loaded');
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img => {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener('load', onImageLoad);
+          img.addEventListener('error', onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error('Error initializing Macy:', error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== 'undefined') {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === 'string') {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error('Error parsing masonry GLightbox config:', e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || '90vw',
+            height: globalLightboxConfig.height || '90vh',
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || 'bottom',
+            onOpen: () => {
+              console.log('GLightbox opened for', containerId);
+            }
+          });
+          
+          console.log('GLightbox initialized successfully for', containerId, 'with global config');
+          
+        } catch (error) {
+          console.error('Error initializing GLightbox:', error);
+        }
+      } else {
+        console.error('GLightbox not loaded but lightbox is enabled');
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== 'undefined';
+      const lightboxReady = !config.lightbox || typeof GLightbox !== 'undefined';
+      
+      if (macyReady && lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts < maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error('Timeout waiting for libraries. Macy:', macyReady, 'GLightbox:', lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+</script></p>
 <p>To be honest, this part (measures 23–30) didn’t exist at first—section B originally began at measure 31. Later, I felt the piece needed more buildup before reaching the climax, so I added this transition. To make it more engaging, I deliberately varied the melodic contour and chord progression to create more contrast and dialogue. I ended up liking how it turned out.</p>
 <p><strong>mm. 39–42</strong>: This short passage connects the previous part to the coming climax.
 
 <style>
   
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 {
   width: 100%;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-container {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-container {
   width: 100%;
   position: relative;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-item {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-item {
   display: inline-block;
   width: 100%;
   margin-bottom: 50px;
@@ -1749,7 +2227,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   box-sizing: border-box;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-item img {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-item img {
   width: 100%;
   height: auto;
   display: block;
@@ -1757,7 +2235,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   border-radius: 0.5rem;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .glightbox {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .glightbox {
   display: block;
   text-decoration: none;
   overflow: hidden;
@@ -1765,24 +2243,24 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   border-radius: 0.5rem;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .glightbox:hover,
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .glightbox:focus {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .glightbox:hover,
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .glightbox:focus {
   text-decoration: none;
   outline: none;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-item:hover img {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-item:hover img {
   transform: scale(1.05);
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-3 .masonry-item {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-item {
   overflow: hidden;
   border-radius: 0.5rem;
 }
 </style>
 
 <div class="masonry-gallery" 
-     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-3"
+     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-5"
      data-columns="2"
      data-gutter="50"
      data-animate="true"
@@ -1794,7 +2272,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   <div class="masonry-container">
     <div class="masonry-item"><a href="/images/Post/2/9.png" 
              class="glightbox"
-             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-3">
+             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-5">
             
             <img
     src="/images/Post/2/9.png"
@@ -1811,7 +2289,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 
 <script>
 (function() {
-  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-3';
+  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-5';
   const config = {
     columns:  2 ,
     gutter:  50 ,
@@ -1979,16 +2457,16 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 
 <style>
   
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 {
   width: 100%;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-container {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-container {
   width: 100%;
   position: relative;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-item {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-item {
   display: inline-block;
   width: 100%;
   margin-bottom: 50px;
@@ -1996,7 +2474,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   box-sizing: border-box;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-item img {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-item img {
   width: 100%;
   height: auto;
   display: block;
@@ -2004,7 +2482,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   border-radius: 0.5rem;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .glightbox {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .glightbox {
   display: block;
   text-decoration: none;
   overflow: hidden;
@@ -2012,24 +2490,24 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   border-radius: 0.5rem;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .glightbox:hover,
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .glightbox:focus {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .glightbox:hover,
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .glightbox:focus {
   text-decoration: none;
   outline: none;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-item:hover img {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-item:hover img {
   transform: scale(1.05);
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-4 .masonry-item {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-item {
   overflow: hidden;
   border-radius: 0.5rem;
 }
 </style>
 
 <div class="masonry-gallery" 
-     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-4"
+     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-6"
      data-columns="2"
      data-gutter="50"
      data-animate="true"
@@ -2041,7 +2519,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   <div class="masonry-container">
     <div class="masonry-item"><a href="/images/Post/2/10.png" 
              class="glightbox"
-             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-4">
+             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-6">
             
             <img
     src="/images/Post/2/10.png"
@@ -2058,7 +2536,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 
 <script>
 (function() {
-  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-4';
+  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-6';
   const config = {
     columns:  2 ,
     gutter:  50 ,
@@ -2226,16 +2704,16 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 
 <style>
   
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-7 {
   width: 100%;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-container {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-7 .masonry-container {
   width: 100%;
   position: relative;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-item {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-7 .masonry-item {
   display: inline-block;
   width: 100%;
   margin-bottom: 50px;
@@ -2243,7 +2721,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   box-sizing: border-box;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-item img {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-7 .masonry-item img {
   width: 100%;
   height: auto;
   display: block;
@@ -2251,7 +2729,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   border-radius: 0.5rem;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .glightbox {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-7 .glightbox {
   display: block;
   text-decoration: none;
   overflow: hidden;
@@ -2259,24 +2737,24 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   border-radius: 0.5rem;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .glightbox:hover,
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .glightbox:focus {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-7 .glightbox:hover,
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-7 .glightbox:focus {
   text-decoration: none;
   outline: none;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-item:hover img {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-7 .masonry-item:hover img {
   transform: scale(1.05);
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-5 .masonry-item {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-7 .masonry-item {
   overflow: hidden;
   border-radius: 0.5rem;
 }
 </style>
 
 <div class="masonry-gallery" 
-     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-5"
+     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-7"
      data-columns="3"
      data-gutter="50"
      data-animate="true"
@@ -2288,7 +2766,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   <div class="masonry-container">
     <div class="masonry-item"><a href="/images/Post/2/11.png" 
              class="glightbox"
-             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-5">
+             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-7">
             
             <img
     src="/images/Post/2/11.png"
@@ -2305,7 +2783,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 
 <script>
 (function() {
-  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-5';
+  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-7';
   const config = {
     columns:  3 ,
     gutter:  50 ,
@@ -2476,16 +2954,16 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 
 <style>
   
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-8 {
   width: 100%;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-container {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-8 .masonry-container {
   width: 100%;
   position: relative;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-item {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-8 .masonry-item {
   display: inline-block;
   width: 100%;
   margin-bottom: 50px;
@@ -2493,7 +2971,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   box-sizing: border-box;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-item img {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-8 .masonry-item img {
   width: 100%;
   height: auto;
   display: block;
@@ -2501,7 +2979,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   border-radius: 0.5rem;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .glightbox {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-8 .glightbox {
   display: block;
   text-decoration: none;
   overflow: hidden;
@@ -2509,24 +2987,24 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   border-radius: 0.5rem;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .glightbox:hover,
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .glightbox:focus {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-8 .glightbox:hover,
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-8 .glightbox:focus {
   text-decoration: none;
   outline: none;
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-item:hover img {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-8 .masonry-item:hover img {
   transform: scale(1.05);
 }
 
-#masonry-f0318147433ee59e9e9c9568e7ea2f79-6 .masonry-item {
+#masonry-f0318147433ee59e9e9c9568e7ea2f79-8 .masonry-item {
   overflow: hidden;
   border-radius: 0.5rem;
 }
 </style>
 
 <div class="masonry-gallery" 
-     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-6"
+     id="masonry-f0318147433ee59e9e9c9568e7ea2f79-8"
      data-columns="2"
      data-gutter="50"
      data-animate="true"
@@ -2538,7 +3016,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
   <div class="masonry-container">
     <div class="masonry-item"><a href="/images/Post/2/12.png" 
              class="glightbox"
-             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-6">
+             data-gallery="masonry-f0318147433ee59e9e9c9568e7ea2f79-8">
             
             <img
     src="/images/Post/2/12.png"
@@ -2555,7 +3033,7 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
 
 <script>
 (function() {
-  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-6';
+  const containerId = 'masonry-f0318147433ee59e9e9c9568e7ea2f79-8';
   const config = {
     columns:  2 ,
     gutter:  50 ,
@@ -2924,7 +3402,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     </main>
 
-    <footer class="mx-auto max-w-4xl px-4 py-8">
+    <footer class="mx-auto max-w-3xl px-4 py-8">
   <div class="px-6 py-6">
     
     
