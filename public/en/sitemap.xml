@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alicehsu.blog/</loc>
-    <lastmod>2025-10-30T21:15:06-05:00</lastmod>
+    <lastmod>2025-10-31T01:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://alicehsu.blog/posts/</loc>
-    <lastmod>2025-10-30T21:15:06-05:00</lastmod>
+    <lastmod>2025-10-31T01:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
@@ -26,6 +26,35 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/"
+                />
+  </url><url>
+    <loc>https://alicehsu.blog/categories/</loc>
+    <lastmod>2025-10-30T21:15:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/categories/"
+                />
+  </url><url>
+    <loc>https://alicehsu.blog/categories/thoughts-and-talks/</loc>
+    <lastmod>2025-10-30T21:15:06-05:00</lastmod>
+  </url><url>
+    <loc>https://alicehsu.blog/posts/2025/10/why-do-we-create/</loc>
+    <lastmod>2025-10-30T21:15:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/posts/2025/10/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E5%89%B5%E4%BD%9C/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/posts/2025/10/why-do-we-create/"
                 />
   </url><url>
     <loc>https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/</loc>
@@ -39,19 +68,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/"
-                />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/</loc>
-    <lastmod>2025-10-25T23:47:21-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/categories/"
                 />
   </url><url>
     <loc>https://alicehsu.blog/categories/life/</loc>
@@ -69,9 +85,6 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/source-of-creation/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/thoughts-and-talks/</loc>
-    <lastmod>2025-10-24T21:50:24-05:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/posts/2025/10/free-online-music-theory-resources/</loc>
     <lastmod>2025-10-17T21:37:37-05:00</lastmod>
