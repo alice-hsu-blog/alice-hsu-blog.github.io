@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alicehsu.blog/</loc>
+    <lastmod>2025-10-30T21:15:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/"
+                />
+  </url><url>
+    <loc>https://alicehsu.blog/posts/</loc>
+    <lastmod>2025-10-30T21:15:06-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/posts/"
+                />
+  </url><url>
     <loc>https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/</loc>
     <lastmod>2025-10-25T23:47:21-05:00</lastmod>
     <xhtml:link
@@ -13,19 +39,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/"
-                />
-  </url><url>
-    <loc>https://alicehsu.blog/</loc>
-    <lastmod>2025-10-25T23:47:21-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/"
                 />
   </url><url>
     <loc>https://alicehsu.blog/categories/</loc>
@@ -43,19 +56,6 @@
   </url><url>
     <loc>https://alicehsu.blog/categories/life/</loc>
     <lastmod>2025-10-25T23:47:21-05:00</lastmod>
-  </url><url>
-    <loc>https://alicehsu.blog/posts/</loc>
-    <lastmod>2025-10-25T23:47:21-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/posts/"
-                />
   </url><url>
     <loc>https://alicehsu.blog/posts/2025/10/source-of-creation/</loc>
     <lastmod>2025-10-24T21:50:24-05:00</lastmod>
