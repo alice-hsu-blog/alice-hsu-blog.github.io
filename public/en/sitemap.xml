@@ -15,6 +15,22 @@
                 href="https://alicehsu.blog/"
                 />
   </url><url>
+    <loc>https://alicehsu.blog/categories/</loc>
+    <lastmod>2025-10-31T01:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/categories/"
+                />
+  </url><url>
+    <loc>https://alicehsu.blog/categories/life/</loc>
+    <lastmod>2025-10-31T01:00:00-05:00</lastmod>
+  </url><url>
     <loc>https://alicehsu.blog/posts/</loc>
     <lastmod>2025-10-31T01:00:00-05:00</lastmod>
     <xhtml:link
@@ -28,17 +44,17 @@
                 href="https://alicehsu.blog/posts/"
                 />
   </url><url>
-    <loc>https://alicehsu.blog/categories/</loc>
-    <lastmod>2025-10-30T21:15:06-05:00</lastmod>
+    <loc>https://alicehsu.blog/posts/2025/10/halloween-treat/</loc>
+    <lastmod>2025-10-31T01:00:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/categories/"
+                href="https://alicehsu.blog/zh-tw/posts/2025/10/%E8%90%AC%E8%81%96%E7%AF%80%E9%A4%85%E4%B9%BE/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://alicehsu.blog/categories/"
+                href="https://alicehsu.blog/posts/2025/10/halloween-treat/"
                 />
   </url><url>
     <loc>https://alicehsu.blog/categories/thoughts-and-talks/</loc>
@@ -69,9 +85,6 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/life/</loc>
-    <lastmod>2025-10-25T23:47:21-05:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/posts/2025/10/source-of-creation/</loc>
     <lastmod>2025-10-24T21:50:24-05:00</lastmod>
