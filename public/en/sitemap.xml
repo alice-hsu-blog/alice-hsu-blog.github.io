@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alicehsu.blog/</loc>
-    <lastmod>2025-10-31T20:38:10-05:00</lastmod>
+    <lastmod>2025-10-31T23:43:10-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
@@ -15,8 +15,34 @@
                 href="https://alicehsu.blog/"
                 />
   </url><url>
+    <loc>https://alicehsu.blog/categories/</loc>
+    <lastmod>2025-10-31T23:43:10-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/categories/"
+                />
+  </url><url>
+    <loc>https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</loc>
+    <lastmod>2025-10-31T23:43:10-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/"
+                />
+  </url><url>
     <loc>https://alicehsu.blog/posts/</loc>
-    <lastmod>2025-10-31T20:38:10-05:00</lastmod>
+    <lastmod>2025-10-31T23:43:10-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
@@ -28,18 +54,8 @@
                 href="https://alicehsu.blog/posts/"
                 />
   </url><url>
-    <loc>https://alicehsu.blog/categories/</loc>
-    <lastmod>2025-10-30T21:15:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/categories/"
-                />
+    <loc>https://alicehsu.blog/categories/recipe/</loc>
+    <lastmod>2025-10-31T23:43:10-05:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/categories/thoughts-and-talks/</loc>
     <lastmod>2025-10-30T21:15:06-05:00</lastmod>

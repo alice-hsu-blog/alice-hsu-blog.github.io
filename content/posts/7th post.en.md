@@ -1,6 +1,6 @@
 +++
-date = '2025-10-31T20:38:10-05:00'
-draft = true
+date = '2025-10-31T23:43:10-05:00'
+draft = false
 title = 'Japanese Oyakodon (Chicken and Egg Rice Bowl) + Tomato and Corn Soup'
 summary = 'Here is the delicious dinner.'
 cover = '/images/Post/7/1.jpg'
