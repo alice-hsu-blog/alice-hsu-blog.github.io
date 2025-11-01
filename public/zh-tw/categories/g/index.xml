@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G on Alice Hsu&#39;s Blog</title>
+    <link>http://localhost:1313/zh-tw/categories/g/</link>
+    <description>Recent content in G on Alice Hsu&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Fri, 31 Oct 2025 21:56:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh-tw/categories/g/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日式親子丼飯＋蕃茄玉米湯</title>
+      <link>http://localhost:1313/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</link>
+      <pubDate>Fri, 31 Oct 2025 21:56:12 -0500</pubDate>
+      <guid>http://localhost:1313/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</guid>
+      <description>&lt;p&gt;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;true&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;http://localhost:1313/images/Post/7/1.jpg&#34;&#xA;    alt=&#34;&#34;&#xA;    &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;http://localhost:1313/images/Post/7/1.jpg&#34;&#xA;    data-gallery-alt=&#34;&#34;&#xA;    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;/figure&gt;&#xA;&#xA;&lt;figure class=&#34;image-figure not-prose my-8&#34; &#xA;        data-lightbox-enabled=&#34;true&#34;&#xA;        data-gallery-type=&#34;auto&#34;&gt;&#xA;  &lt;div class=&#34;image-container&#34;&gt;&#xA;    &lt;img&#xA;    src=&#34;http://localhost:1313/images/Post/7/2.jpg&#34;&#xA;    alt=&#34;&#34;&#xA;    &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    data-gallery-src=&#34;http://localhost:1313/images/Post/7/2.jpg&#34;&#xA;    data-gallery-alt=&#34;&#34;&#xA;    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;&#xA;&#xA;  &lt;/figure&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
