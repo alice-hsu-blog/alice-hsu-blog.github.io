@@ -1,7 +1,7 @@
 ---
 title: "作品集"
 layout: "portfolio"
-date: 2025-10-05T09:00:00-05:00
+date: 2025-11-05T21:10:00-05:00
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
 ---
@@ -26,5 +26,6 @@ og_type: "article"
 ### 古典音樂錄音
 | 發表日期 | 作曲家                  | 曲名                 | 演奏連結 |
 |----------------|------------------------|-----------------------------|-------|
+| 11-05-2025   | 浦朗克  | 第七號即興曲     | [YouTube](https://www.youtube.com/watch?v=vE9QNQYPN2Q) / [SoundCloud](https://soundcloud.com/alice_h_hsu/francis-poulenc-improvisation-no-7-alice-hsu?si=6f79b944c30c4c28a313056290bb51f5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)   |
 | 10-02-2025   | 蕭斯塔科維契  |浪漫曲 (出自於《娃娃舞曲》)    | [YouTube](https://youtu.be/1hjkNCefsao) / [SoundCloud](https://on.soundcloud.com/V3xWwHzUic6wuWIH0a)   |
 | 09-26-2025   | 蕭斯塔科維契      | 抒情圓舞曲 (出自於《娃娃舞曲》)  | [YouTube](https://youtu.be/PujmjvfiSsE) / [SoundCloud](https://on.soundcloud.com/VXtjg68HfjPNB3lIGJ)   |

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alicehsu.blog/zh-tw/</loc>
-    <lastmod>2025-11-01T15:26:04-05:00</lastmod>
+    <lastmod>2025-11-05T21:10:00-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -13,6 +13,19 @@
                 rel="alternate"
                 hreflang="zh-TW"
                 href="https://alicehsu.blog/zh-tw/"
+                />
+  </url><url>
+    <loc>https://alicehsu.blog/zh-tw/portfolio/</loc>
+    <lastmod>2025-11-05T21:10:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/portfolio/"
                 />
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/categories/</loc>
@@ -146,19 +159,6 @@
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/categories/%E5%89%B5%E4%BD%9C/</loc>
     <lastmod>2025-10-12T22:15:47-05:00</lastmod>
-  </url><url>
-    <loc>https://alicehsu.blog/zh-tw/portfolio/</loc>
-    <lastmod>2025-10-05T09:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/portfolio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/portfolio/"
-                />
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/about/</loc>
     <lastmod>2025-10-05T09:00:00-05:00</lastmod>

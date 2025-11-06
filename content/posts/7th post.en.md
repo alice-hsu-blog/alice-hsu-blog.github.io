@@ -54,13 +54,13 @@ og_type = 'article'
 ## Tomato and Corn Soup
 ### Ingredients
 1. Japanese Dashi Stock
-Water: 1500 g
-Kombu (kelp): 1 piece
-Bonito flakes: 2 handfuls
-2. Tomatoes: 3
-3. Corn: 2 ears
-4. Miso paste: ½ tablespoon
-5. Salt: a pinch
+   - Water: 1500 g
+   - Kombu (kelp): 1 piece
+   - Bonito flakes: 2 handfuls
+1. Tomatoes: 3
+2. Corn: 2 ears
+3. Miso paste: ½ tablespoon
+4. Salt: a pinch
 
 ### Cooking Steps
 1. Soak the kombu for 20 minutes, then heat over low heat for 10 minutes.

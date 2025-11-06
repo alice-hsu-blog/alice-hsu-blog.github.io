@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
 layout: "portfolio"
-date: 2025-10-05T09:00:00-05:00
+date: 2025-11-05T21:10:00-05:00
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
 ---
@@ -28,5 +28,6 @@ og_type: "article"
 ### Classical Music
 | Published Date | Composer                  | Title                 | Performance |
 |----------------|------------------------|-----------------------------|-------|
+| 11-05-2025   | Francis Poulenc  | Improvisation No. 7     | [YouTube](https://www.youtube.com/watch?v=vE9QNQYPN2Q) / [SoundCloud](https://soundcloud.com/alice_h_hsu/francis-poulenc-improvisation-no-7-alice-hsu?si=6f79b944c30c4c28a313056290bb51f5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)   |
 | 10-02-2025   | Dmitri Shostakovich  | Romance (from Dances of the Dolls)    | [YouTube](https://youtu.be/1hjkNCefsao) / [SoundCloud](https://on.soundcloud.com/V3xWwHzUic6wuWIH0a)   |
 | 09-26-2025   | Dmitri Shostakovich      | Lyrical Waltz (from Dances of the Dolls)  | [YouTube](https://youtu.be/PujmjvfiSsE) / [SoundCloud](https://on.soundcloud.com/VXtjg68HfjPNB3lIGJ)   |
