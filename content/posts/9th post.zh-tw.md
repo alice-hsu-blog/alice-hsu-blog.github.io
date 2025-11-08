@@ -1,6 +1,6 @@
 +++
 date = '2025-11-07T22:30:43-06:00'
-draft = true
+draft = false
 title = '❄️ 烏托邦式智慧冰箱'
 summary = '真正符合人性的智慧冰箱會長什麼樣子?'
 cover = '/images/Post9home.jpg'
