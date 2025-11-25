@@ -66,30 +66,30 @@ og_type = 'article'
 最後，分享前一陣子自己的演奏，彈的就是最初相遇的即興曲第七首，希望有稍微接近浦朗克阿伯心目中的標準。
 {{< youtube vE9QNQYPN2Q >}}
 
-[^1]: Myriam Chimènes and Roger Nichols, “Poulenc, Francis,” Grove Music Online (Oxford University Press, 2001), 1–2.
-[^2]:  Nicolas Southon, “Introduction,” in Francis Poulenc: Articles and Interviews: Notes from the Heart, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2013), 9.
+[^1]: Myriam Chimènes and Roger Nichols, “Poulenc, Francis,” *Grove Music Online* (Oxford University Press, 2001), 1–2.
+[^2]:  Nicolas Southon, “Introduction,” in *Francis Poulenc: Articles and Interviews: Notes from the Heart*, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2014), 9.
 [^3]: Chimènes and Nichols, “Poulenc, Francis,” 2–3.
-[^4]: Francis Poulenc, “Poulenc at the Piano: Advice and Favourites,” in Francis Poulenc: Articles and Interviews: Notes from the Heart, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2013), 193.
+[^4]: Francis Poulenc, “Poulenc at the Piano: Advice and Favourites,” in *Francis Poulenc: Articles and Interviews: Notes from the Heart*, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2014), 193.
 [^5]: Poulenc, “Poulenc at the Piano: Advice and Favourites,” 194.
-[^6]: Francis Poulenc, “Musical Likes and Dislikes,” interview by Claude Rostand, in Francis Poulenc: Articles and Interviews: Notes from the Heart, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2013), 274.
+[^6]: Francis Poulenc, “Musical Likes and Dislikes,” interview by Claude Rostand, in *Francis Poulenc: Articles and Interviews: Notes from the Heart*, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2014), 274.
 [^7]: Poulenc, “Musical Likes and Dislikes,” 273.
 [^8]: Poulenc, “Musical Likes and Dislikes,” 273-274.
 [^9]: Poulenc, “Musical Likes and Dislikes,” 275.
 [^10]: Poulenc, “Musical Likes and Dislikes,” 276.
-[^11]: Francis Poulenc, “My Teachers and My Friends,” in Francis Poulenc: Articles and Interviews: Notes from the Heart, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Taylor & Francis, 2013), 96.
+[^11]: Francis Poulenc, “My Teachers and My Friends,” in *Francis Poulenc: Articles and Interviews: Notes from the Heart*, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2014), 96.
 
 -----------
 
 **Bibliography**
 
-Chimènes, Myriam, and Roger Nichols. “Poulenc, Francis.” *Grove Music Online*. Oxford University Press, 2001. https://doi.org/10.1093/gmo/9781561592630.article.22202
+Chimènes, Myriam and Roger Nichols. “Poulenc, Francis.” *Grove Music Online*. Oxford University Press, 2001. https://doi.org/10.1093/gmo/9781561592630.article.22202
 
 Editions de l'Oiseau-Lyre. “Francis Poulenc in a Suit, Sitting at a Piano with His Arms Outstretched.” 1946. University of Melbourne Archives. UMA-ITE-2016003500406. Accessed November 25, 2025. https://archives.library.unimelb.edu.au/nodes/view/431648
 
-Southon, Nicolas. “Introduction.” In *Francis Poulenc: Articles and Interviews: Notes from the Heart*, edited by Nicolas Southon, translated by Roger Nichols, 1–14. Burlington, VT: Ashgate Publishing, 2013.
+Poulenc, Francis. “Musical Likes and Dislikes.” Interview by Claude Rostand. In *Francis Poulenc: Articles and Interviews: Notes from the Heart*, edited by Nicolas Southon, translated by Roger Nichols, 273–278. Burlington, VT: Ashgate Publishing, 2014.
 
-Poulenc, Francis. “Musical Likes and Dislikes.” Interview by Claude Rostand. In *Francis Poulenc: Articles and Interviews: Notes from the Heart*, edited by Nicolas Southon, translated by Roger Nichols, 273–278. Burlington, VT: Ashgate Publishing, 2013.
+Poulenc, Francis. “My Teachers and My Friends.” In *Francis Poulenc: Articles and Interviews: Notes from the Heart*, edited by Nicolas Southon and translated by Roger Nichols, 97–103. Burlington, VT: Ashgate Publishing, 2014.
 
-Poulenc, Francis. “My Teachers and My Friends.” In *Francis Poulenc: Articles and Interviews: Notes from the Heart*, edited by Nicolas Southon and translated by Roger Nichols, 97–103. Burlington, VT: Taylor & Francis, 2013.
+Poulenc, Francis. “Poulenc at the Piano: Advice and Favourites.” In *Francis Poulenc: Articles and Interviews: Notes from the Heart*, edited by Nicolas Southon, translated by Roger Nichols, 191–195. Burlington, VT: Ashgate Publishing, 2014.
 
-Poulenc, Francis. “Poulenc at the Piano: Advice and Favourites.” In *Francis Poulenc: Articles and Interviews: Notes from the Heart*, edited by Nicolas Southon, translated by Roger Nichols, 191–195. Burlington, VT: Ashgate Publishing, 2013.
+Southon, Nicolas. “Introduction.” In *Francis Poulenc: Articles and Interviews: Notes from the Heart*, edited by Nicolas Southon, translated by Roger Nichols, 1–14. Burlington, VT: Ashgate Publishing, 2014.
