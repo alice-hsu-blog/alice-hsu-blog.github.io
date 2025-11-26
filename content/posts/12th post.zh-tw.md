@@ -1,6 +1,6 @@
 +++
-date = '2025-11-26T15:19:25-06:00'
-draft = true
+date = '2025-11-26T16:35:25-06:00'
+draft = false
 title = '包裹在哪裡？'
 summary = '訂單上顯示了一個 Fedex 的連結，讓人用來追蹤包裹。'
 cover = '/images/Post/12/1.png'
