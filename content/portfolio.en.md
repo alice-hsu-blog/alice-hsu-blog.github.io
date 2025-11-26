@@ -5,7 +5,7 @@ date: 2025-11-05T21:10:00-05:00
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
 ---
-
+Update: 11-26-2025
 ### Original Composition
 | Published Date | Title                  | Performance                 | Score |
 |----------------|------------------------|-----------------------------|-------|
@@ -19,6 +19,7 @@ og_type: "article"
 ### Piano Covers
 | Published Date | Original Creator                  | Title                 | Performance |
 |----------------|------------------------|-----------------------------|-------|
+| 11-25-2025   | Fujii Kaze         | Kirari         | [YouTube](https://www.youtube.com/watch?v=rIAMN3ULdX8)/ [SoundCloud](https://on.soundcloud.com/9POR1wvqA5q98GWS54)  |
 | 09-16-2025   | Five for Fighting         | 100 Years         | [YouTube](https://youtu.be/a4PW3n9SA8A)/ [SoundCloud](https://on.soundcloud.com/Yfra4kwTA3Di3PShph)  |
 | 08-09-2025   | Sodagreen        | Daylight (2 Piano Covers)        |  [YouTube](https://youtu.be/sNEwXQAIC3A )/ [SoundCloud](https://on.soundcloud.com/jZC8DiKaGManSVUAcP)   |
 | 06-23-2025   | Sodagreen  | Once in a Lifetime    | [YouTube](https://youtu.be/FShd3-4umQI) / [SoundCloud](https://on.soundcloud.com/Gx5LJzRlXnUtvylvmr)   |

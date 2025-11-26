@@ -5,6 +5,7 @@ date: 2025-11-05T21:10:00-05:00
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
 ---
+最後更新：11-26-2025
 
 ### 原創作品
 | 發表日期 | 曲名                 | 演奏連結                 | 琴譜 |
@@ -18,6 +19,7 @@ og_type: "article"
 ### 鋼琴改編
 | 發表日期 | 原創者                  | 曲名                 | 演奏連結 |
 |----------------|------------------------|-----------------------------|-------|
+| 11-25-2025   | Fujii Kaze         | Kirari         | [YouTube](https://www.youtube.com/watch?v=rIAMN3ULdX8)/ [SoundCloud](https://on.soundcloud.com/9POR1wvqA5q98GWS54)  |
 | 09-16-2025   | Five for Fighting         | 100 Years         | [YouTube](https://youtu.be/a4PW3n9SA8A)/ [SoundCloud](https://on.soundcloud.com/Yfra4kwTA3Di3PShph)  |
 | 08-09-2025   | 蘇打綠        | 日光 (雙鋼琴Cover)        |  [YouTube](https://youtu.be/sNEwXQAIC3A )/ [SoundCloud](https://on.soundcloud.com/jZC8DiKaGManSVUAcP)   |
 | 06-23-2025   | 蘇打綠  | 十年一刻    | [YouTube](https://youtu.be/FShd3-4umQI) / [SoundCloud](https://on.soundcloud.com/Gx5LJzRlXnUtvylvmr)   |
