@@ -55,3 +55,7 @@ So, let’s begin creating together. 🎨✨🎹🖌️✍🏻
 
 [^1]: Unlike English literature, which has poetry, novel, and play as three main genres, Chinese literature has poetry (*Shi* 詩), essay (*Sanwen* 散文), novel (*Xiaoshuo* 小說), and play (*Xiju* 戲劇) as four main genres.  
 [^2]: In Taiwan, many high schools have specialized classes for arts, music, or sports, where most students share the same focus.
+
+---
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*

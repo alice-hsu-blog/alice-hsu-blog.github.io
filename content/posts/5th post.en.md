@@ -73,3 +73,7 @@ What an amazing day!
 ![](/images/Post/5/37.jpg)
 ![](/images/Post/5/38.jpg)
 ![](/images/Post/5/39.jpg)
+
+---
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*

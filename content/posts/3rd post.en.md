@@ -4,7 +4,7 @@ draft = false
 title = '📚Free Online Music Theory Resources '
 summary = 'I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years.'
 cover = '/images/Post3home.jpg'
-cover_on_post = false
+cover_on_post = true
 categories = ['Resources']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
@@ -94,3 +94,7 @@ Have any of these sites helped you? Or do you have a favorite theory website of 
 Feel free to reach out and share your thoughts with me. I’d love to hear your recommendations!
 
 My email: alicemusicwonderland77@gmail.com 
+
+---
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*

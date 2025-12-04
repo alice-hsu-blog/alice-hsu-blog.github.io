@@ -57,3 +57,6 @@ If cooking alone, you can slightly adjust the order of steps:
 - When the pasta water boils, don’t add the pasta yet — first, whisk the cheese-egg mixture over the steam to combine it smoothly.
 - Then add the pasta and cook while stir-frying the other ingredients.
 
+---
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*

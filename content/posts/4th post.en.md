@@ -66,3 +66,7 @@ Although I never had the chance to meet  Professor Lin, I feel a sense of longin
 
 [^1]: The book title and the following quote are translated by me. It is originally written in Chinese and hasn't been translated into English yet.
 [^2]: Perhaps Lin simply didn’t think it necessary to mention this. She probably couldn’t have imagined how, decades later, people’s attention would plummet under the influence of smartphones. 
+
+---
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*

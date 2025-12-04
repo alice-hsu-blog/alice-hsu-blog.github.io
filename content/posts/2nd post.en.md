@@ -122,3 +122,7 @@ Before writing this post, I asked ChatGPT for topic suggestions related to compo
 So instead of following ChatGPT’s flowery advice, I decided to just write plainly—honestly recording my thoughts during the creative process.
 
 If you’ve performed this piece, I’d love to hear your version! And if you upload it anywhere, feel free to share this post with your listeners so they can get a glimpse into the story behind Bell.
+
+---
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*

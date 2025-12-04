@@ -68,3 +68,6 @@ og_type = 'article'
 3. Add the chopped tomatoes and corn, then simmer over medium-high heat for 20 minutes.
 4. Season with salt and miso paste. Serve hot and enjoy!
 
+---
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*

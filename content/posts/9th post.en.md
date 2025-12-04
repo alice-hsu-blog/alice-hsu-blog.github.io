@@ -4,7 +4,7 @@ draft = false
 title = '❄️ Utopian Smart Fridge'
 summary = 'What might a truly user-friendly smart fridge look like?'
 cover = '/images/Post9home.jpg'
-cover_on_post = false
+cover_on_post = true
 categories = ['Life']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
@@ -46,3 +46,7 @@ Honestly, we don’t need a fridge that tells us the weather or displays family 
 
 Wouldn’t you want a fridge like that?
 I know I would! Hopefully, some refrigerator company will buy my idea someday, haha!
+
+---
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*

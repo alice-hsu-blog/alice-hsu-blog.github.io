@@ -59,3 +59,7 @@ I originally thought I’d need sheer willpower to resist, but to my surprise, i
 This is a surprising change. I usually love sweet drinks, and recently I’ve been struggling to cut down. But today, something shifted. I became more sensitive to the taste of water. Drinks that I usually had, even mildly sweetened, suddenly felt cloying. I didn’t want them anymore. Instead, I began to enjoy the pure taste of water.
 
 At the end of the day, my feeling was this: Ah! Relief! Quitting Facebook and Instagram on the first day felt like the sky finally broke into a heavy downpour after being stuffy and humid for too long. My heart was leaping with joy. I could sense that the parts of me dulled or weakened by social media were slowly, step by step, coming back to life.
+
+---
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*
