@@ -3,7 +3,7 @@ date = '2025-10-31T23:43:12-05:00'
 draft = false
 title = '日式親子丼飯＋蕃茄玉米湯'
 summary = '好吃的晚餐在這裡。'
-cover = '/images/Post/7/1.jpg'
+cover = '/images/Post/7/1.JPG'
 cover_on_post = false
 categories = ['食譜']
 author_twitter_handle = '@Alicehsu77' 
@@ -16,8 +16,8 @@ og_type = 'article'
   rowHeight= 400
   gutter = 30
 +++
-![](/images/Post/7/1.jpg)
-![](/images/Post/7/2.jpg)
+![](/images/Post/7/1.JPG)
+![](/images/Post/7/2.JPG)
 
 ## 2 人份日式親子丼飯食譜
 ### 食材

@@ -2,7 +2,7 @@
 date = '2025-09-28T21:21:01-05:00'
 draft = false
 title = 'What Happened When I Deleted My Facebook and Instagram App?'
-cover = '/images/Post1-1home.jpg'
+cover = '/images/Post1home.jpg'
 summary = 'I joined Facebook in 2009 and have been using it for almost ten years now.'
 cover_on_post = false
 author_twitter_handle = '@Alicehsu77' 
