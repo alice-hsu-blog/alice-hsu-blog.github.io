@@ -1,7 +1,7 @@
 +++
 date = '2025-12-09T15:00:00-06:00'
 draft = false
-title = 'I Made a Piano Cover of Fujii Kaze’s Kirari.'
+title = 'I Made a Piano Cover of Fujii Kaze’s Kirari'
 summary = 'Writing piano covers feels a bit like translation. You take a song performed by a full band and rewrite it so it makes musical sense on the piano, which gives me a sense of accomplishment.'
 cover = '/images/Post13home.jpg'
 cover_on_post = false
@@ -72,3 +72,5 @@ There are spots where my recorded performance is not identical to what I wrote, 
 
 Here is the full version:
 {{< youtube rIAMN3ULdX8 >}}
+
+*NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.*
