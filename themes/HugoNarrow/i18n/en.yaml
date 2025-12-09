@@ -243,4 +243,7 @@ links: "Links"
 authors:
   author_name: "Alice Hsu"
   author_title: "Musician / Writer"
-  author_description: "A personal website that shares music, reading, and life. You can reach me at: alicemusicwonderland77@gmail.com"
+  author_description: |
+    A personal website that shares music, reading, and life. 
+    
+    You can reach me at: alicemusicwonderland77@gmail.com

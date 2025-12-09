@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alicehsu.blog/zh-tw/</loc>
-    <lastmod>2025-12-03T23:01:12-08:00</lastmod>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -15,8 +15,34 @@
                 href="https://alicehsu.blog/zh-tw/"
                 />
   </url><url>
+    <loc>https://alicehsu.blog/zh-tw/categories/</loc>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/categories/"
+                />
+  </url><url>
+    <loc>https://alicehsu.blog/zh-tw/categories/piano-cover/</loc>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/categories/piano-cover/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/categories/piano-cover/"
+                />
+  </url><url>
     <loc>https://alicehsu.blog/zh-tw/posts/</loc>
-    <lastmod>2025-12-03T23:01:12-08:00</lastmod>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -28,17 +54,17 @@
                 href="https://alicehsu.blog/zh-tw/posts/"
                 />
   </url><url>
-    <loc>https://alicehsu.blog/zh-tw/categories/</loc>
-    <lastmod>2025-11-26T16:35:25-06:00</lastmod>
+    <loc>https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/</loc>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://alicehsu.blog/categories/"
+                href="https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari./"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/categories/"
+                href="https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/"
                 />
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/posts/2025/11/%E5%8C%85%E8%A3%B9%E5%9C%A8%E5%93%AA%E8%A3%A1/</loc>

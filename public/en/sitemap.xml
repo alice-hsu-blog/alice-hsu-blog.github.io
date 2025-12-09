@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alicehsu.blog/</loc>
-    <lastmod>2025-12-03T22:50:15-08:00</lastmod>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://alicehsu.blog/categories/</loc>
-    <lastmod>2025-12-03T22:50:15-08:00</lastmod>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
@@ -28,11 +28,34 @@
                 href="https://alicehsu.blog/categories/"
                 />
   </url><url>
-    <loc>https://alicehsu.blog/categories/life/</loc>
-    <lastmod>2025-12-03T22:50:15-08:00</lastmod>
+    <loc>https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari./</loc>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari./"
+                />
+  </url><url>
+    <loc>https://alicehsu.blog/categories/piano-cover/</loc>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/categories/piano-cover/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/categories/piano-cover/"
+                />
   </url><url>
     <loc>https://alicehsu.blog/posts/</loc>
-    <lastmod>2025-12-03T22:50:15-08:00</lastmod>
+    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
@@ -43,6 +66,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/"
                 />
+  </url><url>
+    <loc>https://alicehsu.blog/categories/life/</loc>
+    <lastmod>2025-12-03T22:50:15-08:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/posts/2025/12/where-is-the-package/</loc>
     <lastmod>2025-12-03T22:50:15-08:00</lastmod>
