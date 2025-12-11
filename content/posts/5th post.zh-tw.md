@@ -5,7 +5,7 @@ title = '🍁 生日之旅'
 summary = '一早和 Samuel 一起去 Devil’s Lake 賞楓過生日。'
 cover = '/images/Post/5/30.jpg'
 cover_on_post = false
-categories = ['生活']
+categories = ['旅遊']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

@@ -112,13 +112,7 @@
         {{- if $lightboxEnabled -}}
           <a href="{{ $finalUrl }}" 
              class="glightbox"
-             data-gallery="{{ $uniqueId }}"
-             {{- if or $title $alt -}}
-             data-description="
-             {{- if $title -}}<h4>{{ $title }}</h4>{{- end -}}
-             {{- if and $alt (ne $alt $title) -}}<p>{{ $alt }}</p>{{- end -}}
-             "
-             {{- end -}}>
+             data-gallery="{{ $uniqueId }}">
             
             {{/* 使用image-processor生成图片HTML */}}
             {{- partial "content/image-processor.html" (dict
@@ -130,6 +124,9 @@
               "enablePlaceholder" false
               "outputType" "img"
             ) -}}
+            {{- if $alt -}}
+              <font style="color: var(--tw-prose-body); font-weight: normal;">{{ $alt }}</font>
+            {{- end -}}
           </a>
         {{- else -}}
           {{/* 不使用灯箱时直接生成图片 */}}
@@ -142,6 +139,9 @@
             "enablePlaceholder" false
             "outputType" "img"
           ) -}}
+          {{- if $alt -}}
+            <font style="color: var(--tw-prose-body); font-weight: normal;">{{ $alt }}</font>
+          {{- end -}}
         {{- end -}}
       </div>
     {{- end -}}

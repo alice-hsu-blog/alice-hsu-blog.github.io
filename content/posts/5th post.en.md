@@ -5,7 +5,7 @@ title = '🍁 Birthday Trip to Devil’s Lake'
 summary = 'Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays.'
 cover = '/images/Post/5/30.jpg'
 cover_on_post = false
-categories = ['Life']
+categories = ['Travel']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
