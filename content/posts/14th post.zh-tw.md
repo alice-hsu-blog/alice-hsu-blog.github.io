@@ -3,7 +3,7 @@ date = '2025-12-10T23:50:00-06:00'
 draft = false
 title = '西遊記（一）：聖地牙哥之景點篇'
 summary = '剛從加州聖地牙哥（San Diego）旅遊回來，今年 NeurIPS 國際研討會在聖地牙哥舉辦，Samuel 的論文投上了要去會議發表，我也托他的福有機會到聖地牙哥旅行啦！'
-cover = '/images/Post/14/0-2.jpg'
+cover = '/images/Post/14/0-2.JPG'
 cover_on_post = true
 categories = ['旅遊']
 author_twitter_handle = '@Alicehsu77' 
@@ -29,9 +29,9 @@ og_type = 'article'
 
 一下公車，好多人都在拍照，真的太漂亮了！
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![](/images/Post/14/0-0.jpg)
-![](/images/Post/14/0-1.jpg)
-![](/images/Post/14/0-2.jpg)
+![](/images/Post/14/0-0.JPG)
+![](/images/Post/14/0-1.JPG)
+![](/images/Post/14/0-2.JPG)
 {{< /masonry >}}
 
 
@@ -41,46 +41,46 @@ og_type = 'article'
 Balboa Park 是個佔地很廣的公園，公園裡有許多不同的景點和博物館可以逛，一天是走不完的，我們挑了幾個有興趣的地方走走。其中一個就是這個溫室植物園（Botanical Building），天花板是鏤空的，下雨天可以順便幫植物澆水。裡頭的植物滿可愛的，還有一個小噴泉，很適合拍照。
 
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![](/images/Post/14/1.jpg)
-![](/images/Post/14/2.jpg)
-![](/images/Post/14/3.jpg)
+![](/images/Post/14/1.JPG)
+![](/images/Post/14/2.JPG)
+![](/images/Post/14/3.JPG)
 {{< /masonry >}}
 
 
 ## 巴爾波亞公園：聖地牙哥藝術博物館
 第二個逛的是聖地牙哥藝術博物館（San Diego Museum of Art），Balboa Park 裡面許多的建築物就如這棟一樣，外牆有許多的雕刻。我們看了一些超現實主義（surrealism）、荷蘭畫、以及一位名為 Alfredo Castañeda 阿伯的畫。以下有許多不負責任之搞笑心得：
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![](/images/Post/14/4.jpg)
-![這是想表達前面的樹是煙斗的原料嗎？](/images/Post/14/5.jpg)
-![有旅客指出右上角有艘船，好酷！](/images/Post/14/6.jpg)
-![坐太久了靜脈曲張的小腿。](/images/Post/14/7.jpg)
-![「姊姊今天不在家，去拿那幅畫像來畫全家福！」](/images/Post/14/8.jpg)
-![Castañeda 阿伯的畫充滿了他的肖像，有好多我都覺得滿 ㄎ一ㄤ 滿有趣的（雖然人家想表達的是人有許多不同的身份認同）。](/images/Post/14/9.jpg)
-![這種面無表情一堆臉的畫作出現在不只這幅畫裡，場館有好多其他類似的。](/images/Post/14/10.jpg)
-![「你們看，這裡有洞耶！」](/images/Post/14/11.jpg)
+![](/images/Post/14/4.JPG)
+![這是想表達前面的樹是煙斗的原料嗎？](/images/Post/14/5.JPG)
+![有旅客指出右上角有艘船，好酷！](/images/Post/14/6.JPG)
+![坐太久了靜脈曲張的小腿。](/images/Post/14/7.JPG)
+![「姊姊今天不在家，去拿那幅畫像來畫全家福！」](/images/Post/14/8.JPG)
+![Castañeda 阿伯的畫充滿了他的肖像，有好多我都覺得滿 ㄎ一ㄤ 滿有趣的（雖然人家想表達的是人有許多不同的身份認同）。](/images/Post/14/9.JPG)
+![這種面無表情一堆臉的畫作出現在不只這幅畫裡，場館有好多其他類似的。](/images/Post/14/10.JPG)
+![「你們看，這裡有洞耶！」](/images/Post/14/11.JPG)
 {{< /masonry >}}
 
 
 ## 聖地牙哥海事博物館
 海事博物館（Maritime Museum of San Diego）是我們覺得整體 CP 值最高的地方，每個人票價 28 美元，就能逛 9 艘船。它還有許多加購（出海巡航或是上海盜船等等）我們沒買，畢竟一般的入場票就足夠我們逛三個多小時了！這些船都停在 San Diego Bay，有些還能從一艘船走到另一艘。
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![](/images/Post/14/13.jpg)
-![](/images/Post/14/14.jpg)
-![這是 USS Dolphin 潛水艇的入口，可以走下去喔！](/images/Post/14/16.jpg)
-![樓梯很陡，需要面朝外向下走。](/images/Post/14/15.jpg)
-![可以看到聲納室。](/images/Post/14/17.jpg)
-![能夠操作潛望鏡看到海面上的景象。](/images/Post/14/18.jpg)
-![從潛望鏡看到的景色，超酷！（努力對焦許久的成果）](/images/Post/14/19.jpg)
-![](/images/Post/14/20.jpg)
-![](/images/Post/14/21.jpg)
-![PCF 816 Swift Boat 船上還有發放頭盔和背心，體驗當海軍的感覺（不知道為什麼耳邊總響起「你這個爛砲兵～～～！」）有一個看起來疑似是船長本人的爺爺在和其他遊客聊天。](/images/Post/14/22.jpg)
-![還有看起來很像是貴族會搭乘的船。](/images/Post/14/23.jpg)
-![裡頭擺了很多看起來名貴的器皿可以假裝喝下午茶。](/images/Post/14/24.jpg)
-![我們逛其他船的時候碰巧遇到海盜船出航。](/images/Post/14/25.jpg)
-![結果它們就開始對戰啦！彼此發射砲彈（當然是發射到水裡），體驗感滿分！](/images/Post/14/26.jpg)
-![](/images/Post/14/27.jpg)
-![Star of India 裡的船長室有高級的床。這艘船曾經載了不少移民，船上有一筆有趣 / 淒慘的資料是：1879 年，這艘船從倫敦航行前往紐西蘭，載了不少想移民的人，有個叫作 Stead Ellis 的人記錄：旅途末尾，食物短缺，許多乘客只能吃老鼠派（怕），我受不了飢餓偷了馬鈴薯。](/images/Post/14/28.jpg)
-![](/images/Post/14/29.jpg)
+![](/images/Post/14/13.JPG)
+![](/images/Post/14/14.JPG)
+![這是 USS Dolphin 潛水艇的入口，可以走下去喔！](/images/Post/14/16.JPG)
+![樓梯很陡，需要面朝外向下走。](/images/Post/14/15.JPG)
+![可以看到聲納室。](/images/Post/14/17.JPG)
+![能夠操作潛望鏡看到海面上的景象。](/images/Post/14/18.JPG)
+![從潛望鏡看到的景色，超酷！（努力對焦許久的成果）](/images/Post/14/19.JPG)
+![](/images/Post/14/20.JPG)
+![](/images/Post/14/21.JPG)
+![PCF 816 Swift Boat 船上還有發放頭盔和背心，體驗當海軍的感覺（不知道為什麼耳邊總響起「你這個爛砲兵～～～！」）有一個看起來疑似是船長本人的爺爺在和其他遊客聊天。](/images/Post/14/22.JPG)
+![還有看起來很像是貴族會搭乘的船。](/images/Post/14/23.JPG)
+![裡頭擺了很多看起來名貴的器皿可以假裝喝下午茶。](/images/Post/14/24.JPG)
+![我們逛其他船的時候碰巧遇到海盜船出航。](/images/Post/14/25.JPG)
+![結果它們就開始對戰啦！彼此發射砲彈（當然是發射到水裡），體驗感滿分！](/images/Post/14/26.JPG)
+![](/images/Post/14/27.JPG)
+![Star of India 裡的船長室有高級的床。這艘船曾經載了不少移民，船上有一筆有趣 / 淒慘的資料是：1879 年，這艘船從倫敦航行前往紐西蘭，載了不少想移民的人，有個叫作 Stead Ellis 的人記錄：旅途末尾，食物短缺，許多乘客只能吃老鼠派（怕），我受不了飢餓偷了馬鈴薯。](/images/Post/14/28.JPG)
+![](/images/Post/14/29.JPG)
 {{< /masonry >}}
 
 整體而言體驗很棒，每艘船上有滿多解說牌，自己逛我覺得不成問題，如果來聖地牙哥玩，非常推薦到這裡走走。
@@ -88,16 +88,16 @@ Balboa Park 是個佔地很廣的公園，公園裡有許多不同的景點和�
 ## 鮪魚港公園+海港村
 去鮪魚港公園（Tuna Harbor Park）主要是看這座勝利之吻（Unconditional Surrender）的雕像，人非常多，不只年輕的情侶，也有上了年紀的夫妻和母子在前面拍照。這座雕像的八卦滿多的，先按下不表。至於海港村（Seaport Village）有許多紀念品店，有些店賣滿潮的衣帽，朋友在這裡買了滿好看的 T-shirt，我本來看到一個鴨舌帽滿心動的，後來發現它只適合夏天的自己，就算啦。
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![](/images/Post/14/32.jpg)
-![](/images/Post/14/33.jpg)
+![](/images/Post/14/32.JPG)
+![](/images/Post/14/33.JPG)
 {{< /masonry >}}
 
 ## 日落懸崖
 
 日落懸崖（Sunset Cliffs Natural Park）是這次旅遊的另一個高潮。那天太陽大概四點三十幾分下山，我們一路趕著追夕陽，那天的天邊有一些雲，快到的時候，在車上看見夕陽落入雲底，真的很美。
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![](/images/Post/14/42.jpg)
-![](/images/Post/14/43.jpg)
+![](/images/Post/14/42.JPG)
+![](/images/Post/14/43.JPG)
 ![](/images/Post/14/44.jpg)
 ![](/images/Post/14/45.jpg)
 ![](/images/Post/14/46.jpg)
