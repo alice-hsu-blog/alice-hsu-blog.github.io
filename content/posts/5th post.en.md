@@ -50,10 +50,10 @@ Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliag
 ## Lunch
 For lunch, we went to Balanced Rock Winery near Devil’s Lake and enjoyed their amazing Signature Charcuterie Board and Wine Flight. The board was generous and reasonably priced. We ordered the smallest size, yet still couldn’t finish it. After packing the leftovers, it was practically another full box! No wonder Wisconsin is called the state of cheese. As for the wine flight, my favorite was the fruit wine on the far right. It had a lovely, peachy sweetness.
 
-{{< masonry columns=4 gutter=15 >}}
-![](/images/Post/5/21.jpg)
-![](/images/Post/5/22.jpg)
-![](/images/Post/5/23.jpg)
+{{< masonry columns=4 gutter=20 >}}
+![From left to right: Roustabout Red (red wine), Edelweiss (white wine), Isabella (rosé), and Perfectly Peach (fruit wine).](/images/Post/5/21.jpg)
+![The lovely rosé Isabella.](/images/Post/5/22.jpg)
+![The charcuterie board came with many interesting items. It included artichoke hearts, which look a little like small bamboo shoots, as well as dried apricots.](/images/Post/5/23.jpg)
 ![](/images/Post/5/24.jpg)
 ![](/images/Post/5/25.jpg)
 ![](/images/Post/5/26.jpg)

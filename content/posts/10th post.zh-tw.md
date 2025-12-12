@@ -48,17 +48,11 @@ Cateen 走進舞台，沒等掌聲完全停止就開始彈奏巴赫第二冊平�
 
 想要去練琴了！
 
-{{< masonry columns=2 gutter=10 width=100 >}}
+{{< masonry columns=1 gutter=20 width=60 >}}
 ![](/images/Post/10/5.jpg)
 ![](/images/Post/10/1.jpg)
-{{< /masonry>}}
-
-{{< masonry columns=2 gutter=10 width=100 >}}
-![](/images/Post/10/3.jpg)
 ![](/images/Post/10/2.jpg)
-{{< /masonry>}}
-
-{{< masonry columns=2 gutter=10 width=100 >}}
+![](/images/Post/10/3.jpg)
 ![](/images/Post/10/4.jpg)
 ![](/images/Post/10/6.jpg)
 {{< /masonry>}}

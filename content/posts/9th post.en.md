@@ -5,7 +5,7 @@ title = '❄️ Utopian Smart Fridge'
 summary = 'What might a truly user-friendly smart fridge look like?'
 cover = '/images/Post9home.jpg'
 cover_on_post = true
-categories = ['Life']
+categories = ['Thoughts and Talks']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

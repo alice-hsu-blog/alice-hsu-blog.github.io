@@ -5,7 +5,7 @@ title = '包裹在哪裡？'
 summary = '訂單上顯示了一個 Fedex 的連結，讓人用來追蹤包裹。'
 cover = '/images/Post12home.jpg'
 cover_on_post = true
-categories = ['生活']
+categories = ['隨想雜談']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

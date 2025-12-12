@@ -1,2 +1,4 @@
 github.com/hugomods/kroki v0.2.1 h1:cnmmP+PGgUk6mLJ0z3mmApIGiNOEKYgKjcPrCIzLlCA=
 github.com/hugomods/kroki v0.2.1/go.mod h1:1ITYc/pGsNaxX5hwTqlM5BFeO1kLPvZ4L2f6Y2B/Ypg=
+github.com/hugomods/video-js v0.3.0 h1:SzdEiU2bXvYkjBiy415IoXL2ppmYLIUxPqez1ejuTs8=
+github.com/hugomods/video-js v0.3.0/go.mod h1:uNF7SDARVaQwpirTpZbKZxqvuKTalYsg2mHPDW5n2vU=

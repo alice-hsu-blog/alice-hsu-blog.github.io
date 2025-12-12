@@ -7,7 +7,7 @@ summary = 'I joined Facebook in 2009 and have been using it for almost ten years
 cover_on_post = false
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
-categories = ['Life']
+categories = ['Thoughts and Talks']
 [lightbox]
   enabled = true
 [justified_gallery]

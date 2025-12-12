@@ -48,7 +48,7 @@ og_type = 'article'
 ## 午餐
 午餐在 Devil's Lake 附近的 Balanced Rock Winery 享用很厲害的 Signature Charcuterie Board 和 Wine flight。 拼盤配料豐富價格實惠，我們兩人點了最小的份量還是吃不完，打包後又是滿滿的一盒，不愧是起司州！Wine Flight 的話，我個人最喜歡最右邊的水果酒，酒有桃子的香甜味。
 
-{{< masonry columns=4 gutter=15 >}}
+{{< masonry columns=2 gutter=20 >}}
 ![從左至右：Roustabout Red（紅酒）、Edelweiss（白酒）、Isabella（粉紅酒）、Perfectly Peach（水果酒）](/images/Post/5/21.jpg)
 ![漂亮的粉紅酒 Isabella](/images/Post/5/22.jpg)
 ![Charcuterie board（熟食冷肉盤）有很多有趣的食物，其中包含長得有點像筍子的 artichoke heart（朝鮮薊心）以及 dried apricot（乾杏）。](/images/Post/5/23.jpg)

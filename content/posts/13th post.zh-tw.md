@@ -5,7 +5,7 @@ title = '我寫了藤井風 Kirari 的 Piano Cover'
 summary = '寫 Piano Cover 可能有點像翻譯吧，把一首由樂團演奏的曲子「翻譯」成由鋼琴演奏的曲子，挺有成就感的。'
 cover = '/images/Post13home.jpg'
 cover_on_post = false
-categories = ['Piano Cover']
+categories = ['音樂']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

@@ -1,7 +1,7 @@
 +++
 date = '2025-12-03T22:50:05-08:00'
 draft = false
-title = "Cateen's Piano Recital"
+title = "Hayato Sumino’s (Cateen's) Piano Recital"
 summary = "Yesterday afternoon, I went to Chicago to hear Hayato Sumino's piano recital."
 cover = '/images/Post/10/3.jpg'
 cover_on_post = true
@@ -49,17 +49,11 @@ It has been a long time since I last heard a concert that moved me like this. Mo
 I just want to rush to my piano and practice.
 
 
-{{< masonry columns=2 gutter=10 width=100 >}}
+{{< masonry columns=1 gutter=20 width=60 >}}
 ![](/images/Post/10/5.jpg)
 ![](/images/Post/10/1.jpg)
-{{< /masonry>}}
-
-{{< masonry columns=2 gutter=10 width=100 >}}
-![](/images/Post/10/3.jpg)
 ![](/images/Post/10/2.jpg)
-{{< /masonry>}}
-
-{{< masonry columns=2 gutter=10 width=100 >}}
+![](/images/Post/10/3.jpg)
 ![](/images/Post/10/4.jpg)
 ![](/images/Post/10/6.jpg)
 {{< /masonry>}}

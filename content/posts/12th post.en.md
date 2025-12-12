@@ -5,7 +5,7 @@ title = 'Where is the Package?'
 summary = 'The page showed a FedEx tracking link so I could check where the package was.'
 cover = '/images/Post12home.jpg'
 cover_on_post = true
-categories = ['Life']
+categories = ['Thoughts and Talks']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

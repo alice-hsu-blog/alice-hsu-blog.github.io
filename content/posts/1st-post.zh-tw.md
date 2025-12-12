@@ -7,7 +7,7 @@ cover_on_post = false
 summary = '從 2009 年加入 FB 至現在，我使用 FB 將近十年了。'
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
-categories = ['生活']
+categories = ['隨想雜談']
 [lightbox]
   enabled = true
 [justified_gallery]

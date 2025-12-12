@@ -5,7 +5,7 @@ title = '❄️ 烏托邦式智慧冰箱'
 summary = '真正符合人性的智慧冰箱會長什麼樣子?'
 cover = '/images/Post9home.jpg'
 cover_on_post = true
-categories = ['生活']
+categories = ['隨想雜談']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
