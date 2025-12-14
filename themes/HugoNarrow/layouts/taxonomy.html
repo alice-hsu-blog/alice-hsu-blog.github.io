@@ -68,7 +68,7 @@
         {{ $sizeClass := "" }}
         {{ $colorClass := "" }}
 
-        {{ if eq $weight 1 }}
+        <!-- {{ if eq $weight 1 }}
           {{ $sizeClass = "text-sm" }}
         {{ else if eq $weight 2 }}
           {{ $sizeClass = "text-base" }}
@@ -78,7 +78,8 @@
           {{ $sizeClass = "text-xl" }}
         {{ else }}
           {{ $sizeClass = "text-2xl" }}
-        {{ end }}
+        {{ end }} -->
+        {{ $sizeClass = "text-lg" }}
 
 
         <a

@@ -11,7 +11,7 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [pagination]
-pagerSize = 6
+pagerSize = 5
 
 [permalinks]
 posts = "/posts/:year/:month/:slug/"
@@ -79,9 +79,19 @@ title = "authors.author_title"
 description = "authors.author_description"
 avatar = "/images/avatar.jpg"
 
+[[params.author.social]]
+  name = "YouTube"
+  url = "https://www.youtube.com/@alice_h_hsu"
+  icon = "youtube"
+
+[[params.author.social]]
+  name = "SoundCloud"
+  url = "https://soundcloud.com/alice_h_hsu"
+  icon = "soundcloud"
+
 
 [params.home]
-recentPostsCount = 5
+recentPostsCount = 3
 
 [params.post]
 showRelated = true
