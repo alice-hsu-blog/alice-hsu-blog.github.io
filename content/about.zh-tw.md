@@ -29,4 +29,4 @@ links:
 
 最後，要感謝我的先生 [Samuel](https://mhyeh.github.io/) 幫我架設網站，並且將網站改得如此好看❤️
 
-若有任何想法，或是工作邀約，歡迎來信：alicemusicwonderland77@gmail.com
+若有任何想法，或是工作邀約，歡迎來信：alicemusicwonderland77 [at] gmail [dot] com
