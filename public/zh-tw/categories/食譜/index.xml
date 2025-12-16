@@ -14,6 +14,301 @@
       <pubDate>Sat, 01 Nov 2025 15:26:04 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E6%BF%83%E7%A8%A0%E9%86%AC%E6%B1%81%E5%9F%B9%E6%A0%B9%E8%9B%8B%E9%BA%B5/</guid>
       <description>好吃的義大利麵在這裡。</description>
+      <content:encoded>
+      &lt;![CDATA[
+        
+<style>
+  
+#masonry-0b22cd3834a2b70b0c515f8d5776a299-1 {
+  width: 100%;
+}
+
+#masonry-0b22cd3834a2b70b0c515f8d5776a299-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-0b22cd3834a2b70b0c515f8d5776a299-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 15px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-0b22cd3834a2b70b0c515f8d5776a299-1 .masonry-item img {
+  width: 70%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-0b22cd3834a2b70b0c515f8d5776a299-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-0b22cd3834a2b70b0c515f8d5776a299-1 .glightbox:hover,
+#masonry-0b22cd3834a2b70b0c515f8d5776a299-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-0b22cd3834a2b70b0c515f8d5776a299-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-0b22cd3834a2b70b0c515f8d5776a299-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+</style>
+
+<div class="masonry-gallery" 
+     id="masonry-0b22cd3834a2b70b0c515f8d5776a299-1"
+     data-columns="1"
+     data-gutter="15"
+     data-animate="true"
+     data-use-transform="true"
+     data-center="true"
+     data-max-columns="5"
+     data-lightbox="true">
+
+  <div class="masonry-container">
+    <div class="masonry-item"><a href="/images/Post/8/1.jpg" 
+             class="glightbox"
+             data-gallery="masonry-0b22cd3834a2b70b0c515f8d5776a299-1">
+            
+            <img
+    src="/images/Post/8/1.jpg"
+    alt=""
+    
+    
+    loading="lazy"
+    decoding="async"
+    data-gallery-src="/images/Post/8/1.jpg"
+    data-gallery-alt=""
+    data-gallery-title="" /></a></div></div>
+</div>
+
+
+<script>
+(function() {
+  const containerId = 'masonry-0b22cd3834a2b70b0c515f8d5776a299-1';
+  const config = {
+    columns:  1 ,
+    gutter:  15 ,
+    maxColumns:  5 ,
+    lightbox:  true ,
+    animate: "true",
+    useTransform: "true",
+    center: "true"
+  };
+  
+  console.log('Initializing masonry gallery:', containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error('Masonry container not found:', containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector('.masonry-container');
+    if (!masonryContainer) {
+      console.error('Masonry inner container not found');
+      return;
+    }
+    
+    
+    if (typeof Macy === 'undefined') {
+      console.error('Macy.js not loaded');
+      return;
+    }
+    
+    console.log('Found container and Macy, initializing...');
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log('Macy initialized successfully for', containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll('img');
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() => {
+            if (macyInstance && macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log('Macy layout recalculated after all images loaded');
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img => {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener('load', onImageLoad);
+          img.addEventListener('error', onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error('Error initializing Macy:', error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== 'undefined') {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === 'string') {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error('Error parsing masonry GLightbox config:', e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || '90vw',
+            height: globalLightboxConfig.height || '90vh',
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || 'bottom',
+            onOpen: () => {
+              console.log('GLightbox opened for', containerId);
+            }
+          });
+          
+          console.log('GLightbox initialized successfully for', containerId, 'with global config');
+          
+        } catch (error) {
+          console.error('Error initializing GLightbox:', error);
+        }
+      } else {
+        console.error('GLightbox not loaded but lightbox is enabled');
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== 'undefined';
+      const lightboxReady = !config.lightbox || typeof GLightbox !== 'undefined';
+      
+      if (macyReady && lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts < maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error('Timeout waiting for libraries. Macy:', macyReady, 'GLightbox:', lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+</script>
+<h2 id="2-人份培根蛋麵">2 人份培根蛋麵</h2>
+<h3 id="心得">心得</h3>
+<p>Sam 和我所做的培根蛋麵，是平民簡易版的卡波納拉（Carbonara）義大利麵：以培根取代豬臉頰肉，以全蛋取代蛋黃（畢竟只剩蛋白也滿令人煩惱的），以罐裝的起司粉取代現削的起司。食材容易取得，價格也比較親民，成品還是很美味。</p>
+<p>雖然滿多食譜最後把起司蛋液加入盛了麵和配料離火的鍋子，不過因鍋子溫度還是滿高，容易讓蛋結塊，Sam 後來決定反過來，將義大利麵和配料放到起司蛋液裡，這樣不只蛋不易結塊，每一根義大利麵也較容易吸附濃稠的醬汁，非常好吃！</p>
+<h3 id="食材">食材</h3>
+<ol>
+<li>義大利麵（Rummo）： 220 克</li>
+<li>鹽：少許</li>
+<li>厚切培根：3條</li>
+<li>蘑菇：3 顆</li>
+<li>蒜末：適量</li>
+<li>蛋：3 顆</li>
+<li>帕馬森起司粉：很多</li>
+</ol>
+<h3 id="烹飪步驟">烹飪步驟</h3>
+<ol>
+<li>備料
+<ul>
+<li>將培根切成細條，蘑菇切片，蒜頭切末</li>
+<li>放一點鹽巴在一大鍋水裡</li>
+<li>找另一個內鍋，或大一點的鍋子（因為最後還要加入麵條和配料，所以需要大一點的鍋子），將蛋打入其中，加入非常多的帕馬森起司粉，稍微拌勻</li>
+</ul>
+</li>
+<li>開始烹飪
+<ul>
+<li>鹽水煮沸後加入義大利麵，用計時器定時至包裝上要求的烹飪時間</li>
+<li>煮麵的同時，一個人拿著起司蛋液那鍋在義大利麵水上不斷快速攪散，利用蒸氣的熱氣讓起司粉變得均勻</li>
+<li>同時，另一個人熱鍋，加入少許油，下培根</li>
+<li>煎至金黃後下蘑菇</li>
+<li>拌炒一下後，下黑胡椒粉</li>
+<li>香氣出來後，下蒜末</li>
+<li>蒜末炒到金黃後，即可關火</li>
+<li>這時，麵煮熟後，撈起在起司蛋液那鍋快速攪拌</li>
+<li>攪一半後倒入剛剛炒好的培根蘑菇蒜末</li>
+<li>適時補一點水，避免太過濃稠</li>
+<li>醬汁調到喜歡的濃度，即可盛盤出餐</li>
+</ul>
+</li>
+</ol>
+<p>若是自己一人煮，可以稍微調整料理順序：</p>
+<ul>
+<li>煮麵水煮沸後，先不下麵，先把起司蛋液在上面攪勻</li>
+<li>下麵後，就可同時炒料</li>
+</ul>
+
+      ]]>
+      </content:encoded>
     </item>
     <item>
       <title>日式親子丼飯＋蕃茄玉米湯</title>
@@ -21,6 +316,103 @@
       <pubDate>Fri, 31 Oct 2025 23:43:12 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</guid>
       <description>好吃的晚餐在這裡。</description>
+      <content:encoded>
+      &lt;![CDATA[
+        <p>
+<figure class="image-figure not-prose my-8" 
+        data-lightbox-enabled="true"
+        data-gallery-type="auto">
+  <div class="image-container">
+    <img
+    src="/images/Post/7/1.jpg"
+    alt=""
+    
+    
+    loading="lazy"
+    decoding="async"
+    data-gallery-src="/images/Post/7/1.jpg"
+    data-gallery-alt=""
+    data-gallery-title="" /></div>
+
+  </figure>
+
+<figure class="image-figure not-prose my-8" 
+        data-lightbox-enabled="true"
+        data-gallery-type="auto">
+  <div class="image-container">
+    <img
+    src="/images/Post/7/2.jpg"
+    alt=""
+    
+    
+    loading="lazy"
+    decoding="async"
+    data-gallery-src="/images/Post/7/2.jpg"
+    data-gallery-alt=""
+    data-gallery-title="" /></div>
+
+  </figure></p>
+<h2 id="2-人份日式親子丼飯食譜">2 人份日式親子丼飯食譜</h2>
+<h3 id="食材">食材</h3>
+<ol>
+<li>雞肉醃料
+<ul>
+<li>醬油：40 g</li>
+<li>味醂：20 g</li>
+<li>米酒：20 g</li>
+<li>糖：20 g</li>
+<li>蒜泥：適量</li>
+<li>薑泥：適量</li>
+</ul>
+</li>
+<li>雞腿肉： 2 片</li>
+<li>洋蔥：半顆</li>
+<li>高麗菜： 3 大片</li>
+<li>蛋： 3 顆</li>
+<li>蔥： 4 支</li>
+<li>白芝麻：適量</li>
+</ol>
+<h3 id="烹飪步驟">烹飪步驟</h3>
+<ul>
+<li>將雞腿肉浸泡在醃料 20-30 分鐘</li>
+<li>雞皮向下煎 2 分鐘</li>
+<li>翻面煎 1 分 50 秒</li>
+<li>再翻面煎 1 分鐘</li>
+<li>再翻面煎 1 分鐘</li>
+<li>拿起來在砧板上切片</li>
+<li>鍋子不洗直接下洋蔥，稍微炒一下就下高麗菜</li>
+<li>再稍微炒一下就下切好的雞腿排</li>
+<li>加 50 ml 的水在醃料的醬裡，混合均勻後加入鍋中</li>
+<li>蓋鍋蓋煮至雞肉顏色變白</li>
+<li>開蓋淋一半蛋液再蓋鍋蓋</li>
+<li>蛋稍微凝固後再開蓋加入剩下的蛋液</li>
+<li>半凝固後，加在白飯上，撒上芝麻、蔥花，即可出餐！</li>
+</ul>
+<h2 id="番茄玉米湯">番茄玉米湯</h2>
+<h3 id="食材-1">食材</h3>
+<ol>
+<li>日式高湯
+<ul>
+<li>水 1500 g</li>
+<li>昆布 1 根</li>
+<li>柴魚片 2 把</li>
+</ul>
+</li>
+<li>番茄： 3 顆</li>
+<li>玉米：2 根</li>
+<li>味噌：半匙</li>
+<li>鹽：少許</li>
+</ol>
+<h3 id="烹飪步驟-1">烹飪步驟</h3>
+<ul>
+<li>泡昆布 20 分鐘，開火以小火煮 10 分鐘</li>
+<li>撈起昆布後加 2 把柴魚片，小火煮2分鐘後將柴魚片瀝掉</li>
+<li>放入切好的番茄和玉米，中大火煮 20 分鐘</li>
+<li>加入鹽巴和味噌，即可出餐！</li>
+</ul>
+
+      ]]>
+      </content:encoded>
     </item>
   </channel>
 </rss>
