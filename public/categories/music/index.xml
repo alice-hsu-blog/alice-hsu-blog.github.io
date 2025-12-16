@@ -15,8 +15,7 @@
       <guid>https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari/</guid>
       <description>Writing piano covers feels a bit like translation. You take a song performed by a full band and rewrite it so it makes musical sense on the piano, which gives me a sense of accomplishment.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>
+      <p>
 <figure class="image-figure not-prose my-8" 
         data-lightbox-enabled="true"
         data-gallery-type="auto">
@@ -149,7 +148,6 @@
 </p>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -159,8 +157,7 @@
       <guid>https://alicehsu.blog/posts/2025/12/meet-francis-poulenc/</guid>
       <description>What kind of person writes such music? What were his thoughts about music? Any composers he likes or dislikes?</description>
       <content:encoded>
-      &lt;![CDATA[
-        <h2 id="encountering-poulenc">Encountering Poulenc</h2>
+      <h2 id="encountering-poulenc">Encountering Poulenc</h2>
 <p>Francis Poulenc (1899 - 1963) was a French composer and pianist, and one of the members of Les Six.</p>
 <p>I first came to know Poulenc through his <a href="https://www.youtube.com/watch?v=vE9QNQYPN2Q"target="_blank"
 >Improvisation No. 7</a>. It was one of the required pieces for a piano exam, and only then did I realize that this figure existed in the world of classical music. Upon first hearing it, I was deeply drawn to its rich harmonies. The piece begins in a simple and seemingly harmless C major. Then, as mysterious and ever-changing chords appear one after another, it becomes clear that it is far from simple. My favorite part is the heartbreaking opening of section B, followed by the majestic layers of octaves, and the return to C major after the climax has faded. Honestly, there are too many parts I love to list them all.</p>
@@ -663,7 +660,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol>
 </div>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -673,8 +669,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/posts/2025/12/hayato-suminos-cateens-piano-recital/</guid>
       <description>Yesterday afternoon, I went to Chicago to hear Hayato Sumino&amp;rsquo;s piano recital.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>Yesterday afternoon, I went to Chicago to hear <a href="https://hayatosum.com/biography"target="_blank"
+      <p>Yesterday afternoon, I went to Chicago to hear <a href="https://hayatosum.com/biography"target="_blank"
 >Hayato Sumino&rsquo;s</a> (also known as Cateen) piano recital. Walking out of the hall afterward, I felt so contented and moved!</p>
 <p>Cateen is a pianist I have followed for a long time. I especially love his own compositions, and <a href="https://www.youtube.com/watch?v=VmKin2xhKNk"target="_blank"
 >Big Cat Waltz</a> is just unbelievably adorable. One day in early August, while browsing his YouTube channel, I noticed in the description box that his next performance would be in Chicago. A same-day round trip by car would be no problem, and I even found great seats at a low price. Why hesitate? I pulled Sam along and bought the tickets immediately.</p>
@@ -693,7 +688,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>When the concert ended, cheers filled the hall. Almost everyone stood again. Sam told me that he had become a fan as well. Nothing delights a fan more than converting the people around them.</p>
 <p>It has been a long time since I last heard a concert that moved me like this. More than good techniques, Cateen’s love for music could be heard in every note he played. He is someone who enjoys playing the piano, a composer full of passion and hope for music and for life. Not every musician is like this.</p>
 <p>I just want to rush to my piano and practice.</p>
-<h2 id="hahahugoshortcode2s0hbhb">
+<h2 id="hahahugoshortcode8s0hbhb">
 <style>
   
 #masonry-6493325e3652681e99281b11dbfadf42-1 {
@@ -1006,7 +1001,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script></h2>
 <p><em>NB: This article was first published in Chinese on 11/18/25. It was later translated with assistance from ChatGPT, edited by me, and published in English on 12/3/25.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -1016,8 +1010,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/posts/2025/10/the-story-behind-bell/</guid>
       <description>One day while improvising, I played the opening eight measures by chance and thought they sounded nice.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <div
+      <div
     class="alert alert-warning my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
     style="background-color: color-mix(in srgb, var(--color-warning) 10%, transparent);
               border-left-color: var(--color-warning);
@@ -3169,7 +3162,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <hr>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
   </channel>

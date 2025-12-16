@@ -15,8 +15,7 @@
       <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E5%BA%A6%E5%81%87%E5%BE%8C%E7%97%87%E5%80%99%E7%BE%A4/</guid>
       <description>度假後症候群（Post-Vacation Syndrome）顧名思義，指的是一個人在度假之後會產生之行為與症狀。</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>度假後症候群（Post-Vacation Syndrome）顧名思義，指的是一個人在度假之後會產生之行為與症狀：</p>
+      <p>度假後症候群（Post-Vacation Syndrome）顧名思義，指的是一個人在度假之後會產生之行為與症狀：</p>
 <p>常見的有：</p>
 <ol>
 <li>每天回顧旅遊時拍攝的相片</li>
@@ -32,7 +31,6 @@
 <li><del>規劃下次旅行</del></li>
 </ol>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -42,14 +40,12 @@
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E5%8C%85%E8%A3%B9%E5%9C%A8%E5%93%AA%E8%A3%A1/</guid>
       <description>訂單上顯示了一個 Fedex 的連結，讓人用來追蹤包裹。</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>最近網購個東西，下單後，訂單上顯示了 Fedex 的連結，讓人用來追蹤包裹。</p>
+      <p>最近網購個東西，下單後，訂單上顯示了 Fedex 的連結，讓人用來追蹤包裹。</p>
 <p>有點心急想快點拿到，下單後，三不五時就會去看一下包裹現在在哪裡。</p>
 <p>某一天，我忽然意識到：不是啊，難道我看多次一點，司機就會開快一點嗎？這東西也不用冰，也不需要算好時間收包裹把東西塞進<a href="/zh-tw/posts/2025/11/%EF%B8%8F-%e7%83%8f%e6%89%98%e9%82%a6%e5%bc%8f%e6%99%ba%e6%85%a7%e5%86%b0%e7%ae%b1/">冰箱</a>，那我幹嘛還在這邊點連結？反正到了就是到了，沒到就是沒到。</p>
 <p>我又發現，對於沒辦法掌控和決定的事情，憂慮與擔心不就和追蹤包裹的連結一樣嗎？它欺騙你的大腦，讓你覺得好像可以掌控事情的發展。可是，你做的只是點開連結而已，並沒有自己手握方向盤腳踩油門，甚至也沒有叫司機飆車開快點。</p>
 <p>克制了幾次點連結的衝動，今天寫文章的我不爭氣地又點了一次包裹連結，好吧，已經從 Texas 到了 Chicago，感恩節的禮物潮讓貨運變得好慢啊。</p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -59,8 +55,7 @@
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%EF%B8%8F-%E7%83%8F%E6%89%98%E9%82%A6%E5%BC%8F%E6%99%BA%E6%85%A7%E5%86%B0%E7%AE%B1/</guid>
       <description>真正符合人性的智慧冰箱會長什麼樣子?</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>最近和家人聊到智慧冰箱，不久後，就讀到了 <a href="https://wiwi.blog/blog/smart-fridge"target="_blank"
+      <p>最近和家人聊到智慧冰箱，不久後，就讀到了 <a href="https://wiwi.blog/blog/smart-fridge"target="_blank"
 >Wiwi</a> 和<a href="https://shuojen.site/blog/2025/11/04/bed"target="_blank"
 >黃碩人</a>所寫關於智慧家電的文章，讓我不禁思考真正符合人性的智慧冰箱會長什麼樣子。</p>
 <p>身為一位家庭主婦所幻想的烏托邦式智慧冰箱：</p>
@@ -165,7 +160,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>對了，我們真的不需要一台冰箱來看天氣，也不需要一台冰箱來放家人的照片，實在多此一舉，這些手機就做得到啦。</p>
 <p>這樣的冰箱有沒有很想要？我自己倒是滿想要有一台的，希望冰箱廠商可以來買走我的點子哈哈哈XDD</p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -175,8 +169,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E5%89%B5%E4%BD%9C/</guid>
       <description>最近常常思考這個問題，覺得這個問題滿有趣的，想試著回答一下。</description>
       <content:encoded>
-      &lt;![CDATA[
-        <div
+      <div
     class="alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
     style="background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
               border-left-color: var(--color-caution);
@@ -246,7 +239,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>每個人或多或少都有藝術細胞，差別只在於哪個方面的藝術細胞，以及細胞大或細胞小而已，不過，細胞大小其實不太重要，重要的是有沒有拿出來用，讓細胞越長越大、越長越多。</p>
 <p>一起開始創作吧！</p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -256,8 +248,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E5%89%B5%E4%BD%9C%E7%9A%84%E6%B3%89%E6%BA%90/</guid>
       <description>最近在讀林文月先生（1933-2023）的《生活可以如此美好》散文集</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>最近在讀<a href="https://www.lib.ntu.edu.tw/events/2023_LinWen-yueh/"target="_blank"
+      <p>最近在讀<a href="https://www.lib.ntu.edu.tw/events/2023_LinWen-yueh/"target="_blank"
 >林文月先生</a>（1933-2023）的《生活可以如此美好》散文集，其中的一篇文章〈給女兒的信——擬《傅雷家書》〉（寫於 1987 年 10 月），她提及創作的幾項靈感來源，發人省思，也有我想與其對話之處，故援引原文如下：</p>
 
   <blockquote
@@ -339,7 +330,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol>
 </div>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -349,8 +339,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/zh-tw/posts/2025/09/%E5%88%AA%E6%8E%89-fb-%E8%88%87-ig-%E7%9A%84%E6%88%91%E7%99%BC%E7%94%9F%E4%BA%86%E4%BB%80%E9%BA%BC%E8%AE%8A%E5%8C%96/</guid>
       <description>從 2009 年加入 FB 至現在，我使用 FB 將近十年了。</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>以下這篇文章在 2019 年 4 月 5 日於 Medium  發表。六年後的我，不只刪除了app，也刪除了 Instagram 的帳號，並且常讓 Facebook 處於停用的狀態，只有在還需用  Marketplace 的時候才會開啟帳號。現在回看，真覺得六年前的自己開了很好的頭。</p>
+      <p>以下這篇文章在 2019 年 4 月 5 日於 Medium  發表。六年後的我，不只刪除了app，也刪除了 Instagram 的帳號，並且常讓 Facebook 處於停用的狀態，只有在還需用  Marketplace 的時候才會開啟帳號。現在回看，真覺得六年前的自己開了很好的頭。</p>
 <hr>
 <p>從 2009 年加入 FB 至現在，我使用 FB 將近十年了。</p>
 <p>這十年來變化之大，從少少的幾個朋友一起玩開心農場，暴增至 400 多個(對有些人來說還算少的了)狂洗我的動態版面，不僅我的國小老師，甚至到不熟的遠親阿姨都加我為 FB 好友。一團既熟悉又陌生的親友擠在我的好友名單，很快地我就成了潛水一族，默默看著大家的動態。</p>
@@ -603,7 +592,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>這點還滿有趣的。我本身是個愛喝飲料的人，前一陣子喝太兇想戒都覺得好難戒掉。但今天，我對水的味道更敏感了，忽然覺得平日喝的微糖微冰飲料太甜膩，完全不想碰，反而喜歡水純粹的味道。</p>
 <p>其實一整天下來，我最大的感想就是：啊！舒爽！戒掉 FB、IG 的第一天，宛如濕悶已久的天氣終於在午後下起滂沱大雨，心情是雀躍無比的。我覺得自己因著社群媒體而失能的部分，正慢慢地一步一步被自己找回來。</p>
 
-      ]]>
       </content:encoded>
     </item>
   </channel>

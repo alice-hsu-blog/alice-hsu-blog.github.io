@@ -15,8 +15,7 @@
       <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/</guid>
       <description>寫 Piano Cover 可能有點像翻譯吧，把一首由樂團演奏的曲子「翻譯」成由鋼琴演奏的曲子，挺有成就感的。</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>
+      <p>
 <figure class="image-figure not-prose my-8" 
         data-lightbox-enabled="true"
         data-gallery-type="auto">
@@ -146,7 +145,6 @@
     </div>
 </p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -156,8 +154,7 @@
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E9%81%87%E8%A6%8B%E6%B5%A6%E6%9C%97%E5%85%8Bfrancis-poulenc/</guid>
       <description>浦朗克是個什麼樣子的人？他對音樂有什麼看法？他有喜歡和不喜歡的作曲家嗎？</description>
       <content:encoded>
-      &lt;![CDATA[
-        <h2 id="遇見">遇見</h2>
+      <h2 id="遇見">遇見</h2>
 <p>法蘭西斯·浦朗克 （Francis Poulenc，1899 – 1963）是法國的作曲家和鋼琴家，為法國六人組（Les Six）的其中一人。台灣的期刊論文常翻譯為浦朗克或浦浪克，在此就稱他為浦朗克了。</p>
 <p>第一次認識浦朗克是透過<a href="https://www.youtube.com/watch?v=vE9QNQYPN2Q"target="_blank"
 >《即興曲第七號》</a>認識他的，這首曲子被列入某個鋼琴檢定的指定曲之一，孤陋寡聞的我才曉得原來古典音樂有這號人物。記得第一次聽，就被它豐富的和聲深深吸引：這首曲子從平淡無奇、看似單純無害的Ｃ大調出發，結果，隨著神秘又變化多端的和弦一一出現，才發現它其實並不簡單。我自己特別喜歡 B 段令人心碎的開頭，以及中間層層堆疊、磅礴寬廣的八度，還有高潮褪去，洗盡鉛華回到 C 大調的轉折，好吧，喜歡的部分太多了，就不在此贅述。</p>
@@ -658,7 +655,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol>
 </div>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -668,8 +664,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97cateen%E7%9A%84%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E6%9C%83/</guid>
       <description>昨天下午去芝加哥聽角野隼斗的鋼琴獨奏會</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>昨天下午去芝加哥聽角野隼斗（<a href="https://hayatosum.com/biography"target="_blank"
+      <p>昨天下午去芝加哥聽角野隼斗（<a href="https://hayatosum.com/biography"target="_blank"
 >Hayato Sumino</a>，綽號 Cateen）的鋼琴獨奏會，走出音樂廳，覺得滿足和感動快要滿溢出來了！</p>
 <p>Cateen 是我一直在追蹤的鋼琴家，我很喜歡他創作的曲子，尤其是這首 <a href="https://www.youtube.com/watch?v=VmKin2xhKNk"target="_blank"
 >Big Cat Waltz</a> 真的超可愛！今年八月初某天逛著他的 YouTube 頻道，忽然發現：欸？底下的說明欄顯示他最近的一次演出就在芝加哥耶！開車當天來回沒問題，又能挑到便宜票價的好位子，那還等什麼？拉著 Sam 就立刻下單！</p>
@@ -1000,7 +995,6 @@ document.addEventListener('DOMContentLoaded', function() {
 })();
 </script>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -1010,8 +1004,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/</guid>
       <description>有一天即興時忽然彈出前八小節，覺得不錯聽，就錄進了我的 Yamaha P525。</description>
       <content:encoded>
-      &lt;![CDATA[
-        <div
+      <div
     class="alert alert-warning my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
     style="background-color: color-mix(in srgb, var(--color-warning) 10%, transparent);
               border-left-color: var(--color-warning);
@@ -3158,7 +3151,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>所以決定不理 ChatGPT 油膩到不行的建議，決定平平淡淡好好記錄自己作曲時的一些想法。</p>
 <p>如果你演奏了我的曲子，歡迎你來信與我分享你的演奏喔！如果你上傳到任何影音分享平台，也歡迎你轉貼這篇文章讓你的聽眾了解我的創作歷程。</p>
 
-      ]]>
       </content:encoded>
     </item>
   </channel>

@@ -15,8 +15,7 @@
       <guid>https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari/</guid>
       <description>Writing piano covers feels a bit like translation. You take a song performed by a full band and rewrite it so it makes musical sense on the piano, which gives me a sense of accomplishment.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>
+      <p>
 <figure class="image-figure not-prose my-8" 
         data-lightbox-enabled="true"
         data-gallery-type="auto">
@@ -149,7 +148,6 @@
 </p>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -159,8 +157,7 @@
       <guid>https://alicehsu.blog/posts/2025/12/where-is-the-package/</guid>
       <description>The page showed a FedEx tracking link so I could check where the package was.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>Recently, I bought something online. After placing the order, the page showed a FedEx tracking link so I could check where the package was.</p>
+      <p>Recently, I bought something online. After placing the order, the page showed a FedEx tracking link so I could check where the package was.</p>
 <p>I was pretty eager to receive it, so I kept opening the link from time to time, checking again and again to see where it was.</p>
 <p>One day, it suddenly dawned on me: checking more often is not going to make the driver go faster. The item does not need refrigeration, and I do not need to time it perfectly just to put it in the <a href="/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/">fridge</a>, so why am I still clicking that link? It will arrive when it arrives, and if it has not arrived, then it simply has not.</p>
 <p>I also realized that worrying about things I cannot control is just like clicking on that tracking link. It tricks the brain into feeling as if we have some control over the progress, when in reality, all we are doing is refreshing a page. We are not the ones driving, we are not the ones stepping on the gas, and we don&rsquo;t even tell the driver to hurry.</p>
@@ -168,7 +165,6 @@
 <hr>
 <p><em>NB: This article was first published in Chinese on 11/26/25. It was later translated with assistance from ChatGPT, edited by me, and published in English on 12/3/25.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -178,8 +174,7 @@
       <guid>https://alicehsu.blog/posts/2025/12/meet-francis-poulenc/</guid>
       <description>What kind of person writes such music? What were his thoughts about music? Any composers he likes or dislikes?</description>
       <content:encoded>
-      &lt;![CDATA[
-        <h2 id="encountering-poulenc">Encountering Poulenc</h2>
+      <h2 id="encountering-poulenc">Encountering Poulenc</h2>
 <p>Francis Poulenc (1899 - 1963) was a French composer and pianist, and one of the members of Les Six.</p>
 <p>I first came to know Poulenc through his <a href="https://www.youtube.com/watch?v=vE9QNQYPN2Q"target="_blank"
 >Improvisation No. 7</a>. It was one of the required pieces for a piano exam, and only then did I realize that this figure existed in the world of classical music. Upon first hearing it, I was deeply drawn to its rich harmonies. The piece begins in a simple and seemingly harmless C major. Then, as mysterious and ever-changing chords appear one after another, it becomes clear that it is far from simple. My favorite part is the heartbreaking opening of section B, followed by the majestic layers of octaves, and the return to C major after the climax has faded. Honestly, there are too many parts I love to list them all.</p>
@@ -682,7 +677,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol>
 </div>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -692,8 +686,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/posts/2025/12/hayato-suminos-cateens-piano-recital/</guid>
       <description>Yesterday afternoon, I went to Chicago to hear Hayato Sumino&amp;rsquo;s piano recital.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>Yesterday afternoon, I went to Chicago to hear <a href="https://hayatosum.com/biography"target="_blank"
+      <p>Yesterday afternoon, I went to Chicago to hear <a href="https://hayatosum.com/biography"target="_blank"
 >Hayato Sumino&rsquo;s</a> (also known as Cateen) piano recital. Walking out of the hall afterward, I felt so contented and moved!</p>
 <p>Cateen is a pianist I have followed for a long time. I especially love his own compositions, and <a href="https://www.youtube.com/watch?v=VmKin2xhKNk"target="_blank"
 >Big Cat Waltz</a> is just unbelievably adorable. One day in early August, while browsing his YouTube channel, I noticed in the description box that his next performance would be in Chicago. A same-day round trip by car would be no problem, and I even found great seats at a low price. Why hesitate? I pulled Sam along and bought the tickets immediately.</p>
@@ -712,7 +705,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p>When the concert ended, cheers filled the hall. Almost everyone stood again. Sam told me that he had become a fan as well. Nothing delights a fan more than converting the people around them.</p>
 <p>It has been a long time since I last heard a concert that moved me like this. More than good techniques, Cateen’s love for music could be heard in every note he played. He is someone who enjoys playing the piano, a composer full of passion and hope for music and for life. Not every musician is like this.</p>
 <p>I just want to rush to my piano and practice.</p>
-<h2 id="hahahugoshortcode2s0hbhb">
+<h2 id="hahahugoshortcode8s0hbhb">
 <style>
   
 #masonry-6493325e3652681e99281b11dbfadf42-1 {
@@ -1025,7 +1018,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script></h2>
 <p><em>NB: This article was first published in Chinese on 11/18/25. It was later translated with assistance from ChatGPT, edited by me, and published in English on 12/3/25.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -1035,8 +1027,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/</guid>
       <description>What might a truly user-friendly smart fridge look like?</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>Recently, after chatting with my family about smart refrigerators, I came across an article by <a href="https://wiwi.blog/blog/smart-fridge"target="_blank"
+      <p>Recently, after chatting with my family about smart refrigerators, I came across an article by <a href="https://wiwi.blog/blog/smart-fridge"target="_blank"
 >Wiwi</a> and <a href="https://shuojen.site/blog/2025/11/04/bed"target="_blank"
 >Shuo-Jen Huang</a> about smart home appliances. It got me thinking about what a truly user-friendly smart fridge might look like.</p>
 <p>Here’s my version of a utopian smart fridge, imagined from the perspective of a housewife.</p>
@@ -1144,7 +1135,6 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
 <hr>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -1154,8 +1144,7 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
       <guid>https://alicehsu.blog/portfolio/</guid>
       <description>&lt;p&gt;Update: 11-26-2025&lt;/p&gt;&#xA;&lt;h3 id=&#34;original-composition&#34;&gt;Original Composition&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Published Date&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Performance&lt;/th&gt;&#xA;          &lt;th&gt;Score&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10-13-2025&lt;/td&gt;&#xA;          &lt;td&gt;Bell (Stage E. Piano)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/3qoF04GK2zI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/alice-hsu-bell-stage-e-piano-original-piano-composition&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Bell.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10-13-2025&lt;/td&gt;&#xA;          &lt;td&gt;Bell&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/Z4o3uY5C2EI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/alice-hsu-bell-original-piano-composition&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Bell.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;08-27-2025&lt;/td&gt;&#xA;          &lt;td&gt;Ruins&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/RsftgIKy3LM&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/USjfFvWS2FYXasseaL&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Ruins.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;07-01-2025&lt;/td&gt;&#xA;          &lt;td&gt;Bitter Sweet&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/iFkaTUgE1PE&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/EUAzsPntLhmjrm2gCZ&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Bitter%20Sweet.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;06-18-2025&lt;/td&gt;&#xA;          &lt;td&gt;Farewell&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/Rx4R5YYzuEg&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/KXcNYTUocrhkzbLj8z&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Farewell.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;piano-covers&#34;&gt;Piano Covers&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Published Date&lt;/th&gt;&#xA;          &lt;th&gt;Original Creator&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Performance&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11-25-2025&lt;/td&gt;&#xA;          &lt;td&gt;Fujii Kaze&lt;/td&gt;&#xA;          &lt;td&gt;Kirari&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rIAMN3ULdX8&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/9POR1wvqA5q98GWS54&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;09-16-2025&lt;/td&gt;&#xA;          &lt;td&gt;Five for Fighting&lt;/td&gt;&#xA;          &lt;td&gt;100 Years&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/a4PW3n9SA8A&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/Yfra4kwTA3Di3PShph&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;08-09-2025&lt;/td&gt;&#xA;          &lt;td&gt;Sodagreen&lt;/td&gt;&#xA;          &lt;td&gt;Daylight (2 Piano Covers)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/sNEwXQAIC3A&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/jZC8DiKaGManSVUAcP&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;06-23-2025&lt;/td&gt;&#xA;          &lt;td&gt;Sodagreen&lt;/td&gt;&#xA;          &lt;td&gt;Once in a Lifetime&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/FShd3-4umQI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/Gx5LJzRlXnUtvylvmr&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;06-08-2025&lt;/td&gt;&#xA;          &lt;td&gt;Sodagreen&lt;/td&gt;&#xA;          &lt;td&gt;What&amp;rsquo;s the Trouble on Your Mind?&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/JpLZL5CxitI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/bI4zUMFiUCqAYPNEDc&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;classical-music&#34;&gt;Classical Music&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Published Date&lt;/th&gt;&#xA;          &lt;th&gt;Composer&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Performance&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11-05-2025&lt;/td&gt;&#xA;          &lt;td&gt;Francis Poulenc&lt;/td&gt;&#xA;          &lt;td&gt;Improvisation No. 7&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vE9QNQYPN2Q&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/francis-poulenc-improvisation-no-7-alice-hsu?si=6f79b944c30c4c28a313056290bb51f5&amp;amp;utm_source=clipboard&amp;amp;utm_medium=text&amp;amp;utm_campaign=social_sharing&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10-02-2025&lt;/td&gt;&#xA;          &lt;td&gt;Dmitri Shostakovich&lt;/td&gt;&#xA;          &lt;td&gt;Romance (from Dances of the Dolls)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/1hjkNCefsao&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/V3xWwHzUic6wuWIH0a&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;09-26-2025&lt;/td&gt;&#xA;          &lt;td&gt;Dmitri Shostakovich&lt;/td&gt;&#xA;          &lt;td&gt;Lyrical Waltz (from Dances of the Dolls)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/PujmjvfiSsE&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/VXtjg68HfjPNB3lIGJ&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>Update: 11-26-2025</p>
+      <p>Update: 11-26-2025</p>
 <h3 id="original-composition">Original Composition</h3>
 <table>
   <thead>
@@ -1305,7 +1294,6 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
   </tbody>
 </table>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -1315,8 +1303,7 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
       <guid>https://alicehsu.blog/posts/2025/11/creamy-bacon-carbonara/</guid>
       <description>Here is the Delicious Spaghetti</description>
       <content:encoded>
-      &lt;![CDATA[
-        
+      
 <style>
   
 #masonry-8d0ba1eddb851407b1cedcddf0de350f-1 {
@@ -1611,7 +1598,6 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
 <hr>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -1621,8 +1607,7 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
       <guid>https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</guid>
       <description>Here is the delicious dinner.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>
+      <p>
 <figure class="image-figure not-prose my-8" 
         data-lightbox-enabled="true"
         data-gallery-type="auto">
@@ -1730,7 +1715,6 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
 <hr>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -1740,8 +1724,7 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
       <guid>https://alicehsu.blog/posts/2025/10/why-do-we-create/</guid>
       <description>Recently, I’ve been thinking about this question quite often, and I find it really intriguing, so I’d like to try answering it.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <div
+      <div
     class="alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
     style="background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
               border-left-color: var(--color-caution);
@@ -1836,7 +1819,6 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
 </ol>
 </div>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -1846,8 +1828,7 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
       <guid>https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/</guid>
       <description>Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays. Devil’s Lake is a state park in Wisconsin. When we came the last time, it wasn’t this crowded, but today there were so many visitors. No surprise, though, the scenery was absolutely stunning.</p>
+      <p>Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays. Devil’s Lake is a state park in Wisconsin. When we came the last time, it wasn’t this crowded, but today there were so many visitors. No surprise, though, the scenery was absolutely stunning.</p>
 <h2 id="devils-lake">Devil&rsquo;s Lake</h2>
 <p>
 <figure class="image-figure not-prose my-8" 
@@ -2661,7 +2642,6 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
 <hr>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -2671,8 +2651,7 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
       <guid>https://alicehsu.blog/posts/2025/10/source-of-creation/</guid>
       <description>Recently, I’ve been reading Life Can Be So Beautiful.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>Recently, I’ve been reading <em>Life Can Be So Beautiful</em>,<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> a collection of essays written by Professor<a href="https://www.moc.gov.tw/EN/News_Content2.aspx?n=481&amp;sms=10717&amp;s=17489"target="_blank"
+      <p>Recently, I’ve been reading <em>Life Can Be So Beautiful</em>,<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> a collection of essays written by Professor<a href="https://www.moc.gov.tw/EN/News_Content2.aspx?n=481&amp;sms=10717&amp;s=17489"target="_blank"
 > Lin, Wen-yueh</a> (1933–2023). In one article, “A Letter to My Daughter—In the Style of Fu Lei’s Family Letters” (written in October 1987), she discusses several sources of inspiration for artistic creation. Her words are deeply thought-provoking, and I feel compelled to respond to them. Here is the original passage:</p>
 
   <blockquote
@@ -2759,7 +2738,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol>
 </div>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -2769,8 +2747,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/posts/2025/10/free-online-music-theory-resources/</guid>
       <description>I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years. I thought it was a bit of a waste to keep them just for myself, so I decided to share them here! I believe these resources will be helpful to both students who want to study music theory independently and to teachers seeking high-quality teaching materials.</p>
+      <p>I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years. I thought it was a bit of a waste to keep them just for myself, so I decided to share them here! I believe these resources will be helpful to both students who want to study music theory independently and to teachers seeking high-quality teaching materials.</p>
 <h2 id="chinese-resources">Chinese Resources</h2>
 <h3 id="1-nicechordcom">1. NiceChord.com</h3>
 <p>There aren’t many Chinese-language resources on music theory, and among those that are free and publicly available, I’ve only found one that really stands out. That is, NiceChord.com, founded by Taiwanese pianist Wiwi Kuan.</p>
@@ -3666,7 +3643,6 @@ Feel free to reach out and share your thoughts with me. I’d love to hear your 
 <hr>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -3676,8 +3652,7 @@ Feel free to reach out and share your thoughts with me. I’d love to hear your 
       <guid>https://alicehsu.blog/posts/2025/10/the-story-behind-bell/</guid>
       <description>One day while improvising, I played the opening eight measures by chance and thought they sounded nice.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <div
+      <div
     class="alert alert-warning my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md"
     style="background-color: color-mix(in srgb, var(--color-warning) 10%, transparent);
               border-left-color: var(--color-warning);
@@ -5829,7 +5804,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <hr>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -5839,8 +5813,7 @@ document.addEventListener('DOMContentLoaded', function() {
       <guid>https://alicehsu.blog/about/</guid>
       <description>&lt;p&gt;&lt;figure class=&#34; w-49&#34;&gt;&lt;img src=&#34;https://alicehsu.blog/images/avatar.jpg&#34;&#xA;    alt=&#34;profile photo&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a musician and a writer.&lt;/p&gt;&#xA;&lt;p&gt;This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: &lt;em&gt;&lt;a href=&#34;https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;What Happened When I Deleted My Facebook and Instagram App?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p><figure class=" w-49"><img src="/images/avatar.jpg"
+      <p><figure class=" w-49"><img src="/images/avatar.jpg"
     alt="profile photo">
 </figure>
 
@@ -5851,7 +5824,6 @@ Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a
 >Samuel</a>  for building this website and making it look as beautiful as it does now ❤️</p>
 <p>For any collaborations or job inquiries, or feedback on my posts or music, please don&rsquo;t hesitate to contact me by email. You can reach me at: alicemusicwonderland77 [at] gmail [dot] com</p>
 
-      ]]>
       </content:encoded>
     </item>
     <item>
@@ -5861,8 +5833,7 @@ Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a
       <guid>https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</guid>
       <description>I joined Facebook in 2009 and have been using it for almost ten years now.</description>
       <content:encoded>
-      &lt;![CDATA[
-        <p>The following post was originally published on Medium on April 5, 2019. Six years later, I not only deleted the apps but also permanently deleted my Instagram account, and I often keep my Facebook account deactivated. I only reactivate it when I need to buy or sell something. Looking back now, I truly feel that my past self had taken an excellent first step.</p>
+      <p>The following post was originally published on Medium on April 5, 2019. Six years later, I not only deleted the apps but also permanently deleted my Instagram account, and I often keep my Facebook account deactivated. I only reactivate it when I need to buy or sell something. Looking back now, I truly feel that my past self had taken an excellent first step.</p>
 <hr>
 <p>I joined Facebook in 2009 and have been using it for almost ten years now.</p>
 <p>Over the years, the changes have been dramatic. It started with just a few friends playing Happy Farm together, but soon exploded into over 400 friends (I know it’s still considered “few” by some people) flooding my feed. Not only my elementary school teachers, but even distant relatives and aunts I barely knew started adding me as a Facebook friend. My friend list became a strange mix of familiar yet unfamiliar people, and before long, I turned into a lurker, quietly scrolling through everyone’s updates.</p>
@@ -6123,7 +6094,6 @@ This is a surprising change. I usually love sweet drinks, and recently I’ve be
 <hr>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-      ]]>
       </content:encoded>
     </item>
   </channel>

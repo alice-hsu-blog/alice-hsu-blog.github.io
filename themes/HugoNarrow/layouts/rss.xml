@@ -54,9 +54,7 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
       <content:encoded>
-      <![CDATA[
-        {{ .Content }}
-      ]]>
+      {{ .Content | safeHTML }}
       </content:encoded>
     </item>
     {{- end }}
