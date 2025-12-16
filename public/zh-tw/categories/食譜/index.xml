@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>食譜 on Alice Hsu&#39;s Blog</title>
     <link>https://alicehsu.blog/zh-tw/categories/%E9%A3%9F%E8%AD%9C/</link>
@@ -14,8 +14,15 @@
       <pubDate>Sat, 01 Nov 2025 15:26:04 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E6%BF%83%E7%A8%A0%E9%86%AC%E6%B1%81%E5%9F%B9%E6%A0%B9%E8%9B%8B%E9%BA%B5/</guid>
       <description>好吃的義大利麵在這裡。</description>
-      <content:encoded>
+
       
+        <media:thumbnail url="https://alicehsu.blog/images/Post/8/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/8/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/8/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>
 &lt;style&gt;
   
 #masonry-0b22cd3834a2b70b0c515f8d5776a299-1 {
@@ -314,8 +321,15 @@
       <pubDate>Fri, 31 Oct 2025 23:43:12 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</guid>
       <description>好吃的晚餐在這裡。</description>
-      <content:encoded>
-      &lt;p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/7/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/7/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/7/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
         data-lightbox-enabled=&#34;true&#34;
         data-gallery-type=&#34;auto&#34;&gt;

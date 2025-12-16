@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Alice Hsu&#39;s Blog</title>
     <link>https://alicehsu.blog/zh-tw/posts/</link>
@@ -14,8 +14,18 @@
       <pubDate>Sun, 14 Dec 2025 15:00:00 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E5%BA%A6%E5%81%87%E5%BE%8C%E7%97%87%E5%80%99%E7%BE%A4/</guid>
       <description>度假後症候群（Post-Vacation Syndrome）顧名思義，指的是一個人在度假之後會產生之行為與症狀。</description>
-      <content:encoded>
-      &lt;p&gt;度假後症候群（Post-Vacation Syndrome）顧名思義，指的是一個人在度假之後會產生之行為與症狀：&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post16home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post16home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post16home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post16home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;度假後症候群（Post-Vacation Syndrome）顧名思義，指的是一個人在度假之後會產生之行為與症狀：&lt;/p&gt;
 &lt;p&gt;常見的有：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;每天回顧旅遊時拍攝的相片&lt;/li&gt;
@@ -39,8 +49,18 @@
       <pubDate>Fri, 12 Dec 2025 15:00:00 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E8%A5%BF%E9%81%8A%E8%A8%98%E4%BA%8C%E8%81%96%E5%9C%B0%E7%89%99%E5%93%A5%E4%B9%8B%E7%BE%8E%E9%A3%9F%E7%AF%87/</guid>
       <description>出門之前，身為吃貨的我們早在 Google Map 存了滿滿的餐廳。</description>
-      <content:encoded>
-      &lt;p&gt;出門之前，身為吃貨的我們早在 Google Map 存了滿滿的餐廳。我和 Sam 熱愛拉麵，不過聖地牙哥的拉麵店實在屈指可數，而且看起來一般般；反倒是小義大利區（Little Italy）的餐廳看起來非常棒，我們決定試試看。結果一嘗試不得了，直接成為義大利菜的愛好者。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/15/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/15/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/15/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post/15/1.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;出門之前，身為吃貨的我們早在 Google Map 存了滿滿的餐廳。我和 Sam 熱愛拉麵，不過聖地牙哥的拉麵店實在屈指可數，而且看起來一般般；反倒是小義大利區（Little Italy）的餐廳看起來非常棒，我們決定試試看。結果一嘗試不得了，直接成為義大利菜的愛好者。&lt;/p&gt;
 &lt;p&gt;小義大利區就在機場隔壁，而且 MTS （聖地牙哥的電車）會停靠，出入非常方便，一下飛機的餓昏的我們直奔這裡吃晚餐。不得不說，整個街頭都很有義式風情，氣氛很 Chill，幾乎每間店的街邊還有直立式瓦斯暖爐（propane patio heater），客人享受戶外風光之餘，也不會被寒冷侵襲。&lt;/p&gt;
 &lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
@@ -1158,8 +1178,18 @@
       <pubDate>Wed, 10 Dec 2025 23:50:00 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E8%A5%BF%E9%81%8A%E8%A8%98%E4%B8%80%E8%81%96%E5%9C%B0%E7%89%99%E5%93%A5%E4%B9%8B%E6%99%AF%E9%BB%9E%E7%AF%87/</guid>
       <description>剛從加州聖地牙哥（San Diego）旅遊回來，今年 NeurIPS 國際研討會在聖地牙哥舉辦，Sam 的論文投上了要去會議發表，我也托他的福有機會到聖地牙哥旅行啦！</description>
-      <content:encoded>
-      &lt;p&gt;為什麼叫作西遊記？因為這是一個住在威斯康辛州的作者往「西」旅行到加州的「遊記」，哈哈！&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/14/0-2.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post/14/0-2.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/14/0-2.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post/14/0-2.JPG"
+          loading="eager"
+        /&gt;&lt;p&gt;為什麼叫作西遊記？因為這是一個住在威斯康辛州的作者往「西」旅行到加州的「遊記」，哈哈！&lt;/p&gt;
 &lt;p&gt;剛從加州聖地牙哥（San Diego）旅遊回來，今年 NeurIPS 國際研討會在聖地牙哥舉辦，Sam 的&lt;a href=&#34;https://arxiv.org/pdf/2509.23564&#34;target=&#34;_blank&#34;
 &gt;這篇論文&lt;/a&gt;投上了要去會議發表，我也托他的福有機會到聖地牙哥旅行啦！&lt;/p&gt;
 &lt;p&gt;會議是 12/2 開始，我們提前了幾天，在感恩節（11/27）當天出發先去找朋友玩，剛好完美避開了威斯康辛州今年的第一場暴風雪，到一個可以只穿短袖的聖地牙哥度假。&lt;/p&gt;
@@ -3144,8 +3174,15 @@
       <pubDate>Tue, 09 Dec 2025 15:00:00 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/</guid>
       <description>寫 Piano Cover 可能有點像翻譯吧，把一首由樂團演奏的曲子「翻譯」成由鋼琴演奏的曲子，挺有成就感的。</description>
-      <content:encoded>
-      &lt;p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post13home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post13home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post13home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
         data-lightbox-enabled=&#34;true&#34;
         data-gallery-type=&#34;auto&#34;&gt;
@@ -3283,8 +3320,18 @@
       <pubDate>Wed, 26 Nov 2025 16:35:25 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E5%8C%85%E8%A3%B9%E5%9C%A8%E5%93%AA%E8%A3%A1/</guid>
       <description>訂單上顯示了一個 Fedex 的連結，讓人用來追蹤包裹。</description>
-      <content:encoded>
-      &lt;p&gt;最近網購個東西，下單後，訂單上顯示了 Fedex 的連結，讓人用來追蹤包裹。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post12home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post12home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post12home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post12home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;最近網購個東西，下單後，訂單上顯示了 Fedex 的連結，讓人用來追蹤包裹。&lt;/p&gt;
 &lt;p&gt;有點心急想快點拿到，下單後，三不五時就會去看一下包裹現在在哪裡。&lt;/p&gt;
 &lt;p&gt;某一天，我忽然意識到：不是啊，難道我看多次一點，司機就會開快一點嗎？這東西也不用冰，也不需要算好時間收包裹把東西塞進&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2025/11/%EF%B8%8F-%e7%83%8f%e6%89%98%e9%82%a6%e5%bc%8f%e6%99%ba%e6%85%a7%e5%86%b0%e7%ae%b1/&#34;&gt;冰箱&lt;/a&gt;，那我幹嘛還在這邊點連結？反正到了就是到了，沒到就是沒到。&lt;/p&gt;
 &lt;p&gt;我又發現，對於沒辦法掌控和決定的事情，憂慮與擔心不就和追蹤包裹的連結一樣嗎？它欺騙你的大腦，讓你覺得好像可以掌控事情的發展。可是，你做的只是點開連結而已，並沒有自己手握方向盤腳踩油門，甚至也沒有叫司機飆車開快點。&lt;/p&gt;
@@ -3298,8 +3345,15 @@
       <pubDate>Mon, 24 Nov 2025 20:13:07 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E9%81%87%E8%A6%8B%E6%B5%A6%E6%9C%97%E5%85%8Bfrancis-poulenc/</guid>
       <description>浦朗克是個什麼樣子的人？他對音樂有什麼看法？他有喜歡和不喜歡的作曲家嗎？</description>
-      <content:encoded>
-      &lt;h2 id=&#34;遇見&#34;&gt;遇見&lt;/h2&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/11/2.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/11/2.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/11/2.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;h2 id=&#34;遇見&#34;&gt;遇見&lt;/h2&gt;
 &lt;p&gt;法蘭西斯·浦朗克 （Francis Poulenc，1899 – 1963）是法國的作曲家和鋼琴家，為法國六人組（Les Six）的其中一人。台灣的期刊論文常翻譯為浦朗克或浦浪克，在此就稱他為浦朗克了。&lt;/p&gt;
 &lt;p&gt;第一次認識浦朗克是透過&lt;a href=&#34;https://www.youtube.com/watch?v=vE9QNQYPN2Q&#34;target=&#34;_blank&#34;
 &gt;《即興曲第七號》&lt;/a&gt;認識他的，這首曲子被列入某個鋼琴檢定的指定曲之一，孤陋寡聞的我才曉得原來古典音樂有這號人物。記得第一次聽，就被它豐富的和聲深深吸引：這首曲子從平淡無奇、看似單純無害的Ｃ大調出發，結果，隨著神秘又變化多端的和弦一一出現，才發現它其實並不簡單。我自己特別喜歡 B 段令人心碎的開頭，以及中間層層堆疊、磅礴寬廣的八度，還有高潮褪去，洗盡鉛華回到 C 大調的轉折，好吧，喜歡的部分太多了，就不在此贅述。&lt;/p&gt;
@@ -3808,8 +3862,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Mon, 17 Nov 2025 16:20:06 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97cateen%E7%9A%84%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E6%9C%83/</guid>
       <description>昨天下午去芝加哥聽角野隼斗的鋼琴獨奏會</description>
-      <content:encoded>
-      &lt;p&gt;昨天下午去芝加哥聽角野隼斗（&lt;a href=&#34;https://hayatosum.com/biography&#34;target=&#34;_blank&#34;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/10/3.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/10/3.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/10/3.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post/10/3.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;昨天下午去芝加哥聽角野隼斗（&lt;a href=&#34;https://hayatosum.com/biography&#34;target=&#34;_blank&#34;
 &gt;Hayato Sumino&lt;/a&gt;，綽號 Cateen）的鋼琴獨奏會，走出音樂廳，覺得滿足和感動快要滿溢出來了！&lt;/p&gt;
 &lt;p&gt;Cateen 是我一直在追蹤的鋼琴家，我很喜歡他創作的曲子，尤其是這首 &lt;a href=&#34;https://www.youtube.com/watch?v=VmKin2xhKNk&#34;target=&#34;_blank&#34;
 &gt;Big Cat Waltz&lt;/a&gt; 真的超可愛！今年八月初某天逛著他的 YouTube 頻道，忽然發現：欸？底下的說明欄顯示他最近的一次演出就在芝加哥耶！開車當天來回沒問題，又能挑到便宜票價的好位子，那還等什麼？拉著 Sam 就立刻下單！&lt;/p&gt;
@@ -4148,8 +4212,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Fri, 07 Nov 2025 22:30:43 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%EF%B8%8F-%E7%83%8F%E6%89%98%E9%82%A6%E5%BC%8F%E6%99%BA%E6%85%A7%E5%86%B0%E7%AE%B1/</guid>
       <description>真正符合人性的智慧冰箱會長什麼樣子?</description>
-      <content:encoded>
-      &lt;p&gt;最近和家人聊到智慧冰箱，不久後，就讀到了 &lt;a href=&#34;https://wiwi.blog/blog/smart-fridge&#34;target=&#34;_blank&#34;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post9home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post9home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post9home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post9home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;最近和家人聊到智慧冰箱，不久後，就讀到了 &lt;a href=&#34;https://wiwi.blog/blog/smart-fridge&#34;target=&#34;_blank&#34;
 &gt;Wiwi&lt;/a&gt; 和&lt;a href=&#34;https://shuojen.site/blog/2025/11/04/bed&#34;target=&#34;_blank&#34;
 &gt;黃碩人&lt;/a&gt;所寫關於智慧家電的文章，讓我不禁思考真正符合人性的智慧冰箱會長什麼樣子。&lt;/p&gt;
 &lt;p&gt;身為一位家庭主婦所幻想的烏托邦式智慧冰箱：&lt;/p&gt;
@@ -4262,8 +4336,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Sat, 01 Nov 2025 15:26:04 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E6%BF%83%E7%A8%A0%E9%86%AC%E6%B1%81%E5%9F%B9%E6%A0%B9%E8%9B%8B%E9%BA%B5/</guid>
       <description>好吃的義大利麵在這裡。</description>
-      <content:encoded>
+
       
+        <media:thumbnail url="https://alicehsu.blog/images/Post/8/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/8/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/8/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>
 &lt;style&gt;
   
 #masonry-0b22cd3834a2b70b0c515f8d5776a299-1 {
@@ -4562,8 +4643,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Fri, 31 Oct 2025 23:43:12 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</guid>
       <description>好吃的晚餐在這裡。</description>
-      <content:encoded>
-      &lt;p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/7/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/7/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/7/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
         data-lightbox-enabled=&#34;true&#34;
         data-gallery-type=&#34;auto&#34;&gt;
@@ -4664,8 +4752,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Thu, 30 Oct 2025 21:15:06 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E5%89%B5%E4%BD%9C/</guid>
       <description>最近常常思考這個問題，覺得這個問題滿有趣的，想試著回答一下。</description>
-      <content:encoded>
-      &lt;div
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post6home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post6home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post6home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post6home.jpg"
+          loading="eager"
+        /&gt;&lt;div
     class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
     style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
               border-left-color: var(--color-caution);
@@ -4743,8 +4841,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Sat, 25 Oct 2025 23:47:21 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E7%94%9F%E6%97%A5%E4%B9%8B%E6%97%85/</guid>
       <description>一早和 Samuel 一起去 Devil’s Lake 賞楓過生日。</description>
-      <content:encoded>
-      &lt;p&gt;一早和 Samuel 一起去 Devil&amp;rsquo;s Lake 賞楓過生日。Devil&amp;rsquo;s Lake 是 Wisconsin 的州立公園，之前來的時候人沒那麼多，今天有好多遊客，大家都是來賞楓的，沒話說，實在太漂亮了。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/5/30.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/5/30.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/5/30.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;一早和 Samuel 一起去 Devil&amp;rsquo;s Lake 賞楓過生日。Devil&amp;rsquo;s Lake 是 Wisconsin 的州立公園，之前來的時候人沒那麼多，今天有好多遊客，大家都是來賞楓的，沒話說，實在太漂亮了。&lt;/p&gt;
 &lt;h2 id=&#34;devils-lake&#34;&gt;Devil&amp;rsquo;s Lake&lt;/h2&gt;
 &lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
@@ -5564,8 +5669,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Fri, 24 Oct 2025 21:50:24 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E5%89%B5%E4%BD%9C%E7%9A%84%E6%B3%89%E6%BA%90/</guid>
       <description>最近在讀林文月先生（1933-2023）的《生活可以如此美好》散文集</description>
-      <content:encoded>
-      &lt;p&gt;最近在讀&lt;a href=&#34;https://www.lib.ntu.edu.tw/events/2023_LinWen-yueh/&#34;target=&#34;_blank&#34;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post4home.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post4home.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post4home.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post4home.JPG"
+          loading="eager"
+        /&gt;&lt;p&gt;最近在讀&lt;a href=&#34;https://www.lib.ntu.edu.tw/events/2023_LinWen-yueh/&#34;target=&#34;_blank&#34;
 &gt;林文月先生&lt;/a&gt;（1933-2023）的《生活可以如此美好》散文集，其中的一篇文章〈給女兒的信——擬《傅雷家書》〉（寫於 1987 年 10 月），她提及創作的幾項靈感來源，發人省思，也有我想與其對話之處，故援引原文如下：&lt;/p&gt;
 
   &lt;blockquote
@@ -5655,8 +5770,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Fri, 17 Oct 2025 13:27:44 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E5%85%8D%E8%B2%BB%E5%AD%B8%E7%BF%92%E6%A8%82%E7%90%86%E7%9A%84%E7%B7%9A%E4%B8%8A%E8%B3%87%E6%BA%90/</guid>
       <description>我的網頁瀏覽器有一個名為「music」的書籤資料夾，放了我歷年來找到很棒、與音樂相關的資源。</description>
-      <content:encoded>
-      &lt;p&gt;我的網頁瀏覽器有一個名為「music」的書籤資料夾，放了我歷年來找到很棒、與音樂相關的資源。覺得只放在那有點可惜，索性寫一篇文分享給大家。我想對於想自學樂理的學生，或是需要教學資源的老師都會滿有幫助的。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post3home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post3home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post3home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post3home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;我的網頁瀏覽器有一個名為「music」的書籤資料夾，放了我歷年來找到很棒、與音樂相關的資源。覺得只放在那有點可惜，索性寫一篇文分享給大家。我想對於想自學樂理的學生，或是需要教學資源的老師都會滿有幫助的。&lt;/p&gt;
 &lt;h2 id=&#34;中文資源&#34;&gt;中文資源&lt;/h2&gt;
 &lt;h3 id=&#34;1-好和弦-nicechordcom&#34;&gt;1. 好和弦 NiceChord.com&lt;/h3&gt;
 &lt;p&gt;中文的樂理資源本就不多，願意免費且公開提供樂理學習資源的，目前我除了 NiceChord.com 就找不到其他的了。NiceChord.com 由台灣鋼琴家官大為（Wiwi Kuan）所創立，他擅長將困難的樂理知識講解地清楚易懂！Wiwi 創立的 &lt;a href=&#34;https://www.youtube.com/@nicechordwiwi/videos&#34;target=&#34;_blank&#34;
@@ -6552,8 +6677,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Sun, 12 Oct 2025 22:15:47 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/</guid>
       <description>有一天即興時忽然彈出前八小節，覺得不錯聽，就錄進了我的 Yamaha P525。</description>
-      <content:encoded>
-      &lt;div
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post2home.png" />
+        <media:content url="https://alicehsu.blog/images/Post2home.png" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post2home.png" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;div
     class=&#34;alert alert-warning my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
     style=&#34;background-color: color-mix(in srgb, var(--color-warning) 10%, transparent);
               border-left-color: var(--color-warning);
@@ -8708,8 +8840,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Sun, 28 Sep 2025 21:21:01 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/09/%E5%88%AA%E6%8E%89-fb-%E8%88%87-ig-%E7%9A%84%E6%88%91%E7%99%BC%E7%94%9F%E4%BA%86%E4%BB%80%E9%BA%BC%E8%AE%8A%E5%8C%96/</guid>
       <description>從 2009 年加入 FB 至現在，我使用 FB 將近十年了。</description>
-      <content:encoded>
-      &lt;p&gt;以下這篇文章在 2019 年 4 月 5 日於 Medium  發表。六年後的我，不只刪除了app，也刪除了 Instagram 的帳號，並且常讓 Facebook 處於停用的狀態，只有在還需用  Marketplace 的時候才會開啟帳號。現在回看，真覺得六年前的自己開了很好的頭。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post1home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post1home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post1home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;以下這篇文章在 2019 年 4 月 5 日於 Medium  發表。六年後的我，不只刪除了app，也刪除了 Instagram 的帳號，並且常讓 Facebook 處於停用的狀態，只有在還需用  Marketplace 的時候才會開啟帳號。現在回看，真覺得六年前的自己開了很好的頭。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;從 2009 年加入 FB 至現在，我使用 FB 將近十年了。&lt;/p&gt;
 &lt;p&gt;這十年來變化之大，從少少的幾個朋友一起玩開心農場，暴增至 400 多個(對有些人來說還算少的了)狂洗我的動態版面，不僅我的國小老師，甚至到不熟的遠親阿姨都加我為 FB 好友。一團既熟悉又陌生的親友擠在我的好友名單，很快地我就成了潛水一族，默默看著大家的動態。&lt;/p&gt;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Travel on Alice Hsu&#39;s Blog</title>
     <link>https://alicehsu.blog/categories/travel/</link>
@@ -14,8 +14,15 @@
       <pubDate>Sat, 25 Oct 2025 23:47:21 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/</guid>
       <description>Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays.</description>
-      <content:encoded>
-      &lt;p&gt;Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays. Devil’s Lake is a state park in Wisconsin. When we came the last time, it wasn’t this crowded, but today there were so many visitors. No surprise, though, the scenery was absolutely stunning.&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/5/30.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/5/30.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/5/30.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays. Devil’s Lake is a state park in Wisconsin. When we came the last time, it wasn’t this crowded, but today there were so many visitors. No surprise, though, the scenery was absolutely stunning.&lt;/p&gt;
 &lt;h2 id=&#34;devils-lake&#34;&gt;Devil&amp;rsquo;s Lake&lt;/h2&gt;
 &lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 

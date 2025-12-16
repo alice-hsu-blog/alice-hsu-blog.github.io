@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>遊記 on Alice Hsu&#39;s Blog</title>
     <link>https://alicehsu.blog/zh-tw/categories/%E9%81%8A%E8%A8%98/</link>
@@ -14,8 +14,18 @@
       <pubDate>Fri, 12 Dec 2025 15:00:00 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E8%A5%BF%E9%81%8A%E8%A8%98%E4%BA%8C%E8%81%96%E5%9C%B0%E7%89%99%E5%93%A5%E4%B9%8B%E7%BE%8E%E9%A3%9F%E7%AF%87/</guid>
       <description>出門之前，身為吃貨的我們早在 Google Map 存了滿滿的餐廳。</description>
-      <content:encoded>
-      &lt;p&gt;出門之前，身為吃貨的我們早在 Google Map 存了滿滿的餐廳。我和 Sam 熱愛拉麵，不過聖地牙哥的拉麵店實在屈指可數，而且看起來一般般；反倒是小義大利區（Little Italy）的餐廳看起來非常棒，我們決定試試看。結果一嘗試不得了，直接成為義大利菜的愛好者。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/15/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/15/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/15/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post/15/1.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;出門之前，身為吃貨的我們早在 Google Map 存了滿滿的餐廳。我和 Sam 熱愛拉麵，不過聖地牙哥的拉麵店實在屈指可數，而且看起來一般般；反倒是小義大利區（Little Italy）的餐廳看起來非常棒，我們決定試試看。結果一嘗試不得了，直接成為義大利菜的愛好者。&lt;/p&gt;
 &lt;p&gt;小義大利區就在機場隔壁，而且 MTS （聖地牙哥的電車）會停靠，出入非常方便，一下飛機的餓昏的我們直奔這裡吃晚餐。不得不說，整個街頭都很有義式風情，氣氛很 Chill，幾乎每間店的街邊還有直立式瓦斯暖爐（propane patio heater），客人享受戶外風光之餘，也不會被寒冷侵襲。&lt;/p&gt;
 &lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
@@ -1133,8 +1143,18 @@
       <pubDate>Wed, 10 Dec 2025 23:50:00 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E8%A5%BF%E9%81%8A%E8%A8%98%E4%B8%80%E8%81%96%E5%9C%B0%E7%89%99%E5%93%A5%E4%B9%8B%E6%99%AF%E9%BB%9E%E7%AF%87/</guid>
       <description>剛從加州聖地牙哥（San Diego）旅遊回來，今年 NeurIPS 國際研討會在聖地牙哥舉辦，Sam 的論文投上了要去會議發表，我也托他的福有機會到聖地牙哥旅行啦！</description>
-      <content:encoded>
-      &lt;p&gt;為什麼叫作西遊記？因為這是一個住在威斯康辛州的作者往「西」旅行到加州的「遊記」，哈哈！&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/14/0-2.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post/14/0-2.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/14/0-2.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post/14/0-2.JPG"
+          loading="eager"
+        /&gt;&lt;p&gt;為什麼叫作西遊記？因為這是一個住在威斯康辛州的作者往「西」旅行到加州的「遊記」，哈哈！&lt;/p&gt;
 &lt;p&gt;剛從加州聖地牙哥（San Diego）旅遊回來，今年 NeurIPS 國際研討會在聖地牙哥舉辦，Sam 的&lt;a href=&#34;https://arxiv.org/pdf/2509.23564&#34;target=&#34;_blank&#34;
 &gt;這篇論文&lt;/a&gt;投上了要去會議發表，我也托他的福有機會到聖地牙哥旅行啦！&lt;/p&gt;
 &lt;p&gt;會議是 12/2 開始，我們提前了幾天，在感恩節（11/27）當天出發先去找朋友玩，剛好完美避開了威斯康辛州今年的第一場暴風雪，到一個可以只穿短袖的聖地牙哥度假。&lt;/p&gt;
@@ -3119,8 +3139,15 @@
       <pubDate>Sat, 25 Oct 2025 23:47:21 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E7%94%9F%E6%97%A5%E4%B9%8B%E6%97%85/</guid>
       <description>一早和 Samuel 一起去 Devil’s Lake 賞楓過生日。</description>
-      <content:encoded>
-      &lt;p&gt;一早和 Samuel 一起去 Devil&amp;rsquo;s Lake 賞楓過生日。Devil&amp;rsquo;s Lake 是 Wisconsin 的州立公園，之前來的時候人沒那麼多，今天有好多遊客，大家都是來賞楓的，沒話說，實在太漂亮了。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/5/30.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/5/30.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/5/30.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;一早和 Samuel 一起去 Devil&amp;rsquo;s Lake 賞楓過生日。Devil&amp;rsquo;s Lake 是 Wisconsin 的州立公園，之前來的時候人沒那麼多，今天有好多遊客，大家都是來賞楓的，沒話說，實在太漂亮了。&lt;/p&gt;
 &lt;h2 id=&#34;devils-lake&#34;&gt;Devil&amp;rsquo;s Lake&lt;/h2&gt;
 &lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 

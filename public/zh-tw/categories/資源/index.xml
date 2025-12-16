@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>資源 on Alice Hsu&#39;s Blog</title>
     <link>https://alicehsu.blog/zh-tw/categories/%E8%B3%87%E6%BA%90/</link>
@@ -14,8 +14,18 @@
       <pubDate>Fri, 17 Oct 2025 13:27:44 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E5%85%8D%E8%B2%BB%E5%AD%B8%E7%BF%92%E6%A8%82%E7%90%86%E7%9A%84%E7%B7%9A%E4%B8%8A%E8%B3%87%E6%BA%90/</guid>
       <description>我的網頁瀏覽器有一個名為「music」的書籤資料夾，放了我歷年來找到很棒、與音樂相關的資源。</description>
-      <content:encoded>
-      &lt;p&gt;我的網頁瀏覽器有一個名為「music」的書籤資料夾，放了我歷年來找到很棒、與音樂相關的資源。覺得只放在那有點可惜，索性寫一篇文分享給大家。我想對於想自學樂理的學生，或是需要教學資源的老師都會滿有幫助的。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post3home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post3home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post3home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post3home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;我的網頁瀏覽器有一個名為「music」的書籤資料夾，放了我歷年來找到很棒、與音樂相關的資源。覺得只放在那有點可惜，索性寫一篇文分享給大家。我想對於想自學樂理的學生，或是需要教學資源的老師都會滿有幫助的。&lt;/p&gt;
 &lt;h2 id=&#34;中文資源&#34;&gt;中文資源&lt;/h2&gt;
 &lt;h3 id=&#34;1-好和弦-nicechordcom&#34;&gt;1. 好和弦 NiceChord.com&lt;/h3&gt;
 &lt;p&gt;中文的樂理資源本就不多，願意免費且公開提供樂理學習資源的，目前我除了 NiceChord.com 就找不到其他的了。NiceChord.com 由台灣鋼琴家官大為（Wiwi Kuan）所創立，他擅長將困難的樂理知識講解地清楚易懂！Wiwi 創立的 &lt;a href=&#34;https://www.youtube.com/@nicechordwiwi/videos&#34;target=&#34;_blank&#34;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Recipe on Alice Hsu&#39;s Blog</title>
     <link>https://alicehsu.blog/categories/recipe/</link>
@@ -14,8 +14,15 @@
       <pubDate>Sat, 01 Nov 2025 15:26:11 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/11/creamy-bacon-carbonara/</guid>
       <description>Here is the Delicious Spaghetti</description>
-      <content:encoded>
+
       
+        <media:thumbnail url="https://alicehsu.blog/images/Post/8/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/8/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/8/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>
 &lt;style&gt;
   
 #masonry-8d0ba1eddb851407b1cedcddf0de350f-1 {
@@ -318,8 +325,15 @@
       <pubDate>Fri, 31 Oct 2025 23:43:10 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</guid>
       <description>Here is the delicious dinner.</description>
-      <content:encoded>
-      &lt;p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/7/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/7/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/7/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
         data-lightbox-enabled=&#34;true&#34;
         data-gallery-type=&#34;auto&#34;&gt;

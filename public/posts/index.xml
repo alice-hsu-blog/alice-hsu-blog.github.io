@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Posts on Alice Hsu&#39;s Blog</title>
     <link>https://alicehsu.blog/posts/</link>
@@ -14,8 +14,15 @@
       <pubDate>Tue, 09 Dec 2025 15:00:00 -0600</pubDate>
       <guid>https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari/</guid>
       <description>Writing piano covers feels a bit like translation. You take a song performed by a full band and rewrite it so it makes musical sense on the piano, which gives me a sense of accomplishment.</description>
-      <content:encoded>
-      &lt;p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post13home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post13home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post13home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
         data-lightbox-enabled=&#34;true&#34;
         data-gallery-type=&#34;auto&#34;&gt;
@@ -156,8 +163,18 @@
       <pubDate>Wed, 03 Dec 2025 22:50:15 -0800</pubDate>
       <guid>https://alicehsu.blog/posts/2025/12/where-is-the-package/</guid>
       <description>The page showed a FedEx tracking link so I could check where the package was.</description>
-      <content:encoded>
-      &lt;p&gt;Recently, I bought something online. After placing the order, the page showed a FedEx tracking link so I could check where the package was.&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post12home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post12home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post12home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post12home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;Recently, I bought something online. After placing the order, the page showed a FedEx tracking link so I could check where the package was.&lt;/p&gt;
 &lt;p&gt;I was pretty eager to receive it, so I kept opening the link from time to time, checking again and again to see where it was.&lt;/p&gt;
 &lt;p&gt;One day, it suddenly dawned on me: checking more often is not going to make the driver go faster. The item does not need refrigeration, and I do not need to time it perfectly just to put it in the &lt;a href=&#34;https://alicehsu.blog/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/&#34;&gt;fridge&lt;/a&gt;, so why am I still clicking that link? It will arrive when it arrives, and if it has not arrived, then it simply has not.&lt;/p&gt;
 &lt;p&gt;I also realized that worrying about things I cannot control is just like clicking on that tracking link. It tricks the brain into feeling as if we have some control over the progress, when in reality, all we are doing is refreshing a page. We are not the ones driving, we are not the ones stepping on the gas, and we don&amp;rsquo;t even tell the driver to hurry.&lt;/p&gt;
@@ -173,8 +190,15 @@
       <pubDate>Wed, 03 Dec 2025 22:50:10 -0800</pubDate>
       <guid>https://alicehsu.blog/posts/2025/12/meet-francis-poulenc/</guid>
       <description>What kind of person writes such music? What were his thoughts about music? Any composers he likes or dislikes?</description>
-      <content:encoded>
-      &lt;h2 id=&#34;encountering-poulenc&#34;&gt;Encountering Poulenc&lt;/h2&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/11/2.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/11/2.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/11/2.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;h2 id=&#34;encountering-poulenc&#34;&gt;Encountering Poulenc&lt;/h2&gt;
 &lt;p&gt;Francis Poulenc (1899 - 1963) was a French composer and pianist, and one of the members of Les Six.&lt;/p&gt;
 &lt;p&gt;I first came to know Poulenc through his &lt;a href=&#34;https://www.youtube.com/watch?v=vE9QNQYPN2Q&#34;target=&#34;_blank&#34;
 &gt;Improvisation No. 7&lt;/a&gt;. It was one of the required pieces for a piano exam, and only then did I realize that this figure existed in the world of classical music. Upon first hearing it, I was deeply drawn to its rich harmonies. The piece begins in a simple and seemingly harmless C major. Then, as mysterious and ever-changing chords appear one after another, it becomes clear that it is far from simple. My favorite part is the heartbreaking opening of section B, followed by the majestic layers of octaves, and the return to C major after the climax has faded. Honestly, there are too many parts I love to list them all.&lt;/p&gt;
@@ -685,8 +709,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Wed, 03 Dec 2025 22:50:05 -0800</pubDate>
       <guid>https://alicehsu.blog/posts/2025/12/hayato-suminos-cateens-piano-recital/</guid>
       <description>Yesterday afternoon, I went to Chicago to hear Hayato Sumino&amp;rsquo;s piano recital.</description>
-      <content:encoded>
-      &lt;p&gt;Yesterday afternoon, I went to Chicago to hear &lt;a href=&#34;https://hayatosum.com/biography&#34;target=&#34;_blank&#34;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/10/3.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/10/3.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/10/3.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post/10/3.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;Yesterday afternoon, I went to Chicago to hear &lt;a href=&#34;https://hayatosum.com/biography&#34;target=&#34;_blank&#34;
 &gt;Hayato Sumino&amp;rsquo;s&lt;/a&gt; (also known as Cateen) piano recital. Walking out of the hall afterward, I felt so contented and moved!&lt;/p&gt;
 &lt;p&gt;Cateen is a pianist I have followed for a long time. I especially love his own compositions, and &lt;a href=&#34;https://www.youtube.com/watch?v=VmKin2xhKNk&#34;target=&#34;_blank&#34;
 &gt;Big Cat Waltz&lt;/a&gt; is just unbelievably adorable. One day in early August, while browsing his YouTube channel, I noticed in the description box that his next performance would be in Chicago. A same-day round trip by car would be no problem, and I even found great seats at a low price. Why hesitate? I pulled Sam along and bought the tickets immediately.&lt;/p&gt;
@@ -1026,8 +1060,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Sun, 09 Nov 2025 14:30:43 -0600</pubDate>
       <guid>https://alicehsu.blog/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/</guid>
       <description>What might a truly user-friendly smart fridge look like?</description>
-      <content:encoded>
-      &lt;p&gt;Recently, after chatting with my family about smart refrigerators, I came across an article by &lt;a href=&#34;https://wiwi.blog/blog/smart-fridge&#34;target=&#34;_blank&#34;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post9home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post9home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post9home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post9home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;Recently, after chatting with my family about smart refrigerators, I came across an article by &lt;a href=&#34;https://wiwi.blog/blog/smart-fridge&#34;target=&#34;_blank&#34;
 &gt;Wiwi&lt;/a&gt; and &lt;a href=&#34;https://shuojen.site/blog/2025/11/04/bed&#34;target=&#34;_blank&#34;
 &gt;Shuo-Jen Huang&lt;/a&gt; about smart home appliances. It got me thinking about what a truly user-friendly smart fridge might look like.&lt;/p&gt;
 &lt;p&gt;Here’s my version of a utopian smart fridge, imagined from the perspective of a housewife.&lt;/p&gt;
@@ -1143,8 +1187,15 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
       <pubDate>Sat, 01 Nov 2025 15:26:11 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/11/creamy-bacon-carbonara/</guid>
       <description>Here is the Delicious Spaghetti</description>
-      <content:encoded>
+
       
+        <media:thumbnail url="https://alicehsu.blog/images/Post/8/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/8/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/8/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>
 &lt;style&gt;
   
 #masonry-8d0ba1eddb851407b1cedcddf0de350f-1 {
@@ -1447,8 +1498,15 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
       <pubDate>Fri, 31 Oct 2025 23:43:10 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</guid>
       <description>Here is the delicious dinner.</description>
-      <content:encoded>
-      &lt;p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/7/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/7/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/7/1.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
         data-lightbox-enabled=&#34;true&#34;
         data-gallery-type=&#34;auto&#34;&gt;
@@ -1564,8 +1622,18 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
       <pubDate>Thu, 30 Oct 2025 21:15:06 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/10/why-do-we-create/</guid>
       <description>Recently, I’ve been thinking about this question quite often, and I find it really intriguing, so I’d like to try answering it.</description>
-      <content:encoded>
-      &lt;div
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post6home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post6home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post6home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post6home.jpg"
+          loading="eager"
+        /&gt;&lt;div
     class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
     style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
               border-left-color: var(--color-caution);
@@ -1668,8 +1736,15 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
       <pubDate>Sat, 25 Oct 2025 23:47:21 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/</guid>
       <description>Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays.</description>
-      <content:encoded>
-      &lt;p&gt;Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays. Devil’s Lake is a state park in Wisconsin. When we came the last time, it wasn’t this crowded, but today there were so many visitors. No surprise, though, the scenery was absolutely stunning.&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/5/30.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/5/30.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/5/30.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays. Devil’s Lake is a state park in Wisconsin. When we came the last time, it wasn’t this crowded, but today there were so many visitors. No surprise, though, the scenery was absolutely stunning.&lt;/p&gt;
 &lt;h2 id=&#34;devils-lake&#34;&gt;Devil&amp;rsquo;s Lake&lt;/h2&gt;
 &lt;p&gt;
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
@@ -2491,8 +2566,18 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
       <pubDate>Fri, 24 Oct 2025 21:50:24 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/10/source-of-creation/</guid>
       <description>Recently, I’ve been reading Life Can Be So Beautiful.</description>
-      <content:encoded>
-      &lt;p&gt;Recently, I’ve been reading &lt;em&gt;Life Can Be So Beautiful&lt;/em&gt;,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; a collection of essays written by Professor&lt;a href=&#34;https://www.moc.gov.tw/EN/News_Content2.aspx?n=481&amp;amp;sms=10717&amp;amp;s=17489&#34;target=&#34;_blank&#34;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post4home.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post4home.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post4home.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post4home.JPG"
+          loading="eager"
+        /&gt;&lt;p&gt;Recently, I’ve been reading &lt;em&gt;Life Can Be So Beautiful&lt;/em&gt;,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; a collection of essays written by Professor&lt;a href=&#34;https://www.moc.gov.tw/EN/News_Content2.aspx?n=481&amp;amp;sms=10717&amp;amp;s=17489&#34;target=&#34;_blank&#34;
 &gt; Lin, Wen-yueh&lt;/a&gt; (1933–2023). In one article, “A Letter to My Daughter—In the Style of Fu Lei’s Family Letters” (written in October 1987), she discusses several sources of inspiration for artistic creation. Her words are deeply thought-provoking, and I feel compelled to respond to them. Here is the original passage:&lt;/p&gt;
 
   &lt;blockquote
@@ -2587,8 +2672,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Fri, 17 Oct 2025 21:37:37 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/10/free-online-music-theory-resources/</guid>
       <description>I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years.</description>
-      <content:encoded>
-      &lt;p&gt;I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years. I thought it was a bit of a waste to keep them just for myself, so I decided to share them here! I believe these resources will be helpful to both students who want to study music theory independently and to teachers seeking high-quality teaching materials.&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post3home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post3home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post3home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post3home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years. I thought it was a bit of a waste to keep them just for myself, so I decided to share them here! I believe these resources will be helpful to both students who want to study music theory independently and to teachers seeking high-quality teaching materials.&lt;/p&gt;
 &lt;h2 id=&#34;chinese-resources&#34;&gt;Chinese Resources&lt;/h2&gt;
 &lt;h3 id=&#34;1-nicechordcom&#34;&gt;1. NiceChord.com&lt;/h3&gt;
 &lt;p&gt;There aren’t many Chinese-language resources on music theory, and among those that are free and publicly available, I’ve only found one that really stands out. That is, NiceChord.com, founded by Taiwanese pianist Wiwi Kuan.&lt;/p&gt;
@@ -3492,8 +3587,15 @@ Feel free to reach out and share your thoughts with me. I’d love to hear your 
       <pubDate>Sun, 12 Oct 2025 22:15:47 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/10/the-story-behind-bell/</guid>
       <description>One day while improvising, I played the opening eight measures by chance and thought they sounded nice.</description>
-      <content:encoded>
-      &lt;div
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post2home.png" />
+        <media:content url="https://alicehsu.blog/images/Post2home.png" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post2home.png" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;div
     class=&#34;alert alert-warning my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
     style=&#34;background-color: color-mix(in srgb, var(--color-warning) 10%, transparent);
               border-left-color: var(--color-warning);
@@ -5653,8 +5755,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Sun, 28 Sep 2025 21:21:01 -0500</pubDate>
       <guid>https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</guid>
       <description>I joined Facebook in 2009 and have been using it for almost ten years now.</description>
-      <content:encoded>
-      &lt;p&gt;The following post was originally published on Medium on April 5, 2019. Six years later, I not only deleted the apps but also permanently deleted my Instagram account, and I often keep my Facebook account deactivated. I only reactivate it when I need to buy or sell something. Looking back now, I truly feel that my past self had taken an excellent first step.&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post1home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post1home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post1home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;The following post was originally published on Medium on April 5, 2019. Six years later, I not only deleted the apps but also permanently deleted my Instagram account, and I often keep my Facebook account deactivated. I only reactivate it when I need to buy or sell something. Looking back now, I truly feel that my past self had taken an excellent first step.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;I joined Facebook in 2009 and have been using it for almost ten years now.&lt;/p&gt;
 &lt;p&gt;Over the years, the changes have been dramatic. It started with just a few friends playing Happy Farm together, but soon exploded into over 400 friends (I know it’s still considered “few” by some people) flooding my feed. Not only my elementary school teachers, but even distant relatives and aunts I barely knew started adding me as a Facebook friend. My friend list became a strange mix of familiar yet unfamiliar people, and before long, I turned into a lurker, quietly scrolling through everyone’s updates.&lt;/p&gt;

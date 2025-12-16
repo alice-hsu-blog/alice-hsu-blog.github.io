@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>隨想雜談 on Alice Hsu&#39;s Blog</title>
     <link>https://alicehsu.blog/zh-tw/categories/%E9%9A%A8%E6%83%B3%E9%9B%9C%E8%AB%87/</link>
@@ -14,8 +14,18 @@
       <pubDate>Sun, 14 Dec 2025 15:00:00 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E5%BA%A6%E5%81%87%E5%BE%8C%E7%97%87%E5%80%99%E7%BE%A4/</guid>
       <description>度假後症候群（Post-Vacation Syndrome）顧名思義，指的是一個人在度假之後會產生之行為與症狀。</description>
-      <content:encoded>
-      &lt;p&gt;度假後症候群（Post-Vacation Syndrome）顧名思義，指的是一個人在度假之後會產生之行為與症狀：&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post16home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post16home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post16home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post16home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;度假後症候群（Post-Vacation Syndrome）顧名思義，指的是一個人在度假之後會產生之行為與症狀：&lt;/p&gt;
 &lt;p&gt;常見的有：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;每天回顧旅遊時拍攝的相片&lt;/li&gt;
@@ -39,8 +49,18 @@
       <pubDate>Wed, 26 Nov 2025 16:35:25 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E5%8C%85%E8%A3%B9%E5%9C%A8%E5%93%AA%E8%A3%A1/</guid>
       <description>訂單上顯示了一個 Fedex 的連結，讓人用來追蹤包裹。</description>
-      <content:encoded>
-      &lt;p&gt;最近網購個東西，下單後，訂單上顯示了 Fedex 的連結，讓人用來追蹤包裹。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post12home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post12home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post12home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post12home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;最近網購個東西，下單後，訂單上顯示了 Fedex 的連結，讓人用來追蹤包裹。&lt;/p&gt;
 &lt;p&gt;有點心急想快點拿到，下單後，三不五時就會去看一下包裹現在在哪裡。&lt;/p&gt;
 &lt;p&gt;某一天，我忽然意識到：不是啊，難道我看多次一點，司機就會開快一點嗎？這東西也不用冰，也不需要算好時間收包裹把東西塞進&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2025/11/%EF%B8%8F-%e7%83%8f%e6%89%98%e9%82%a6%e5%bc%8f%e6%99%ba%e6%85%a7%e5%86%b0%e7%ae%b1/&#34;&gt;冰箱&lt;/a&gt;，那我幹嘛還在這邊點連結？反正到了就是到了，沒到就是沒到。&lt;/p&gt;
 &lt;p&gt;我又發現，對於沒辦法掌控和決定的事情，憂慮與擔心不就和追蹤包裹的連結一樣嗎？它欺騙你的大腦，讓你覺得好像可以掌控事情的發展。可是，你做的只是點開連結而已，並沒有自己手握方向盤腳踩油門，甚至也沒有叫司機飆車開快點。&lt;/p&gt;
@@ -54,8 +74,18 @@
       <pubDate>Fri, 07 Nov 2025 22:30:43 -0600</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%EF%B8%8F-%E7%83%8F%E6%89%98%E9%82%A6%E5%BC%8F%E6%99%BA%E6%85%A7%E5%86%B0%E7%AE%B1/</guid>
       <description>真正符合人性的智慧冰箱會長什麼樣子?</description>
-      <content:encoded>
-      &lt;p&gt;最近和家人聊到智慧冰箱，不久後，就讀到了 &lt;a href=&#34;https://wiwi.blog/blog/smart-fridge&#34;target=&#34;_blank&#34;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post9home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post9home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post9home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post9home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;最近和家人聊到智慧冰箱，不久後，就讀到了 &lt;a href=&#34;https://wiwi.blog/blog/smart-fridge&#34;target=&#34;_blank&#34;
 &gt;Wiwi&lt;/a&gt; 和&lt;a href=&#34;https://shuojen.site/blog/2025/11/04/bed&#34;target=&#34;_blank&#34;
 &gt;黃碩人&lt;/a&gt;所寫關於智慧家電的文章，讓我不禁思考真正符合人性的智慧冰箱會長什麼樣子。&lt;/p&gt;
 &lt;p&gt;身為一位家庭主婦所幻想的烏托邦式智慧冰箱：&lt;/p&gt;
@@ -168,8 +198,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Thu, 30 Oct 2025 21:15:06 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%A6%81%E5%89%B5%E4%BD%9C/</guid>
       <description>最近常常思考這個問題，覺得這個問題滿有趣的，想試著回答一下。</description>
-      <content:encoded>
-      &lt;div
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post6home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post6home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post6home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post6home.jpg"
+          loading="eager"
+        /&gt;&lt;div
     class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
     style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
               border-left-color: var(--color-caution);
@@ -247,8 +287,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Fri, 24 Oct 2025 21:50:24 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E5%89%B5%E4%BD%9C%E7%9A%84%E6%B3%89%E6%BA%90/</guid>
       <description>最近在讀林文月先生（1933-2023）的《生活可以如此美好》散文集</description>
-      <content:encoded>
-      &lt;p&gt;最近在讀&lt;a href=&#34;https://www.lib.ntu.edu.tw/events/2023_LinWen-yueh/&#34;target=&#34;_blank&#34;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post4home.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post4home.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post4home.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post4home.JPG"
+          loading="eager"
+        /&gt;&lt;p&gt;最近在讀&lt;a href=&#34;https://www.lib.ntu.edu.tw/events/2023_LinWen-yueh/&#34;target=&#34;_blank&#34;
 &gt;林文月先生&lt;/a&gt;（1933-2023）的《生活可以如此美好》散文集，其中的一篇文章〈給女兒的信——擬《傅雷家書》〉（寫於 1987 年 10 月），她提及創作的幾項靈感來源，發人省思，也有我想與其對話之處，故援引原文如下：&lt;/p&gt;
 
   &lt;blockquote
@@ -338,8 +388,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <pubDate>Sun, 28 Sep 2025 21:21:01 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2025/09/%E5%88%AA%E6%8E%89-fb-%E8%88%87-ig-%E7%9A%84%E6%88%91%E7%99%BC%E7%94%9F%E4%BA%86%E4%BB%80%E9%BA%BC%E8%AE%8A%E5%8C%96/</guid>
       <description>從 2009 年加入 FB 至現在，我使用 FB 將近十年了。</description>
-      <content:encoded>
-      &lt;p&gt;以下這篇文章在 2019 年 4 月 5 日於 Medium  發表。六年後的我，不只刪除了app，也刪除了 Instagram 的帳號，並且常讓 Facebook 處於停用的狀態，只有在還需用  Marketplace 的時候才會開啟帳號。現在回看，真覺得六年前的自己開了很好的頭。&lt;/p&gt;
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post1home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post1home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post1home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;以下這篇文章在 2019 年 4 月 5 日於 Medium  發表。六年後的我，不只刪除了app，也刪除了 Instagram 的帳號，並且常讓 Facebook 處於停用的狀態，只有在還需用  Marketplace 的時候才會開啟帳號。現在回看，真覺得六年前的自己開了很好的頭。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;從 2009 年加入 FB 至現在，我使用 FB 將近十年了。&lt;/p&gt;
 &lt;p&gt;這十年來變化之大，從少少的幾個朋友一起玩開心農場，暴增至 400 多個(對有些人來說還算少的了)狂洗我的動態版面，不僅我的國小老師，甚至到不熟的遠親阿姨都加我為 FB 好友。一團既熟悉又陌生的親友擠在我的好友名單，很快地我就成了潛水一族，默默看著大家的動態。&lt;/p&gt;
