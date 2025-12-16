@@ -16,7 +16,7 @@
       <description>Here is the Delicious Spaghetti</description>
       <content:encoded>
       
-<style>
+&lt;style&gt;
   
 #masonry-8d0ba1eddb851407b1cedcddf0de350f-1 {
   width: 100%;
@@ -65,71 +65,71 @@
   overflow: hidden;
   border-radius: 0.5rem;
 }
-</style>
+&lt;/style&gt;
 
-<div class="masonry-gallery" 
-     id="masonry-8d0ba1eddb851407b1cedcddf0de350f-1"
-     data-columns="1"
-     data-gutter="15"
-     data-animate="true"
-     data-use-transform="true"
-     data-center="true"
-     data-max-columns="5"
-     data-lightbox="true">
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-8d0ba1eddb851407b1cedcddf0de350f-1&#34;
+     data-columns=&#34;1&#34;
+     data-gutter=&#34;15&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;5&#34;
+     data-lightbox=&#34;true&#34;&gt;
 
-  <div class="masonry-container">
-    <div class="masonry-item"><a href="/images/Post/8/1.jpg" 
-             class="glightbox"
-             data-gallery="masonry-8d0ba1eddb851407b1cedcddf0de350f-1">
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-8d0ba1eddb851407b1cedcddf0de350f-1&#34;&gt;
             
-            <img
-    src="/images/Post/8/1.jpg"
-    alt=""
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34;
+    alt=&#34;&#34;
     
     
-    loading="lazy"
-    decoding="async"
-    data-gallery-src="/images/Post/8/1.jpg"
-    data-gallery-alt=""
-    data-gallery-title="" /></a></div></div>
-</div>
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 
-<script>
+&lt;script&gt;
 (function() {
-  const containerId = 'masonry-8d0ba1eddb851407b1cedcddf0de350f-1';
+  const containerId = &#39;masonry-8d0ba1eddb851407b1cedcddf0de350f-1&#39;;
   const config = {
     columns:  1 ,
     gutter:  15 ,
     maxColumns:  5 ,
     lightbox:  true ,
-    animate: "true",
-    useTransform: "true",
-    center: "true"
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
   };
   
-  console.log('Initializing masonry gallery:', containerId, config);
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
   
   function initMasonryGallery() {
     const container = document.getElementById(containerId);
     if (!container) {
-      console.error('Masonry container not found:', containerId);
+      console.error(&#39;Masonry container not found:&#39;, containerId);
       return;
     }
     
-    const masonryContainer = container.querySelector('.masonry-container');
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
     if (!masonryContainer) {
-      console.error('Masonry inner container not found');
+      console.error(&#39;Masonry inner container not found&#39;);
       return;
     }
     
     
-    if (typeof Macy === 'undefined') {
-      console.error('Macy.js not loaded');
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
       return;
     }
     
-    console.log('Found container and Macy, initializing...');
+    console.log(&#39;Found container and Macy, initializing...&#39;);
     
     
     try {
@@ -155,10 +155,10 @@
         }
       });
       
-      console.log('Macy initialized successfully for', containerId);
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
       
       
-      const images = masonryContainer.querySelectorAll('img');
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
       let loadedImages = 0;
       const totalImages = images.length;
       
@@ -167,40 +167,40 @@
         console.log(`Image ${loadedImages}/${totalImages} loaded`);
         
         if (loadedImages === totalImages) {
-          setTimeout(() => {
-            if (macyInstance && macyInstance.reCalculate) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
               macyInstance.reCalculate(true);
-              console.log('Macy layout recalculated after all images loaded');
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
             }
           }, 100);
         }
       }
       
-      images.forEach(img => {
+      images.forEach(img =&gt; {
         if (img.complete) {
           onImageLoad();
         } else {
-          img.addEventListener('load', onImageLoad);
-          img.addEventListener('error', onImageLoad);
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
         }
       });
       
     } catch (error) {
-      console.error('Error initializing Macy:', error);
+      console.error(&#39;Error initializing Macy:&#39;, error);
     }
     
     
     if (config.lightbox) {
-      if (typeof GLightbox !== 'undefined') {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
         try {
           
           let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
           
-          if (typeof globalLightboxConfig === 'string') {
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
             try {
               globalLightboxConfig = JSON.parse(globalLightboxConfig);
             } catch (e) {
-              console.error('Error parsing masonry GLightbox config:', e);
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
               globalLightboxConfig = {};
             }
           }          
@@ -211,21 +211,21 @@
             draggable: globalLightboxConfig.draggable ?? true,
             zoomable: globalLightboxConfig.zoomable ?? true,
             preload: globalLightboxConfig.preload ?? true,
-            width: globalLightboxConfig.width || '90vw',
-            height: globalLightboxConfig.height || '90vh',
-            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || 'bottom',
-            onOpen: () => {
-              console.log('GLightbox opened for', containerId);
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
             }
           });
           
-          console.log('GLightbox initialized successfully for', containerId, 'with global config');
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
           
         } catch (error) {
-          console.error('Error initializing GLightbox:', error);
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
         }
       } else {
-        console.error('GLightbox not loaded but lightbox is enabled');
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
       }
     }
   }
@@ -238,15 +238,15 @@
     function check() {
       attempts++;
       
-      const macyReady = typeof Macy !== 'undefined';
-      const lightboxReady = !config.lightbox || typeof GLightbox !== 'undefined';
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
       
-      if (macyReady && lightboxReady) {
+      if (macyReady &amp;&amp; lightboxReady) {
         initMasonryGallery();
-      } else if (attempts < maxAttempts) {
+      } else if (attempts &lt; maxAttempts) {
         setTimeout(check, 100);
       } else {
-        console.error('Timeout waiting for libraries. Macy:', macyReady, 'GLightbox:', lightboxReady);
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
       }
     }
     
@@ -254,61 +254,61 @@
   }
   
   
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', waitForLibraries);
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
   } else {
     setTimeout(waitForLibraries, 50);
   }
 })();
-</script>
-<h2 id="2-serving-bacon-carbonara">2-Serving Bacon Carbonara</h2>
-<h3 id="notes">Notes</h3>
-<p>The Bacon Carbonara that Sam and I made is a simple, budget-friendly version of the traditional Italian Carbonara. We replaced guanciale with bacon, used whole eggs instead of just egg yolks (since leftover egg whites can be a hassle), and swapped freshly grated parmigiano reggiano for store-bought parmesan powder. The ingredients are easy to find, affordable, and the dish still tastes amazing.</p>
-<p>While many recipes add the cheese-egg mixture into the hot pan (after removing it from heat) with the pasta and toppings, the pan often remains hot enough to scramble the eggs. Sam decided to reverse the process — mixing the pasta and toppings into the cheese-egg mixture instead. This way, the eggs don’t curdle, and each strand of pasta gets evenly coated with the creamy sauce. The result was incredibly delicious!</p>
-<h3 id="ingredients">Ingredients</h3>
-<ol>
-<li>Spaghetti (Rummo) — 220 g</li>
-<li>Salt — a pinch</li>
-<li>Thick-cut bacon — 3 strips</li>
-<li>Mushrooms — 3 pieces</li>
-<li>Minced garlic — as needed</li>
-<li>Eggs — 3</li>
-<li>Parmesan cheese powder — a generous amount</li>
-</ol>
-<h3 id="cooking-steps">Cooking Steps</h3>
-<ol>
-<li>
-<p>Preparation</p>
-<ul>
-<li>Slice the bacon into thin strips, cut mushrooms into slices, and mince the garlic.</li>
-<li>Add a pinch of salt to a large pot of water.</li>
-<li>In another (preferably large) bowl or pot — large enough to mix in the pasta and toppings later — crack the eggs and add plenty of parmesan cheese powder. Mix lightly.</li>
-</ul>
-</li>
-<li>
-<p>Cooking</p>
-<ul>
-<li>Bring the salted water to a boil, then add the spaghetti. Set a timer according to the cooking time on the package.</li>
-<li>While the pasta cooks, have one person continuously whisk the cheese-egg mixture over the steam from the boiling pasta pot to help the cheese powder blend smoothly.</li>
-<li>Meanwhile, heat a pan with a little oil and add the bacon.</li>
-<li>Once the bacon turns golden, add the mushrooms.</li>
-<li>Stir-fry briefly, then add some black pepper.</li>
-<li>When the aroma comes out, add the minced garlic.</li>
-<li>Sauté until the garlic turns golden, then turn off the heat.</li>
-<li>When the pasta is ready, transfer it into the cheese-egg mixture and stir quickly.</li>
-<li>After mixing halfway, add the cooked bacon, mushrooms, and garlic.</li>
-<li>Add a little pasta water if the sauce becomes too thick.</li>
-<li>Adjust the consistency to your liking, then plate and serve.</li>
-</ul>
-</li>
-</ol>
-<p>If cooking alone, you can slightly adjust the order of steps:</p>
-<ul>
-<li>When the pasta water boils, don’t add the pasta yet — first, whisk the cheese-egg mixture over the steam to combine it smoothly.</li>
-<li>Then add the pasta and cook while stir-frying the other ingredients.</li>
-</ul>
-<hr>
-<p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
+&lt;/script&gt;
+&lt;h2 id=&#34;2-serving-bacon-carbonara&#34;&gt;2-Serving Bacon Carbonara&lt;/h2&gt;
+&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
+&lt;p&gt;The Bacon Carbonara that Sam and I made is a simple, budget-friendly version of the traditional Italian Carbonara. We replaced guanciale with bacon, used whole eggs instead of just egg yolks (since leftover egg whites can be a hassle), and swapped freshly grated parmigiano reggiano for store-bought parmesan powder. The ingredients are easy to find, affordable, and the dish still tastes amazing.&lt;/p&gt;
+&lt;p&gt;While many recipes add the cheese-egg mixture into the hot pan (after removing it from heat) with the pasta and toppings, the pan often remains hot enough to scramble the eggs. Sam decided to reverse the process — mixing the pasta and toppings into the cheese-egg mixture instead. This way, the eggs don’t curdle, and each strand of pasta gets evenly coated with the creamy sauce. The result was incredibly delicious!&lt;/p&gt;
+&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Spaghetti (Rummo) — 220 g&lt;/li&gt;
+&lt;li&gt;Salt — a pinch&lt;/li&gt;
+&lt;li&gt;Thick-cut bacon — 3 strips&lt;/li&gt;
+&lt;li&gt;Mushrooms — 3 pieces&lt;/li&gt;
+&lt;li&gt;Minced garlic — as needed&lt;/li&gt;
+&lt;li&gt;Eggs — 3&lt;/li&gt;
+&lt;li&gt;Parmesan cheese powder — a generous amount&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;cooking-steps&#34;&gt;Cooking Steps&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Preparation&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slice the bacon into thin strips, cut mushrooms into slices, and mince the garlic.&lt;/li&gt;
+&lt;li&gt;Add a pinch of salt to a large pot of water.&lt;/li&gt;
+&lt;li&gt;In another (preferably large) bowl or pot — large enough to mix in the pasta and toppings later — crack the eggs and add plenty of parmesan cheese powder. Mix lightly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cooking&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bring the salted water to a boil, then add the spaghetti. Set a timer according to the cooking time on the package.&lt;/li&gt;
+&lt;li&gt;While the pasta cooks, have one person continuously whisk the cheese-egg mixture over the steam from the boiling pasta pot to help the cheese powder blend smoothly.&lt;/li&gt;
+&lt;li&gt;Meanwhile, heat a pan with a little oil and add the bacon.&lt;/li&gt;
+&lt;li&gt;Once the bacon turns golden, add the mushrooms.&lt;/li&gt;
+&lt;li&gt;Stir-fry briefly, then add some black pepper.&lt;/li&gt;
+&lt;li&gt;When the aroma comes out, add the minced garlic.&lt;/li&gt;
+&lt;li&gt;Sauté until the garlic turns golden, then turn off the heat.&lt;/li&gt;
+&lt;li&gt;When the pasta is ready, transfer it into the cheese-egg mixture and stir quickly.&lt;/li&gt;
+&lt;li&gt;After mixing halfway, add the cooked bacon, mushrooms, and garlic.&lt;/li&gt;
+&lt;li&gt;Add a little pasta water if the sauce becomes too thick.&lt;/li&gt;
+&lt;li&gt;Adjust the consistency to your liking, then plate and serve.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If cooking alone, you can slightly adjust the order of steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When the pasta water boils, don’t add the pasta yet — first, whisk the cheese-egg mixture over the steam to combine it smoothly.&lt;/li&gt;
+&lt;li&gt;Then add the pasta and cook while stir-frying the other ingredients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.&lt;/em&gt;&lt;/p&gt;
 
       </content:encoded>
     </item>
@@ -319,113 +319,113 @@
       <guid>https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</guid>
       <description>Here is the delicious dinner.</description>
       <content:encoded>
-      <p>
-<figure class="image-figure not-prose my-8" 
-        data-lightbox-enabled="true"
-        data-gallery-type="auto">
-  <div class="image-container">
-    <img
-    src="/images/Post/7/1.jpg"
-    alt=""
+      &lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/7/1.jpg&#34;
+    alt=&#34;&#34;
     
     
-    loading="lazy"
-    decoding="async"
-    data-gallery-src="/images/Post/7/1.jpg"
-    data-gallery-alt=""
-    data-gallery-title="" /></div>
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/7/1.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
-  </figure>
+  &lt;/figure&gt;
 
-<figure class="image-figure not-prose my-8" 
-        data-lightbox-enabled="true"
-        data-gallery-type="auto">
-  <div class="image-container">
-    <img
-    src="/images/Post/7/2.jpg"
-    alt=""
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/7/2.jpg&#34;
+    alt=&#34;&#34;
     
     
-    loading="lazy"
-    decoding="async"
-    data-gallery-src="/images/Post/7/2.jpg"
-    data-gallery-alt=""
-    data-gallery-title="" /></div>
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/7/2.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
-  </figure></p>
-<h2 id="japanese-oyakodon-chicken-and-egg-rice-bowl-for-2-servings">Japanese Oyakodon (Chicken and Egg Rice Bowl) for 2 Servings</h2>
-<h3 id="ingredients">Ingredients</h3>
-<ol>
-<li>
-<p>Chicken Marinade</p>
-<ul>
-<li>Soy sauce: 40 g</li>
-<li>Mirin: 20 g</li>
-<li>Rice wine (sake): 20 g</li>
-<li>Sugar: 20 g</li>
-<li>Minced garlic: to taste</li>
-<li>Minced ginger: to taste</li>
-</ul>
-</li>
-<li>
-<p>Chicken thighs (boneless, skin-on): 2 pieces</p>
-</li>
-<li>
-<p>Onion: ½ piece</p>
-</li>
-<li>
-<p>Taiwanese Cabbage: 3 large leaves</p>
-</li>
-<li>
-<p>Eggs: 3</p>
-</li>
-<li>
-<p>Green onions: 4 stalks</p>
-</li>
-<li>
-<p>White sesame seeds: to taste</p>
-</li>
-</ol>
-<h3 id="cooking-steps">Cooking Steps</h3>
-<ul>
-<li>Marinate the chicken thighs in the sauce for 20–30 minutes.</li>
-<li>Place the chicken skin-side down and pan-sear for 2 minutes.</li>
-<li>Flip and sear for 1 minute 50 seconds.</li>
-<li>Flip again and cook for 1 minute,</li>
-<li>Flip once more and cook for another 1 minute.</li>
-<li>Remove from the pan and slice the chicken on a cutting board.</li>
-<li>Without washing the pan, add the onion and sauté briefly, then add the cabbage.</li>
-<li>Stir-fry lightly, then add the sliced chicken.</li>
-<li>Mix 50 ml of water into the marinade and pour it into the pan.</li>
-<li>Cover and cook until the chicken turns white.</li>
-<li>Uncover and pour in half of the beaten eggs, then cover again.</li>
-<li>When the eggs are slightly set, uncover and pour in the remaining egg mixture.</li>
-<li>Once half-cooked, serve over steamed rice, sprinkle with sesame seeds and chopped green onions, and enjoy!</li>
-</ul>
-<h2 id="tomato-and-corn-soup">Tomato and Corn Soup</h2>
-<h3 id="ingredients-1">Ingredients</h3>
-<ol>
-<li>Japanese Dashi Stock
-<ul>
-<li>Water: 1500 g</li>
-<li>Kombu (kelp): 1 piece</li>
-<li>Bonito flakes: 2 handfuls</li>
-</ul>
-</li>
-<li>Tomatoes: 3</li>
-<li>Corn: 2 ears</li>
-<li>Miso paste: ½ tablespoon</li>
-<li>Salt: a pinch</li>
-</ol>
-<h3 id="cooking-steps-1">Cooking Steps</h3>
-<ol>
-<li>Soak the kombu for 20 minutes, then heat over low heat for 10 minutes.</li>
-<li>Remove the kombu, add the bonito flakes, and simmer for 2 minutes. Strain out the flakes.</li>
-<li>Add the chopped tomatoes and corn, then simmer over medium-high heat for 20 minutes.</li>
-<li>Season with salt and miso paste. Serve hot and enjoy!</li>
-</ol>
-<hr>
-<p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;japanese-oyakodon-chicken-and-egg-rice-bowl-for-2-servings&#34;&gt;Japanese Oyakodon (Chicken and Egg Rice Bowl) for 2 Servings&lt;/h2&gt;
+&lt;h3 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Chicken Marinade&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Soy sauce: 40 g&lt;/li&gt;
+&lt;li&gt;Mirin: 20 g&lt;/li&gt;
+&lt;li&gt;Rice wine (sake): 20 g&lt;/li&gt;
+&lt;li&gt;Sugar: 20 g&lt;/li&gt;
+&lt;li&gt;Minced garlic: to taste&lt;/li&gt;
+&lt;li&gt;Minced ginger: to taste&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chicken thighs (boneless, skin-on): 2 pieces&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Onion: ½ piece&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Taiwanese Cabbage: 3 large leaves&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eggs: 3&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Green onions: 4 stalks&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;White sesame seeds: to taste&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;cooking-steps&#34;&gt;Cooking Steps&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Marinate the chicken thighs in the sauce for 20–30 minutes.&lt;/li&gt;
+&lt;li&gt;Place the chicken skin-side down and pan-sear for 2 minutes.&lt;/li&gt;
+&lt;li&gt;Flip and sear for 1 minute 50 seconds.&lt;/li&gt;
+&lt;li&gt;Flip again and cook for 1 minute,&lt;/li&gt;
+&lt;li&gt;Flip once more and cook for another 1 minute.&lt;/li&gt;
+&lt;li&gt;Remove from the pan and slice the chicken on a cutting board.&lt;/li&gt;
+&lt;li&gt;Without washing the pan, add the onion and sauté briefly, then add the cabbage.&lt;/li&gt;
+&lt;li&gt;Stir-fry lightly, then add the sliced chicken.&lt;/li&gt;
+&lt;li&gt;Mix 50 ml of water into the marinade and pour it into the pan.&lt;/li&gt;
+&lt;li&gt;Cover and cook until the chicken turns white.&lt;/li&gt;
+&lt;li&gt;Uncover and pour in half of the beaten eggs, then cover again.&lt;/li&gt;
+&lt;li&gt;When the eggs are slightly set, uncover and pour in the remaining egg mixture.&lt;/li&gt;
+&lt;li&gt;Once half-cooked, serve over steamed rice, sprinkle with sesame seeds and chopped green onions, and enjoy!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tomato-and-corn-soup&#34;&gt;Tomato and Corn Soup&lt;/h2&gt;
+&lt;h3 id=&#34;ingredients-1&#34;&gt;Ingredients&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Japanese Dashi Stock
+&lt;ul&gt;
+&lt;li&gt;Water: 1500 g&lt;/li&gt;
+&lt;li&gt;Kombu (kelp): 1 piece&lt;/li&gt;
+&lt;li&gt;Bonito flakes: 2 handfuls&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tomatoes: 3&lt;/li&gt;
+&lt;li&gt;Corn: 2 ears&lt;/li&gt;
+&lt;li&gt;Miso paste: ½ tablespoon&lt;/li&gt;
+&lt;li&gt;Salt: a pinch&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;cooking-steps-1&#34;&gt;Cooking Steps&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Soak the kombu for 20 minutes, then heat over low heat for 10 minutes.&lt;/li&gt;
+&lt;li&gt;Remove the kombu, add the bonito flakes, and simmer for 2 minutes. Strain out the flakes.&lt;/li&gt;
+&lt;li&gt;Add the chopped tomatoes and corn, then simmer over medium-high heat for 20 minutes.&lt;/li&gt;
+&lt;li&gt;Season with salt and miso paste. Serve hot and enjoy!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.&lt;/em&gt;&lt;/p&gt;
 
       </content:encoded>
     </item>

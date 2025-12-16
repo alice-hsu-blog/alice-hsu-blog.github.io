@@ -16,7 +16,7 @@
       <description>好吃的義大利麵在這裡。</description>
       <content:encoded>
       
-<style>
+&lt;style&gt;
   
 #masonry-0b22cd3834a2b70b0c515f8d5776a299-1 {
   width: 100%;
@@ -65,71 +65,71 @@
   overflow: hidden;
   border-radius: 0.5rem;
 }
-</style>
+&lt;/style&gt;
 
-<div class="masonry-gallery" 
-     id="masonry-0b22cd3834a2b70b0c515f8d5776a299-1"
-     data-columns="1"
-     data-gutter="15"
-     data-animate="true"
-     data-use-transform="true"
-     data-center="true"
-     data-max-columns="5"
-     data-lightbox="true">
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-0b22cd3834a2b70b0c515f8d5776a299-1&#34;
+     data-columns=&#34;1&#34;
+     data-gutter=&#34;15&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;5&#34;
+     data-lightbox=&#34;true&#34;&gt;
 
-  <div class="masonry-container">
-    <div class="masonry-item"><a href="/images/Post/8/1.jpg" 
-             class="glightbox"
-             data-gallery="masonry-0b22cd3834a2b70b0c515f8d5776a299-1">
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-0b22cd3834a2b70b0c515f8d5776a299-1&#34;&gt;
             
-            <img
-    src="/images/Post/8/1.jpg"
-    alt=""
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34;
+    alt=&#34;&#34;
     
     
-    loading="lazy"
-    decoding="async"
-    data-gallery-src="/images/Post/8/1.jpg"
-    data-gallery-alt=""
-    data-gallery-title="" /></a></div></div>
-</div>
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
 
 
-<script>
+&lt;script&gt;
 (function() {
-  const containerId = 'masonry-0b22cd3834a2b70b0c515f8d5776a299-1';
+  const containerId = &#39;masonry-0b22cd3834a2b70b0c515f8d5776a299-1&#39;;
   const config = {
     columns:  1 ,
     gutter:  15 ,
     maxColumns:  5 ,
     lightbox:  true ,
-    animate: "true",
-    useTransform: "true",
-    center: "true"
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
   };
   
-  console.log('Initializing masonry gallery:', containerId, config);
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
   
   function initMasonryGallery() {
     const container = document.getElementById(containerId);
     if (!container) {
-      console.error('Masonry container not found:', containerId);
+      console.error(&#39;Masonry container not found:&#39;, containerId);
       return;
     }
     
-    const masonryContainer = container.querySelector('.masonry-container');
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
     if (!masonryContainer) {
-      console.error('Masonry inner container not found');
+      console.error(&#39;Masonry inner container not found&#39;);
       return;
     }
     
     
-    if (typeof Macy === 'undefined') {
-      console.error('Macy.js not loaded');
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
       return;
     }
     
-    console.log('Found container and Macy, initializing...');
+    console.log(&#39;Found container and Macy, initializing...&#39;);
     
     
     try {
@@ -155,10 +155,10 @@
         }
       });
       
-      console.log('Macy initialized successfully for', containerId);
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
       
       
-      const images = masonryContainer.querySelectorAll('img');
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
       let loadedImages = 0;
       const totalImages = images.length;
       
@@ -167,40 +167,40 @@
         console.log(`Image ${loadedImages}/${totalImages} loaded`);
         
         if (loadedImages === totalImages) {
-          setTimeout(() => {
-            if (macyInstance && macyInstance.reCalculate) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
               macyInstance.reCalculate(true);
-              console.log('Macy layout recalculated after all images loaded');
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
             }
           }, 100);
         }
       }
       
-      images.forEach(img => {
+      images.forEach(img =&gt; {
         if (img.complete) {
           onImageLoad();
         } else {
-          img.addEventListener('load', onImageLoad);
-          img.addEventListener('error', onImageLoad);
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
         }
       });
       
     } catch (error) {
-      console.error('Error initializing Macy:', error);
+      console.error(&#39;Error initializing Macy:&#39;, error);
     }
     
     
     if (config.lightbox) {
-      if (typeof GLightbox !== 'undefined') {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
         try {
           
           let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
           
-          if (typeof globalLightboxConfig === 'string') {
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
             try {
               globalLightboxConfig = JSON.parse(globalLightboxConfig);
             } catch (e) {
-              console.error('Error parsing masonry GLightbox config:', e);
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
               globalLightboxConfig = {};
             }
           }          
@@ -211,21 +211,21 @@
             draggable: globalLightboxConfig.draggable ?? true,
             zoomable: globalLightboxConfig.zoomable ?? true,
             preload: globalLightboxConfig.preload ?? true,
-            width: globalLightboxConfig.width || '90vw',
-            height: globalLightboxConfig.height || '90vh',
-            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || 'bottom',
-            onOpen: () => {
-              console.log('GLightbox opened for', containerId);
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
             }
           });
           
-          console.log('GLightbox initialized successfully for', containerId, 'with global config');
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
           
         } catch (error) {
-          console.error('Error initializing GLightbox:', error);
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
         }
       } else {
-        console.error('GLightbox not loaded but lightbox is enabled');
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
       }
     }
   }
@@ -238,15 +238,15 @@
     function check() {
       attempts++;
       
-      const macyReady = typeof Macy !== 'undefined';
-      const lightboxReady = !config.lightbox || typeof GLightbox !== 'undefined';
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
       
-      if (macyReady && lightboxReady) {
+      if (macyReady &amp;&amp; lightboxReady) {
         initMasonryGallery();
-      } else if (attempts < maxAttempts) {
+      } else if (attempts &lt; maxAttempts) {
         setTimeout(check, 100);
       } else {
-        console.error('Timeout waiting for libraries. Macy:', macyReady, 'GLightbox:', lightboxReady);
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
       }
     }
     
@@ -254,57 +254,57 @@
   }
   
   
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', waitForLibraries);
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
   } else {
     setTimeout(waitForLibraries, 50);
   }
 })();
-</script>
-<h2 id="2-人份培根蛋麵">2 人份培根蛋麵</h2>
-<h3 id="心得">心得</h3>
-<p>Sam 和我所做的培根蛋麵，是平民簡易版的卡波納拉（Carbonara）義大利麵：以培根取代豬臉頰肉，以全蛋取代蛋黃（畢竟只剩蛋白也滿令人煩惱的），以罐裝的起司粉取代現削的起司。食材容易取得，價格也比較親民，成品還是很美味。</p>
-<p>雖然滿多食譜最後把起司蛋液加入盛了麵和配料離火的鍋子，不過因鍋子溫度還是滿高，容易讓蛋結塊，Sam 後來決定反過來，將義大利麵和配料放到起司蛋液裡，這樣不只蛋不易結塊，每一根義大利麵也較容易吸附濃稠的醬汁，非常好吃！</p>
-<h3 id="食材">食材</h3>
-<ol>
-<li>義大利麵（Rummo）： 220 克</li>
-<li>鹽：少許</li>
-<li>厚切培根：3條</li>
-<li>蘑菇：3 顆</li>
-<li>蒜末：適量</li>
-<li>蛋：3 顆</li>
-<li>帕馬森起司粉：很多</li>
-</ol>
-<h3 id="烹飪步驟">烹飪步驟</h3>
-<ol>
-<li>備料
-<ul>
-<li>將培根切成細條，蘑菇切片，蒜頭切末</li>
-<li>放一點鹽巴在一大鍋水裡</li>
-<li>找另一個內鍋，或大一點的鍋子（因為最後還要加入麵條和配料，所以需要大一點的鍋子），將蛋打入其中，加入非常多的帕馬森起司粉，稍微拌勻</li>
-</ul>
-</li>
-<li>開始烹飪
-<ul>
-<li>鹽水煮沸後加入義大利麵，用計時器定時至包裝上要求的烹飪時間</li>
-<li>煮麵的同時，一個人拿著起司蛋液那鍋在義大利麵水上不斷快速攪散，利用蒸氣的熱氣讓起司粉變得均勻</li>
-<li>同時，另一個人熱鍋，加入少許油，下培根</li>
-<li>煎至金黃後下蘑菇</li>
-<li>拌炒一下後，下黑胡椒粉</li>
-<li>香氣出來後，下蒜末</li>
-<li>蒜末炒到金黃後，即可關火</li>
-<li>這時，麵煮熟後，撈起在起司蛋液那鍋快速攪拌</li>
-<li>攪一半後倒入剛剛炒好的培根蘑菇蒜末</li>
-<li>適時補一點水，避免太過濃稠</li>
-<li>醬汁調到喜歡的濃度，即可盛盤出餐</li>
-</ul>
-</li>
-</ol>
-<p>若是自己一人煮，可以稍微調整料理順序：</p>
-<ul>
-<li>煮麵水煮沸後，先不下麵，先把起司蛋液在上面攪勻</li>
-<li>下麵後，就可同時炒料</li>
-</ul>
+&lt;/script&gt;
+&lt;h2 id=&#34;2-人份培根蛋麵&#34;&gt;2 人份培根蛋麵&lt;/h2&gt;
+&lt;h3 id=&#34;心得&#34;&gt;心得&lt;/h3&gt;
+&lt;p&gt;Sam 和我所做的培根蛋麵，是平民簡易版的卡波納拉（Carbonara）義大利麵：以培根取代豬臉頰肉，以全蛋取代蛋黃（畢竟只剩蛋白也滿令人煩惱的），以罐裝的起司粉取代現削的起司。食材容易取得，價格也比較親民，成品還是很美味。&lt;/p&gt;
+&lt;p&gt;雖然滿多食譜最後把起司蛋液加入盛了麵和配料離火的鍋子，不過因鍋子溫度還是滿高，容易讓蛋結塊，Sam 後來決定反過來，將義大利麵和配料放到起司蛋液裡，這樣不只蛋不易結塊，每一根義大利麵也較容易吸附濃稠的醬汁，非常好吃！&lt;/p&gt;
+&lt;h3 id=&#34;食材&#34;&gt;食材&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;義大利麵（Rummo）： 220 克&lt;/li&gt;
+&lt;li&gt;鹽：少許&lt;/li&gt;
+&lt;li&gt;厚切培根：3條&lt;/li&gt;
+&lt;li&gt;蘑菇：3 顆&lt;/li&gt;
+&lt;li&gt;蒜末：適量&lt;/li&gt;
+&lt;li&gt;蛋：3 顆&lt;/li&gt;
+&lt;li&gt;帕馬森起司粉：很多&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;烹飪步驟&#34;&gt;烹飪步驟&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;備料
+&lt;ul&gt;
+&lt;li&gt;將培根切成細條，蘑菇切片，蒜頭切末&lt;/li&gt;
+&lt;li&gt;放一點鹽巴在一大鍋水裡&lt;/li&gt;
+&lt;li&gt;找另一個內鍋，或大一點的鍋子（因為最後還要加入麵條和配料，所以需要大一點的鍋子），將蛋打入其中，加入非常多的帕馬森起司粉，稍微拌勻&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;開始烹飪
+&lt;ul&gt;
+&lt;li&gt;鹽水煮沸後加入義大利麵，用計時器定時至包裝上要求的烹飪時間&lt;/li&gt;
+&lt;li&gt;煮麵的同時，一個人拿著起司蛋液那鍋在義大利麵水上不斷快速攪散，利用蒸氣的熱氣讓起司粉變得均勻&lt;/li&gt;
+&lt;li&gt;同時，另一個人熱鍋，加入少許油，下培根&lt;/li&gt;
+&lt;li&gt;煎至金黃後下蘑菇&lt;/li&gt;
+&lt;li&gt;拌炒一下後，下黑胡椒粉&lt;/li&gt;
+&lt;li&gt;香氣出來後，下蒜末&lt;/li&gt;
+&lt;li&gt;蒜末炒到金黃後，即可關火&lt;/li&gt;
+&lt;li&gt;這時，麵煮熟後，撈起在起司蛋液那鍋快速攪拌&lt;/li&gt;
+&lt;li&gt;攪一半後倒入剛剛炒好的培根蘑菇蒜末&lt;/li&gt;
+&lt;li&gt;適時補一點水，避免太過濃稠&lt;/li&gt;
+&lt;li&gt;醬汁調到喜歡的濃度，即可盛盤出餐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;若是自己一人煮，可以稍微調整料理順序：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;煮麵水煮沸後，先不下麵，先把起司蛋液在上面攪勻&lt;/li&gt;
+&lt;li&gt;下麵後，就可同時炒料&lt;/li&gt;
+&lt;/ul&gt;
 
       </content:encoded>
     </item>
@@ -315,98 +315,98 @@
       <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</guid>
       <description>好吃的晚餐在這裡。</description>
       <content:encoded>
-      <p>
-<figure class="image-figure not-prose my-8" 
-        data-lightbox-enabled="true"
-        data-gallery-type="auto">
-  <div class="image-container">
-    <img
-    src="/images/Post/7/1.jpg"
-    alt=""
+      &lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/7/1.jpg&#34;
+    alt=&#34;&#34;
     
     
-    loading="lazy"
-    decoding="async"
-    data-gallery-src="/images/Post/7/1.jpg"
-    data-gallery-alt=""
-    data-gallery-title="" /></div>
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/7/1.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
-  </figure>
+  &lt;/figure&gt;
 
-<figure class="image-figure not-prose my-8" 
-        data-lightbox-enabled="true"
-        data-gallery-type="auto">
-  <div class="image-container">
-    <img
-    src="/images/Post/7/2.jpg"
-    alt=""
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/7/2.jpg&#34;
+    alt=&#34;&#34;
     
     
-    loading="lazy"
-    decoding="async"
-    data-gallery-src="/images/Post/7/2.jpg"
-    data-gallery-alt=""
-    data-gallery-title="" /></div>
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/7/2.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
-  </figure></p>
-<h2 id="2-人份日式親子丼飯食譜">2 人份日式親子丼飯食譜</h2>
-<h3 id="食材">食材</h3>
-<ol>
-<li>雞肉醃料
-<ul>
-<li>醬油：40 g</li>
-<li>味醂：20 g</li>
-<li>米酒：20 g</li>
-<li>糖：20 g</li>
-<li>蒜泥：適量</li>
-<li>薑泥：適量</li>
-</ul>
-</li>
-<li>雞腿肉： 2 片</li>
-<li>洋蔥：半顆</li>
-<li>高麗菜： 3 大片</li>
-<li>蛋： 3 顆</li>
-<li>蔥： 4 支</li>
-<li>白芝麻：適量</li>
-</ol>
-<h3 id="烹飪步驟">烹飪步驟</h3>
-<ul>
-<li>將雞腿肉浸泡在醃料 20-30 分鐘</li>
-<li>雞皮向下煎 2 分鐘</li>
-<li>翻面煎 1 分 50 秒</li>
-<li>再翻面煎 1 分鐘</li>
-<li>再翻面煎 1 分鐘</li>
-<li>拿起來在砧板上切片</li>
-<li>鍋子不洗直接下洋蔥，稍微炒一下就下高麗菜</li>
-<li>再稍微炒一下就下切好的雞腿排</li>
-<li>加 50 ml 的水在醃料的醬裡，混合均勻後加入鍋中</li>
-<li>蓋鍋蓋煮至雞肉顏色變白</li>
-<li>開蓋淋一半蛋液再蓋鍋蓋</li>
-<li>蛋稍微凝固後再開蓋加入剩下的蛋液</li>
-<li>半凝固後，加在白飯上，撒上芝麻、蔥花，即可出餐！</li>
-</ul>
-<h2 id="番茄玉米湯">番茄玉米湯</h2>
-<h3 id="食材-1">食材</h3>
-<ol>
-<li>日式高湯
-<ul>
-<li>水 1500 g</li>
-<li>昆布 1 根</li>
-<li>柴魚片 2 把</li>
-</ul>
-</li>
-<li>番茄： 3 顆</li>
-<li>玉米：2 根</li>
-<li>味噌：半匙</li>
-<li>鹽：少許</li>
-</ol>
-<h3 id="烹飪步驟-1">烹飪步驟</h3>
-<ul>
-<li>泡昆布 20 分鐘，開火以小火煮 10 分鐘</li>
-<li>撈起昆布後加 2 把柴魚片，小火煮2分鐘後將柴魚片瀝掉</li>
-<li>放入切好的番茄和玉米，中大火煮 20 分鐘</li>
-<li>加入鹽巴和味噌，即可出餐！</li>
-</ul>
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-人份日式親子丼飯食譜&#34;&gt;2 人份日式親子丼飯食譜&lt;/h2&gt;
+&lt;h3 id=&#34;食材&#34;&gt;食材&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;雞肉醃料
+&lt;ul&gt;
+&lt;li&gt;醬油：40 g&lt;/li&gt;
+&lt;li&gt;味醂：20 g&lt;/li&gt;
+&lt;li&gt;米酒：20 g&lt;/li&gt;
+&lt;li&gt;糖：20 g&lt;/li&gt;
+&lt;li&gt;蒜泥：適量&lt;/li&gt;
+&lt;li&gt;薑泥：適量&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;雞腿肉： 2 片&lt;/li&gt;
+&lt;li&gt;洋蔥：半顆&lt;/li&gt;
+&lt;li&gt;高麗菜： 3 大片&lt;/li&gt;
+&lt;li&gt;蛋： 3 顆&lt;/li&gt;
+&lt;li&gt;蔥： 4 支&lt;/li&gt;
+&lt;li&gt;白芝麻：適量&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;烹飪步驟&#34;&gt;烹飪步驟&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;將雞腿肉浸泡在醃料 20-30 分鐘&lt;/li&gt;
+&lt;li&gt;雞皮向下煎 2 分鐘&lt;/li&gt;
+&lt;li&gt;翻面煎 1 分 50 秒&lt;/li&gt;
+&lt;li&gt;再翻面煎 1 分鐘&lt;/li&gt;
+&lt;li&gt;再翻面煎 1 分鐘&lt;/li&gt;
+&lt;li&gt;拿起來在砧板上切片&lt;/li&gt;
+&lt;li&gt;鍋子不洗直接下洋蔥，稍微炒一下就下高麗菜&lt;/li&gt;
+&lt;li&gt;再稍微炒一下就下切好的雞腿排&lt;/li&gt;
+&lt;li&gt;加 50 ml 的水在醃料的醬裡，混合均勻後加入鍋中&lt;/li&gt;
+&lt;li&gt;蓋鍋蓋煮至雞肉顏色變白&lt;/li&gt;
+&lt;li&gt;開蓋淋一半蛋液再蓋鍋蓋&lt;/li&gt;
+&lt;li&gt;蛋稍微凝固後再開蓋加入剩下的蛋液&lt;/li&gt;
+&lt;li&gt;半凝固後，加在白飯上，撒上芝麻、蔥花，即可出餐！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;番茄玉米湯&#34;&gt;番茄玉米湯&lt;/h2&gt;
+&lt;h3 id=&#34;食材-1&#34;&gt;食材&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;日式高湯
+&lt;ul&gt;
+&lt;li&gt;水 1500 g&lt;/li&gt;
+&lt;li&gt;昆布 1 根&lt;/li&gt;
+&lt;li&gt;柴魚片 2 把&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;番茄： 3 顆&lt;/li&gt;
+&lt;li&gt;玉米：2 根&lt;/li&gt;
+&lt;li&gt;味噌：半匙&lt;/li&gt;
+&lt;li&gt;鹽：少許&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;烹飪步驟-1&#34;&gt;烹飪步驟&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;泡昆布 20 分鐘，開火以小火煮 10 分鐘&lt;/li&gt;
+&lt;li&gt;撈起昆布後加 2 把柴魚片，小火煮2分鐘後將柴魚片瀝掉&lt;/li&gt;
+&lt;li&gt;放入切好的番茄和玉米，中大火煮 20 分鐘&lt;/li&gt;
+&lt;li&gt;加入鹽巴和味噌，即可出餐！&lt;/li&gt;
+&lt;/ul&gt;
 
       </content:encoded>
     </item>

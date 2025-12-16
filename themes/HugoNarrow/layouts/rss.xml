@@ -54,7 +54,7 @@
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
       <content:encoded>
-      {{ .Content | safeHTML }}
+      {{ .Content | htmlEscape | safeHTML }}
       </content:encoded>
     </item>
     {{- end }}
