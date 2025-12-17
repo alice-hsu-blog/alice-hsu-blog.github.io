@@ -1,0 +1,3188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>音樂 on Alice Hsu&#39;s Blog</title>
+    <link>https://alicehsu.blog/zh-tw/categories/%E9%9F%B3%E6%A8%82/</link>
+    <description>Recent content in 音樂 on Alice Hsu&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Tue, 09 Dec 2025 15:00:00 -0600</lastBuildDate>
+    <atom:link href="https://alicehsu.blog/zh-tw/categories/%E9%9F%B3%E6%A8%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我寫了藤井風 Kirari 的 Piano Cover</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/</link>
+      <pubDate>Tue, 09 Dec 2025 15:00:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/</guid>
+      <description>寫 Piano Cover 可能有點像翻譯吧，把一首由樂團演奏的曲子「翻譯」成由鋼琴演奏的曲子，挺有成就感的。</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post13home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post13home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post13home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post13home.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post13home.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+（最近開始學習使用電繪 App，這張是臨摹 Fujii Kaze 的照片畫的喔！自己滿喜歡的。）&lt;/p&gt;
+&lt;h2 id=&#34;緣起&#34;&gt;緣起&lt;/h2&gt;
+&lt;p&gt;對我來說寫 Piano Cover 能訓練自己鋼琴編曲的能力。可能有點像翻譯吧，把一首由樂團演奏的曲子「翻譯」成由鋼琴演奏的曲子，挺有成就感的。&lt;/p&gt;
+&lt;p&gt;會挑藤井風的 Kirari，出發點是想訓練自己能否駕馭不同的曲風。這首曲子其實 YouTube 上有許多人都做過。不過，聽了幾個版本之後，我發現不是太吵就是太無聊，於是給自己一個挑戰：我想寫一個耐聽、並且每個樂段的伴奏都有變化的曲子！&lt;/p&gt;
+&lt;p&gt;結果，後來發現難的不是寫曲，而是之後的練琴啊啊啊ヽ(；▽；)ノ&lt;/p&gt;
+&lt;p&gt;前一陣子練琴傷到了手。確切而言，是練前一台 keyboard 的時候，因為從彈鋼琴改成彈 keyboard 用了錯誤的肌肉，結果手就傷到了。結果，練這首滿需要技巧的曲子只能練練停停。練琴進度緩慢，不過前一陣子總算是錄完了！（感謝啾 C 和 SunGuts 物理治療師的許多手部伸展影片）雖然有一些不太完美的地方，不過整體來說還算滿意！&lt;/p&gt;
+&lt;h2 id=&#34;編曲流程&#34;&gt;編曲流程&lt;/h2&gt;
+&lt;p&gt;以下是我寫一首 Piano Cover 大致的流程：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;快速找出主唱的旋律作為右手的主旋律&lt;/li&gt;
+&lt;li&gt;以 0.5 倍速聽不太確定的地方，修改抓錯的右手節奏&lt;/li&gt;
+&lt;li&gt;寫出所有的和弦&lt;/li&gt;
+&lt;li&gt;將和弦編成左手的伴奏&lt;/li&gt;
+&lt;li&gt;編好初版的曲子，先練琴，修改不符合我彈琴直覺的音符與樂段（無限循環）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;自己寫 Cover 的好處就是：我可以改譜改到開心！覺得哪裡不太不合人體工學，就能把它刪掉！對於一個從小彈古典音樂的人來說，可以改譜有種小小犯規的感覺哈哈哈。&lt;/p&gt;
+&lt;h3 id=&#34;輔助工具一&#34;&gt;輔助工具一&lt;/h3&gt;
+&lt;p&gt;編曲的過程中，我有使用一些工具輔助我寫 Cover。第一個工具是網路上的 Music Seperation：將人聲和器樂分開，這對於我處在第二、三、四階段時很有幫助。在第二個階段，只有人聲的音樂能讓我更專心去辨別歌手的音高和節奏，比較不會被器樂分心；在第三、四階段，只有器樂的演奏能讓我專心分析和弦和樂團編曲，有助於我不被人聲干擾。（當然這只是大概，畢竟辨識和弦還是需要將人聲考慮進去）。&lt;/p&gt;
+&lt;h3 id=&#34;輔助工具二&#34;&gt;輔助工具二&lt;/h3&gt;
+&lt;p&gt;第二個工具則是 &lt;a href=&#34;https://nicechord.com/tuner/&#34;target=&#34;_blank&#34;
+&gt;Wiwi 的音高顯示器&lt;/a&gt;。對於一些節奏很快、不確定藤井到底唱的是哪個音時，音高顯示器就派上用場了！我將音樂開 0.5 倍速，一邊開啟音高顯示器來確認到底是哪個音，通常人聲滿大聲的，用這個工具辨認歌手的音沒什麼問題。&lt;/p&gt;
+&lt;h2 id=&#34;最好玩的部分&#34;&gt;最好玩的部分&lt;/h2&gt;
+&lt;p&gt;第四階段是編曲時最能發揮創意的階段，也是我個人覺得最好玩的階段。當一首曲子的主要旋律和和弦盡量如實「翻譯」完畢後，剩下的部分就是不可譯（Untranslatable）的部分，那是樂團編制獨有的綜合音色，產生的是鋼琴無法完全複製貼上的效果。這部分就能盡情發揮，想寫什麼就寫什麼。&lt;/p&gt;
+&lt;h3 id=&#34;第一部分&#34;&gt;第一部分&lt;/h3&gt;
+&lt;p&gt;覺得頗有成就感的是從第 66 小節開始的左手段落：&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;w-10&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rIAMN3ULdX8?autoplay=0&amp;amp;controls=1&amp;amp;end=140&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=133&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/13/1.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/1.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;這裡原曲其實挺複雜的，我後來決定不寫複雜的和聲，直接改以複雜的節奏呈現。這邊不太好彈，後來發現將手腕放輕鬆，彈對的成功率會高很多。&lt;/p&gt;
+&lt;h3 id=&#34;第二部分&#34;&gt;第二部分&lt;/h3&gt;
+&lt;p&gt;另一段我很喜歡的部分是 33 小節副歌開始的左手伴奏。
+&lt;div class=&#34;w-10&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rIAMN3ULdX8?autoplay=0&amp;amp;controls=1&amp;amp;end=86&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=67&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/13/2.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/2.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/13/3.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/3.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/13/4.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/4.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;因為副歌滿長的，為了聽起來不無聊，左手伴奏有一些些變化，比如說原本左手第一拍是八度上行，經過四小節後變成是同音重複的彈奏方式；又比如原本第二拍是十六分音符，後來改成附點八分音符。我還滿喜歡這樣的效果的。&lt;/p&gt;
+&lt;h2 id=&#34;結語&#34;&gt;結語&lt;/h2&gt;
+&lt;p&gt;其實自己實際錄音彈的，有些部分還是和自己寫的有出入，不過，可以盡情改譜大概是身為編曲/作曲者的特權了。下一次會挑戰完成另一個不同形式的作品，敬請期待：）&lt;/p&gt;
+&lt;p&gt;以下是完整版：
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rIAMN3ULdX8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;
+
+      </content:encoded>
+    </item>
+    <item>
+      <title>遇見浦朗克（Francis Poulenc）</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/11/%E9%81%87%E8%A6%8B%E6%B5%A6%E6%9C%97%E5%85%8Bfrancis-poulenc/</link>
+      <pubDate>Mon, 24 Nov 2025 20:13:07 -0600</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E9%81%87%E8%A6%8B%E6%B5%A6%E6%9C%97%E5%85%8Bfrancis-poulenc/</guid>
+      <description>浦朗克是個什麼樣子的人？他對音樂有什麼看法？他有喜歡和不喜歡的作曲家嗎？</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/11/2.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/11/2.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/11/2.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;h2 id=&#34;遇見&#34;&gt;遇見&lt;/h2&gt;
+&lt;p&gt;法蘭西斯·浦朗克 （Francis Poulenc，1899 – 1963）是法國的作曲家和鋼琴家，為法國六人組（Les Six）的其中一人。台灣的期刊論文常翻譯為浦朗克或浦浪克，在此就稱他為浦朗克了。&lt;/p&gt;
+&lt;p&gt;第一次認識浦朗克是透過&lt;a href=&#34;https://www.youtube.com/watch?v=vE9QNQYPN2Q&#34;target=&#34;_blank&#34;
+&gt;《即興曲第七號》&lt;/a&gt;認識他的，這首曲子被列入某個鋼琴檢定的指定曲之一，孤陋寡聞的我才曉得原來古典音樂有這號人物。記得第一次聽，就被它豐富的和聲深深吸引：這首曲子從平淡無奇、看似單純無害的Ｃ大調出發，結果，隨著神秘又變化多端的和弦一一出現，才發現它其實並不簡單。我自己特別喜歡 B 段令人心碎的開頭，以及中間層層堆疊、磅礴寬廣的八度，還有高潮褪去，洗盡鉛華回到 C 大調的轉折，好吧，喜歡的部分太多了，就不在此贅述。&lt;/p&gt;
+&lt;p&gt;是什麼樣子的人會寫出這樣的曲子？他對音樂有什麼看法？他有喜歡和不喜歡的作曲家嗎？對這個人的好奇促使我找了些資料，且聽我娓娓道來。&lt;/p&gt;
+&lt;h2 id=&#34;速寫浦朗克&#34;&gt;速寫浦朗克&lt;/h2&gt;
+
+&lt;style&gt;
+  
+#masonry-7c7527dcf133370344477770799af01f-1 {
+  width: 100%;
+}
+
+#masonry-7c7527dcf133370344477770799af01f-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-7c7527dcf133370344477770799af01f-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 5px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-7c7527dcf133370344477770799af01f-1 .masonry-item img {
+  width: 90%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-7c7527dcf133370344477770799af01f-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-7c7527dcf133370344477770799af01f-1 .glightbox:hover,
+#masonry-7c7527dcf133370344477770799af01f-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-7c7527dcf133370344477770799af01f-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-7c7527dcf133370344477770799af01f-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-7c7527dcf133370344477770799af01f-1&#34;
+     data-columns=&#34;2&#34;
+     data-gutter=&#34;5&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;5&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/11/1.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-7c7527dcf133370344477770799af01f-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/11/1.jpg&#34;
+    alt=&#34;照片攝於 1946 年，約浦朗克 47 歲時。此張照片在 Public Domain，出自於 University of Melbourne Archives。連結：https://archives.library.unimelb.edu.au/nodes/view/431648&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/11/1.jpg&#34;
+    data-gallery-alt=&#34;照片攝於 1946 年，約浦朗克 47 歲時。此張照片在 Public Domain，出自於 University of Melbourne Archives。連結：https://archives.library.unimelb.edu.au/nodes/view/431648&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;照片攝於 1946 年，約浦朗克 47 歲時。此張照片在 Public Domain，出自於 University of Melbourne Archives。連結：https://archives.library.unimelb.edu.au/nodes/view/431648&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-7c7527dcf133370344477770799af01f-1&#39;;
+  const config = {
+    columns:  2 ,
+    gutter:  5 ,
+    maxColumns:  5 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+&lt;p&gt;浦朗克在 1899 年出生於法國巴黎富有的中產階級家庭裡，父親埃米爾·浦朗克（Emile Poulenc）經營一間製藥公司，而母親珍妮（Jenny，舊姓 Royer）出身於藝術工匠家庭。五歲的浦朗克由母親啟蒙學習鋼琴，母親不久後就把他交給其他人教導。對浦朗克影響最大的老師，是他 15 歲至 18 歲時的老師韋涅斯（Ricardo Viñes），此人不只在鋼琴上啟發甚多，也在他生命中扮演著生命導師（spiritual mentor）的角色；其次，就是他 22 歲時找的老師柯克蘭（Charles Koechlin），因為覺得自己作曲多半倚賴直覺，而非智識，而決定與柯克蘭學習，補足自己不足的部分。其實，浦朗克本來是想去讀音樂學院的，不過，因父親堅持他得要先在孔多塞中學（Lycée Condorcet）接受傳統的人文古典教育才能繼續讀音樂學院，他就乖乖讀了。不幸的是，因雙親在他 18 歲之前雙雙過世，再加上一戰爆發，讀音樂院的計劃就此被打亂，不過卻沒有阻礙他的音樂之路。18 歲那年，因著作品&lt;a href=&#34;https://www.youtube.com/watch?v=brC3qrv3Yv0&#34;target=&#34;_blank&#34;
+&gt;《黑人狂想曲》（FP 3）&lt;/a&gt;在巴黎首演，浦朗克贏得了史特拉汶斯基的賞識，並且作品得以由倫敦的 Chester 出版社出版。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;讀浦朗克的生平，在一些點上覺得挺有共鳴：國高中時我極想讀音樂班也是不成，大學唸的是文學，原本也打算唸完文學之後去唸個音樂所，因著世事變化後來還是沒有唸成。二十歲左右，也是覺得自己缺乏某些專業素養而找了老師（後來發現找錯人了，這又是另個故事）。現在回頭看來，的確還是有些遺憾，不過遺憾感沒有之前那麼多了，如果我過去是受正統的學院訓練，搞不好會花很多時間在我沒那麼喜歡的學科（比如說歌劇）：而我也沒有機會享受到讀文學的好處。或許浦朗克沒讀音樂學院也讓他得享作曲上的某些自由吧？&lt;/p&gt;
+&lt;div
+    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
+              border-left-color: var(--color-note);
+              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+      &lt;div
+        class=&#34;
+          cursor-pointer
+         flex items-center justify-between px-6 py-6&#34;
+        
+          onclick=&#34;toggleAlert(&#39;alert-0&#39;)&#34; role=&#34;button&#34; tabindex=&#34;0&#34;
+          aria-expanded=&#34;false&#34; aria-controls=&#34;alert-0-content&#34;
+          onkeydown=&#34;if(event.key===&#39;Enter&#39;||event.key===&#39; &#39;){toggleAlert(&#39;alert-0&#39;);event.preventDefault();}&#34;
+        &gt;
+        &lt;div class=&#34;flex items-center gap-3&#34;&gt;
+          
+          &lt;h4
+            id=&#34;alert-0-title&#34;
+            class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;
+            🗣️ Fun Fact 1 ：他是 E 人還是 I 人？
+          &lt;/h4&gt;
+        &lt;/div&gt;
+
+        
+        
+          &lt;div
+            class=&#34;flex-shrink-0 transition-transform duration-200&#34;
+            id=&#34;alert-0-chevron&#34;&gt;
+            
+  &lt;svg class=&#34;h-4 w-4&#34;
+    fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34;
+    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M19 9l-7 7-7-7&#34; /&gt;
+&lt;/svg&gt;
+          &lt;/div&gt;
+        
+      &lt;/div&gt;
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content 
+        hidden
+       px-6 pb-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;浦朗克大概是個大 E 人，而且是講話很爆笑，是聚會焦點的那種人。很多朋友都說他是個很會說故事的人（storyteller），如果聚會要炒熱氣氛，叫他講個故事就好了，浦朗克可以源源不絕一直說下去。&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; 🗣️🗣️🗣️&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;div
+    class=&#34;alert alert-tip my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-tip) 10%, transparent);
+              border-left-color: var(--color-tip);
+              --hover-bg: color-mix(in srgb, var(--color-tip) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-tip) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-1-title&#34;&gt;
+    
+    
+      &lt;div
+        class=&#34;
+          cursor-pointer
+         flex items-center justify-between px-6 py-6&#34;
+        
+          onclick=&#34;toggleAlert(&#39;alert-1&#39;)&#34; role=&#34;button&#34; tabindex=&#34;0&#34;
+          aria-expanded=&#34;false&#34; aria-controls=&#34;alert-1-content&#34;
+          onkeydown=&#34;if(event.key===&#39;Enter&#39;||event.key===&#39; &#39;){toggleAlert(&#39;alert-1&#39;);event.preventDefault();}&#34;
+        &gt;
+        &lt;div class=&#34;flex items-center gap-3&#34;&gt;
+          
+          &lt;h4
+            id=&#34;alert-1-title&#34;
+            class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;
+            📻 Fun Fact 2：跟得上時代的酷大叔&lt;br&gt;
+          &lt;/h4&gt;
+        &lt;/div&gt;
+
+        
+        
+          &lt;div
+            class=&#34;flex-shrink-0 transition-transform duration-200&#34;
+            id=&#34;alert-1-chevron&#34;&gt;
+            
+  &lt;svg class=&#34;h-4 w-4&#34;
+    fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34;
+    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M19 9l-7 7-7-7&#34; /&gt;
+&lt;/svg&gt;
+          &lt;/div&gt;
+        
+      &lt;/div&gt;
+    
+
+    
+    &lt;div
+      id=&#34;alert-1-content&#34;
+      class=&#34;alert-content 
+        hidden
+       px-6 pb-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;浦朗克可說是個非常跟得上時代的人：留聲機剛發明，就用留聲機錄了自己的曲子，最早的錄音可以追溯到 1928 年；四五十歲時，因看見收音機的影響力，於是在法國廣播電台做了節目。&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; 我想，若他活在現代，浦朗克大概也會開個 Podcast 聊音樂吧 🎙️&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;h2 id=&#34;浦朗克的鋼琴作品&#34;&gt;浦朗克的鋼琴作品&lt;/h2&gt;
+&lt;h3 id=&#34;不該怎樣演奏他的鋼琴曲&#34;&gt;不該怎樣演奏他的鋼琴曲？&lt;/h3&gt;
+&lt;p&gt;要明白一首曲子該如何彈奏，除了認真讀譜上每個記號和音樂術語之外，還有個不錯的切入點，就是聽聽作曲者親口說他討厭自己的作品被怎樣演奏。與侯斯唐（Claude Rostand）的對談中，浦朗克提及自己的鋼琴作品演奏有四不：&lt;strong&gt;不要彈性速度（rubato）&lt;/strong&gt;、&lt;strong&gt;不要吝於踩踏板&lt;/strong&gt;、&lt;strong&gt;不要擅自延長或縮減音符的時值&lt;/strong&gt;、&lt;strong&gt;不要過度強調反覆出現的和弦或琶音&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;對浦朗克而言，他超討厭 rubato ，覺得一旦速度設定好了，就用原本的速度彈到底就好，除非他中間有指示速度的轉換再換即可；另外，不要擅改音符的時值，這會讓他瘋掉，他還寧可錯音一堆，也不願音符被彈地太長或太短；而踏板是他最在乎的，踩踏板的方式深深受到老師韋涅斯的影響，浦朗克說韋涅斯即使踏板用得很多很雜亂，他的演奏仍然清晰，因著老師的影響，他覺得自己的鋼琴作品踏板怎麼踩都不夠、永遠不夠，浦朗克說，當他聽到某些鋼琴家演奏他的作品沒有踩夠多的踏板時，他很想大喊：&lt;strong&gt;「把奶油加到醬汁裡啊！你在減什麼肥啊！」&lt;/strong&gt;&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;（聽起來真好吃，浦朗克的音樂聽多了會不會胖 😆）&lt;/p&gt;
+&lt;p&gt;讀到踏板要踩越多越好時，我滿驚訝的。仔細想想，我發現我的驚訝不是針對浦朗克的音樂，而是我自己對音樂的預設立場是踏板越少越好，彈一首曲子如果可以不用踏板就不用。或許這樣的想法是來自擔心吧：擔心踩太多踏板會讓音符糊糊髒髒的。不過的確，如果踏板踩的方式能夠讓音樂多一層味道，音符又能清晰，那何樂而不為？&lt;/p&gt;
+&lt;h3 id=&#34;對自己鋼琴作品的評價&#34;&gt;對自己鋼琴作品的評價&lt;/h3&gt;
+&lt;p&gt;對自己作品詮釋很有想法的浦朗克，評論起自己的鋼琴作品也是愛惡分明、毫不嘴軟，我自己就喜歡他直來直往的性子。浦朗克說，他能「容忍」&lt;a href=&#34;https://www.youtube.com/watch?v=R7Z_3EA9pyY&#34;target=&#34;_blank&#34;
+&gt;《無窮動》（FP 14）&lt;/a&gt;、&lt;a href=&#34;https://www.youtube.com/watch?v=zRvDH9OTyXY&#34;target=&#34;_blank&#34;
+&gt;《C 大調組曲》（FP 19）&lt;/a&gt;以及&lt;a href=&#34;https://www.youtube.com/watch?v=f1toEsWfF6Q&#34;target=&#34;_blank&#34;
+&gt;《三首小品》（FP 5）&lt;/a&gt;；他非常喜愛&lt;a href=&#34;https://www.youtube.com/watch?v=_4WI6B8rY4o&#34;target=&#34;_blank&#34;
+&gt;《即興曲》&lt;/a&gt;、還有一首&lt;a href=&#34;https://www.youtube.com/watch?v=OgaqeMzEjS8&#34;target=&#34;_blank&#34;
+&gt;《降 A 大調的間奏曲》（FP 118）&lt;/a&gt;；徹底不喜歡&lt;a href=&#34;https://www.youtube.com/watch?v=XQXDv2hpTG0&#34;target=&#34;_blank&#34;
+&gt;《拿坡里》（FP 40）&lt;/a&gt;和&lt;a href=&#34;https://www.youtube.com/watch?v=Fj165Gsfoeg&#34;target=&#34;_blank&#34;
+&gt;《納澤勒之夜》（FP 84）&lt;/a&gt;，至於其他作品嘛，則一概不感興趣。&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;他沒有詳細解釋自己討厭和喜歡的理由，被好奇心驅使的我忍不住找了他提及的作品來聽，想一聽究竟，結果聽完更疑惑了，他需要「容忍」的《無窮動》是我很喜歡的曲子，我還真能反覆循環聽下去，實在不明白為何他沒那麼喜歡？不過，我想作曲家的品味本來就不會完全同於聽眾的品味，而這或許也是任何的創作者需要具備的特質，不能將自己的品味全然建立在觀眾之上，而是需要保持適當的距離。&lt;/p&gt;
+&lt;h2 id=&#34;浦朗克喜歡和討厭的作曲家&#34;&gt;浦朗克喜歡和討厭的作曲家&lt;/h2&gt;
+&lt;p&gt;在另個訪談中，侯斯唐請浦朗克選六個他喜歡的作曲家。經過一番掙扎後，浦朗克選了&lt;strong&gt;德布西、史特拉汶斯基、薩堤、法雅、拉威爾和巴爾托克&lt;/strong&gt;，並且很遺憾沒能把普羅高非夫選進去。&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; 對浦朗克而言，德布西的音樂喚醒了他對音樂的感受，不過卻是史特拉汶斯基的音樂引導了他的作曲風格，在浦朗克的音樂裡，史特拉汶斯基有著強烈的存在感。&lt;sup id=&#34;fnref:7&#34;&gt;&lt;a href=&#34;#fn:7&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; 至於拉威爾則是影響了浦朗克的和聲，特別是&lt;a href=&#34;https://www.youtube.com/watch?v=_rtZF5mAj0w&#34;target=&#34;_blank&#34;
+&gt;《動物的典型》（FP 111）&lt;/a&gt;這首曲子就受到拉威爾的影響；而薩堤則是在音樂的美感上影響了他。&lt;sup id=&#34;fnref:8&#34;&gt;&lt;a href=&#34;#fn:8&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;被問到討厭哪些作曲家，浦朗克倒也直言不諱，而且批評的方式很有創意。比如說，他不喜歡布拉姆斯，因為他「有舒曼的缺點，卻沒有舒曼的天賦」（He has Schumann&amp;rsquo;s faults without his genius）；&lt;sup id=&#34;fnref:9&#34;&gt;&lt;a href=&#34;#fn:9&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; 他也不喜歡佛瑞，他說他對佛瑞的音樂過敏，而且一生都過敏（in my case I&amp;rsquo;m allergic to Fauré, and have been all my life）。&lt;sup id=&#34;fnref:10&#34;&gt;&lt;a href=&#34;#fn:10&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; 即便批評，浦朗克也肯定這些作曲家的優點：布拉姆斯也的確還是一位天才，而他也還是喜歡佛瑞的藝術歌曲。值得一提的是，浦朗克的批評並非酸民式的胡亂攻擊，他可是從小就研讀這些大師們的作品。&lt;sup id=&#34;fnref:11&#34;&gt;&lt;a href=&#34;#fn:11&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;11&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;浦朗克的訪談真的很好看，十分建議大家去讀一讀（其實原文是法文，這則文獻是由 Roger Nichols 翻譯成英文的），浦朗克是個說話很風趣好笑的阿伯，也有很多有意思的比喻。我自己很欣賞他對自己誠實的特質，我想這大概是成為藝術家非常重要的特質之一了：不人云亦云、有自己的想法。對浦朗克而言，即使布拉姆斯和佛瑞再好、別人再喜歡，那也都別人的，而不是他的品味。誠實面對自己喜歡什麼、不喜歡什麼，才能在中間開出一條縫，走出屬於自己的一條路。&lt;/p&gt;
+&lt;h2 id=&#34;結語&#34;&gt;結語&lt;/h2&gt;
+&lt;p&gt;其實浦朗克的資料真的很多，他曾和皮埃爾·貝納克（Pierre Bernac）合作，寫了 90 多首法國藝術歌曲（mélodies），自己也有其他類型的音樂作品（以前這些古典音樂大師真的都好多產啊！）。由於我在所有音樂的種類中最喜歡器樂作品，所有器樂作品中又最喜歡鋼琴作品，浦朗克的鋼琴作品是這篇文章主要關注的重點，就不繼續探討他的其他創作了，如果哪天有力氣我再續寫有關浦朗克的其他事吧。&lt;/p&gt;
+&lt;p&gt;最後，分享前一陣子自己的演奏，彈的就是最初相遇的即興曲第七首，希望有稍微接近浦朗克阿伯心目中的標準。
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vE9QNQYPN2Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Bibliography&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Chimènes, Myriam and Roger Nichols. “Poulenc, Francis.” &lt;em&gt;Grove Music Online&lt;/em&gt;. Oxford University Press, 2001. &lt;a href=&#34;https://doi.org/10.1093/gmo/9781561592630.article.22202&#34;target=&#34;_blank&#34;
+&gt;https://doi.org/10.1093/gmo/9781561592630.article.22202&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Editions de l&amp;rsquo;Oiseau-Lyre. “Francis Poulenc in a Suit, Sitting at a Piano with His Arms Outstretched.” 1946. University of Melbourne Archives. UMA-ITE-2016003500406. Accessed November 25, 2025. &lt;a href=&#34;https://archives.library.unimelb.edu.au/nodes/view/431648&#34;target=&#34;_blank&#34;
+&gt;https://archives.library.unimelb.edu.au/nodes/view/431648&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Poulenc, Francis. “Musical Likes and Dislikes.” Interview by Claude Rostand. In &lt;em&gt;Francis Poulenc: Articles and Interviews: Notes from the Heart&lt;/em&gt;, edited by Nicolas Southon, translated by Roger Nichols, 273–278. Burlington, VT: Ashgate Publishing, 2014.&lt;/p&gt;
+&lt;p&gt;Poulenc, Francis. “My Teachers and My Friends.” In &lt;em&gt;Francis Poulenc: Articles and Interviews: Notes from the Heart&lt;/em&gt;, edited by Nicolas Southon and translated by Roger Nichols, 97–103. Burlington, VT: Ashgate Publishing, 2014.&lt;/p&gt;
+&lt;p&gt;Poulenc, Francis. “Poulenc at the Piano: Advice and Favourites.” In &lt;em&gt;Francis Poulenc: Articles and Interviews: Notes from the Heart&lt;/em&gt;, edited by Nicolas Southon, translated by Roger Nichols, 191–195. Burlington, VT: Ashgate Publishing, 2014.&lt;/p&gt;
+&lt;p&gt;Southon, Nicolas. “Introduction.” In &lt;em&gt;Francis Poulenc: Articles and Interviews: Notes from the Heart&lt;/em&gt;, edited by Nicolas Southon, translated by Roger Nichols, 1–14. Burlington, VT: Ashgate Publishing, 2014.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Myriam Chimènes and Roger Nichols, “Poulenc, Francis,” &lt;em&gt;Grove Music Online&lt;/em&gt; (Oxford University Press, 2001), 1–2.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Nicolas Southon, “Introduction,” in &lt;em&gt;Francis Poulenc: Articles and Interviews: Notes from the Heart&lt;/em&gt;, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2014), 9.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;Chimènes and Nichols, “Poulenc, Francis,” 2–3.&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;Francis Poulenc, “Poulenc at the Piano: Advice and Favourites,” in &lt;em&gt;Francis Poulenc: Articles and Interviews: Notes from the Heart&lt;/em&gt;, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2014), 193.&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;Poulenc, “Poulenc at the Piano: Advice and Favourites,” 194.&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;Francis Poulenc, “Musical Likes and Dislikes,” interview by Claude Rostand, in &lt;em&gt;Francis Poulenc: Articles and Interviews: Notes from the Heart&lt;/em&gt;, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2014), 274.&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;
+&lt;p&gt;Poulenc, “Musical Likes and Dislikes,” 273.&amp;#160;&lt;a href=&#34;#fnref:7&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;
+&lt;p&gt;Poulenc, “Musical Likes and Dislikes,” 273-274.&amp;#160;&lt;a href=&#34;#fnref:8&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34;&gt;
+&lt;p&gt;Poulenc, “Musical Likes and Dislikes,” 275.&amp;#160;&lt;a href=&#34;#fnref:9&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;
+&lt;p&gt;Poulenc, “Musical Likes and Dislikes,” 276.&amp;#160;&lt;a href=&#34;#fnref:10&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;
+&lt;p&gt;Francis Poulenc, “My Teachers and My Friends,” in &lt;em&gt;Francis Poulenc: Articles and Interviews: Notes from the Heart&lt;/em&gt;, ed. Nicolas Southon, trans. Roger Nichols (Burlington, VT: Ashgate Publishing, 2014), 96.&amp;#160;&lt;a href=&#34;#fnref:11&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </content:encoded>
+    </item>
+    <item>
+      <title>角野隼斗（Cateen）的鋼琴獨奏會</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/11/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97cateen%E7%9A%84%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E6%9C%83/</link>
+      <pubDate>Mon, 17 Nov 2025 16:20:06 -0600</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97cateen%E7%9A%84%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E6%9C%83/</guid>
+      <description>昨天下午去芝加哥聽角野隼斗的鋼琴獨奏會</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/10/3.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/10/3.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/10/3.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post/10/3.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;昨天下午去芝加哥聽角野隼斗（&lt;a href=&#34;https://hayatosum.com/biography&#34;target=&#34;_blank&#34;
+&gt;Hayato Sumino&lt;/a&gt;，綽號 Cateen）的鋼琴獨奏會，走出音樂廳，覺得滿足和感動快要滿溢出來了！&lt;/p&gt;
+&lt;p&gt;Cateen 是我一直在追蹤的鋼琴家，我很喜歡他創作的曲子，尤其是這首 &lt;a href=&#34;https://www.youtube.com/watch?v=VmKin2xhKNk&#34;target=&#34;_blank&#34;
+&gt;Big Cat Waltz&lt;/a&gt; 真的超可愛！今年八月初某天逛著他的 YouTube 頻道，忽然發現：欸？底下的說明欄顯示他最近的一次演出就在芝加哥耶！開車當天來回沒問題，又能挑到便宜票價的好位子，那還等什麼？拉著 Sam 就立刻下單！&lt;/p&gt;
+&lt;p&gt;八月初到昨天，生活平淡的時候看看日曆，一絲絲小期待就讓生活多了點滋味：啊！十一月可以去聽 Cateen 的獨奏會耶！小小的期待累積起來，讓踏進芝加哥交響中心（Orchestra Hall at Symphony Center）的我感覺有點恍惚，期待終於變成真實，反而有點不真實。&lt;/p&gt;
+&lt;p&gt;不像台灣的國家音樂廳，從大門到音樂廳有許多的彎彎繞繞，芝加哥交響中心從大門抵達管弦樂廳是極近絕對的直線距離。這次買的位子是最便宜和次要便宜的票價，分別為 29 和 39 美元，一樓面對鋼琴第五排右側的位置。雖然看不到鋼琴家的手，聲響效果卻是非常地好，音波不會被天花板擋住，還能清楚聽見弱音。噢對了，還能看見 Cateen 走回休息室仰頭喝水，也能清楚看見他彈琴時的表情，還有蓬鬆捲髮跳動的樣子，這個位子的 CP 值真的很棒。&lt;/p&gt;
+&lt;p&gt;Cateen 走進舞台，沒等掌聲完全停止就開始彈奏巴赫第二冊平均律第一號 C 大調前奏曲和賦格（BWV 870），隨後又立刻演奏了 Partita 第二號 C 小調組曲（BWV 826），聆聽的過程中，有時候會想想自己會怎麼彈？很快就看見自己和 Cateen 的差距，他怎能將巴赫彈地這麼豐富？我自己最喜歡組曲中的輪旋曲（Rondeau）和隨想曲（Capriccio），是動能很強的曲子，與前面如泣如訴有別，又有豐富的色彩，彈完之後，聽眾終於迫不及待鼓掌。&lt;/p&gt;
+&lt;p&gt;接著是蕭邦的 C 小調夜曲，作品編號 48 第一首，這是他四年前在蕭邦鋼琴大賽上第一輪彈的第一首曲子，極小聲的 Do 一出場，承先啟後，立刻轉換了音樂廳的氣氛，原本奔放的情感轉為內斂的情緒。同樣的，從夜曲到詼諧曲，Cateen 也沒有任何休息或猶豫，立即彈了第一個和弦，隨著他的手落入鍵盤，我左前方的老太太震了好大一下，我忍不住微笑，看來音樂會也考驗聽眾的精神力呢。&lt;/p&gt;
+&lt;p&gt;蕭邦的第一號詼諧曲，B 小調作品編號 20，是整場音樂會中最讓我感動的曲子。Cateen 本身的技巧高超，可以將快速音群彈地口齒清晰；他的音樂性也極好，可以將長樂句彈地絲滑細緻流暢。不過，高超技巧未必是讓人感動的關鍵因素，為什麼這首曲子這麼感動我呢？有可能是我讀了節目單的介紹，得知這首曲子的創作背景嗎？蕭邦在維也納時壓力極大、因著回不去家鄉華沙而將滿腔的情感注入在這首曲子，我是透過 Cateen 的詮釋而感染了蕭邦的痛苦嗎？又或者，是因為從小比賽聽到太多參賽者演奏這首曲子，卻沒人能像 Cateen 詮釋地這般細膩，我是因為透過 Cateen 有機會重新認識這首曲子的美麗而感動嗎？&lt;/p&gt;
+&lt;p&gt;或許都有吧，也有可能是我看見了自己曾經的掙扎，以及曾經的盼望。&lt;/p&gt;
+&lt;p&gt;上半場演奏完畢，幾乎全場起立鼓掌，這還是我生平第一次參加獨奏會，演奏家還沒全場彈完，大家就起身鼓掌的。&lt;/p&gt;
+&lt;p&gt;下半場從顧爾達（Friedrich Gulda）的前奏曲與賦格開始，顧爾達的前奏曲總讓我想起巴赫平均律第一冊的 C 小調前奏曲（BWV 847），很像是巴赫化了萬聖節的妝從墳墓裡爬出來跳舞。曲子結束後，Cateen 起身致詞，說道他是第一次來到芝加哥（哇好榮幸），也提及後面的曲子是他的創作，刻意選用了直立琴，為要引發一種懷舊感，而最後一首改編拉威爾的波麗露會同時使用兩台琴，他又說：「雖然如此，我還是只有十隻手指頭啦！」全場都笑了。&lt;/p&gt;
+&lt;p&gt;致敬蕭邦的 New Birth 和 Recollection 分別以平台琴和直立琴演奏，我又不禁慶幸自己買到這個位子，可以聽得很清楚音色的差異。除此之外，直立琴本來能發出的音量就滿小的，雖然拆開了琴蓋，音量還是明顯比平台琴小了很多，坐在這裡就需要屏氣凝神才能聽得清楚。Recollection 的聲音好像從海洋浮出的藍色泡泡，聲音朦朦朧朧的，有時候會有一些細碎的高音音符，很像在海底偶爾看見的海面浮光。&lt;/p&gt;
+&lt;p&gt;下半場的時間過得很快，在 Recollection 之後，Cateen 彈了卡普斯汀（Nikolai Kapustin）八首演奏會練習曲的其中五首，隨後是他自己的三首夜曲，最後則是波麗露。&lt;/p&gt;
+&lt;p&gt;好難想像，身為音樂家到底要有多強的體力、專注力和記憶力，才能完成這樣一場演奏會？將波麗露放到最後才彈，在此之後又有三首安可曲（其中兩首還是蕭邦 C 大調練習曲作品編號 10 第一首，以及 Cateen 自己的小星星變奏曲），Cateen 的體力以及心智實在驚人。&lt;/p&gt;
+&lt;p&gt;波麗露快結束時，內心總浮現出：「哎好討厭的感覺喔」，音樂的美在於將美好濃縮於有限的時間之中，而這也是它討厭的地方。或許，這也是為什麼，我想透過寫作&amp;mdash;&amp;mdash;這種看似徒勞的方式&amp;mdash;&amp;mdash;解碼感動，透過文字重新編譯，試著延長美好的保存期限吧。&lt;/p&gt;
+&lt;p&gt;音樂會結束，全場歡聲雷動，觀眾幾乎全場起立，Sam 跟我說他也被圈粉了，真是太好了，我想身為粉絲最開心的事，就是把身邊的人通通都變成粉絲呢。&lt;/p&gt;
+&lt;p&gt;很久很久沒有聽到一場令人感動的音樂會了。不只是技巧高超，Cateen 對音樂的熱愛在他的琴聲中展露無遺。他是個享受彈琴的鋼琴家，也是個對音樂和生命有著熱忱與盼望的作曲家，不是每個音樂家都是這樣的。&lt;/p&gt;
+&lt;p&gt;想要去練琴了！&lt;/p&gt;
+
+&lt;style&gt;
+  
+#masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1 {
+  width: 100%;
+}
+
+#masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 20px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1 .masonry-item img {
+  width: 60%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1 .glightbox:hover,
+#masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;
+     data-columns=&#34;1&#34;
+     data-gutter=&#34;20&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;5&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/5.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/10/5.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/5.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/1.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/10/1.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/1.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/2.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/10/2.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/2.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/3.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/10/3.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/3.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/4.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/10/4.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/4.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/6.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/10/6.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/6.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#39;;
+  const config = {
+    columns:  1 ,
+    gutter:  20 ,
+    maxColumns:  5 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+
+      </content:encoded>
+    </item>
+    <item>
+      <title>🔔 Bell 的創作歷程</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/</link>
+      <pubDate>Sun, 12 Oct 2025 22:15:47 -0500</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/</guid>
+      <description>有一天即興時忽然彈出前八小節，覺得不錯聽，就錄進了我的 Yamaha P525。</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post2home.png" />
+        <media:content url="https://alicehsu.blog/images/Post2home.png" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post2home.png" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;div
+    class=&#34;alert alert-warning my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-warning) 10%, transparent);
+              border-left-color: var(--color-warning);
+              --hover-bg: color-mix(in srgb, var(--color-warning) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-warning) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;完整琴譜請至&lt;a href=&#34;https://alicehsu.blog/portfolio/&#34;&gt;作品集&lt;/a&gt;下載，也可在這裡找到我的 YouTube 演奏影片喔！&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;Bell 這首曲式為 A-B-A’ 的鋼琴小品，是由開頭的 8 個小節靈感衍伸而來的
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/1.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/1.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;創作背景&#34;&gt;創作背景&lt;/h2&gt;
+&lt;p&gt;有一天即興時忽然彈出前八小節，覺得不錯聽，就錄進了我的 Yamaha P525。原本想放一陣子再來發展成一首曲子，結果旋律不斷不斷在腦海裡盤旋，覺得不寫出來不行，索性花幾天的時間趕緊寫完整首曲子。而曲名 Bell（鐘）則是因作曲的過程，發現旋律有鐘聲的意象而賦予其名。&lt;/p&gt;
+&lt;h2 id=&#34;關於作曲&#34;&gt;關於作曲&lt;/h2&gt;
+&lt;h3 id=&#34;a-段1-22-小節&#34;&gt;A 段（1-22 小節）&lt;/h3&gt;
+&lt;p&gt;A 段的寫作，大多數是在鋼琴上即興而來。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;17-20 小節&lt;/strong&gt;：
+17-18 小節的右手旋律是變換第 1 小節而來，讓聽者重新記得這首曲子的動機。而 19-20 小節是模仿前面兩個小節、不過改變音域來模仿迴盪的鐘聲。
+
+&lt;style&gt;
+  
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-1 {
+  width: 100%;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 50px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-1 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-1 .glightbox:hover,
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-1&#34;
+     data-columns=&#34;3&#34;
+     data-gutter=&#34;50&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/2.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/2.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/2.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-2a0c3ee0073571b8c60499278ab7e7d1-1&#39;;
+  const config = {
+    columns:  3 ,
+    gutter:  50 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;style&gt;
+  
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-2 {
+  width: 100%;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-2 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-2 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 20px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-2 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-2 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-2 .glightbox:hover,
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-2 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-2 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-2 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-2&#34;
+     data-columns=&#34;2&#34;
+     data-gutter=&#34;20&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/3.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-2&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/3.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/3.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/4.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-2&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/4.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/4.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-2a0c3ee0073571b8c60499278ab7e7d1-2&#39;;
+  const config = {
+    columns:  2 ,
+    gutter:  20 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+&lt;h3 id=&#34;b-段23-54-小節&#34;&gt;B 段（23-54 小節）&lt;/h3&gt;
+&lt;p&gt;B 段的寫作，主要是想要寫一個不同於 A 段質地的音樂，所以運用了 A 段的動機，變換節奏、旋律方向和演奏方法而來的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;23-26 小節&lt;/strong&gt;：主旋律改為左手，反向 (inversion) 處理 A 段前兩小節的旋律而來；而右手部分則是將 A 段的動機增值 (augmentation)。
+
+&lt;style&gt;
+  
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-3 {
+  width: 100%;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-3 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-3 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 50px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-3 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-3 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-3 .glightbox:hover,
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-3 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-3 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-3 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-3&#34;
+     data-columns=&#34;1&#34;
+     data-gutter=&#34;50&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/5.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-3&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/5.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/5.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-2a0c3ee0073571b8c60499278ab7e7d1-3&#39;;
+  const config = {
+    columns:  1 ,
+    gutter:  50 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;27-30 小節&lt;/strong&gt;：此段是模仿 A 段的 9-12 小節。
+
+&lt;style&gt;
+  
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-4 {
+  width: 100%;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-4 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-4 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 20px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-4 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-4 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-4 .glightbox:hover,
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-4 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-4 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-4 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-4&#34;
+     data-columns=&#34;2&#34;
+     data-gutter=&#34;20&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/8.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-4&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/8.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/8.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/7.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-4&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/7.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/7.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-2a0c3ee0073571b8c60499278ab7e7d1-4&#39;;
+  const config = {
+    columns:  2 ,
+    gutter:  20 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;老實說，一開始我沒寫 23-30 小節的樂段，B 段原本是從 31 小節開始的。後來覺得整個曲子太短了，覺得後方的高潮需要一些鋪陳才加上的。並且，為了讓曲子不無聊、多一些對話，我刻意變換音符走向與和弦進行。寫完之後，覺得這樣的效果還挺不錯的。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;39-42 小節&lt;/strong&gt;：這段是前方樂段和後面高潮的銜接。
+
+&lt;style&gt;
+  
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-5 {
+  width: 100%;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-5 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-5 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 50px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-5 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-5 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-5 .glightbox:hover,
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-5 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-5 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-5 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-5&#34;
+     data-columns=&#34;2&#34;
+     data-gutter=&#34;50&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/9.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-5&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/9.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/9.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-2a0c3ee0073571b8c60499278ab7e7d1-5&#39;;
+  const config = {
+    columns:  2 ,
+    gutter:  50 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;43-48 小節&lt;/strong&gt;：這是整首曲子的高潮。原本右手嘗試想模仿 1-4 小節的左手，卻發現窒礙難行，後來決定重新設計右手：不同於 A 段的左手大抵是陪襯的作用，這段右手的連續和弦下行，與左手的單音旋律同樣重要，有種互搶鋒頭的意味。
+
+&lt;style&gt;
+  
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-6 {
+  width: 100%;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-6 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-6 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 50px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-6 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-6 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-6 .glightbox:hover,
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-6 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-6 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-6 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-6&#34;
+     data-columns=&#34;2&#34;
+     data-gutter=&#34;50&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/10.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-6&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/10.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/10.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-2a0c3ee0073571b8c60499278ab7e7d1-6&#39;;
+  const config = {
+    columns:  2 ,
+    gutter:  50 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+&lt;strong&gt;49-54 小節&lt;/strong&gt;：這段我想創造出鐘聲迴盪的效果，所以在左手彈了第一拍的八度之後，立刻飛到高音域彈後三拍，彈奏上比較有挑戰性。
+
+&lt;style&gt;
+  
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-7 {
+  width: 100%;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-7 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-7 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 50px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-7 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-7 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-7 .glightbox:hover,
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-7 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-7 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-7 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-7&#34;
+     data-columns=&#34;3&#34;
+     data-gutter=&#34;50&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/11.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-7&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/11.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/11.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-2a0c3ee0073571b8c60499278ab7e7d1-7&#39;;
+  const config = {
+    columns:  3 ,
+    gutter:  50 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;a-段55-74-小節&#34;&gt;A&amp;rsquo; 段（55-74 小節）&lt;/h3&gt;
+&lt;p&gt;因為 1-8 小節實在很好聽，若只彈一次太可惜啦，所以決定將曲式定為 ABA&amp;rsquo; ，這樣就能再一次回味好聽的旋律！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;63-70 小節&lt;/strong&gt;：這段右手是重複第一次所彈的，為了讓音樂變得有趣一點，調整了左手的伴奏，讓原本的降 A 原位分解和弦改為二轉位，引發聽者一種：「啊音樂快結束」的情緒。古典音樂在樂曲快結束時滿常有這種 $\mathrm{I}^6_4 \rightarrow \mathrm{V}^7 \rightarrow \mathrm{I}$ 的和聲進行，我借來使用在這邊的左手伴奏。
+
+&lt;style&gt;
+  
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-8 {
+  width: 100%;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-8 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-8 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 50px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-8 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-8 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-8 .glightbox:hover,
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-8 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-8 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-2a0c3ee0073571b8c60499278ab7e7d1-8 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-8&#34;
+     data-columns=&#34;2&#34;
+     data-gutter=&#34;50&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/12.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-8&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/2/12.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/12.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-2a0c3ee0073571b8c60499278ab7e7d1-8&#39;;
+  const config = {
+    columns:  2 ,
+    gutter:  50 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;&lt;/p&gt;
+&lt;h2 id=&#34;關於演奏&#34;&gt;關於演奏&lt;/h2&gt;
+&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-1-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-1-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;&lt;strong&gt;此段並非告訴演奏者「應該」如何演奏，而是純粹分享我「覺得」怎麼樣彈比較好聽。你也可以發掘你自己覺得好聽的演奏方式，然後寫信跟我分享。&lt;/strong&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;h3 id=&#34;踏板&#34;&gt;踏板&lt;/h3&gt;
+&lt;p&gt;這首曲子的踏板滿關鍵的，不過我不想將每個踏板符號都寫上去，這樣太囉哩囉嗦了。同時我也接受別的演奏者和我有不同的詮釋方式。值得一提的是： 16 小節的第二拍 E♭ 彈完不換踏板，直接彈奏 19 小節才換，能讓整個音樂有鐘聲迴響的感覺，我滿喜歡的。讓我不禁想到之前聽到鐘聲時，那種前一個音和後一個音交織在一起共鳴的感覺。（同樣適用於第 70 小節的低音 E♭）&lt;/p&gt;
+&lt;p&gt;而 23-26 小節則是刻意不踩踏板，讓整體很明顯與前一個段落有所切割，也讓音樂更俐落。&lt;/p&gt;
+&lt;h3 id=&#34;不同的音色&#34;&gt;不同的音色&lt;/h3&gt;
+&lt;p&gt;這首曲子本來是寫給鋼琴演奏的。寫完之後，意外發現 Yamaha P525 內建的 &lt;a href=&#34;https://www.youtube.com/watch?v=3qoF04GK2zI&#34;target=&#34;_blank&#34;
+&gt;Stage E. Piano&lt;/a&gt; 的音色演奏這首曲子非常好聽，滿像遊戲的背景音樂，所以用這個音色重新彈奏又錄了一支影片。其實我覺得如果用鐵琴的音色來演奏應該也不錯。如果你有發現哪些音色也適合來演奏這首曲子，歡迎來信跟我分享！&lt;/p&gt;
+&lt;h2 id=&#34;結語&#34;&gt;結語&lt;/h2&gt;
+&lt;p&gt;寫作這篇文章之前，我請 ChatGPT 推薦，可以寫作的次要主題，結果，它除了給我主題之外，還寫了非常多矯情的句子，讓我來分享一下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;「有時候我會卡在兩個音之間，那是一種說不出的停頓。像話到嘴邊又吞回去。」$\rightarrow$ 我是會卡沒錯，不過後面的比喻實在太油膩了。&lt;/li&gt;
+&lt;li&gt;「當我彈下最後一個音，我突然覺得，這首曲子已經不屬於我了。」$\rightarrow$ 並沒有（基德揮手），我還是擁有這首曲子好嗎！樂曲第一頁有寫我的 Copyright！&lt;/li&gt;
+&lt;li&gt;「每一首曲子，都是一封寫給某個時刻的信。」$\rightarrow$ 太太太矯情了，我以為我在聽霸道總裁講話。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;所以決定不理 ChatGPT 油膩到不行的建議，決定平平淡淡好好記錄自己作曲時的一些想法。&lt;/p&gt;
+&lt;p&gt;如果你演奏了我的曲子，歡迎你來信與我分享你的演奏喔！如果你上傳到任何影音分享平台，也歡迎你轉貼這篇文章讓你的聽眾了解我的創作歷程。&lt;/p&gt;
+
+      </content:encoded>
+    </item>
+  </channel>
+</rss>

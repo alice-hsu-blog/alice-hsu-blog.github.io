@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on Alice Hsu&#39;s Blog</title>
+    <link>https://alicehsu.blog/categories/</link>
+    <description>Recent content in Categories on Alice Hsu&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 09 Dec 2025 15:00:00 -0600</lastBuildDate>
+    <atom:link href="https://alicehsu.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Music</title>
+      <link>https://alicehsu.blog/categories/music/</link>
+      <pubDate>Tue, 09 Dec 2025 15:00:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/categories/music/</guid>
+      <description></description>
+
+      
+
+
+      <content:encoded>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Thoughts and Talks</title>
+      <link>https://alicehsu.blog/categories/thoughts-and-talks/</link>
+      <pubDate>Wed, 03 Dec 2025 22:50:15 -0800</pubDate>
+      <guid>https://alicehsu.blog/categories/thoughts-and-talks/</guid>
+      <description></description>
+
+      
+
+
+      <content:encoded>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Recipe</title>
+      <link>https://alicehsu.blog/categories/recipe/</link>
+      <pubDate>Sat, 01 Nov 2025 15:26:11 -0500</pubDate>
+      <guid>https://alicehsu.blog/categories/recipe/</guid>
+      <description></description>
+
+      
+
+
+      <content:encoded>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>https://alicehsu.blog/categories/travel/</link>
+      <pubDate>Sat, 25 Oct 2025 23:47:21 -0500</pubDate>
+      <guid>https://alicehsu.blog/categories/travel/</guid>
+      <description></description>
+
+      
+
+
+      <content:encoded>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>https://alicehsu.blog/categories/resources/</link>
+      <pubDate>Fri, 17 Oct 2025 21:37:37 -0500</pubDate>
+      <guid>https://alicehsu.blog/categories/resources/</guid>
+      <description></description>
+
+      
+
+
+      <content:encoded>
+      </content:encoded>
+    </item>
+  </channel>
+</rss>
