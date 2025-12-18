@@ -145,3 +145,6 @@ authors:
     分享音樂、閱讀和生活的網站。
     
     歡迎來信：alicemusicwonderland77 [at] gmail [dot] com
+
+statistics:
+  total_posts: "目前總共寫了 {{.Count}} 篇文章，共 {{.Words}} 字"

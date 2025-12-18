@@ -2,7 +2,7 @@
   <div class="mx-auto max-w-3xl">
     <!-- 作者信息区域 -->
     {{ if site.Params.author }}
-      <section class="author-section mb-12">
+      <section class="author-section mb-6">
         <div class="bg-card border-border rounded-xl border p-8 shadow-sm">
           <div
             class="flex flex-col items-center gap-6 text-center md:flex-row md:items-start md:text-left">
@@ -65,6 +65,17 @@
         </div>
       </section>
     {{ end }}
+
+    {{ $allPosts := where site.RegularPages "Section" "posts" }}
+    {{ $totalPosts := len $allPosts }}
+    {{ $totalWords := 0 }}
+    {{ range $allPosts }}
+      {{ $totalWords = add $totalWords .WordCount }}
+    {{ end }}
+
+    <div class="mb-6 text-sm text-muted-foreground">
+      {{ i18n "statistics.total_posts" (dict "Count" $totalPosts "Words" $totalWords) }}
+    </div>
 
 
     <!-- 最近文章区域 -->
