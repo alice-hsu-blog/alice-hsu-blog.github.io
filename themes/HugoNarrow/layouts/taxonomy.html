@@ -54,7 +54,7 @@
   {{ if $terms }}
     <!-- 统一使用标签云布局 -->
     {{ $taxonomySingular := .Data.Singular }}
-    <div class="flex flex-wrap gap-3">
+    <div class="">
       {{ $maxCount := 0 }}
       {{ range $terms }}
         {{ if gt .Count $maxCount }}
@@ -63,38 +63,37 @@
       {{ end }}
 
       {{ range $terms }}
-        {{ $weight := div (mul .Count 4) $maxCount }}
-        {{ $weight = add $weight 1 }}
-        {{ $sizeClass := "" }}
-        {{ $colorClass := "" }}
-
-        <!-- {{ if eq $weight 1 }}
-          {{ $sizeClass = "text-sm" }}
-        {{ else if eq $weight 2 }}
-          {{ $sizeClass = "text-base" }}
-        {{ else if eq $weight 3 }}
-          {{ $sizeClass = "text-lg" }}
-        {{ else if eq $weight 4 }}
-          {{ $sizeClass = "text-xl" }}
-        {{ else }}
-          {{ $sizeClass = "text-2xl" }}
-        {{ end }} -->
-        {{ $sizeClass = "text-lg" }}
-
-
-        <a
-          href="{{ .Page.RelPermalink }}"
-          class="bg-card border-border group {{ $sizeClass }} hover:bg-primary/10 hover:text-primary hover:border-primary/50 focus:ring-primary/20 inline-flex items-center gap-2 rounded-lg border px-3 py-2 transition-all duration-300 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none"
-          data-taxonomy="{{ $taxonomySingular }}">
-          <span
-            class="text-foreground group-hover:text-primary font-medium transition-colors duration-200">
-            {{ .Page.LinkTitle }}
-          </span>
-          <span
-            class="bg-primary/10 text-primary rounded-full px-2 py-0.5 text-xs font-medium">
-            {{ .Count }}
-          </span>
-        </a>
+        <div>
+          <h2 class="category-title"><a
+            href="{{ .Page.RelPermalink }}"
+            class="group text-xl hover:text-primary focus:ring-primary/20 inline-flex items-center gap-2 rounded-lg py-2 transition-all duration-300 ease-out focus:ring-2 focus:outline-none"
+            data-taxonomy="{{ $taxonomySingular }}">
+            <span
+              class="text-foreground group-hover:text-primary font-medium transition-colors duration-200">
+              {{ .Page.LinkTitle }}
+            </span>
+            <span
+              class="bg-primary/10 text-primary rounded-full px-2 py-0.5 text-xs font-medium">
+              {{ .Count }}
+            </span>
+          </a>
+          </h2>
+          <ul class="space-y-2 text-base">
+            {{ range .Pages.ByDate.Reverse }}
+              <li class="flex gap-2 text-muted-foreground">
+                <a
+                href="{{ .RelPermalink }}"
+                class="text-foreground hover:text-primary transition-colors inline-flex items-center gap-3"
+                >
+                  <time class="">
+                    {{ .Date.Format "2006-01-02" }}
+                  </time>
+                  {{ .Title }}
+                </a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
       {{ end }}
     </div>
   {{ else }}
