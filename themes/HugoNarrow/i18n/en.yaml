@@ -246,7 +246,7 @@ authors:
   author_description: |
     A personal website that shares music, reading, and life. 
     
-    You can reach me at: alicemusicwonderland77 [at] gmail [dot] com
+    You can reach me at: mail@alicehsu.blog
 
 statistics:
   total_posts: "Until now, I wrote {{.Count}} posts, {{.Words}} words"

@@ -29,4 +29,4 @@ Here, I share my musical works, including original piano compositions, piano cov
 
 Finally, I’d like to thank my husband  [Samuel](https://mhyeh.github.io/)  for building this website and making it look as beautiful as it does now ❤️
 
-For any collaborations or job inquiries, or feedback on my posts or music, please don't hesitate to contact me by email. You can reach me at: alicemusicwonderland77 [at] gmail [dot] com
+For any collaborations or job inquiries, or feedback on my posts or music, please don't hesitate to contact me by email. You can reach me at: mail\@alicehsu.blog
