@@ -6,8 +6,61 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 18 Dec 2025 17:50:00 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 19:02:20 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>聖誕小插畫</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/12/%E8%81%96%E8%AA%95%E5%B0%8F%E6%8F%92%E7%95%AB/</link>
+      <pubDate>Fri, 19 Dec 2025 19:02:20 -0600</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E8%81%96%E8%AA%95%E5%B0%8F%E6%8F%92%E7%95%AB/</guid>
+      <description>祝大家聖誕快樂！</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Snowman.gif" />
+        <media:content url="https://alicehsu.blog/images/Snowman.gif" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Snowman.gif" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;受到&lt;a href=&#34;https://trashposts.com/blog/christmas-theme-and-guestbook/&#34;target=&#34;_blank&#34;
+&gt;廢文小天地&lt;/a&gt;的啟發，我也來畫個 gif 小插畫應景聖誕節啦！祝大家聖誕快樂！
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Snowman.gif&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Snowman.gif&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/ChristmasTree.gif&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/ChristmasTree.gif&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>西遊記（終）：聖地牙哥之意外景點篇</title>
       <link>https://alicehsu.blog/zh-tw/posts/2025/12/%E8%A5%BF%E9%81%8A%E8%A8%98%E7%B5%82%E8%81%96%E5%9C%B0%E7%89%99%E5%93%A5%E4%B9%8B%E6%84%8F%E5%A4%96%E6%99%AF%E9%BB%9E%E7%AF%87/</link>
@@ -4363,7 +4416,7 @@
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/14/0-2.JPG&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/14/42.JPG&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-1c9234e3520b46a0d84f24f1869ed03d-6&#34;&gt;
             
