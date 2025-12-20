@@ -58,6 +58,23 @@
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
   &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post19home.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post19home.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
 
       </content:encoded>
     </item>
