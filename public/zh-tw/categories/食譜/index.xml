@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>食譜 on Alice Hsu&#39;s Blog</title>
-    <link>https://alicehsu.blog/zh-tw/categories/%E9%A3%9F%E8%AD%9C/</link>
+    <link>http://localhost:1313/zh-tw/categories/%E9%A3%9F%E8%AD%9C/</link>
     <description>Recent content in 食譜 on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
     <lastBuildDate>Sat, 01 Nov 2025 15:26:04 -0500</lastBuildDate>
-    <atom:link href="https://alicehsu.blog/zh-tw/categories/%E9%A3%9F%E8%AD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh-tw/categories/%E9%A3%9F%E8%AD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🤤 濃稠醬汁培根蛋麵</title>
-      <link>https://alicehsu.blog/zh-tw/posts/2025/11/%E6%BF%83%E7%A8%A0%E9%86%AC%E6%B1%81%E5%9F%B9%E6%A0%B9%E8%9B%8B%E9%BA%B5/</link>
+      <link>http://localhost:1313/zh-tw/posts/2025/11/%E6%BF%83%E7%A8%A0%E9%86%AC%E6%B1%81%E5%9F%B9%E6%A0%B9%E8%9B%8B%E9%BA%B5/</link>
       <pubDate>Sat, 01 Nov 2025 15:26:04 -0500</pubDate>
-      <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E6%BF%83%E7%A8%A0%E9%86%AC%E6%B1%81%E5%9F%B9%E6%A0%B9%E8%9B%8B%E9%BA%B5/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/2025/11/%E6%BF%83%E7%A8%A0%E9%86%AC%E6%B1%81%E5%9F%B9%E6%A0%B9%E8%9B%8B%E9%BA%B5/</guid>
       <description>好吃的義大利麵在這裡。</description>
 
       
-        <media:thumbnail url="https://alicehsu.blog/images/Post/8/1.jpg" />
-        <media:content url="https://alicehsu.blog/images/Post/8/1.jpg" medium="image" />
-        <enclosure url="https://alicehsu.blog/images/Post/8/1.jpg" type="image/jpeg" />
+        <media:thumbnail url="http://localhost:1313/images/Post/8/1.jpg" />
+        <media:content url="http://localhost:1313/images/Post/8/1.jpg" medium="image" />
+        <enclosure url="http://localhost:1313/images/Post/8/1.jpg" type="image/jpeg" />
       
 
 
@@ -85,18 +85,18 @@
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/8/1.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-0b22cd3834a2b70b0c515f8d5776a299-1&#34;&gt;
             
             &lt;img
-    src=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34;
+    src=&#34;http://localhost:1313/images/Post/8/1.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34;
+    data-gallery-src=&#34;http://localhost:1313/images/Post/8/1.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -317,15 +317,15 @@
     </item>
     <item>
       <title>日式親子丼飯＋蕃茄玉米湯</title>
-      <link>https://alicehsu.blog/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</link>
+      <link>http://localhost:1313/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</link>
       <pubDate>Fri, 31 Oct 2025 23:43:12 -0500</pubDate>
-      <guid>https://alicehsu.blog/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</guid>
+      <guid>http://localhost:1313/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</guid>
       <description>好吃的晚餐在這裡。</description>
 
       
-        <media:thumbnail url="https://alicehsu.blog/images/Post/7/1.jpg" />
-        <media:content url="https://alicehsu.blog/images/Post/7/1.jpg" medium="image" />
-        <enclosure url="https://alicehsu.blog/images/Post/7/1.jpg" type="image/jpeg" />
+        <media:thumbnail url="http://localhost:1313/images/Post/7/1.jpg" />
+        <media:content url="http://localhost:1313/images/Post/7/1.jpg" medium="image" />
+        <enclosure url="http://localhost:1313/images/Post/7/1.jpg" type="image/jpeg" />
       
 
 
@@ -335,13 +335,13 @@
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;https://alicehsu.blog/images/Post/7/1.jpg&#34;
+    src=&#34;http://localhost:1313/images/Post/7/1.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;https://alicehsu.blog/images/Post/7/1.jpg&#34;
+    data-gallery-src=&#34;http://localhost:1313/images/Post/7/1.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -352,13 +352,13 @@
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;https://alicehsu.blog/images/Post/7/2.jpg&#34;
+    src=&#34;http://localhost:1313/images/Post/7/2.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;https://alicehsu.blog/images/Post/7/2.jpg&#34;
+    data-gallery-src=&#34;http://localhost:1313/images/Post/7/2.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 

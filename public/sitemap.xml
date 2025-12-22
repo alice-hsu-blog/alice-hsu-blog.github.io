@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://alicehsu.blog/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
       <lastmod>2025-12-22T16:30:00-06:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://alicehsu.blog/zh-tw/sitemap.xml</loc>
+    <loc>http://localhost:1313/zh-tw/sitemap.xml</loc>
     
       <lastmod>2025-12-22T16:30:00-06:00</lastmod>
     
