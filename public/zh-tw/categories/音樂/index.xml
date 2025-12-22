@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>音樂 on Alice Hsu&#39;s Blog</title>
-    <link>http://localhost:1313/zh-tw/categories/%E9%9F%B3%E6%A8%82/</link>
+    <link>https://alicehsu.blog/zh-tw/categories/%E9%9F%B3%E6%A8%82/</link>
     <description>Recent content in 音樂 on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
     <lastBuildDate>Mon, 22 Dec 2025 16:00:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh-tw/categories/%E9%9F%B3%E6%A8%82/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alicehsu.blog/zh-tw/categories/%E9%9F%B3%E6%A8%82/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>錄了聖誕詩歌串燒（有譜）</title>
-      <link>http://localhost:1313/zh-tw/posts/2025/12/%E9%8C%84%E4%BA%86%E8%81%96%E8%AA%95%E8%A9%A9%E6%AD%8C%E4%B8%B2%E7%87%92%E6%9C%89%E8%AD%9C/</link>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/12/%E9%8C%84%E4%BA%86%E8%81%96%E8%AA%95%E8%A9%A9%E6%AD%8C%E4%B8%B2%E7%87%92%E6%9C%89%E8%AD%9C/</link>
       <pubDate>Mon, 22 Dec 2025 16:00:00 -0600</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/2025/12/%E9%8C%84%E4%BA%86%E8%81%96%E8%AA%95%E8%A9%A9%E6%AD%8C%E4%B8%B2%E7%87%92%E6%9C%89%E8%AD%9C/</guid>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E9%8C%84%E4%BA%86%E8%81%96%E8%AA%95%E8%A9%A9%E6%AD%8C%E4%B8%B2%E7%87%92%E6%9C%89%E8%AD%9C/</guid>
       <description>再過幾天就是聖誕節了，這個 Project 是我一直以來想做的：將幾首喜歡的詩歌放在一起，做一個詩歌串燒（Christmas Medley）。</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post21home.png" />
-        <media:content url="http://localhost:1313/images/Post21home.png" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post21home.png" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post21home.png" />
+        <media:content url="https://alicehsu.blog/images/Post21home.png" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post21home.png" type="image/jpeg" />
       
 
 
       <content:encoded>&lt;img
-          src="http://localhost:1313/images/Post21home.png"
+          src="https://alicehsu.blog/images/Post21home.png"
           loading="eager"
         /&gt;&lt;p&gt;再過幾天就是聖誕節了，這個 Project 是我一直以來想做的：將幾首喜歡的詩歌放在一起，做一個詩歌串燒（Christmas Medley）。&lt;/p&gt;
 &lt;p&gt;這次選的詩歌分別是以下五首，都是關於耶穌誕生的詩歌。&lt;/p&gt;
@@ -196,13 +196,13 @@
 &lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-83c188d1&#34;&gt;
     &lt;span&gt;
       Page &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-83c188d1&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-83c188d1&#34;&gt;&lt;/span&gt;
-      &lt;a href=&#34;http://localhost:1313/pdf/Christmas%20Hymns%20Medley.pdf&#34; aria-label=&#34;Download&#34; download&gt;[Download]
+      &lt;a href=&#34;https://alicehsu.blog/pdf/Christmas%20Hymns%20Medley.pdf&#34; aria-label=&#34;Download&#34; download&gt;[Download]
       &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
 
 &lt;noscript&gt;
-View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-83c188d1&#34; href=&#34;http://localhost:1313/pdf/Christmas%20Hymns%20Medley.pdf&#34;&gt;here&lt;/a&gt;.
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-83c188d1&#34; href=&#34;https://alicehsu.blog/pdf/Christmas%20Hymns%20Medley.pdf&#34;&gt;here&lt;/a&gt;.
 &lt;/noscript&gt;
 
 &lt;script type=&#34;text/javascript&#34;&gt;
@@ -218,7 +218,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/js\/pdf-js\/build\/pdf.worker.js&#34;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/alicehsu.blog\/js\/pdf-js\/build\/pdf.worker.js&#34;;
 
     
     var pdfDoc = null,
@@ -356,15 +356,15 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     </item>
     <item>
       <title>我寫了藤井風 Kirari 的 Piano Cover</title>
-      <link>http://localhost:1313/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/</link>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/</link>
       <pubDate>Tue, 09 Dec 2025 15:00:00 -0600</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/</guid>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/</guid>
       <description>寫 Piano Cover 可能有點像翻譯吧，把一首由樂團演奏的曲子「翻譯」成由鋼琴演奏的曲子，挺有成就感的。</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post13home.jpg" />
-        <media:content url="http://localhost:1313/images/Post13home.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post13home.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post13home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post13home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post13home.jpg" type="image/jpeg" />
       
 
 
@@ -374,13 +374,13 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post13home.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post13home.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post13home.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post13home.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -420,13 +420,13 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/13/1.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/13/1.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/13/1.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/1.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -444,13 +444,13 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/13/2.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/13/2.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/13/2.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/2.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -461,13 +461,13 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/13/3.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/13/3.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/13/3.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/3.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -478,13 +478,13 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/13/4.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/13/4.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/13/4.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/4.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -502,15 +502,15 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     </item>
     <item>
       <title>遇見浦朗克（Francis Poulenc）</title>
-      <link>http://localhost:1313/zh-tw/posts/2025/11/%E9%81%87%E8%A6%8B%E6%B5%A6%E6%9C%97%E5%85%8Bfrancis-poulenc/</link>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/11/%E9%81%87%E8%A6%8B%E6%B5%A6%E6%9C%97%E5%85%8Bfrancis-poulenc/</link>
       <pubDate>Mon, 24 Nov 2025 20:13:07 -0600</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/2025/11/%E9%81%87%E8%A6%8B%E6%B5%A6%E6%9C%97%E5%85%8Bfrancis-poulenc/</guid>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E9%81%87%E8%A6%8B%E6%B5%A6%E6%9C%97%E5%85%8Bfrancis-poulenc/</guid>
       <description>浦朗克是個什麼樣子的人？他對音樂有什麼看法？他有喜歡和不喜歡的作曲家嗎？</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post/11/2.jpg" />
-        <media:content url="http://localhost:1313/images/Post/11/2.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post/11/2.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post/11/2.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/11/2.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/11/2.jpg" type="image/jpeg" />
       
 
 
@@ -583,18 +583,18 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/11/1.jpg&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/11/1.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-7c7527dcf133370344477770799af01f-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/11/1.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/11/1.jpg&#34;
     alt=&#34;照片攝於 1946 年，約浦朗克 47 歲時。此張照片在 Public Domain，出自於 University of Melbourne Archives。連結：https://archives.library.unimelb.edu.au/nodes/view/431648&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/11/1.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/11/1.jpg&#34;
     data-gallery-alt=&#34;照片攝於 1946 年，約浦朗克 47 歲時。此張照片在 Public Domain，出自於 University of Melbourne Archives。連結：https://archives.library.unimelb.edu.au/nodes/view/431648&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;照片攝於 1946 年，約浦朗克 47 歲時。此張照片在 Public Domain，出自於 University of Melbourne Archives。連結：https://archives.library.unimelb.edu.au/nodes/view/431648&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -1019,20 +1019,20 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     </item>
     <item>
       <title>角野隼斗（Cateen）的鋼琴獨奏會</title>
-      <link>http://localhost:1313/zh-tw/posts/2025/11/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97cateen%E7%9A%84%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E6%9C%83/</link>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/11/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97cateen%E7%9A%84%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E6%9C%83/</link>
       <pubDate>Mon, 17 Nov 2025 16:20:06 -0600</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/2025/11/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97cateen%E7%9A%84%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E6%9C%83/</guid>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/11/%E8%A7%92%E9%87%8E%E9%9A%BC%E6%96%97cateen%E7%9A%84%E9%8B%BC%E7%90%B4%E7%8D%A8%E5%A5%8F%E6%9C%83/</guid>
       <description>昨天下午去芝加哥聽角野隼斗的鋼琴獨奏會</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post/10/3.jpg" />
-        <media:content url="http://localhost:1313/images/Post/10/3.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post/10/3.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post/10/3.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/10/3.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/10/3.jpg" type="image/jpeg" />
       
 
 
       <content:encoded>&lt;img
-          src="http://localhost:1313/images/Post/10/3.jpg"
+          src="https://alicehsu.blog/images/Post/10/3.jpg"
           loading="eager"
         /&gt;&lt;p&gt;昨天下午去芝加哥聽角野隼斗（&lt;a href=&#34;https://hayatosum.com/biography&#34;target=&#34;_blank&#34;
 &gt;Hayato Sumino&lt;/a&gt;，綽號 Cateen）的鋼琴獨奏會，走出音樂廳，覺得滿足和感動快要滿溢出來了！&lt;/p&gt;
@@ -1116,83 +1116,83 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/5.jpg&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/5.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/5.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/5.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/5.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/5.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/1.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/1.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/1.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/1.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/1.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/1.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/2.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/2.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/2.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/2.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/2.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/2.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/3.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/3.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/3.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/3.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/3.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/3.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/4.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/4.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/4.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/4.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/4.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/4.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/6.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/6.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-d79b8d77a3a0e41aafaaa5ae2d1879e1-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/6.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/6.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/6.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/6.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -1369,15 +1369,15 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     </item>
     <item>
       <title>🔔 Bell 的創作歷程</title>
-      <link>http://localhost:1313/zh-tw/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/</link>
+      <link>https://alicehsu.blog/zh-tw/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/</link>
       <pubDate>Sun, 12 Oct 2025 22:15:47 -0500</pubDate>
-      <guid>http://localhost:1313/zh-tw/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/</guid>
+      <guid>https://alicehsu.blog/zh-tw/posts/2025/10/bell-%E7%9A%84%E5%89%B5%E4%BD%9C%E6%AD%B7%E7%A8%8B/</guid>
       <description>有一天即興時忽然彈出前八小節，覺得不錯聽，就錄進了我的 Yamaha P525。</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post2home.png" />
-        <media:content url="http://localhost:1313/images/Post2home.png" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post2home.png" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post2home.png" />
+        <media:content url="https://alicehsu.blog/images/Post2home.png" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post2home.png" type="image/jpeg" />
       
 
 
@@ -1398,7 +1398,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       id=&#34;alert-0-content&#34;
       class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
       &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
-        &lt;p&gt;完整琴譜請至&lt;a href=&#34;http://localhost:1313/portfolio/&#34;&gt;作品集&lt;/a&gt;下載，也可在這裡找到我的 YouTube 演奏影片喔！&lt;/p&gt;
+        &lt;p&gt;完整琴譜請至&lt;a href=&#34;https://alicehsu.blog/portfolio/&#34;&gt;作品集&lt;/a&gt;下載，也可在這裡找到我的 YouTube 演奏影片喔！&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;&lt;script&gt;
@@ -1438,13 +1438,13 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/1.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/1.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/1.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/1.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -1519,18 +1519,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/2.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/2.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/2.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/2.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/2.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/2.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -1765,31 +1765,31 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/3.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/3.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-2&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/3.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/3.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/3.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/3.png&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/4.png&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/4.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-2&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/4.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/4.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/4.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/4.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -2027,18 +2027,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/5.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/5.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-3&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/5.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/5.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/5.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/5.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -2274,31 +2274,31 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/8.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/8.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-4&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/8.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/8.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/8.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/8.png&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/7.png&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/7.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-4&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/7.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/7.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/7.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/7.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -2535,18 +2535,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/9.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/9.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-5&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/9.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/9.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/9.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/9.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -2782,18 +2782,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/10.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/10.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-6&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/10.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/10.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/10.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/10.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -3029,18 +3029,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/11.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/11.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-7&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/11.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/11.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/11.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/11.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -3278,18 +3278,18 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/12.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/12.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-2a0c3ee0073571b8c60499278ab7e7d1-8&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/12.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/12.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/12.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/12.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;

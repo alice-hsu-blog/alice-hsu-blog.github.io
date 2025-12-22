@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Alice Hsu&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://alicehsu.blog/</link>
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 22 Dec 2025 16:30:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alicehsu.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/portfolio/</link>
+      <link>https://alicehsu.blog/portfolio/</link>
       <pubDate>Mon, 22 Dec 2025 16:30:00 -0600</pubDate>
-      <guid>http://localhost:1313/portfolio/</guid>
-      <description>&lt;p&gt;Update: 12-22-2025&lt;/p&gt;&#xA;&lt;h3 id=&#34;original-composition&#34;&gt;Original Composition&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Published Date&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Performance&lt;/th&gt;&#xA;          &lt;th&gt;Score&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10-13-2025&lt;/td&gt;&#xA;          &lt;td&gt;Bell (Stage E. Piano)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/3qoF04GK2zI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/alice-hsu-bell-stage-e-piano-original-piano-composition&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Bell.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10-13-2025&lt;/td&gt;&#xA;          &lt;td&gt;Bell&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/Z4o3uY5C2EI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/alice-hsu-bell-original-piano-composition&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Bell.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;08-27-2025&lt;/td&gt;&#xA;          &lt;td&gt;Ruins&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/RsftgIKy3LM&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/USjfFvWS2FYXasseaL&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Ruins.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;07-01-2025&lt;/td&gt;&#xA;          &lt;td&gt;Bitter Sweet&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/iFkaTUgE1PE&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/EUAzsPntLhmjrm2gCZ&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Bitter%20Sweet.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;06-18-2025&lt;/td&gt;&#xA;          &lt;td&gt;Farewell&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/Rx4R5YYzuEg&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/KXcNYTUocrhkzbLj8z&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Farewell.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;piano-covers&#34;&gt;Piano Covers&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Published Date&lt;/th&gt;&#xA;          &lt;th&gt;Original Creator&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Performance&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;12-20-2025&lt;/td&gt;&#xA;          &lt;td&gt;John F. Wade / From William Sandy&amp;rsquo;s Christmas Carols, 1833 / John Stainer / Franz Grüber / French Carol&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Christmas%20Hymns%20Medley.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Christmas Hymns Medley&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=exz_3UsK_hk&amp;amp;t=4s&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/WAJOmUA4crqsWt0dp8&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11-25-2025&lt;/td&gt;&#xA;          &lt;td&gt;Fujii Kaze&lt;/td&gt;&#xA;          &lt;td&gt;Kirari&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rIAMN3ULdX8&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/9POR1wvqA5q98GWS54&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;09-16-2025&lt;/td&gt;&#xA;          &lt;td&gt;Five for Fighting&lt;/td&gt;&#xA;          &lt;td&gt;100 Years&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/a4PW3n9SA8A&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/Yfra4kwTA3Di3PShph&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;08-09-2025&lt;/td&gt;&#xA;          &lt;td&gt;Sodagreen&lt;/td&gt;&#xA;          &lt;td&gt;Daylight (2 Piano Covers)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/sNEwXQAIC3A&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/jZC8DiKaGManSVUAcP&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;06-23-2025&lt;/td&gt;&#xA;          &lt;td&gt;Sodagreen&lt;/td&gt;&#xA;          &lt;td&gt;Once in a Lifetime&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/FShd3-4umQI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/Gx5LJzRlXnUtvylvmr&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;06-08-2025&lt;/td&gt;&#xA;          &lt;td&gt;Sodagreen&lt;/td&gt;&#xA;          &lt;td&gt;What&amp;rsquo;s the Trouble on Your Mind?&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/JpLZL5CxitI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/bI4zUMFiUCqAYPNEDc&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;classical-music&#34;&gt;Classical Music&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Published Date&lt;/th&gt;&#xA;          &lt;th&gt;Composer&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Performance&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11-05-2025&lt;/td&gt;&#xA;          &lt;td&gt;Francis Poulenc&lt;/td&gt;&#xA;          &lt;td&gt;Improvisation No. 7&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vE9QNQYPN2Q&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/francis-poulenc-improvisation-no-7-alice-hsu?si=6f79b944c30c4c28a313056290bb51f5&amp;amp;utm_source=clipboard&amp;amp;utm_medium=text&amp;amp;utm_campaign=social_sharing&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10-02-2025&lt;/td&gt;&#xA;          &lt;td&gt;Dmitri Shostakovich&lt;/td&gt;&#xA;          &lt;td&gt;Romance (from Dances of the Dolls)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/1hjkNCefsao&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/V3xWwHzUic6wuWIH0a&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;09-26-2025&lt;/td&gt;&#xA;          &lt;td&gt;Dmitri Shostakovich&lt;/td&gt;&#xA;          &lt;td&gt;Lyrical Waltz (from Dances of the Dolls)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/PujmjvfiSsE&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/VXtjg68HfjPNB3lIGJ&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+      <guid>https://alicehsu.blog/portfolio/</guid>
+      <description>&lt;p&gt;Update: 12-22-2025&lt;/p&gt;&#xA;&lt;h3 id=&#34;original-composition&#34;&gt;Original Composition&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Published Date&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Performance&lt;/th&gt;&#xA;          &lt;th&gt;Score&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10-13-2025&lt;/td&gt;&#xA;          &lt;td&gt;Bell (Stage E. Piano)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/3qoF04GK2zI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/alice-hsu-bell-stage-e-piano-original-piano-composition&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Bell.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10-13-2025&lt;/td&gt;&#xA;          &lt;td&gt;Bell&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/Z4o3uY5C2EI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/alice-hsu-bell-original-piano-composition&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Bell.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;08-27-2025&lt;/td&gt;&#xA;          &lt;td&gt;Ruins&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/RsftgIKy3LM&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/USjfFvWS2FYXasseaL&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Ruins.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;07-01-2025&lt;/td&gt;&#xA;          &lt;td&gt;Bitter Sweet&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/iFkaTUgE1PE&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/EUAzsPntLhmjrm2gCZ&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Bitter%20Sweet.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;06-18-2025&lt;/td&gt;&#xA;          &lt;td&gt;Farewell&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/Rx4R5YYzuEg&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/KXcNYTUocrhkzbLj8z&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Farewell.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Download&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;piano-covers&#34;&gt;Piano Covers&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Published Date&lt;/th&gt;&#xA;          &lt;th&gt;Original Creator&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Performance&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;12-20-2025&lt;/td&gt;&#xA;          &lt;td&gt;John F. Wade / From William Sandy&amp;rsquo;s Christmas Carols, 1833 / John Stainer / Franz Grüber / French Carol&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Christmas%20Hymns%20Medley.pdf&#34;target=&#34;_blank&#34;&#xA;&gt;Christmas Hymns Medley&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=exz_3UsK_hk&amp;amp;t=4s&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/WAJOmUA4crqsWt0dp8&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11-25-2025&lt;/td&gt;&#xA;          &lt;td&gt;Fujii Kaze&lt;/td&gt;&#xA;          &lt;td&gt;Kirari&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rIAMN3ULdX8&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/9POR1wvqA5q98GWS54&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;09-16-2025&lt;/td&gt;&#xA;          &lt;td&gt;Five for Fighting&lt;/td&gt;&#xA;          &lt;td&gt;100 Years&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/a4PW3n9SA8A&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/Yfra4kwTA3Di3PShph&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;08-09-2025&lt;/td&gt;&#xA;          &lt;td&gt;Sodagreen&lt;/td&gt;&#xA;          &lt;td&gt;Daylight (2 Piano Covers)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/sNEwXQAIC3A&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/jZC8DiKaGManSVUAcP&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;06-23-2025&lt;/td&gt;&#xA;          &lt;td&gt;Sodagreen&lt;/td&gt;&#xA;          &lt;td&gt;Once in a Lifetime&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/FShd3-4umQI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/Gx5LJzRlXnUtvylvmr&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;06-08-2025&lt;/td&gt;&#xA;          &lt;td&gt;Sodagreen&lt;/td&gt;&#xA;          &lt;td&gt;What&amp;rsquo;s the Trouble on Your Mind?&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/JpLZL5CxitI&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/bI4zUMFiUCqAYPNEDc&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h3 id=&#34;classical-music&#34;&gt;Classical Music&lt;/h3&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Published Date&lt;/th&gt;&#xA;          &lt;th&gt;Composer&lt;/th&gt;&#xA;          &lt;th&gt;Title&lt;/th&gt;&#xA;          &lt;th&gt;Performance&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11-05-2025&lt;/td&gt;&#xA;          &lt;td&gt;Francis Poulenc&lt;/td&gt;&#xA;          &lt;td&gt;Improvisation No. 7&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vE9QNQYPN2Q&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/francis-poulenc-improvisation-no-7-alice-hsu?si=6f79b944c30c4c28a313056290bb51f5&amp;amp;utm_source=clipboard&amp;amp;utm_medium=text&amp;amp;utm_campaign=social_sharing&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10-02-2025&lt;/td&gt;&#xA;          &lt;td&gt;Dmitri Shostakovich&lt;/td&gt;&#xA;          &lt;td&gt;Romance (from Dances of the Dolls)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/1hjkNCefsao&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/V3xWwHzUic6wuWIH0a&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;09-26-2025&lt;/td&gt;&#xA;          &lt;td&gt;Dmitri Shostakovich&lt;/td&gt;&#xA;          &lt;td&gt;Lyrical Waltz (from Dances of the Dolls)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://youtu.be/PujmjvfiSsE&#34;target=&#34;_blank&#34;&#xA;&gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/VXtjg68HfjPNB3lIGJ&#34;target=&#34;_blank&#34;&#xA;&gt;SoundCloud&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
 
       
 
@@ -36,7 +36,7 @@
           &lt;td&gt;&lt;a href=&#34;https://youtu.be/3qoF04GK2zI&#34;target=&#34;_blank&#34;
 &gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/alice-hsu-bell-stage-e-piano-original-piano-composition&#34;target=&#34;_blank&#34;
 &gt;SoundCloud&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Bell.pdf&#34;target=&#34;_blank&#34;
+          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Bell.pdf&#34;target=&#34;_blank&#34;
 &gt;Download&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -45,7 +45,7 @@
           &lt;td&gt;&lt;a href=&#34;https://youtu.be/Z4o3uY5C2EI&#34;target=&#34;_blank&#34;
 &gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://soundcloud.com/alice_h_hsu/alice-hsu-bell-original-piano-composition&#34;target=&#34;_blank&#34;
 &gt;SoundCloud&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Bell.pdf&#34;target=&#34;_blank&#34;
+          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Bell.pdf&#34;target=&#34;_blank&#34;
 &gt;Download&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -54,7 +54,7 @@
           &lt;td&gt;&lt;a href=&#34;https://youtu.be/RsftgIKy3LM&#34;target=&#34;_blank&#34;
 &gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/USjfFvWS2FYXasseaL&#34;target=&#34;_blank&#34;
 &gt;SoundCloud&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Ruins.pdf&#34;target=&#34;_blank&#34;
+          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Ruins.pdf&#34;target=&#34;_blank&#34;
 &gt;Download&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -63,7 +63,7 @@
           &lt;td&gt;&lt;a href=&#34;https://youtu.be/iFkaTUgE1PE&#34;target=&#34;_blank&#34;
 &gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/EUAzsPntLhmjrm2gCZ&#34;target=&#34;_blank&#34;
 &gt;SoundCloud&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Bitter%20Sweet.pdf&#34;target=&#34;_blank&#34;
+          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Bitter%20Sweet.pdf&#34;target=&#34;_blank&#34;
 &gt;Download&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -72,7 +72,7 @@
           &lt;td&gt;&lt;a href=&#34;https://youtu.be/Rx4R5YYzuEg&#34;target=&#34;_blank&#34;
 &gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/KXcNYTUocrhkzbLj8z&#34;target=&#34;_blank&#34;
 &gt;SoundCloud&lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Farewell.pdf&#34;target=&#34;_blank&#34;
+          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Farewell.pdf&#34;target=&#34;_blank&#34;
 &gt;Download&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -91,7 +91,7 @@
       &lt;tr&gt;
           &lt;td&gt;12-20-2025&lt;/td&gt;
           &lt;td&gt;John F. Wade / From William Sandy&amp;rsquo;s Christmas Carols, 1833 / John Stainer / Franz Grüber / French Carol&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;http://localhost:1313/pdf/Christmas%20Hymns%20Medley.pdf&#34;target=&#34;_blank&#34;
+          &lt;td&gt;&lt;a href=&#34;https://alicehsu.blog/pdf/Christmas%20Hymns%20Medley.pdf&#34;target=&#34;_blank&#34;
 &gt;Christmas Hymns Medley&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=exz_3UsK_hk&amp;amp;t=4s&#34;target=&#34;_blank&#34;
 &gt;YouTube&lt;/a&gt; / &lt;a href=&#34;https://on.soundcloud.com/WAJOmUA4crqsWt0dp8&#34;target=&#34;_blank&#34;
@@ -180,77 +180,16 @@
       </content:encoded>
     </item>
     <item>
-      <title>Post Vacation Syndrome</title>
-      <link>http://localhost:1313/posts/2025/12/post-vacation-syndrome/</link>
-      <pubDate>Mon, 15 Dec 2025 14:06:00 -0600</pubDate>
-      <guid>http://localhost:1313/posts/2025/12/post-vacation-syndrome/</guid>
-      <description>&lt;p&gt;As the name suggests, Post-Vacation Syndrome (PVS) is the collection of behaviors and feelings people often experience after coming back from a trip.&lt;/p&gt;&#xA;&lt;p&gt;Common symptoms include:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Scrolling through your vacation photos every single day.&lt;/li&gt;&#xA;&lt;li&gt;Walking tens of thousands of steps while traveling, then feeling completely lazy at home.&lt;/li&gt;&#xA;&lt;li&gt;Out traveling, I felt like a rock. At home, I melted into a puddle.&lt;/li&gt;&#xA;&lt;li&gt;Constantly craving the food you had while traveling.&lt;/li&gt;&#xA;&lt;li&gt;Losing motivation to work.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;How to cope:&lt;/p&gt;</description>
-
-      
-        <media:thumbnail url="http://localhost:1313/images/Post16home.jpg" />
-        <media:content url="http://localhost:1313/images/Post16home.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post16home.jpg" type="image/jpeg" />
-      
-
-
-      <content:encoded>&lt;img
-          src="http://localhost:1313/images/Post16home.jpg"
-          loading="eager"
-        /&gt;&lt;p&gt;As the name suggests, Post-Vacation Syndrome (PVS) is the collection of behaviors and feelings people often experience after coming back from a trip.&lt;/p&gt;
-&lt;p&gt;Common symptoms include:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Scrolling through your vacation photos every single day.&lt;/li&gt;
-&lt;li&gt;Walking tens of thousands of steps while traveling, then feeling completely lazy at home.&lt;/li&gt;
-&lt;li&gt;Out traveling, I felt like a rock. At home, I melted into a puddle.&lt;/li&gt;
-&lt;li&gt;Constantly craving the food you had while traveling.&lt;/li&gt;
-&lt;li&gt;Losing motivation to work.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;How to cope:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Think of three things you actually enjoy about being at home.&lt;/li&gt;
-&lt;li&gt;Take a good look at your wallet.&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;Plan your next trip.&lt;/del&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-      </content:encoded>
-    </item>
-    <item>
-      <title>Journey to the West (Part 2): Food of San Diego</title>
-      <link>http://localhost:1313/posts/2025/12/journey-to-the-west-part-2-food-of-san-diego/</link>
-      <pubDate>Mon, 15 Dec 2025 14:05:15 -0600</pubDate>
-      <guid>http://localhost:1313/posts/2025/12/journey-to-the-west-part-2-food-of-san-diego/</guid>
-      <description></description>
-
-      
-
-
-      <content:encoded>
-      </content:encoded>
-    </item>
-    <item>
-      <title>Journey to the West (Part 1): Sights of San Diego</title>
-      <link>http://localhost:1313/posts/2025/12/journey-to-the-west-part-1-sights-of-san-diego/</link>
-      <pubDate>Mon, 15 Dec 2025 14:04:06 -0600</pubDate>
-      <guid>http://localhost:1313/posts/2025/12/journey-to-the-west-part-1-sights-of-san-diego/</guid>
-      <description></description>
-
-      
-
-
-      <content:encoded>
-      </content:encoded>
-    </item>
-    <item>
       <title>I Made a Piano Cover of Fujii Kaze’s Kirari</title>
-      <link>http://localhost:1313/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari/</link>
+      <link>https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari/</link>
       <pubDate>Tue, 09 Dec 2025 15:00:00 -0600</pubDate>
-      <guid>http://localhost:1313/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari/</guid>
+      <guid>https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari/</guid>
       <description>Writing piano covers feels a bit like translation. You take a song performed by a full band and rewrite it so it makes musical sense on the piano, which gives me a sense of accomplishment.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post13home.jpg" />
-        <media:content url="http://localhost:1313/images/Post13home.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post13home.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post13home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post13home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post13home.jpg" type="image/jpeg" />
       
 
 
@@ -260,13 +199,13 @@
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post13home.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post13home.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post13home.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post13home.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -308,13 +247,13 @@
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/13/1.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/13/1.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/13/1.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/1.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -332,13 +271,13 @@
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/13/2.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/13/2.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/13/2.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/2.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -349,13 +288,13 @@
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/13/3.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/13/3.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/13/3.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/3.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -366,13 +305,13 @@
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/13/4.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/13/4.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/13/4.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/13/4.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -391,24 +330,24 @@
     </item>
     <item>
       <title>Where is the Package?</title>
-      <link>http://localhost:1313/posts/2025/12/where-is-the-package/</link>
+      <link>https://alicehsu.blog/posts/2025/12/where-is-the-package/</link>
       <pubDate>Wed, 03 Dec 2025 22:50:15 -0800</pubDate>
-      <guid>http://localhost:1313/posts/2025/12/where-is-the-package/</guid>
+      <guid>https://alicehsu.blog/posts/2025/12/where-is-the-package/</guid>
       <description>The page showed a FedEx tracking link so I could check where the package was.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post12home.jpg" />
-        <media:content url="http://localhost:1313/images/Post12home.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post12home.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post12home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post12home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post12home.jpg" type="image/jpeg" />
       
 
 
       <content:encoded>&lt;img
-          src="http://localhost:1313/images/Post12home.jpg"
+          src="https://alicehsu.blog/images/Post12home.jpg"
           loading="eager"
         /&gt;&lt;p&gt;Recently, I bought something online. After placing the order, the page showed a FedEx tracking link so I could check where the package was.&lt;/p&gt;
 &lt;p&gt;I was pretty eager to receive it, so I kept opening the link from time to time, checking again and again to see where it was.&lt;/p&gt;
-&lt;p&gt;One day, it suddenly dawned on me: checking more often is not going to make the driver go faster. The item does not need refrigeration, and I do not need to time it perfectly just to put it in the &lt;a href=&#34;http://localhost:1313/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/&#34;&gt;fridge&lt;/a&gt;, so why am I still clicking that link? It will arrive when it arrives, and if it has not arrived, then it simply has not.&lt;/p&gt;
+&lt;p&gt;One day, it suddenly dawned on me: checking more often is not going to make the driver go faster. The item does not need refrigeration, and I do not need to time it perfectly just to put it in the &lt;a href=&#34;https://alicehsu.blog/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/&#34;&gt;fridge&lt;/a&gt;, so why am I still clicking that link? It will arrive when it arrives, and if it has not arrived, then it simply has not.&lt;/p&gt;
 &lt;p&gt;I also realized that worrying about things I cannot control is just like clicking on that tracking link. It tricks the brain into feeling as if we have some control over the progress, when in reality, all we are doing is refreshing a page. We are not the ones driving, we are not the ones stepping on the gas, and we don&amp;rsquo;t even tell the driver to hurry.&lt;/p&gt;
 &lt;p&gt;After resisting the urge to check several times, I couldn’t help myself and checked the link again while writing this piece. Well, the package has made it from Texas to Chicago. With all the Thanksgiving holiday shipments, everything moves so slowly.&lt;/p&gt;
 &lt;hr&gt;
@@ -418,15 +357,15 @@
     </item>
     <item>
       <title>Meet Francis Poulenc</title>
-      <link>http://localhost:1313/posts/2025/12/meet-francis-poulenc/</link>
+      <link>https://alicehsu.blog/posts/2025/12/meet-francis-poulenc/</link>
       <pubDate>Wed, 03 Dec 2025 22:50:10 -0800</pubDate>
-      <guid>http://localhost:1313/posts/2025/12/meet-francis-poulenc/</guid>
+      <guid>https://alicehsu.blog/posts/2025/12/meet-francis-poulenc/</guid>
       <description>What kind of person writes such music? What were his thoughts about music? Any composers he likes or dislikes?</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post/11/2.jpg" />
-        <media:content url="http://localhost:1313/images/Post/11/2.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post/11/2.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post/11/2.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/11/2.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/11/2.jpg" type="image/jpeg" />
       
 
 
@@ -499,18 +438,18 @@
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/11/1.jpg&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/11/1.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a7b035938a8756fa11b8fb51e77e9ce9-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/11/1.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/11/1.jpg&#34;
     alt=&#34;The photo was taken in 1946 when Poulenc is around 47 years old. This photo is in public domain and is from the University of Melbourne Archives. Link: https://archives.library.unimelb.edu.au/nodes/view/431648&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/11/1.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/11/1.jpg&#34;
     data-gallery-alt=&#34;The photo was taken in 1946 when Poulenc is around 47 years old. This photo is in public domain and is from the University of Melbourne Archives. Link: https://archives.library.unimelb.edu.au/nodes/view/431648&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;The photo was taken in 1946 when Poulenc is around 47 years old. This photo is in public domain and is from the University of Melbourne Archives. Link: https://archives.library.unimelb.edu.au/nodes/view/431648&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -937,20 +876,20 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     </item>
     <item>
       <title>Hayato Sumino’s (Cateen&#39;s) Piano Recital</title>
-      <link>http://localhost:1313/posts/2025/12/hayato-suminos-cateens-piano-recital/</link>
+      <link>https://alicehsu.blog/posts/2025/12/hayato-suminos-cateens-piano-recital/</link>
       <pubDate>Wed, 03 Dec 2025 22:50:05 -0800</pubDate>
-      <guid>http://localhost:1313/posts/2025/12/hayato-suminos-cateens-piano-recital/</guid>
+      <guid>https://alicehsu.blog/posts/2025/12/hayato-suminos-cateens-piano-recital/</guid>
       <description>Yesterday afternoon, I went to Chicago to hear Hayato Sumino&amp;rsquo;s piano recital.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post/10/3.jpg" />
-        <media:content url="http://localhost:1313/images/Post/10/3.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post/10/3.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post/10/3.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/10/3.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/10/3.jpg" type="image/jpeg" />
       
 
 
       <content:encoded>&lt;img
-          src="http://localhost:1313/images/Post/10/3.jpg"
+          src="https://alicehsu.blog/images/Post/10/3.jpg"
           loading="eager"
         /&gt;&lt;p&gt;Yesterday afternoon, I went to Chicago to hear &lt;a href=&#34;https://hayatosum.com/biography&#34;target=&#34;_blank&#34;
 &gt;Hayato Sumino&amp;rsquo;s&lt;/a&gt; (also known as Cateen) piano recital. Walking out of the hall afterward, I felt so contented and moved!&lt;/p&gt;
@@ -1034,83 +973,83 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/5.jpg&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/5.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-6493325e3652681e99281b11dbfadf42-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/5.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/5.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/5.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/5.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/1.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/1.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-6493325e3652681e99281b11dbfadf42-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/1.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/1.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/1.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/1.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/2.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/2.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-6493325e3652681e99281b11dbfadf42-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/2.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/2.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/2.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/2.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/3.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/3.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-6493325e3652681e99281b11dbfadf42-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/3.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/3.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/3.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/3.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/4.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/4.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-6493325e3652681e99281b11dbfadf42-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/4.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/4.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/4.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/4.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/10/6.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/10/6.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-6493325e3652681e99281b11dbfadf42-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/10/6.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/10/6.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/10/6.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/10/6.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -1288,20 +1227,20 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     </item>
     <item>
       <title>❄️ Utopian Smart Fridge</title>
-      <link>http://localhost:1313/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/</link>
+      <link>https://alicehsu.blog/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/</link>
       <pubDate>Sun, 09 Nov 2025 14:30:43 -0600</pubDate>
-      <guid>http://localhost:1313/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/</guid>
+      <guid>https://alicehsu.blog/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/</guid>
       <description>What might a truly user-friendly smart fridge look like?</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post9home.jpg" />
-        <media:content url="http://localhost:1313/images/Post9home.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post9home.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post9home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post9home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post9home.jpg" type="image/jpeg" />
       
 
 
       <content:encoded>&lt;img
-          src="http://localhost:1313/images/Post9home.jpg"
+          src="https://alicehsu.blog/images/Post9home.jpg"
           loading="eager"
         /&gt;&lt;p&gt;Recently, after chatting with my family about smart refrigerators, I came across an article by &lt;a href=&#34;https://wiwi.blog/blog/smart-fridge&#34;target=&#34;_blank&#34;
 &gt;Wiwi&lt;/a&gt; and &lt;a href=&#34;https://shuojen.site/blog/2025/11/04/bed&#34;target=&#34;_blank&#34;
@@ -1415,15 +1354,15 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
     </item>
     <item>
       <title>🤤 Creamy Bacon Carbonara</title>
-      <link>http://localhost:1313/posts/2025/11/creamy-bacon-carbonara/</link>
+      <link>https://alicehsu.blog/posts/2025/11/creamy-bacon-carbonara/</link>
       <pubDate>Sat, 01 Nov 2025 15:26:11 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/11/creamy-bacon-carbonara/</guid>
+      <guid>https://alicehsu.blog/posts/2025/11/creamy-bacon-carbonara/</guid>
       <description>Here is the Delicious Spaghetti</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post/8/1.jpg" />
-        <media:content url="http://localhost:1313/images/Post/8/1.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post/8/1.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post/8/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/8/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/8/1.jpg" type="image/jpeg" />
       
 
 
@@ -1490,18 +1429,18 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/8/1.jpg&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-8d0ba1eddb851407b1cedcddf0de350f-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/8/1.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/8/1.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/8/1.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -1726,15 +1665,15 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
     </item>
     <item>
       <title>Japanese Oyakodon (Chicken and Egg Rice Bowl) &#43; Tomato and Corn Soup</title>
-      <link>http://localhost:1313/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</link>
+      <link>https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</link>
       <pubDate>Fri, 31 Oct 2025 23:43:10 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</guid>
+      <guid>https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</guid>
       <description>Here is the delicious dinner.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post/7/1.jpg" />
-        <media:content url="http://localhost:1313/images/Post/7/1.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post/7/1.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post/7/1.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/7/1.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/7/1.jpg" type="image/jpeg" />
       
 
 
@@ -1744,13 +1683,13 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/7/1.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/7/1.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/7/1.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/7/1.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -1761,13 +1700,13 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/7/2.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/7/2.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/7/2.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/7/2.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -1850,20 +1789,20 @@ I know I would! Hopefully, some refrigerator company will buy my idea someday, h
     </item>
     <item>
       <title>🤔 Why Do We Create?</title>
-      <link>http://localhost:1313/posts/2025/10/why-do-we-create/</link>
+      <link>https://alicehsu.blog/posts/2025/10/why-do-we-create/</link>
       <pubDate>Thu, 30 Oct 2025 21:15:06 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/10/why-do-we-create/</guid>
+      <guid>https://alicehsu.blog/posts/2025/10/why-do-we-create/</guid>
       <description>Recently, I’ve been thinking about this question quite often, and I find it really intriguing, so I’d like to try answering it.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post6home.jpg" />
-        <media:content url="http://localhost:1313/images/Post6home.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post6home.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post6home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post6home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post6home.jpg" type="image/jpeg" />
       
 
 
       <content:encoded>&lt;img
-          src="http://localhost:1313/images/Post6home.jpg"
+          src="https://alicehsu.blog/images/Post6home.jpg"
           loading="eager"
         /&gt;&lt;div
     class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
@@ -1964,15 +1903,15 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
     </item>
     <item>
       <title>🍁 Birthday Trip to Devil’s Lake</title>
-      <link>http://localhost:1313/posts/2025/10/birthday-trip-to-devils-lake/</link>
+      <link>https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/</link>
       <pubDate>Sat, 25 Oct 2025 23:47:21 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/10/birthday-trip-to-devils-lake/</guid>
+      <guid>https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/</guid>
       <description>Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliage and celebrate our birthdays.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post/5/30.jpg" />
-        <media:content url="http://localhost:1313/images/Post/5/30.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post/5/30.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post/5/30.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post/5/30.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/5/30.jpg" type="image/jpeg" />
       
 
 
@@ -1984,13 +1923,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/9.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/9.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/9.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/9.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2001,13 +1940,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/10.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/10.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/10.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/10.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2018,13 +1957,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/11.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/11.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/11.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/11.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2035,13 +1974,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/14.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/14.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/14.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/14.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2052,13 +1991,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/8.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/8.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/8.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/8.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2069,13 +2008,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/6.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/6.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/6.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/6.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2086,13 +2025,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/16.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/16.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/16.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/16.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2103,13 +2042,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/15.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/15.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/15.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/15.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2120,13 +2059,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/13.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/13.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/13.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/13.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2137,13 +2076,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/5.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/5.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/5.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/5.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2154,13 +2093,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/7.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/7.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/7.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/7.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2171,13 +2110,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/12.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/12.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/12.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/12.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2188,13 +2127,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/17.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/17.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/17.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/17.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2205,13 +2144,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/18.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/18.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/18.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/18.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2222,13 +2161,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/19.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/19.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/19.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/19.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2239,13 +2178,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/20.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/20.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/20.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/20.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2256,13 +2195,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/27.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/27.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/27.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/27.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2273,13 +2212,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/28.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/28.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/28.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/28.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2290,13 +2229,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/29.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/29.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/29.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/29.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2307,13 +2246,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/30.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/30.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/30.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/30.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2324,13 +2263,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/4.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/4.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/4.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/4.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2400,83 +2339,83 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/5/21.jpg&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/5/21.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-50d8d81d2fcdacbc205f58ff05e91656-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/21.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/21.jpg&#34;
     alt=&#34;From left to right: Roustabout Red (red wine), Edelweiss (white wine), Isabella (rosé), and Perfectly Peach (fruit wine).&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/21.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/21.jpg&#34;
     data-gallery-alt=&#34;From left to right: Roustabout Red (red wine), Edelweiss (white wine), Isabella (rosé), and Perfectly Peach (fruit wine).&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;From left to right: Roustabout Red (red wine), Edelweiss (white wine), Isabella (rosé), and Perfectly Peach (fruit wine).&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/5/22.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;From left to right: Roustabout Red (red wine), Edelweiss (white wine), Isabella (rosé), and Perfectly Peach (fruit wine).&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/5/22.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-50d8d81d2fcdacbc205f58ff05e91656-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/22.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/22.jpg&#34;
     alt=&#34;The lovely rosé Isabella.&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/22.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/22.jpg&#34;
     data-gallery-alt=&#34;The lovely rosé Isabella.&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;The lovely rosé Isabella.&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/5/23.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;The lovely rosé Isabella.&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/5/23.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-50d8d81d2fcdacbc205f58ff05e91656-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/23.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/23.jpg&#34;
     alt=&#34;The charcuterie board came with many interesting items. It included artichoke hearts, which look a little like small bamboo shoots, as well as dried apricots.&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/23.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/23.jpg&#34;
     data-gallery-alt=&#34;The charcuterie board came with many interesting items. It included artichoke hearts, which look a little like small bamboo shoots, as well as dried apricots.&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;The charcuterie board came with many interesting items. It included artichoke hearts, which look a little like small bamboo shoots, as well as dried apricots.&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/5/24.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;The charcuterie board came with many interesting items. It included artichoke hearts, which look a little like small bamboo shoots, as well as dried apricots.&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/5/24.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-50d8d81d2fcdacbc205f58ff05e91656-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/24.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/24.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/24.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/24.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/5/25.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/5/25.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-50d8d81d2fcdacbc205f58ff05e91656-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/25.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/25.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/25.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/25.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/5/26.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/5/26.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-50d8d81d2fcdacbc205f58ff05e91656-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/26.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/26.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/26.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/26.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -2657,13 +2596,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/35.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/35.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/35.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/35.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2674,13 +2613,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/32.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/32.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/32.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/32.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2691,13 +2630,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/33.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/33.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/33.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/33.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2708,13 +2647,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/34.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/34.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/34.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/34.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2725,13 +2664,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/36.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/36.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/36.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/36.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2742,13 +2681,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/37.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/37.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/37.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/37.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2759,13 +2698,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/38.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/38.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/38.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/38.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2776,13 +2715,13 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/5/39.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/5/39.jpg&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/5/39.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/5/39.jpg&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -2794,20 +2733,20 @@ Ordinary hobbies, like sports, can achieve some of the benefits above, but not a
     </item>
     <item>
       <title>⛲ Source of Creation</title>
-      <link>http://localhost:1313/posts/2025/10/source-of-creation/</link>
+      <link>https://alicehsu.blog/posts/2025/10/source-of-creation/</link>
       <pubDate>Fri, 24 Oct 2025 21:50:24 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/10/source-of-creation/</guid>
+      <guid>https://alicehsu.blog/posts/2025/10/source-of-creation/</guid>
       <description>Recently, I’ve been reading Life Can Be So Beautiful.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post4home.JPG" />
-        <media:content url="http://localhost:1313/images/Post4home.JPG" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post4home.JPG" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post4home.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post4home.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post4home.JPG" type="image/jpeg" />
       
 
 
       <content:encoded>&lt;img
-          src="http://localhost:1313/images/Post4home.JPG"
+          src="https://alicehsu.blog/images/Post4home.JPG"
           loading="eager"
         /&gt;&lt;p&gt;Recently, I’ve been reading &lt;em&gt;Life Can Be So Beautiful&lt;/em&gt;,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; a collection of essays written by Professor&lt;a href=&#34;https://www.moc.gov.tw/EN/News_Content2.aspx?n=481&amp;amp;sms=10717&amp;amp;s=17489&#34;target=&#34;_blank&#34;
 &gt; Lin, Wen-yueh&lt;/a&gt; (1933–2023). In one article, “A Letter to My Daughter—In the Style of Fu Lei’s Family Letters” (written in October 1987), she discusses several sources of inspiration for artistic creation. Her words are deeply thought-provoking, and I feel compelled to respond to them. Here is the original passage:&lt;/p&gt;
@@ -2900,20 +2839,20 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     </item>
     <item>
       <title>📚Free Online Music Theory Resources </title>
-      <link>http://localhost:1313/posts/2025/10/free-online-music-theory-resources/</link>
+      <link>https://alicehsu.blog/posts/2025/10/free-online-music-theory-resources/</link>
       <pubDate>Fri, 17 Oct 2025 21:37:37 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/10/free-online-music-theory-resources/</guid>
+      <guid>https://alicehsu.blog/posts/2025/10/free-online-music-theory-resources/</guid>
       <description>I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post3home.jpg" />
-        <media:content url="http://localhost:1313/images/Post3home.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post3home.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post3home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post3home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post3home.jpg" type="image/jpeg" />
       
 
 
       <content:encoded>&lt;img
-          src="http://localhost:1313/images/Post3home.jpg"
+          src="https://alicehsu.blog/images/Post3home.jpg"
           loading="eager"
         /&gt;&lt;p&gt;I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years. I thought it was a bit of a waste to keep them just for myself, so I decided to share them here! I believe these resources will be helpful to both students who want to study music theory independently and to teachers seeking high-quality teaching materials.&lt;/p&gt;
 &lt;h2 id=&#34;chinese-resources&#34;&gt;Chinese Resources&lt;/h2&gt;
@@ -2936,13 +2875,13 @@ is also full of great content, but since he’s recently shifted his focus to hi
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/3/1.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/3/1.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/3/1.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/3/1.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -3010,31 +2949,31 @@ is also full of great content, but since he’s recently shifted his focus to hi
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/3/2.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/3/2.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-f1a4801aab34f386f299f02ed9778410-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/3/2.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/3/2.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/3/2.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/3/2.png&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/3/3.png&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/3/3.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-f1a4801aab34f386f299f02ed9778410-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/3/3.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/3/3.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/3/3.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/3/3.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -3236,13 +3175,13 @@ from the University of Puget Sound has generously made his four-semester college
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/3/4.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/3/4.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/3/4.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/3/4.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -3310,31 +3249,31 @@ from the University of Puget Sound has generously made his four-semester college
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/3/5.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/3/5.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-f1a4801aab34f386f299f02ed9778410-2&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/3/5.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/3/5.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/3/5.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/3/5.png&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/3/6.png&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/3/6.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-f1a4801aab34f386f299f02ed9778410-2&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/3/6.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/3/6.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/3/6.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/3/6.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -3527,13 +3466,13 @@ from the University of Puget Sound has generously made his four-semester college
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/3/7.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/3/7.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/3/7.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/3/7.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -3601,31 +3540,31 @@ from the University of Puget Sound has generously made his four-semester college
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/3/8.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/3/8.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-f1a4801aab34f386f299f02ed9778410-3&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/3/8.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/3/8.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/3/8.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/3/8.png&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/3/9.png&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/3/9.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-f1a4801aab34f386f299f02ed9778410-3&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/3/9.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/3/9.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/3/9.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/3/9.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -3815,15 +3754,15 @@ Feel free to reach out and share your thoughts with me. I’d love to hear your 
     </item>
     <item>
       <title>🔔 The Story Behind Bell</title>
-      <link>http://localhost:1313/posts/2025/10/the-story-behind-bell/</link>
+      <link>https://alicehsu.blog/posts/2025/10/the-story-behind-bell/</link>
       <pubDate>Sun, 12 Oct 2025 22:15:47 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/10/the-story-behind-bell/</guid>
+      <guid>https://alicehsu.blog/posts/2025/10/the-story-behind-bell/</guid>
       <description>One day while improvising, I played the opening eight measures by chance and thought they sounded nice.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post2home.png" />
-        <media:content url="http://localhost:1313/images/Post2home.png" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post2home.png" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post2home.png" />
+        <media:content url="https://alicehsu.blog/images/Post2home.png" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post2home.png" type="image/jpeg" />
       
 
 
@@ -3844,7 +3783,7 @@ Feel free to reach out and share your thoughts with me. I’d love to hear your 
       id=&#34;alert-0-content&#34;
       class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
       &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
-        &lt;p&gt;The complete piano score can be downloaded from my &lt;a href=&#34;http://localhost:1313/en/portfolio/&#34;&gt;Portfolio&lt;/a&gt;, where you can also find my YouTube performance video!&lt;/p&gt;
+        &lt;p&gt;The complete piano score can be downloaded from my &lt;a href=&#34;https://alicehsu.blog/en/portfolio/&#34;&gt;Portfolio&lt;/a&gt;, where you can also find my YouTube performance video!&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;&lt;script&gt;
@@ -3884,13 +3823,13 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/1.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/1.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/1.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/1.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -3966,18 +3905,18 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/2.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/2.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-1&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/2.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/2.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/2.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/2.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -4212,31 +4151,31 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/3.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/3.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-2&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/3.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/3.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/3.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/3.png&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/4.png&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/4.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-2&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/4.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/4.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/4.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/4.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -4474,18 +4413,18 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/5.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/5.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-3&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/5.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/5.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/5.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/5.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -4721,31 +4660,31 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/8.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/8.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-4&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/8.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/8.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/8.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/8.png&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/7.png&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/7.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-4&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/7.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/7.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/7.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/7.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -4982,18 +4921,18 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/9.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/9.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-5&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/9.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/9.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/9.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/9.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -5229,18 +5168,18 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/10.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/10.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-6&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/10.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/10.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/10.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/10.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -5476,18 +5415,18 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/11.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/11.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-7&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/11.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/11.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/11.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/11.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -5726,18 +5665,18 @@ The melody in measures 17–18 is a variation of the opening measure, reminding 
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;http://localhost:1313/images/Post/2/12.png&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/2/12.png&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-a3ab6914d15e310dd7bd85f91cbab234-8&#34;&gt;
             
             &lt;img
-    src=&#34;http://localhost:1313/images/Post/2/12.png&#34;
+    src=&#34;https://alicehsu.blog/images/Post/2/12.png&#34;
     alt=&#34;&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/2/12.png&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/2/12.png&#34;
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -5983,20 +5922,20 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://alicehsu.blog/about/</link>
       <pubDate>Sun, 05 Oct 2025 09:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34; w-49&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/avatar.jpg&#34;&#xA;    alt=&#34;profile photo&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a musician and a writer.&lt;/p&gt;&#xA;&lt;p&gt;This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: &lt;em&gt;&lt;a href=&#34;http://localhost:1313/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;What Happened When I Deleted My Facebook and Instagram App?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>https://alicehsu.blog/about/</guid>
+      <description>&lt;p&gt;&lt;figure class=&#34; w-49&#34;&gt;&lt;img src=&#34;https://alicehsu.blog/images/avatar.jpg&#34;&#xA;    alt=&#34;profile photo&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a musician and a writer.&lt;/p&gt;&#xA;&lt;p&gt;This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: &lt;em&gt;&lt;a href=&#34;https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;What Happened When I Deleted My Facebook and Instagram App?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
 
       
 
 
-      <content:encoded>&lt;p&gt;&lt;figure class=&#34; w-49&#34;&gt;&lt;img src=&#34;http://localhost:1313/images/avatar.jpg&#34;
+      <content:encoded>&lt;p&gt;&lt;figure class=&#34; w-49&#34;&gt;&lt;img src=&#34;https://alicehsu.blog/images/avatar.jpg&#34;
     alt=&#34;profile photo&#34;&gt;
 &lt;/figure&gt;
 
 Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a musician and a writer.&lt;/p&gt;
-&lt;p&gt;This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: &lt;em&gt;&lt;a href=&#34;http://localhost:1313/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;What Happened When I Deleted My Facebook and Instagram App?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: &lt;em&gt;&lt;a href=&#34;https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;What Happened When I Deleted My Facebook and Instagram App?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Here, I share my musical works, including original piano compositions, piano covers, and recordings of classical pieces. At times, I also write about the reflections behind my compositions or share personal thoughts on reading and life.&lt;/p&gt;
 &lt;p&gt;Finally, I’d like to thank my husband  &lt;a href=&#34;https://mhyeh.github.io/&#34;target=&#34;_blank&#34;
 &gt;Samuel&lt;/a&gt;  for building this website and making it look as beautiful as it does now ❤️&lt;/p&gt;
@@ -6006,15 +5945,15 @@ Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a
     </item>
     <item>
       <title>What Happened When I Deleted My Facebook and Instagram App?</title>
-      <link>http://localhost:1313/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</link>
+      <link>https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</link>
       <pubDate>Sun, 28 Sep 2025 21:21:01 -0500</pubDate>
-      <guid>http://localhost:1313/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</guid>
+      <guid>https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</guid>
       <description>I joined Facebook in 2009 and have been using it for almost ten years now.</description>
 
       
-        <media:thumbnail url="http://localhost:1313/images/Post1home.jpg" />
-        <media:content url="http://localhost:1313/images/Post1home.jpg" medium="image" />
-        <enclosure url="http://localhost:1313/images/Post1home.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post1home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post1home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post1home.jpg" type="image/jpeg" />
       
 
 
@@ -6241,13 +6180,13 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/1/1.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/1/1.jpg&#34;
     alt=&#34;The colored pencil wall at Eslite Bookstore in Xinyi District.&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/1/1.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/1/1.jpg&#34;
     data-gallery-alt=&#34;The colored pencil wall at Eslite Bookstore in Xinyi District.&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
@@ -6258,13 +6197,13 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
         data-gallery-type=&#34;auto&#34;&gt;
   &lt;div class=&#34;image-container&#34;&gt;
     &lt;img
-    src=&#34;http://localhost:1313/images/Post/1/2.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post/1/2.jpg&#34;
     alt=&#34;The sunset in front of Taipei City Hall.&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;http://localhost:1313/images/Post/1/2.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/1/2.jpg&#34;
     data-gallery-alt=&#34;The sunset in front of Taipei City Hall.&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 

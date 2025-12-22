@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Alice Hsu&#39;s Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://alicehsu.blog/categories/</link>
     <description>Recent content in Categories on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 15 Dec 2025 14:06:00 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Dec 2025 15:00:00 -0600</lastBuildDate>
+    <atom:link href="https://alicehsu.blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Thoughts and Talks</title>
-      <link>http://localhost:1313/categories/thoughts-and-talks/</link>
-      <pubDate>Mon, 15 Dec 2025 14:06:00 -0600</pubDate>
-      <guid>http://localhost:1313/categories/thoughts-and-talks/</guid>
+      <title>Music</title>
+      <link>https://alicehsu.blog/categories/music/</link>
+      <pubDate>Tue, 09 Dec 2025 15:00:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/categories/music/</guid>
       <description></description>
 
       
@@ -22,10 +22,10 @@
       </content:encoded>
     </item>
     <item>
-      <title>Music</title>
-      <link>http://localhost:1313/categories/music/</link>
-      <pubDate>Tue, 09 Dec 2025 15:00:00 -0600</pubDate>
-      <guid>http://localhost:1313/categories/music/</guid>
+      <title>Thoughts and Talks</title>
+      <link>https://alicehsu.blog/categories/thoughts-and-talks/</link>
+      <pubDate>Wed, 03 Dec 2025 22:50:15 -0800</pubDate>
+      <guid>https://alicehsu.blog/categories/thoughts-and-talks/</guid>
       <description></description>
 
       
@@ -36,9 +36,9 @@
     </item>
     <item>
       <title>Recipe</title>
-      <link>http://localhost:1313/categories/recipe/</link>
+      <link>https://alicehsu.blog/categories/recipe/</link>
       <pubDate>Sat, 01 Nov 2025 15:26:11 -0500</pubDate>
-      <guid>http://localhost:1313/categories/recipe/</guid>
+      <guid>https://alicehsu.blog/categories/recipe/</guid>
       <description></description>
 
       
@@ -49,9 +49,9 @@
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/</link>
+      <link>https://alicehsu.blog/categories/travel/</link>
       <pubDate>Sat, 25 Oct 2025 23:47:21 -0500</pubDate>
-      <guid>http://localhost:1313/categories/travel/</guid>
+      <guid>https://alicehsu.blog/categories/travel/</guid>
       <description></description>
 
       
@@ -62,9 +62,9 @@
     </item>
     <item>
       <title>Resources</title>
-      <link>http://localhost:1313/categories/resources/</link>
+      <link>https://alicehsu.blog/categories/resources/</link>
       <pubDate>Fri, 17 Oct 2025 21:37:37 -0500</pubDate>
-      <guid>http://localhost:1313/categories/resources/</guid>
+      <guid>https://alicehsu.blog/categories/resources/</guid>
       <description></description>
 
       
