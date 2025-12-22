@@ -389,7 +389,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/alicehsu.blog\/js\/pdf-js\/build\/pdf.worker.js&#34;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#39;https://cdn.jsdelivr.net/npm/pdfjs-dist@3.4.120/build/pdf.worker.min.js&#39;;
 
     
     var pdfDoc = null,
