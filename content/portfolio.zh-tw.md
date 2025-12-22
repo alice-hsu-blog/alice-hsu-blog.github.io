@@ -5,7 +5,7 @@ date: 2025-11-26T16:35:00-06:00
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
 ---
-最後更新：11-26-2025
+最後更新：12-22-2025
 
 ### 原創作品
 | 發表日期 | 曲名                 | 演奏連結                 | 琴譜 |
@@ -19,6 +19,7 @@ og_type: "article"
 ### 鋼琴改編
 | 發表日期 | 原創者                  | 曲名                 | 演奏連結 |
 |----------------|------------------------|-----------------------------|-------|
+| 12-20-2025   | John F. Wade / From William Sandy's Christmas Carols, 1833 / John Stainer / Franz Grüber / French Carol         | [Christmas Hymns Medley](/pdf/Christmas%20Hymns%20Medley.pdf)         | [YouTube](https://www.youtube.com/watch?v=exz_3UsK_hk&t=4s) / [SoundCloud](https://on.soundcloud.com/WAJOmUA4crqsWt0dp8)  |
 | 11-25-2025   | Fujii Kaze         | Kirari         | [YouTube](https://www.youtube.com/watch?v=rIAMN3ULdX8) / [SoundCloud](https://on.soundcloud.com/9POR1wvqA5q98GWS54)  |
 | 09-16-2025   | Five for Fighting         | 100 Years         | [YouTube](https://youtu.be/a4PW3n9SA8A) / [SoundCloud](https://on.soundcloud.com/Yfra4kwTA3Di3PShph)  |
 | 08-09-2025   | 蘇打綠        | 日光 (雙鋼琴Cover)        |  [YouTube](https://youtu.be/sNEwXQAIC3A ) / [SoundCloud](https://on.soundcloud.com/jZC8DiKaGManSVUAcP)   |

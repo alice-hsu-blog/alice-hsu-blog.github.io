@@ -5,7 +5,7 @@ date: 2025-11-05T21:10:00-05:00
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
 ---
-Update: 11-26-2025
+Update: 12-22-2025
 ### Original Composition
 | Published Date | Title                  | Performance                 | Score |
 |----------------|------------------------|-----------------------------|-------|
@@ -19,6 +19,7 @@ Update: 11-26-2025
 ### Piano Covers
 | Published Date | Original Creator                  | Title                 | Performance |
 |----------------|------------------------|-----------------------------|-------|
+| 12-20-2025   | John F. Wade / From William Sandy's Christmas Carols, 1833 / John Stainer / Franz Grüber / French Carol         | [Christmas Hymns Medley](/pdf/Christmas%20Hymns%20Medley.pdf)         | [YouTube](https://www.youtube.com/watch?v=exz_3UsK_hk&t=4s) / [SoundCloud](https://on.soundcloud.com/WAJOmUA4crqsWt0dp8)  |
 | 11-25-2025   | Fujii Kaze         | Kirari         | [YouTube](https://www.youtube.com/watch?v=rIAMN3ULdX8) / [SoundCloud](https://on.soundcloud.com/9POR1wvqA5q98GWS54)  |
 | 09-16-2025   | Five for Fighting         | 100 Years         | [YouTube](https://youtu.be/a4PW3n9SA8A) / [SoundCloud](https://on.soundcloud.com/Yfra4kwTA3Di3PShph)  |
 | 08-09-2025   | Sodagreen        | Daylight (2 Piano Covers)        |  [YouTube](https://youtu.be/sNEwXQAIC3A ) / [SoundCloud](https://on.soundcloud.com/jZC8DiKaGManSVUAcP)   |

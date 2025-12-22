@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://alicehsu.blog/zh-tw/</loc>
-    <lastmod>2025-12-20T14:50:00-06:00</lastmod>
+    <lastmod>2025-12-22T16:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/categories/</loc>
-    <lastmod>2025-12-20T14:50:00-06:00</lastmod>
+    <lastmod>2025-12-22T16:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/posts/</loc>
-    <lastmod>2025-12-20T14:50:00-06:00</lastmod>
+    <lastmod>2025-12-22T16:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -40,6 +40,12 @@
                 hreflang="zh-TW"
                 href="https://alicehsu.blog/zh-tw/posts/"
                 />
+  </url><url>
+    <loc>https://alicehsu.blog/zh-tw/categories/%E9%9F%B3%E6%A8%82/</loc>
+    <lastmod>2025-12-22T16:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://alicehsu.blog/zh-tw/posts/2025/12/%E9%8C%84%E4%BA%86%E8%81%96%E8%AA%95%E8%A9%A9%E6%AD%8C%E4%B8%B2%E7%87%92%E6%9C%89%E8%AD%9C/</loc>
+    <lastmod>2025-12-22T16:00:00-06:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/posts/2025/12/%E4%B8%80%E5%80%8B%E6%9C%89%E8%91%97%E9%99%BD%E5%85%89%E9%9A%8E%E6%A2%AF%E7%9A%84%E8%A7%92%E8%90%BD/</loc>
     <lastmod>2025-12-20T14:50:00-06:00</lastmod>
@@ -83,9 +89,6 @@
                 hreflang="zh-TW"
                 href="https://alicehsu.blog/zh-tw/posts/2025/12/%E6%88%91%E5%AF%AB%E4%BA%86%E8%97%A4%E4%BA%95%E9%A2%A8-kirari-%E7%9A%84-piano-cover/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/zh-tw/categories/%E9%9F%B3%E6%A8%82/</loc>
-    <lastmod>2025-12-09T15:00:00-06:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/posts/2025/11/%E5%8C%85%E8%A3%B9%E5%9C%A8%E5%93%AA%E8%A3%A1/</loc>
     <lastmod>2025-11-26T16:35:25-06:00</lastmod>
