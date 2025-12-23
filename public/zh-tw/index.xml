@@ -542,16 +542,16 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
       <content:encoded>&lt;p&gt;
 &lt;style&gt;
   
-#masonry-bf272b0b1155217b27d829be477beaed-1 {
+#masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1 {
   width: 100%;
 }
 
-#masonry-bf272b0b1155217b27d829be477beaed-1 .masonry-container {
+#masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1 .masonry-container {
   width: 100%;
   position: relative;
 }
 
-#masonry-bf272b0b1155217b27d829be477beaed-1 .masonry-item {
+#masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1 .masonry-item {
   display: inline-block;
   width: 100%;
   margin-bottom: 50px;
@@ -559,7 +559,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
   box-sizing: border-box;
 }
 
-#masonry-bf272b0b1155217b27d829be477beaed-1 .masonry-item img {
+#masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1 .masonry-item img {
   width: 60%;
   height: auto;
   display: block;
@@ -567,7 +567,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
   border-radius: 0.5rem;
 }
 
-#masonry-bf272b0b1155217b27d829be477beaed-1 .glightbox {
+#masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1 .glightbox {
   display: block;
   text-decoration: none;
   overflow: hidden;
@@ -575,24 +575,24 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
   border-radius: 0.5rem;
 }
 
-#masonry-bf272b0b1155217b27d829be477beaed-1 .glightbox:hover,
-#masonry-bf272b0b1155217b27d829be477beaed-1 .glightbox:focus {
+#masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1 .glightbox:hover,
+#masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1 .glightbox:focus {
   text-decoration: none;
   outline: none;
 }
 
-#masonry-bf272b0b1155217b27d829be477beaed-1 .masonry-item:hover img {
+#masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1 .masonry-item:hover img {
   transform: scale(1.05);
 }
 
-#masonry-bf272b0b1155217b27d829be477beaed-1 .masonry-item {
+#masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1 .masonry-item {
   overflow: hidden;
   border-radius: 0.5rem;
 }
 &lt;/style&gt;
 
 &lt;div class=&#34;masonry-gallery&#34; 
-     id=&#34;masonry-bf272b0b1155217b27d829be477beaed-1&#34;
+     id=&#34;masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1&#34;
      data-columns=&#34;1&#34;
      data-gutter=&#34;50&#34;
      data-animate=&#34;true&#34;
@@ -604,7 +604,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
   &lt;div class=&#34;masonry-container&#34;&gt;
     &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post20home.jpg&#34; 
              class=&#34;glightbox&#34;
-             data-gallery=&#34;masonry-bf272b0b1155217b27d829be477beaed-1&#34;&gt;
+             data-gallery=&#34;masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1&#34;&gt;
             
             &lt;img
     src=&#34;https://alicehsu.blog/images/Post20home.jpg&#34;
@@ -621,7 +621,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
 
 &lt;script&gt;
 (function() {
-  const containerId = &#39;masonry-bf272b0b1155217b27d829be477beaed-1&#39;;
+  const containerId = &#39;masonry-c9f26ed1122dd7ebe6b01a32f5fba118-1&#39;;
   const config = {
     columns:  1 ,
     gutter:  50 ,
@@ -822,7 +822,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
 
 
       <content:encoded>&lt;p&gt;受到&lt;a href=&#34;https://trashposts.com/blog/christmas-theme-and-guestbook/&#34;target=&#34;_blank&#34;
-&gt;廢文小天地&lt;/a&gt;的啟發，我也來畫個 gif 小插畫應景聖誕節啦！祝大家聖誕快樂！
+&gt;廢文小天地&lt;/a&gt;的啟發，我也來畫個 GIF 小插畫應景聖誕節啦！祝大家聖誕快樂！
 
 &lt;figure class=&#34;image-figure not-prose my-8&#34; 
         data-lightbox-enabled=&#34;true&#34;
