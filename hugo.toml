@@ -180,8 +180,9 @@ isPlainText = true
 [outputFormats]
   [outputFormats.ListLayout]
     name = "ListLayout"
-    baseName = "list_alt" # 產出的檔名會是 list_alt.html
+    baseName = "list/index"      # 讓產出的檔案叫 index.html
     mediaType = "text/html"
+    isHTML = true
 
 [[menus.main]]
 name = "nav.about_us"
