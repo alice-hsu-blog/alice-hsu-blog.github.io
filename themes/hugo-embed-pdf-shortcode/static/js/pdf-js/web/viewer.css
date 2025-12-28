@@ -323,7 +323,7 @@
 }
 
 .annotationLayer .textWidgetAnnotation input.comb {
-  font-family: monospace;
+  font-family: "jf-openhuninn-2.1", monospace;
   padding-left: 2px;
   padding-right: 0;
 }

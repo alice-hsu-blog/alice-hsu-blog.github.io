@@ -169,12 +169,19 @@ enabled = true
   display = true
 
 [outputs]
-home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
+home = [ "HTML", "RSS", "JSON", "WebAppManifest"]
+section = ["HTML", "ListLayout"]
 
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 baseName = "site"
 isPlainText = true
+
+[outputFormats]
+  [outputFormats.ListLayout]
+    name = "ListLayout"
+    baseName = "list_alt" # 產出的檔名會是 list_alt.html
+    mediaType = "text/html"
 
 [[menus.main]]
 name = "nav.about_us"

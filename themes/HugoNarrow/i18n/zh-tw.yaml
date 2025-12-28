@@ -109,6 +109,7 @@ time:
   date_format: "2006 年 1 月 2 日"
   date_format_short: "1 月 2 日"
   month_format: "2006 年 1 月"
+  date_format_num: "2006-01-02"
 
 # 分頁相關
 pagination:
@@ -148,3 +149,8 @@ authors:
 
 statistics:
   total_posts: "目前總共寫了 {{.Count}} 篇文章，共 {{.Words}} 字"
+
+view_option:
+  desc: "顯示方式："
+  card: "卡片"
+  list: "列表"

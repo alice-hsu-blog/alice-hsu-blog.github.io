@@ -86,7 +86,7 @@
                 class="text-foreground hover:text-primary transition-colors inline-flex items-start gap-3"
                 >
                   <time class="shrink-0 whitespace-nowrap">
-                    {{ .Date.Format "2006-01-02" }}
+                    {{ .Date.Format (i18n "time.date_format_num" | default "2006-01-02") }}
                   </time>
                   {{ .Title }}
                 </a>

@@ -127,6 +127,7 @@ time:
   date_format: "January 02, 2006"
   date_format_short: "Jan 02"
   month_format: "January 2006"
+  date_format_num: "01-02-2006"
 
 # Archives related
 archives:
@@ -250,3 +251,8 @@ authors:
 
 statistics:
   total_posts: "Until now, I wrote {{.Count}} posts, {{.Words}} words"
+
+view_option:
+  desc: "View option:"
+  card: "Card"
+  list: "List"

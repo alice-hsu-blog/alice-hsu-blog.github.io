@@ -9,6 +9,7 @@
   @context {string} .viewAllUrl "查看所有"按钮的链接 (默认: /posts/)
 */}}
 
+{{ $view := .view | default "card" }}
 {{ $posts := .posts }}
 {{ $title := .title | default "" }}
 {{ $showTitle := .showTitle | default false }}
@@ -27,8 +28,26 @@
 
     <!-- 文章卡片列表 -->
     <div class="space-y-4">
-      {{ range $posts }}
-        {{ partial "content/card-base.html" (dict "page" .) }}
+      {{ if eq $view "list" }}
+        <ul class="space-y-2 text-base">
+          {{ range $posts }}
+            <li class="flex gap-2 text-muted-foreground">
+              <a
+              href="{{ .RelPermalink }}"
+              class="text-foreground hover:text-primary transition-colors inline-flex items-start gap-3"
+              >
+                <time class="shrink-0 whitespace-nowrap">
+                  {{ .Date.Format (i18n "time.date_format_num" | default "2006-01-02") }}
+                </time>
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      {{ else }}
+        {{ range $posts }}
+          {{ partial "content/card-base.html" (dict "page" .) }}
+        {{ end }}
       {{ end }}
     </div>
 
