@@ -1,6 +1,20 @@
 {{- if and hugo.IsMultilingual (site.Params.showLanguageSwitch | default true) -}}
 {{- $currentLang := .Language.Lang -}}
-{{- $currentPage := . -}}
+{{- $site := .Site -}}
+{{ $currentPage := .Page }}       <!-- 明確拿 Page -->
+{{ if not $currentPage }}
+  {{ $currentPage = . }}           <!-- fallback 給 list / taxonomy context -->
+{{ end }}
+{{ $basePath := $currentPage.RelPermalink | default "/" }}
+{{- $defaultLang := "" -}}
+{{- if eq .Site.LanguagePrefix "" -}}
+  {{- $defaultLang = $currentLang -}}
+{{- end -}}
+{{- $basePath := $currentPage.RelPermalink -}}
+{{- if ne $currentLang $defaultLang -}}
+  {{- $basePath = strings.TrimPrefix .Site.LanguagePrefix $basePath -}}
+{{- end -}}
+
 {{- $languageSwitchMode := site.Params.languageSwitchMode | default "dropdown" -}}
 {{/*  点击切换模式  */}}
 {{- if eq $languageSwitchMode "cycle" -}}
@@ -29,10 +43,22 @@
       {{- end -}}
     {{- end -}}
     {{- if eq $targetURL "/" -}}
-      {{- $targetURL = printf "/%s/" $nextLang.Lang -}}
+      {{- if eq $nextLang $defaultLang -}}
+        {{- $targetURL = $basePath -}}
+      {{- else -}}
+        {{- $targetURL = printf "%s%s" (printf "/%s" $nextLang) $basePath -}}
+      {{- end -}}
     {{- end -}}
   {{- else -}}
-    {{- $targetURL = printf "/%s/" $nextLang.Lang -}}
+    {{- if eq $nextLang $currentLang -}}
+      {{- if eq $nextLang $defaultLang -}}
+        {{- $targetURL = $basePath -}}
+      {{- else -}}
+        {{- $targetURL = printf "%s%s" (printf "/%s" $nextLang) $basePath -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $targetURL = printf "/%s/" $nextLang.Lang -}}
+    {{- end -}}
   {{- end -}}
 
   <div class="relative">
@@ -61,10 +87,22 @@
         {{- end -}}
       {{- end -}}
       {{- if eq $targetURL "/" -}}
-        {{- $targetURL = printf "/%s/" $lang -}}
+        {{- if eq $lang $defaultLang -}}
+          {{- $targetURL = $basePath -}}
+        {{- else -}}
+          {{- $targetURL = printf "%s%s" (printf "/%s" $lang) $basePath -}}
+        {{- end -}}
       {{- end -}}
     {{- else -}}
-      {{- $targetURL = printf "/%s/" $lang -}}
+      {{- if eq $lang $currentLang -}}
+        {{- if eq $lang $defaultLang -}}
+          {{- $targetURL = $basePath -}}
+        {{- else -}}
+          {{- $targetURL = printf "%s%s" (printf "/%s" $lang) $basePath -}}
+        {{- end -}}
+      {{- else -}}
+        {{- $targetURL = printf "/%s/" $lang -}}
+      {{- end -}}
     {{- end -}}
 
     {{- $languageMenuContent = printf "%s<a href=\"%s\" class=\"text-accent-foreground hover:bg-accent hover:text-accent-foreground focus:bg-accent focus:text-accent-foreground flex w-full items-center rounded-md px-4 py-2 text-sm transition-all duration-200 ease-out focus:outline-none\" role=\"menuitem\"%s><span class=\"font-medium\">%s</span></a>" $languageMenuContent $targetURL (cond $isCurrent " aria-current=\"true\"" "") $langName -}}
