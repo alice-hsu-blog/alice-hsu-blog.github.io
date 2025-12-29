@@ -1,0 +1,23 @@
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="{{ site.Params.Twitter_Site }}" />
+{{- if .IsHome -}}
+ <meta name="twitter:creator" content="{{ site.Params.Twitter_Site }}" />
+ <meta name="twitter:title" content="{{ site.Title }}" />
+ {{- with site.Params.Twitter_Image -}}
+   <meta name="twitter:image" content="{{ site.Params.Twitter_Image }}" />
+ {{- else -}}
+   <meta name="twitter:image" content="{{ site.Params.Image }}" />
+ {{- end -}}
+{{- else -}}
+ {{- with .Params.cover -}}
+   <meta name="twitter:image" content="{{ . }}" />
+ {{- else -}}
+   <meta name="twitter:image" content="{{ site.Params.Image }}" />
+ {{- end -}}
+ {{- with .Params.Author_twitter_handle -}}  
+   <meta name="twitter:creator" content="{{ . }}" />
+ {{- else -}}
+   <meta name="twitter:creator" content="{{ site.Params.Twitter_Site }}" />
+ {{- end -}}
+ <meta name="twitter:title" content="{{ .Title }} | {{ site.Title }}" />
+{{- end }}
