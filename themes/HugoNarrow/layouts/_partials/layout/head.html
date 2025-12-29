@@ -41,7 +41,7 @@
    <meta name="twitter:image" content="{{ site.Params.Image }}" />
  {{- end -}}
 {{- else -}}
- <meta name="og:title" content="{{ .Title }}" />
+ <meta name="og:title" content="{{ .Title }} | {{ site.Title }}" />
  {{- with .Params.og_type -}}
    <meta property="og:type" content="{{ . }}" />
  {{- else -}}
@@ -61,7 +61,7 @@
  {{- else -}}
    <meta name="twitter:creator" content="{{ site.Params.Twitter_Site }}" />
  {{- end -}}
- <meta name="twitter:title" content="{{ .Title }}" />
+ <meta name="twitter:title" content="{{ .Title }} | {{ site.Title }}" />
 {{- end }}
 
 
