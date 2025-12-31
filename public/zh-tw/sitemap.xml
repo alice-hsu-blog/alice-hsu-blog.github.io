@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alicehsu.blog/zh-tw/posts/2025/12/%E7%94%9F%E5%91%BD%E6%98%AF%E4%B8%80%E4%BB%BD%E5%8E%9A%E7%A6%AE%E8%AE%80%E5%BE%8C%E6%84%9F/</loc>
+    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
+  </url><url>
     <loc>https://alicehsu.blog/zh-tw/</loc>
-    <lastmod>2025-12-28T17:00:00-06:00</lastmod>
+    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -16,7 +19,7 @@
                 />
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/categories/</loc>
-    <lastmod>2025-12-28T17:00:00-06:00</lastmod>
+    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -29,7 +32,7 @@
                 />
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/posts/</loc>
-    <lastmod>2025-12-28T17:00:00-06:00</lastmod>
+    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -40,6 +43,9 @@
                 hreflang="zh-TW"
                 href="https://alicehsu.blog/zh-tw/posts/"
                 />
+  </url><url>
+    <loc>https://alicehsu.blog/zh-tw/categories/%E6%9B%B8/</loc>
+    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/posts/2025/12/pros-and-cons-of-self-hosted-blogs/</loc>
     <lastmod>2025-12-28T17:00:00-06:00</lastmod>
