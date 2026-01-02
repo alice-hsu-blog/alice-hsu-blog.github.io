@@ -115,8 +115,8 @@
     
       <link
         rel="stylesheet"
-        href="/css/compiled.min.8ff7e8f9a4d624f758183198505444898cca2225f0dc357ed8c9bd280f827f6e.css"
-        integrity="sha256-j/fo&#43;aTWJPdYGDGYUFREiYzKIiXw3DV&#43;2Mm9KA&#43;Cf24="
+        href="/css/compiled.min.a6601d2dfc94d9fe70c8db8b229a663c4ccfd2bb5f944b0ffe8fe3e607ab57b7.css"
+        integrity="sha256-pmAdLfyU2f5wyNuLIppmPEzP0rtflEsP/o/j5gerV7c="
         crossorigin="anonymous" />
     
   
@@ -157,15 +157,15 @@
 
 
 
-  <script src="/js/gumshoe.polyfills.min.js"></script>
+    <script src="/js/gumshoe.polyfills.min.js"></script>
 
 
 
-          <script
-            src="/js/toc.70654aebf0b738a78ae2df95297cc10ebc6e590f3c942dd1325fa852f50038b2.js"
-            integrity="sha256-cGVK6/C3OKeK4t&#43;VKXzBDrxuWQ88lC3RMl&#43;oUvUAOLI="
-            crossorigin="anonymous"
-            defer></script>
+            <script
+              src="/js/toc.0bf090b7df6839ab30d0e2997aef67a2ac402e4419d0a2ab2d61c54337e16e80.js"
+              integrity="sha256-C/CQt99oOasw0OKZeu9noqxALkQZ0KKrLWHFQzfhboA="
+              crossorigin="anonymous"
+              defer></script>
 
 
 
@@ -418,7 +418,7 @@
               
               <span
                 >
-                  About Me
+                  About
                 </span
               >
             </a>
@@ -673,7 +673,7 @@
           
           <span
             >
-              About Me
+              About
             </span
           >
         </a>
@@ -1074,7 +1074,7 @@
   </header>
 
   
-  <article class="prose prose-neutral dark:prose-invert mb-12 max-w-none">
+  <article class="prose prose-neutral dark:prose-invert mb-6 max-w-none">
     
 <style>
   
@@ -1370,7 +1370,18 @@
 <hr>
 <p><em>NB: This article was first published in Chinese. It was later translated with assistance from ChatGPT, edited by me, and published in English.</em></p>
 
-  </article>
+  </article><a
+    href="/about"
+    class="btn-component inline-flex items-center justify-center gap-2 rounded-lg font-medium transition-all duration-300 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none cursor-pointer mb-6 bg-secondary text-secondary-foreground hover:bg-secondary/90 focus:ring-secondary/20 shadow-sm hover:shadow-md px-4 py-2 text-base"
+  >
+  <svg class="h-4 w-4 shrink-0"
+    fill="none"
+    stroke="currentColor"
+    viewBox="0 0 24 24">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+
+</svg><span>About the Author</span>
+  </a>
 
   
   
@@ -1404,11 +1415,11 @@
     aria-label="Post navigation">
     <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
       
-      <div class="nav-item">
+      <div class="nav-item h-full">
         
           <a
             href="/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/"
-            class="group bg-card border-border hover:bg-primary/5 hover:border-primary/20 focus:ring-primary/20 flex min-h-[140px] flex-col justify-between rounded-xl border p-6 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:shadow-lg focus:ring-2 focus:outline-none">
+            class="group bg-card border-border hover:bg-primary/5 hover:border-primary/20 focus:ring-primary/20 flex min-h-[140px] flex-col justify-between rounded-xl border p-6 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:shadow-lg focus:ring-2 focus:outline-none h-full">
             <div>
               <div class="mb-3 flex items-center gap-3">
                 
@@ -1449,7 +1460,7 @@
         
           <a
             href="/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/"
-            class="group bg-card border-border hover:bg-primary/5 hover:border-primary/20 focus:ring-primary/20 flex min-h-[140px] flex-col justify-between rounded-xl border p-6 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:shadow-lg focus:ring-2 focus:outline-none">
+            class="group bg-card border-border hover:bg-primary/5 hover:border-primary/20 focus:ring-primary/20 flex min-h-[140px] flex-col justify-between rounded-xl border p-6 transition-all duration-300 ease-out hover:-translate-y-1 hover:scale-[1.02] hover:shadow-lg focus:ring-2 focus:outline-none h-full">
             <div>
               <div class="mb-3 flex items-center justify-end gap-3">
                 <span class="text-muted-foreground text-sm font-medium">
@@ -1506,6 +1517,41 @@
 
 
     </main>
+        
+
+
+  
+  <aside
+    id="toc-sidebar"
+    class="toc-sidebar hidden xl:block fixed top-24 toc-sidebar-right"
+    style="max-width: 220px; max-height: 80vh;"
+    aria-label="Table of Contents Navigation">
+
+    
+    <div class="mb-4 flex items-center gap-2">
+      <h2 class="text-foreground text-sm font-semibold">
+        Table of Contents
+      </h2>
+    </div>
+
+    
+    <nav
+      id="toc-sidebar-content"
+      class="toc-sidebar-scroll overflow-y-auto pr-2"
+      style="max-height: calc(80vh - 3rem);">
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#2-serving-bacon-carbonara">2-Serving Bacon Carbonara</a>
+      <ul>
+        <li><a href="#notes">Notes</a></li>
+        <li><a href="#ingredients">Ingredients</a></li>
+        <li><a href="#cooking-steps">Cooking Steps</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </nav>
+  </aside>
 
     <footer class="mx-auto max-w-3xl px-10 py-8">
   <div class="px-6 py-6">
@@ -1552,8 +1598,15 @@
       
       <div class="text-muted-foreground text-sm text-center md:text-left">
         <p class="mb-2">
-          &copy; 2025 Alice Hsu&#39;s Blog.
-          All rights reserved.
+          &copy; 2025-2026 Alice Hsu.
+          Licensed under
+          <a 
+            href="https://creativecommons.org/licenses/by-nc-nd/4.0/" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            class="text-primary hover:text-primary/80 font-medium transition-colors duration-200 hover:underline"
+          >
+            CC BY-NC-ND 4.0</a>.
         </p>
         <p class="flex flex-wrap items-center justify-center gap-1 md:justify-start">
           <span>Powered by</span>
@@ -1626,12 +1679,14 @@
 
     
     
-      <button
-        id="dock-toc"
-        class="text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 xs:px-2 xs:py-1.5 flex flex-shrink-0 items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium transition-all duration-300 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none sm:px-3 sm:py-2"
-        title="Table of Contents"
-        aria-label="Table of Contents">
         
+
+        <button
+          id="dock-toc"
+          class="text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 xs:px-2 xs:py-1.5 flex flex-shrink-0 items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium transition-all duration-300 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none sm:px-3 sm:py-2 xl:hidden"
+          title="Table of Contents"
+          aria-label="Table of Contents">
+          
   <svg class="h-4 w-4"
     fill="none"
     stroke="currentColor"
@@ -1644,13 +1699,13 @@
   <line x1="3" x2="3.01" y1="18" y2="18"/>
 
 </svg>
-        <span class="hidden sm:inline"
-          >Table of Contents</span
-        >
-      </button>
+          <span class="hidden sm:inline"
+            >Table of Contents</span
+          >
+        </button>
 
-      
-      <div class="bg-border xs:mx-1 mx-2 h-6 w-px sm:mx-2"></div>
+        
+        <div class="bg-border xs:mx-1 mx-2 h-6 w-px sm:mx-2 xl:hidden"></div>
     
 
 
@@ -1707,13 +1762,13 @@
 
 
     
-      
+        
 
 
 
 <div
   id="toc-overlay"
-  class="pointer-events-none fixed inset-0 z-40 bg-black/50 opacity-0 backdrop-blur-sm transition-all duration-300"
+  class="pointer-events-none fixed inset-0 z-40 bg-black/50 opacity-0 backdrop-blur-sm transition-all duration-300 xl:hidden"
   role="dialog"
   aria-modal="true"
   aria-labelledby="toc-title"></div>
@@ -1721,7 +1776,7 @@
 
 <div
   id="toc-card"
-  class="pointer-events-none fixed inset-4 z-50 flex w-auto scale-95 items-center justify-center opacity-0 transition-all duration-300 sm:inset-auto sm:top-1/2 sm:left-1/2 sm:block sm:w-full sm:max-w-md sm:-translate-x-1/2 sm:-translate-y-1/2"
+  class="pointer-events-none fixed inset-4 z-50 flex w-auto scale-95 items-center justify-center opacity-0 transition-all duration-300 sm:inset-auto sm:top-1/2 sm:left-1/2 sm:block sm:w-full sm:max-w-md sm:-translate-x-1/2 sm:-translate-y-1/2 xl:hidden"
   role="dialog"
   aria-modal="true"
   aria-labelledby="toc-title">

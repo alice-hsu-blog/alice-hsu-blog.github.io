@@ -21,7 +21,7 @@ nav:
   total_pages: "{{ .count }} pages total"
   back_home: "Back to Home"
   post_navigation: "Post navigation"
-  about_us: "About Me"
+  about_us: "About"
   portfolio: "Portfolio"
 
 # Theme related
@@ -244,10 +244,8 @@ links: "Links"
 authors:
   author_name: "Alice Hsu"
   author_title: "Musician / Writer"
-  author_description: |
-    A personal website that shares music, reading, and life. 
-    
-    You can reach me at: mail@alicehsu.blog
+  author_description: "A personal website that shares music, reading, and life."
+  contact: "You can reach me at: mail@alicehsu.blog"
 
 statistics:
   total_posts: "Until now, I wrote {{.Count}} posts, {{.Words}} words"
@@ -256,3 +254,7 @@ view_option:
   desc: "View option:"
   card: "Card"
   list: "List"
+
+link_after_post:
+  title: "About the Author"
+  url: "/about"

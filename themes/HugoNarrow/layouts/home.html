@@ -35,10 +35,14 @@
               {{ end }}
 
               {{ if site.Params.author.description }}
-                <div class="text-foreground mb-4 leading-relaxed">
+                <div class="text-foreground leading-relaxed">
                   {{ i18n site.Params.author.description | markdownify }}
                 </div>
               {{ end }}
+              <div class="text-foreground mb-4 leading-relaxed inline-flex items-center gap-2">
+                {{ partial "features/icon.html" (dict "name" "email" "size" "sm" "ariaLabel" "email") }}
+                {{ i18n "authors.contact" }}
+              </div>
 
 
               <!-- 社交链接 -->

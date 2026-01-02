@@ -43,14 +43,50 @@
       {{ block "main" . }}{{ end }}
     </main>
 
+    {{- if .IsPage }}
+      {{- $tocEnabled := true }}
+      {{- $globalTocConfig := .Site.Params.toc | default dict }}
+      {{- if isset $globalTocConfig "enabled" }}
+        {{- $tocEnabled = $globalTocConfig.enabled }}
+      {{- end }}
+      {{- if isset .Params "toc" }}
+        {{- if reflect.IsMap .Params.toc }}
+          {{- if isset .Params.toc "enabled" }}
+            {{- $tocEnabled = .Params.toc.enabled }}
+          {{- end }}
+        {{- else }}
+          {{- $tocEnabled = .Params.toc }}
+        {{- end }}
+      {{- end }}
+      {{- if $tocEnabled }}
+        {{ partial "ui/toc-sidebar.html" . }}
+      {{- end }}
+    {{- end }}
+
     {{ partial "layout/footer.html" . }}
 
     <!-- 底部 Dock -->
     {{ partial "ui/dock.html" . }}
 
     <!-- 目录卡片 - 只在有目录的页面显示 -->
-    {{- if and .IsPage .TableOfContents }}
-      {{ partial "ui/toc-card.html" . }}
+    {{- if .IsPage }}
+      {{- $tocEnabled := true }}
+      {{- $globalTocConfig := .Site.Params.toc | default dict }}
+      {{- if isset $globalTocConfig "enabled" }}
+        {{- $tocEnabled = $globalTocConfig.enabled }}
+      {{- end }}
+      {{- if isset .Params "toc" }}
+        {{- if reflect.IsMap .Params.toc }}
+          {{- if isset .Params.toc "enabled" }}
+            {{- $tocEnabled = .Params.toc.enabled }}
+          {{- end }}
+        {{- else }}
+          {{- $tocEnabled = .Params.toc }}
+        {{- end }}
+      {{- end }}
+      {{- if and $tocEnabled .TableOfContents }}
+        {{ partial "ui/toc-card.html" . }}
+      {{- end }}
     {{- end }}
     {{ partial "features/katex.html" . }}
     {{ partial "features/mermaid.html" . }}

@@ -92,6 +92,13 @@ avatar = "/images/avatar.jpg"
   url = "https://soundcloud.com/alice_h_hsu"
   icon = "soundcloud"
 
+dock = 'scroll'
+
+[params.toc]
+  enabled = true         # Enable or disable TOC globally
+  position = "right"      # Options: card left right
+  maxWidth = "220px"
+  maxHeight = "80vh"
 
 [params.home]
 recentPostsCount = 3

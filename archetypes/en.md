@@ -2,7 +2,6 @@
 date = '{{ .Date }}'
 draft = true
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-slug = ''
 summary = ''
 cover = ''
 cover_on_post = false
@@ -15,3 +14,7 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
+
+---
+
+*NB: This article was first published in Chinese on /26. It was later translated with assistance from ChatGPT, edited by me, and published in English on /26.*

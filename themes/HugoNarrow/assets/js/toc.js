@@ -9,20 +9,34 @@ class TOCManager {
   constructor() {
     this.elements = {};
     this.gumshoe = null;
+    this.gumshoeCard = null;
+    this.gumshoeSidebar = null;
     this.isVisible = false;
+    this.mode = this.detectMode();
 
     this.init();
+  }
+
+  detectMode() {
+    const sidebar = document.getElementById("toc-sidebar");
+    if (sidebar && window.innerWidth >= 1280) {
+      return "sidebar";
+    }
+    return "card";
   }
 
   // 初始化
   init() {
     this.cacheElements();
 
-    if (!this.elements.card) return;
+    if (this.mode === "sidebar") {
+      this.initSidebarMode();
+    } else {
+      this.initCardMode();
+    }
 
-    this.bindEvents();
-    this.initGumshoe();
     this.exposeAPI();
+    this.handleResize();
   }
 
   // 缓存 DOM 元素
@@ -32,7 +46,24 @@ class TOCManager {
       overlay: document.getElementById("toc-overlay"),
       closeBtn: document.getElementById("toc-close"),
       content: document.getElementById("toc-content"),
+      sidebar: document.getElementById("toc-sidebar"),
+      sidebarContent: document.getElementById("toc-sidebar-content"),
     };
+  }
+
+  initCardMode() {
+    if (!this.elements.card) return;
+
+    this.bindEvents();
+    this.initGumshoeCard();
+  }
+
+  // 初始化侧边栏模式
+  initSidebarMode() {
+    if (!this.elements.sidebar) return;
+
+    this.initGumshoeSidebar();
+    this.bindSidebarEvents();
   }
 
   // 绑定事件
@@ -60,6 +91,19 @@ class TOCManager {
     });
   }
 
+  bindSidebarEvents() {
+    const { sidebarContent } = this.elements;
+
+    // 目录链接点击 - 使用事件委托
+    sidebarContent?.addEventListener("click", (e) => {
+      const link = e.target.closest('a[href^="#"]');
+      if (!link) return;
+
+      e.preventDefault();
+      this.scrollToTargetSidebar(link.hash);
+    });
+  }
+
   // 滚动到目标位置
   scrollToTarget(hash) {
     const targetId = this.decodeHash(hash);
@@ -76,6 +120,18 @@ class TOCManager {
     }
   }
 
+  scrollToTargetSidebar(hash) {
+    const targetId = this.decodeHash(hash);
+    const target = document.getElementById(targetId);
+
+    if (target) {
+      target.scrollIntoView({
+        behavior: "smooth",
+        block: "center",
+      });
+    }
+  }
+
   // 解码 hash
   decodeHash(hash) {
     try {
@@ -87,7 +143,7 @@ class TOCManager {
   }
 
   // 初始化 Gumshoe
-  initGumshoe() {
+  initGumshoeCard() {
     if (typeof Gumshoe === "undefined") {
       console.warn("Gumshoe 库未加载");
       return;
@@ -96,7 +152,28 @@ class TOCManager {
     const tocLinks = document.querySelectorAll("#toc-content a");
     if (tocLinks.length === 0) return;
 
-    this.gumshoe = new Gumshoe("#toc-content a", {
+    this.gumshoeCard = new Gumshoe("#toc-content a", {
+      offset: () => window.innerHeight * 0.2,
+      reflow: true,
+      nested: true,
+      nestedClass: "active-parent",
+      navClass: "active",
+      contentClass: "active",
+      events: true,
+    });
+  }
+
+  // 初始化 Gumshoe（侧边栏模式）
+  initGumshoeSidebar() {
+    if (typeof Gumshoe === "undefined") {
+      console.warn("Gumshoe 库未加载");
+      return;
+    }
+
+    const tocLinks = document.querySelectorAll("#toc-sidebar-content a");
+    if (tocLinks.length === 0) return;
+
+    this.gumshoeSidebar = new Gumshoe("#toc-sidebar-content a", {
       offset: () => window.innerHeight * 0.2,
       reflow: true,
       nested: true,
@@ -149,6 +226,27 @@ class TOCManager {
     }
   }
 
+  handleResize() {
+    let resizeTimer;
+    window.addEventListener("resize", () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(() => {
+        const newMode = this.detectMode();
+        if (newMode !== this.mode) {
+          // 模式切换，重新初始化
+          this.cleanup();
+          this.mode = newMode;
+          this.cacheElements();
+          if (this.mode === "sidebar") {
+            this.initSidebarMode();
+          } else {
+            this.initCardMode();
+          }
+        }
+      }, 200);
+    });
+  }
+
   // 暴露 API
   exposeAPI() {
     window.TOC = {
@@ -156,30 +254,45 @@ class TOCManager {
       hide: () => this.hide(),
       toggle: () => this.toggle(),
       isVisible: () => this.isVisible,
+      mode: () => this.mode,
       initialized: true,
     };
   }
 
+  cleanup() {
+    this.gumshoeCard?.destroy();
+    this.gumshoeSidebar?.destroy();
+    this.gumshoeCard = null;
+    this.gumshoeSidebar = null;
+  }
+
   // 清理资源
   destroy() {
-    this.gumshoe?.destroy();
+    this.cleanup();
     document.body.style.overflow = "";
   }
 }
 
 // 初始化管理器
+
+let tocManagerInstance = null;
+
 function initTOC() {
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", () => new TOCManager());
+    document.addEventListener("DOMContentLoaded", () => {
+      tocManagerInstance = new TOCManager();
+    });
   } else {
     // 小延迟确保 DOM 完全渲染
-    setTimeout(() => new TOCManager(), 50);
+    setTimeout(() => {
+      tocManagerInstance = new TOCManager();
+    }, 50);
   }
 }
 
 // 页面卸载时清理
 window.addEventListener("beforeunload", () => {
-  window.tocManager?.destroy();
+  tocManagerInstance?.destroy();
 });
 
 // 立即初始化

@@ -187,7 +187,7 @@
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/15/1.jpg&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/15/9.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-8a12900601bedbbff25c84a661bbd209-1&#34;&gt;
             
@@ -1528,7 +1528,7 @@
     decoding=&#34;async&#34;
     data-gallery-src=&#34;https://alicehsu.blog/images/Post/14/2.JPG&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/14/3.JPG&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/14/0-2.JPG&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-b2bc03aed25d73e8da6baee65f76de75-2&#34;&gt;
             
@@ -4498,7 +4498,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;p&gt;When the concert ended, cheers filled the hall. Almost everyone stood again. Sam told me that he had become a fan as well. Nothing delights a fan more than converting the people around them.&lt;/p&gt;
 &lt;p&gt;It has been a long time since I last heard a concert that moved me like this. More than good techniques, Cateen’s love for music could be heard in every note he played. He is someone who enjoys playing the piano, a composer full of passion and hope for music and for life. Not every musician is like this.&lt;/p&gt;
 &lt;p&gt;I just want to rush to my piano and practice.&lt;/p&gt;
-&lt;h2 id=&#34;hahahugoshortcode47s0hbhb&#34;&gt;
+&lt;h2 id=&#34;hahahugoshortcode7s0hbhb&#34;&gt;
 &lt;style&gt;
   
 #masonry-6493325e3652681e99281b11dbfadf42-1 {
@@ -9509,11 +9509,11 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       </content:encoded>
     </item>
     <item>
-      <title>About Me</title>
+      <title>About</title>
       <link>https://alicehsu.blog/about/</link>
       <pubDate>Sun, 05 Oct 2025 09:00:00 -0500</pubDate>
       <guid>https://alicehsu.blog/about/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34; w-49&#34;&gt;&lt;img src=&#34;https://alicehsu.blog/images/avatar.jpg&#34;&#xA;    alt=&#34;profile photo&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a musician and a writer.&lt;/p&gt;&#xA;&lt;p&gt;This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: &lt;em&gt;&lt;a href=&#34;https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;What Happened When I Deleted My Facebook and Instagram App?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;figure class=&#34; w-49&#34;&gt;&lt;img src=&#34;https://alicehsu.blog/images/avatar.jpg&#34;&#xA;    alt=&#34;profile photo&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a musician and a writer.&lt;/p&gt;&#xA;&lt;p&gt;Hobbies:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Reading all kinds of books&lt;/li&gt;&#xA;&lt;li&gt;Browsing blogs&lt;/li&gt;&#xA;&lt;li&gt;Crocheting&lt;/li&gt;&#xA;&lt;li&gt;Making pour-over coffee&lt;/li&gt;&#xA;&lt;li&gt;Cooking&lt;/li&gt;&#xA;&lt;li&gt;Taking walks&lt;/li&gt;&#xA;&lt;li&gt;Playing the piano&lt;/li&gt;&#xA;&lt;li&gt;Writing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I started out as a dog person, then grew to love cats too. Now I am firmly on team cute animals.&lt;/p&gt;&#xA;&lt;p&gt;This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: &lt;em&gt;&lt;a href=&#34;https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;What Happened When I Deleted My Facebook and Instagram App?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
 
       
 
@@ -9523,10 +9523,22 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;/figure&gt;
 
 Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a musician and a writer.&lt;/p&gt;
+&lt;p&gt;Hobbies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reading all kinds of books&lt;/li&gt;
+&lt;li&gt;Browsing blogs&lt;/li&gt;
+&lt;li&gt;Crocheting&lt;/li&gt;
+&lt;li&gt;Making pour-over coffee&lt;/li&gt;
+&lt;li&gt;Cooking&lt;/li&gt;
+&lt;li&gt;Taking walks&lt;/li&gt;
+&lt;li&gt;Playing the piano&lt;/li&gt;
+&lt;li&gt;Writing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I started out as a dog person, then grew to love cats too. Now I am firmly on team cute animals.&lt;/p&gt;
 &lt;p&gt;This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: &lt;em&gt;&lt;a href=&#34;https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;What Happened When I Deleted My Facebook and Instagram App?&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Here, I share my musical works, including original piano compositions, piano covers, and recordings of classical pieces. At times, I also write about the reflections behind my compositions or share personal thoughts on reading and life.&lt;/p&gt;
+&lt;p&gt;You can find my music on the “Portfolio” page. It includes my original piano compositions, piano covers I arranged, and recordings of classical pieces. On the “Categories” page, you will find posts I have written on different topics. Also, all of the illustrations on this site are drawn by me.&lt;/p&gt;
 &lt;p&gt;Finally, I’d like to thank my husband  &lt;a href=&#34;https://mhyeh.github.io/&#34;target=&#34;_blank&#34;
-&gt;Samuel&lt;/a&gt;  for building this website and making it look as beautiful as it does now ❤️&lt;/p&gt;
+&gt;Samuel&lt;/a&gt; (&amp;ldquo;Sam&amp;rdquo; in my posts ) for building this website and making it look as beautiful as it does now ❤️&lt;/p&gt;
 &lt;p&gt;For any feedback on my posts or music, please don&amp;rsquo;t hesitate to contact me by email. You can reach me at: mail@alicehsu.blog&lt;/p&gt;
 
       </content:encoded>

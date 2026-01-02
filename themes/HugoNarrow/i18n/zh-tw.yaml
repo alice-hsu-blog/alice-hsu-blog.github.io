@@ -142,11 +142,9 @@ links: "連結"
 authors:
   author_name: "Alice Hsu"
   author_title: "音樂家 / 文字工作者"
-  author_description: |
-    分享音樂、閱讀和生活的網站。
+  author_description: "分享音樂、閱讀和生活的網站。"
+  contact: "歡迎來信：mail@alicehsu.blog"
     
-    歡迎來信：mail@alicehsu.blog
-
 statistics:
   total_posts: "目前總共寫了 {{.Count}} 篇文章，共 {{.Words}} 字"
 
@@ -154,3 +152,11 @@ view_option:
   desc: "顯示方式："
   card: "卡片"
   list: "列表"
+
+toc:
+  title: "目錄"
+  tip: "點擊前往段落"
+
+link_after_post:
+  title: "關於作者"
+  url: "/zh-tw/about"

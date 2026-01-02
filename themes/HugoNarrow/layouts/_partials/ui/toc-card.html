@@ -5,11 +5,21 @@
   @context {page} . 当前文章页面对象
 */}}
 
+{{- $globalTocConfig := .Site.Params.toc | default dict }}
+{{- $tocPosition := $globalTocConfig.position | default "card" }}
 
+{{/* frontmatter 参数覆盖 */}}
+{{- if isset .Params "toc" }}
+  {{- if reflect.IsMap .Params.toc }}
+    {{- if isset .Params.toc "position" }}
+      {{- $tocPosition = .Params.toc.position }}
+    {{- end }}
+  {{- end }}
+{{- end }}
 <!-- 目录卡片遮罩层 -->
 <div
   id="toc-overlay"
-  class="pointer-events-none fixed inset-0 z-40 bg-black/50 opacity-0 backdrop-blur-sm transition-all duration-300"
+  class="pointer-events-none fixed inset-0 z-40 bg-black/50 opacity-0 backdrop-blur-sm transition-all duration-300 {{ if ne $tocPosition "card" }}xl:hidden{{ end }}"
   role="dialog"
   aria-modal="true"
   aria-labelledby="toc-title"></div>
@@ -17,7 +27,7 @@
 <!-- 目录卡片 -->
 <div
   id="toc-card"
-  class="pointer-events-none fixed inset-4 z-50 flex w-auto scale-95 items-center justify-center opacity-0 transition-all duration-300 sm:inset-auto sm:top-1/2 sm:left-1/2 sm:block sm:w-full sm:max-w-md sm:-translate-x-1/2 sm:-translate-y-1/2"
+  class="pointer-events-none fixed inset-4 z-50 flex w-auto scale-95 items-center justify-center opacity-0 transition-all duration-300 sm:inset-auto sm:top-1/2 sm:left-1/2 sm:block sm:w-full sm:max-w-md sm:-translate-x-1/2 sm:-translate-y-1/2 {{ if ne $tocPosition "card" }}xl:hidden{{ end }}"
   role="dialog"
   aria-modal="true"
   aria-labelledby="toc-title">

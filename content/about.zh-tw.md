@@ -8,7 +8,7 @@ author_twitter_handle: "@Alicehsu77"
 og_type: "article"
 links:
   - name: "YouTube"
-    url: "https://www.youtube.com/@alice_h_hsu"
+    url: "https://youtube.com/@alice_h_hsu"
     icon: "https://www.youtube.com/s/desktop/1c6b3028/img/favicon_48x48.png"
   - name: "SoundCloud"
     url: "https://soundcloud.com/alice_h_hsu"
@@ -21,12 +21,24 @@ links:
   alt="profile photo"
   class=" w-49"
 >}}
-我是 Alice，出生於台灣，目前長居美國威斯康辛州，是音樂家，也是一位文字工作者。
+我是 Alice Hsu，出生於台灣，目前長居美國威斯康辛州，是音樂家，也是一位文字工作者。
 
-這個個人網站是我網路上的家。幾年前，我便決定不再將重心放在社群媒體上，雖然仍有 FB 帳號，不過大部分處於停用的狀態；而 IG 的帳號則徹底刪掉了。若有興趣，可以讀讀這篇文章：[〈刪掉 FB 與 IG 的我，發生了什麼變化?〉](/zh-tw/posts/2025/09/刪掉-fb-與-ig-的我發生了什麼變化/)
+嗜好：
+- 讀五花八門的書 
+-  逛部落格
+-  鉤針
+-  沖手沖咖啡
+-  煮飯
+-  散步
+-  彈琴
+-  寫字
 
-這個網站主要用來分享我的音樂作品，包含：我的原創鋼琴曲、自己編曲的流行音樂鋼琴 Cover、或是古典樂曲的錄音。偶爾寫寫創作的心路歷程，或是一些與音樂無關、關於閱讀和生活的分享。
+一開始是狗派，後來也愛貓貓，現在是可愛動物派 {{< icon name="heart" >}} 
 
-最後，要感謝我的先生 [Samuel](https://mhyeh.github.io/) 幫我架設網站，並且將網站改得如此好看❤️
+這個部落格是我網路上的家。幾年前，我決定不再將重心放在社群媒體上，雖仍有 Facebook 帳號，大部分處於停用的狀態；而 Instagram 的帳號則徹底刪掉了。若有興趣其中緣由，可以讀讀這兩篇文章：[〈刪掉 FB 與 IG 的我，發生了什麼變化?〉](/zh-tw/posts/2025/09/刪掉-fb-與-ig-的我發生了什麼變化/)以及[〈自架部落格的優缺點〉](/zh-tw/posts/2025/12/pros-and-cons-of-self-hosted-blogs/)。
+
+你可以在「作品集」頁面看到我的音樂作品，包含：我的原創鋼琴曲、自己編的鋼琴 Cover、以及古典樂曲的錄音；本站的「分類」頁面，則收錄我針對不同主題所寫過的文章；另外，本站的文章插圖都是我畫的喔！
+
+最後，感謝我的先生 [Samuel](https://mhyeh.github.io/) （文章裡的 Sam）幫我架設網站，並且將網站改得如此好看 ❤️
 
 若有任何想法，歡迎來信：mail@alicehsu.blog
