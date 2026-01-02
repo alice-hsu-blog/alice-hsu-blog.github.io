@@ -39,9 +39,9 @@
                   {{ i18n site.Params.author.description | markdownify }}
                 </div>
               {{ end }}
-              <div class="text-foreground mb-4 leading-relaxed inline-flex items-center gap-2">
+              <div class="text-foreground mb-4 leading-relaxed flex flex-wrap items-center gap-x-2 gap-y-0 justify-center md:justify-start">
                 {{ partial "features/icon.html" (dict "name" "email" "size" "sm" "ariaLabel" "email") }}
-                {{ i18n "authors.contact" }}
+                <span class="whitespace-nowrap">{{ i18n "authors.contact" }}</span><span class="">{{ i18n "authors.mail" }}</span>
               </div>
 
 

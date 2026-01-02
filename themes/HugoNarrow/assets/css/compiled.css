@@ -525,6 +525,18 @@
   .mb-12 {
     margin-bottom: calc(var(--spacing) * 12);
   }
+  .ml-0 {
+    margin-left: 0;
+  }
+  .ml-2 {
+    margin-left: calc(var(--spacing) * 2);
+  }
+  .ml-4 {
+    margin-left: calc(var(--spacing) * 4);
+  }
+  .ml-6 {
+    margin-left: calc(var(--spacing) * 6);
+  }
   .ml-12 {
     margin-left: calc(var(--spacing) * 12);
   }
@@ -891,6 +903,12 @@
   }
   .gap-6 {
     gap: calc(var(--spacing) * 6);
+  }
+  .gap-x-2 {
+    column-gap: calc(var(--spacing) * 2);
+  }
+  .gap-y-0 {
+    row-gap: 0;
   }
   .space-y-2 {
     :where(& > :not(:last-child)) {
@@ -2122,6 +2140,11 @@
       --tw-scale-y: 95%;
       --tw-scale-z: 95%;
       scale: var(--tw-scale-x) var(--tw-scale-y);
+    }
+  }
+  .sm\:justify-center {
+    @media (width >= 40rem) {
+      justify-items: center;
     }
   }
   .sm\:inset-auto {

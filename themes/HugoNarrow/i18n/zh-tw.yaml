@@ -143,7 +143,8 @@ authors:
   author_name: "Alice Hsu"
   author_title: "音樂家 / 文字工作者"
   author_description: "分享音樂、閱讀和生活的網站。"
-  contact: "歡迎來信：mail@alicehsu.blog"
+  contact: "歡迎來信："
+  mail: "mail@alicehsu.blog"
     
 statistics:
   total_posts: "目前總共寫了 {{.Count}} 篇文章，共 {{.Words}} 字"
