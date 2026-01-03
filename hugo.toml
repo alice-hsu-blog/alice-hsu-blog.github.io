@@ -84,12 +84,12 @@ avatar = "/images/avatar.jpg"
 
 [[params.author.social]]
   name = "YouTube"
-  url = "https://www.youtube.com/@alice_h_hsu"
+  url = "https://www.youtube.com/@alicehsumusic"
   icon = "youtube"
 
 [[params.author.social]]
   name = "SoundCloud"
-  url = "https://soundcloud.com/alice_h_hsu"
+  url = "https://soundcloud.com/alicehsumusic"
   icon = "soundcloud"
 
 dock = 'scroll'
