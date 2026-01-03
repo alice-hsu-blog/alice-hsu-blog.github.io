@@ -8,11 +8,12 @@ author_twitter_handle: "@Alicehsu77"
 og_type: "article"
 links:
   - name: "YouTube"
-    url: "https://youtube.com/@alice_h_hsu"
+    url: "https://youtube.com/@alicehsumusic"
     icon: "https://www.youtube.com/s/desktop/1c6b3028/img/favicon_48x48.png"
   - name: "SoundCloud"
-    url: "https://soundcloud.com/alice_h_hsu"
+    url: "https://soundcloud.com/alicehsumusic"
     icon: "https://favicon.im/soundcloud.com?larger=true"
+  
   
 
 ---
