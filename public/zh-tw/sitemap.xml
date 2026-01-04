@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alicehsu.blog/zh-tw/posts/2025/12/%E7%94%9F%E5%91%BD%E6%98%AF%E4%B8%80%E4%BB%BD%E5%8E%9A%E7%A6%AE%E8%AE%80%E5%BE%8C%E6%84%9F/</loc>
-    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
-  </url><url>
     <loc>https://alicehsu.blog/zh-tw/</loc>
-    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
+    <lastmod>2026-01-03T19:30:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -19,7 +16,7 @@
                 />
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/categories/</loc>
-    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
+    <lastmod>2026-01-03T19:30:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -32,7 +29,7 @@
                 />
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/posts/</loc>
-    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
+    <lastmod>2026-01-03T19:30:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -43,6 +40,15 @@
                 hreflang="zh-TW"
                 href="https://alicehsu.blog/zh-tw/posts/"
                 />
+  </url><url>
+    <loc>https://alicehsu.blog/zh-tw/categories/%E9%A3%9F%E8%AD%9C/</loc>
+    <lastmod>2026-01-03T19:30:00-06:00</lastmod>
+  </url><url>
+    <loc>https://alicehsu.blog/zh-tw/posts/2026/01/sesame_oil_chicken_misua/</loc>
+    <lastmod>2026-01-03T19:30:00-06:00</lastmod>
+  </url><url>
+    <loc>https://alicehsu.blog/zh-tw/posts/2025/12/%E7%94%9F%E5%91%BD%E6%98%AF%E4%B8%80%E4%BB%BD%E5%8E%9A%E7%A6%AE%E8%AE%80%E5%BE%8C%E6%84%9F/</loc>
+    <lastmod>2025-12-31T12:00:00-06:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/categories/%E6%9B%B8/</loc>
     <lastmod>2025-12-31T12:00:00-06:00</lastmod>
@@ -226,9 +232,6 @@
                 hreflang="zh-TW"
                 href="https://alicehsu.blog/zh-tw/posts/2025/11/%E6%BF%83%E7%A8%A0%E9%86%AC%E6%B1%81%E5%9F%B9%E6%A0%B9%E8%9B%8B%E9%BA%B5/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/zh-tw/categories/%E9%A3%9F%E8%AD%9C/</loc>
-    <lastmod>2025-11-01T15:26:04-05:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/zh-tw/posts/2025/10/%E6%97%A5%E5%BC%8F%E8%A6%AA%E5%AD%90%E4%B8%BC%E9%A3%AF%E8%95%83%E8%8C%84%E7%8E%89%E7%B1%B3%E6%B9%AF/</loc>
     <lastmod>2025-10-31T23:43:12-05:00</lastmod>
