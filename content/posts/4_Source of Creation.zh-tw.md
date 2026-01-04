@@ -5,7 +5,7 @@ title = '⛲ 創作的泉源'
 summary = '最近在讀林文月先生（1933-2023）的《生活可以如此美好》散文集'
 cover = '/images/Post4home.JPG'
 cover_on_post = true
-categories = ['隨想雜談']
+categories = ['書']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
