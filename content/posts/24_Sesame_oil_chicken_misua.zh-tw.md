@@ -4,7 +4,7 @@ draft = false
 title = '麻油雞麵線'
 slug = 'Sesame_oil_chicken_misua'
 summary = '小時候有戶鄰居很喜歡煮麻油雞，常常大白天就能聞到香味，可謂「一家煮雞萬家香」。'
-cover = '/images/Post23home.jpg'
+cover = '/images/Post24home.jpg'
 cover_on_post = false
 categories = ['食譜']
 author_twitter_handle = '@Alicehsu77' 
@@ -23,7 +23,7 @@ og_type = 'article'
 
 前陣子非常地冷，約攝氏負十幾度吧。有天心血來潮，忽然想吃麻油雞麵線，也想到之前和阿姨學的食譜還留著，就和 Sam 去超市買了食材回來煮。我們稍微調整了食譜，拿掉了不喜歡的枸杞和紅棗，加入了高麗菜。成品非常滿意！在異國吃到台味滿滿的料理還是滿感動的。
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![非常好吃！](/images/Post23home.jpg)
+![非常好吃！](/images/Post24home.jpg)
 {{< /masonry >}}
 
 ### 麻油雞烹飪步驟

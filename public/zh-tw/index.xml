@@ -6,8 +6,611 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 03 Jan 2026 19:30:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 21:30:00 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>鉤！鉤！Go！那些小可愛們</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/01/lets-go-crocheting-little-cutties/</link>
+      <pubDate>Tue, 06 Jan 2026 21:30:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/01/lets-go-crocheting-little-cutties/</guid>
+      <description>織織不倦</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/25/8.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post/25/8.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/25/8.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;這是我的 2026 年 1 月份 &lt;a href=&#34;https://blogblog.club/party&#34;target=&#34;_blank&#34;
+&gt;BlogBlog 同樂會&lt;/a&gt;投稿，歡迎大家一同來 Party！&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;「嘿，Udon！有客人來囉！快來打招呼！」&lt;/p&gt;
+&lt;p&gt;「等等，我去叫 Sesame 來一起打招呼！Se-sa-me ～～～」&lt;/p&gt;
+&lt;p&gt;「 Udon 你好吵歐，我還想再睡一下&amp;hellip;&amp;hellip;」&lt;/p&gt;
+&lt;p&gt;「快點啦 Udon 和 Sesame，今天客人特別來看你們耶！」&lt;/p&gt;
+&lt;p&gt;「什麼什麼！我們來了！」&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/1.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/1.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+超可愛！有沒有！！&lt;/p&gt;
+&lt;h2 id=&#34;我是如何入坑的&#34;&gt;我是如何入坑的&lt;/h2&gt;
+&lt;p&gt;我是怎麼入坑的呢？其實沒有人推，是自己跳下去的。&lt;/p&gt;
+&lt;p&gt;有次逛市集，看到有人賣各種鉤針的作品，其中就有像 Udon 和 Sesame 這樣可愛的小東西，一個要價四十五美元，當下好心動，不過想想又有點買不太下去，忽然靈光一閃：「不然我自己來做一隻好了！」於是就這樣入了坑。&lt;/p&gt;
+&lt;p&gt;剛開始擔心這個新嗜好堅持不下去，於是去了實體的藝術用品店（現在已經倒掉的 JOANN QQ），先買了一根 2.5 mm 的針，以及少少的毛線，看 YouTube 從基本針法開始學。這當中就屬艾織老師講解得最清楚了，她的初學者影片畫面拍得很仔細，而且口條清晰，非常好懂。於是，從平面開始學習織一塊小布，又學著織了一堆小球，接著挑戰織小貓貓，覺得還可以，就開始了織大貓貓的 Project 啦！&lt;/p&gt;
+&lt;p&gt;這個坑越織越深，而且影響力甚大，Sam 看我織也忍不住一起學。他織了 Udon，我織了 Sesame；他織了兩隻小恐龍，我織了小烏龜和帽子；聖誕節前織了聖誕樹，春天之際織了花花，可謂「織織不倦」，哈哈哈。&lt;/p&gt;
+
+&lt;style&gt;
+  
+#masonry-64793406a751a0b48d1d90a4bb090fe8-1 {
+  width: 100%;
+}
+
+#masonry-64793406a751a0b48d1d90a4bb090fe8-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-64793406a751a0b48d1d90a4bb090fe8-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 15px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-64793406a751a0b48d1d90a4bb090fe8-1 .masonry-item img {
+  width: 90%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-64793406a751a0b48d1d90a4bb090fe8-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-64793406a751a0b48d1d90a4bb090fe8-1 .glightbox:hover,
+#masonry-64793406a751a0b48d1d90a4bb090fe8-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-64793406a751a0b48d1d90a4bb090fe8-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-64793406a751a0b48d1d90a4bb090fe8-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-64793406a751a0b48d1d90a4bb090fe8-1&#34;
+     data-columns=&#34;3&#34;
+     data-gutter=&#34;15&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/2.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-64793406a751a0b48d1d90a4bb090fe8-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/2.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/2.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/3.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-64793406a751a0b48d1d90a4bb090fe8-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/3.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/3.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/4.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-64793406a751a0b48d1d90a4bb090fe8-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/4.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/4.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/5.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-64793406a751a0b48d1d90a4bb090fe8-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/5.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/5.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/6.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-64793406a751a0b48d1d90a4bb090fe8-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/6.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/6.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/7.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-64793406a751a0b48d1d90a4bb090fe8-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/7.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/7.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-64793406a751a0b48d1d90a4bb090fe8-1&#39;;
+  const config = {
+    columns:  3 ,
+    gutter:  15 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+&lt;h2 id=&#34;鉤針的好處&#34;&gt;鉤針的好處&lt;/h2&gt;
+&lt;h3 id=&#34;一成本極低&#34;&gt;一、成本極低&lt;/h3&gt;
+&lt;p&gt;如上文所述，需要的東西其實並不多，只有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;毛線&lt;/li&gt;
+&lt;li&gt;鉤針（棒針需要兩根棒子，而鉤針是只有一根鈍頭的鉤子）&lt;/li&gt;
+&lt;li&gt;記號扣（用來標記針目的東西，別用別針，會刺到手，別問我是怎麼知道的。）&lt;/li&gt;
+&lt;li&gt;剪刀（家家戶戶都有的東西）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/9.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/9.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;如果你想織填充玩偶的話，需要另外買：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;娃娃專用眼睛或針線&lt;/li&gt;
+&lt;li&gt;大頭針（暫時固定娃娃的手腳，以用來確認該織上四肢的針目）&lt;/li&gt;
+&lt;li&gt;棉花&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果你一開始想挑戰填充玩偶，或是顏色比較多的織物，可以買廠商配好的鉤針材料包（crochet kit），這樣就不需要自己配色，也不用買一大堆材料。不過它單價比較高，可自行斟酌。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;備註&lt;/strong&gt;：我買了毛線架，後來覺得沒有必要，可能我買的毛線架不夠重吧，織著織著毛線架常常倒掉，可以不用買。&lt;/p&gt;
+&lt;h3 id=&#34;二上手容易&#34;&gt;二、上手容易&lt;/h3&gt;
+&lt;p&gt;YouTube 有一大堆免費的教學影片，推薦從&lt;a href=&#34;https://www.youtube.com/@EvelinesCrochet&#34;target=&#34;_blank&#34;
+&gt;艾織&lt;/a&gt;老師的&lt;a href=&#34;https://youtube.com/playlist?list=PLJZs-ZBpJ2IXYB61RLnqRWcIwQJlHHrrb&amp;amp;si=ANUvBvf7VGL_jyOd&#34;target=&#34;_blank&#34;
+&gt;基礎針法教學影片&lt;/a&gt;開始看。學好基本的針法，之後就易如反掌了。有些東西看來複雜，其實根本原理很簡單。比如説貓咪和小恐龍，都是先織好身體，再織手腳，最後把它們縫起來。並且，這項技能和騎腳踏車一樣，久久沒織，依舊能容易回想起來。&lt;/p&gt;
+&lt;h3 id=&#34;三送禮自用兩相宜&#34;&gt;三、送禮自用兩相宜&lt;/h3&gt;
+&lt;p&gt;鉤針作品真的用處多多：可以織個小球給貓玩、織個小動物給小孩玩、織個小可愛給自己玩。家裡的牆壁有點空？織個花朵裝飾牆壁吧！一直很想要某個特定顏色或花樣的衣物但找不到？自己設計織圖織給自己穿吧！送禮的話，有誰會不愛一個親手織的小東西呢？手作的溫度是難以取代的。&lt;/p&gt;
+&lt;h3 id=&#34;四打發時間的健康嗜好&#34;&gt;四、打發時間的健康嗜好&lt;/h3&gt;
+&lt;p&gt;一直覺得沒事就滑手機、滑社群很不健康，不過，不這樣又不知道還可以幹嘛？跟你說個小秘密：你可以開始織東西！相較於滑手機，滑完後什麼都沒留下，織東西織完後，會長出一隻可愛的小狐狸、小松鼠，或是帶給人溫暖的圍巾，那種療癒感是難以言喻的。並且，相較於滑社群容易上癮、停不下來，織東西不會上癮，你能輕易放下半成品去做其他的事情。除此之外，鉤針是個哪裡都能進行的活動，只要塞顆毛線和鉤針在包包或袋子裡，出門等車、跑銀行、通勤，隨處都可織。&lt;/p&gt;
+&lt;p&gt;鉤針和身心健康到底有什麼關聯呢？有一篇收錄於 PubMed 的期刊回答了這個問題。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; 2018 年，澳洲的研究者 Burns 以及 Van der Meer 在網路上的鉤針社團發了問卷，最後，收到的 8391 份有效問卷中，最多數的人（89.5%）覺得鉤針能帶給他們平靜。並且，鉤針對人產生的影響，清一色幾乎都是正向的（平靜、開心、有自信&amp;hellip;&amp;hellip;等等），只有鮮少的人會因鉤針產生負面情緒（有壓力、沒價值感和焦慮只占 2.1%、0.5% 以及 0.4%）。除此之外，也有人會用鉤針來幫助他們面對人生中的重大事件，比如親友過世、離婚或罹患重大疾病等。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.reddit.com/r/crochet/comments/1ep1b3k/the_mental_health_benefits_of_crocheting_arent/&#34;target=&#34;_blank&#34;
+&gt;Reddit&lt;/a&gt; 上也有個版主在討論鉤針怎樣幫助他面對焦慮症：&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;每當這種情況（焦慮）發生時，我通常不是已經在鉤針，就是會拿起鉤針開始編織。說真的，鉤針編織會讓我感覺好很多；它真的能幫助我把那股緊繃不安的能量釋放出去。&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;下面也有人回應：&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;鉤針讓我可以專心在某件事情上，而不是一直陷在停不下來的想法裡。&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;有這樣能幫助你平靜和開心的嗜好，不試試看嗎？&lt;/p&gt;
+&lt;h3 id=&#34;五老樂樂少樂樂獨樂樂眾樂樂&#34;&gt;五、老樂樂、少樂樂、獨樂樂、眾樂樂&lt;/h3&gt;
+&lt;p&gt;你以為鉤針只是老奶奶的興趣嗎？這樣想就太 low 啦，鉤針可是很潮的：你可以用鉤針織一幅畫、可以織包包、可以織超酷的衣服，搜尋欄上打 crochet art ，就能看到有許多年輕的藝術家用鉤針鉤織你從沒看過的酷東西（比如這顆&lt;a href=&#34;https://www.theblueelephants.com/crochet-heart-pattern/&#34;target=&#34;_blank&#34;
+&gt;心臟&lt;/a&gt;，有夠酷！）&lt;/p&gt;
+&lt;p&gt;除了自己織之外，一群人在一起也很適合鉤針。農曆新年即將要到了，和不熟的家人聚在一起很尷尬不知道要幹嘛嗎？可以一起織東西！這樣，每個人就會專注在手邊的鉤針大業，降低那些討厭話題出現的頻率，又因著彼此做同一件事，能達到一定程度的互動和關懷（「欸這個我不會織耶！你幫我看一下！」「啊，這裡就是要先穿進去再把線勾出來&amp;hellip;&amp;hellip;」）。除此之外，其實滿多地方都有鉤針社團，可以認識一些人，達到一定的社交量，也不致太多，是個 I 人友善的活動。&lt;/p&gt;
+&lt;h3 id=&#34;六訓練創意和空間感被動收入&#34;&gt;六、訓練創意和空間感＋被動收入&lt;/h3&gt;
+&lt;p&gt;走過新手階段後，你可以不用亦步亦趨按照別人的織圖鉤織了，而是發揮創意，將自己獨一無二的創意織出來。到這個階段就不太容易了，得常常織了又拆、拆了又織，因著將腦中的圖轉換成 2D 或 3D 的物品，你能順便訓練自己的空間概念。有些人會將自己的設計圖（織圖）放上 &lt;a href=&#34;https://www.etsy.com/&#34;target=&#34;_blank&#34;
+&gt;Etsy&lt;/a&gt; 賣，我覺得這滿聰明的：比起賣需要花許多時間力氣完成的作品，織圖雖然單價低，不過做一次放上網，就能不費力一直賣，不失為一個不錯的被動收入來源。&lt;/p&gt;
+&lt;h2 id=&#34;鉤針適合什麼樣的人&#34;&gt;鉤針適合什麼樣的人&lt;/h2&gt;
+&lt;p&gt;綜上所述，鉤針適合以下這些人：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;想省錢培養新嗜好的人&lt;/li&gt;
+&lt;li&gt;想要改掉沒事滑社群的人&lt;/li&gt;
+&lt;li&gt;通勤沒事做的人&lt;/li&gt;
+&lt;li&gt;焦慮和憂鬱的人&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;想鍛鍊創意和空間感的人&lt;/li&gt;
+&lt;li&gt;想要有被動收入的人&lt;/li&gt;
+&lt;li&gt;想要有一點社交能量，卻不至太多的 I 人&lt;/li&gt;
+&lt;li&gt;想要送出有溫度禮物的人&lt;/li&gt;
+&lt;li&gt;家裡缺裝飾品、玩偶的人&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;結語&#34;&gt;結語&lt;/h2&gt;
+&lt;p&gt;快點入坑吧！&lt;/p&gt;
+&lt;h2 id=&#34;後記&#34;&gt;後記&lt;/h2&gt;
+&lt;p&gt;一、&lt;/p&gt;
+&lt;p&gt;之前就在 Canva 做好了這個影片，剛好藉此機會發布啦！這是 Udon 等待 Sesame 出生的照片合集，可愛吧～～
+
+&lt;div
+  class=&#34;video-js-container&#34;&gt;
+  &lt;video
+    data-setup=&#34;{&amp;#34;language&amp;#34;:&amp;#34;zh-TW&amp;#34;,&amp;#34;playbackRates&amp;#34;:[0.5,1,1.5,2]}&#34;
+    width=&#34;100%&#34;
+    height=&#34;100%&#34;
+    class=&#34;video-js vjs-default-skin vjs-fluid&#34;
+    
+    
+    controls
+    
+    
+    &gt;
+    &lt;source
+    src=&#34;https://alicehsu.blog/images/Post/25/Hello%20Sesame.mp4&#34;
+    &gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+&lt;p&gt;二、&lt;/p&gt;
+&lt;p&gt;寫這篇文章的過程中，Sam 把這隻大恐龍織出來了，有沒有很可愛！真的好大好好抱啊～～
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/8.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/8.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Burns, P, and R Van Der Meer. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32245337/&#34;target=&#34;_blank&#34;
+&gt;“Happy Hookers: findings from an international study exploring the effects of crochet on wellbeing.”&lt;/a&gt; Perspectives in public health vol. 141,3 (2021): 149-157. doi:10.1177/1757913920911961&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;鉤針不能也不應取代專業醫療或心理治療，有相關心理健康需求，請諮詢專業醫療或心理健康人員喔。&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>麻油雞麵線</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/01/sesame_oil_chicken_misua/</link>
@@ -16,9 +619,9 @@
       <description>小時候有戶鄰居很喜歡煮麻油雞，常常大白天就能聞到香味，可謂「一家煮雞萬家香」。</description>
 
       
-        <media:thumbnail url="https://alicehsu.blog/images/Post23home.jpg" />
-        <media:content url="https://alicehsu.blog/images/Post23home.jpg" medium="image" />
-        <enclosure url="https://alicehsu.blog/images/Post23home.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post24home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post24home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post24home.jpg" type="image/jpeg" />
       
 
 
@@ -89,18 +692,18 @@
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post23home.jpg&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post24home.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-5bdfa41e919bd6fad66519a76ea1514f-1&#34;&gt;
             
             &lt;img
-    src=&#34;https://alicehsu.blog/images/Post23home.jpg&#34;
+    src=&#34;https://alicehsu.blog/images/Post24home.jpg&#34;
     alt=&#34;非常好吃！&#34;
     
     
     loading=&#34;lazy&#34;
     decoding=&#34;async&#34;
-    data-gallery-src=&#34;https://alicehsu.blog/images/Post23home.jpg&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post24home.jpg&#34;
     data-gallery-alt=&#34;非常好吃！&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;font style=&#34;color: var(--tw-prose-body); font-weight: normal;&#34;&gt;非常好吃！&lt;/font&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/div&gt;
