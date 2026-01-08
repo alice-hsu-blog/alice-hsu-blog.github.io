@@ -6,8 +6,21 @@
     <description>Recent content in Categories on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 07 Jan 2026 23:50:31 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 00:10:00 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recipe</title>
+      <link>https://alicehsu.blog/categories/recipe/</link>
+      <pubDate>Thu, 08 Jan 2026 00:10:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/categories/recipe/</guid>
+      <description></description>
+
+      
+
+
+      <content:encoded>
+      </content:encoded>
+    </item>
     <item>
       <title>Thoughts and Talks</title>
       <link>https://alicehsu.blog/categories/thoughts-and-talks/</link>
@@ -39,19 +52,6 @@
       <link>https://alicehsu.blog/categories/music/</link>
       <pubDate>Tue, 23 Dec 2025 16:00:00 -0600</pubDate>
       <guid>https://alicehsu.blog/categories/music/</guid>
-      <description></description>
-
-      
-
-
-      <content:encoded>
-      </content:encoded>
-    </item>
-    <item>
-      <title>Recipe</title>
-      <link>https://alicehsu.blog/categories/recipe/</link>
-      <pubDate>Sat, 01 Nov 2025 15:26:11 -0500</pubDate>
-      <guid>https://alicehsu.blog/categories/recipe/</guid>
       <description></description>
 
       

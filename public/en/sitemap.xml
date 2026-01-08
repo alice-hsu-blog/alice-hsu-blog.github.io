@@ -15,6 +15,19 @@
                 href="https://alicehsu.blog/"
                 />
   </url><url>
+    <loc>https://alicehsu.blog/categories/</loc>
+    <lastmod>2026-01-08T00:10:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/categories/"
+                />
+  </url><url>
     <loc>https://alicehsu.blog/posts/</loc>
     <lastmod>2026-01-08T00:10:00-06:00</lastmod>
     <xhtml:link
@@ -28,17 +41,20 @@
                 href="https://alicehsu.blog/posts/"
                 />
   </url><url>
-    <loc>https://alicehsu.blog/categories/</loc>
-    <lastmod>2026-01-07T23:50:31-06:00</lastmod>
+    <loc>https://alicehsu.blog/categories/recipe/</loc>
+    <lastmod>2026-01-08T00:10:00-06:00</lastmod>
+  </url><url>
+    <loc>https://alicehsu.blog/posts/2026/01/sesame-oil-chicken-misua/</loc>
+    <lastmod>2026-01-08T00:10:00-06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/categories/"
+                href="https://alicehsu.blog/zh-tw/posts/2026/01/sesame_oil_chicken_misua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="https://alicehsu.blog/categories/"
+                href="https://alicehsu.blog/posts/2026/01/sesame-oil-chicken-misua/"
                 />
   </url><url>
     <loc>https://alicehsu.blog/posts/2026/01/changed-my-emails-and-handles/</loc>
@@ -205,9 +221,6 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/recipe/</loc>
-    <lastmod>2025-11-01T15:26:11-05:00</lastmod>
   </url><url>
     <loc>https://alicehsu.blog/posts/2025/11/creamy-bacon-carbonara/</loc>
     <lastmod>2025-11-01T15:26:11-05:00</lastmod>
