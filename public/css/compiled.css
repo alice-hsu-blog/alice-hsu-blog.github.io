@@ -3399,13 +3399,15 @@
   }
   .prose code {
     border-radius: 0.25rem;
-    background-color: var(--color-muted);
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--color-primary);
     padding-inline: calc(var(--spacing) * 1.5);
     padding-block: calc(var(--spacing) * 0.5);
     font-family: var(--font-mono);
     font-size: var(--text-sm);
     line-height: var(--tw-leading, var(--text-sm--line-height));
-    color: var(--tw-prose-code);
+    color: var(--color-primary);
     font-weight: 600;
   }
   .code-block-container {
@@ -3466,13 +3468,15 @@
   }
   .prose code:not(.chroma code) {
     border-radius: 0.25rem;
-    background-color: var(--color-muted);
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--color-primary);
     padding-inline: calc(var(--spacing) * 1.5);
     padding-block: calc(var(--spacing) * 0.5);
     font-family: var(--font-mono);
     font-size: var(--text-sm);
     line-height: var(--tw-leading, var(--text-sm--line-height));
-    color: var(--tw-prose-code);
+    color: var(--color-primary);
     font-weight: 600;
   }
   .prose pre:not(.chroma) {
