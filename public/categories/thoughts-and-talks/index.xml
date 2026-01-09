@@ -579,6 +579,23 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 
 &lt;p&gt;II.&lt;/p&gt;
 &lt;p&gt;While I was writing this article, Sam finished crocheting this giant dinosaur. Isn’t it adorable? It’s so big and huggable!&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/8.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/8.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese on 01/06/26. It was later translated with assistance from Typeless, edited by me, and published in English on 01/03/26.&lt;/em&gt;&lt;/p&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;

@@ -1,7 +1,7 @@
 +++
 date = '2026-01-08T20:30:00-06:00'
 draft = false
-title = 'Journey to the West (Part 3): People I Met in San Diego'
+title = 'Journey to the West (Part III): People I Met in San Diego'
 summary = '“I’ve never seen snow in my entire life. I really want to.”'
 cover = '/images/Post17home.gif'
 cover_on_post = true

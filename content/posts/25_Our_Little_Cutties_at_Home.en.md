@@ -124,6 +124,8 @@ II.
 
 While I was writing this article, Sam finished crocheting this giant dinosaur. Isn’t it adorable? It’s so big and huggable!
 
+![](/images/Post/25/8.JPG)
+
 
 [^1]: Burns, P, and R Van Der Meer. [“Happy Hookers: findings from an international study exploring the effects of crochet on wellbeing.”](https://pubmed.ncbi.nlm.nih.gov/32245337/) Perspectives in public health vol. 141,3 (2021): 149-157. doi:10.1177/1757913920911961
 [^2]: Crochet cannot and should not replace professional medical or psychological treatment. If you have mental health needs, please consult a professional medical or mental health provider.
