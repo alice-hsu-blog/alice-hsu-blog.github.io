@@ -6,8 +6,1009 @@
     <description>Recent content in Thoughts and Talks on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 07 Jan 2026 23:50:31 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 22:30:00 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/categories/thoughts-and-talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Little Cutties at Home</title>
+      <link>https://alicehsu.blog/posts/2026/01/our-little-cutties-at-home/</link>
+      <pubDate>Thu, 08 Jan 2026 22:30:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/posts/2026/01/our-little-cutties-at-home/</guid>
+      <description>You could say we are “hooked,” haha.</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/25/8.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post/25/8.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/25/8.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;This is my submission for the January 2026 &lt;a href=&#34;https://blogblog.club/party&#34;target=&#34;_blank&#34;
+&gt;BlogBlog Club Party&lt;/a&gt;. Everyone is welcome to join the party!&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;“Hey, Udon! We have guests! Come say hi!”&lt;/p&gt;
+&lt;p&gt;“Wait, let me go get Sesame so we can say hi together! Se-sa-me~~~”&lt;/p&gt;
+&lt;p&gt;“Udon, you’re being so loud, I want to sleep a bit longer…”&lt;/p&gt;
+&lt;p&gt;“Hurry up, Udon and Sesame! Our guests came specifically to see you today!”&lt;/p&gt;
+&lt;p&gt;“What! Really? We’re coming!”&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/1.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/1.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+Super cute, right?!&lt;/p&gt;
+&lt;h2 id=&#34;how-i-fell-down-the-rabbit-hole&#34;&gt;How I Fell Down the Rabbit Hole&lt;/h2&gt;
+&lt;p&gt;How did I get into this? Actually, nobody pushed me—I jumped in all by myself.&lt;/p&gt;
+&lt;p&gt;Once while browsing a craft fair, I saw someone selling various crochet works. Among them were adorable little things just like Udon and Sesame. One cost forty-five dollars. I was tempted, but I couldn’t quite bring myself to spend that much. Suddenly, a lightbulb went off: “Why don’t I try making one myself?” And just like that, I fell into the hole.&lt;/p&gt;
+&lt;p&gt;At first, I was worried I wouldn’t stick with this new hobby. So, I went to a physical art supply store (the now-defunct JOANN, RIP) and bought a single 2.5 mm hook and a tiny bit of yarn. I started learning the basic stitches from YouTube. Among all the tutorials, Eveline’s (艾織) explanations were the clearest. Her beginner videos are filmed with great detail, and her delivery is very easy to follow. I started by learning to crochet a flat square, then a bunch of small balls, then I challenged myself with a tiny kitty. Feeling confident, I finally started the &amp;ldquo;Loaf Cat” project!&lt;/p&gt;
+&lt;p&gt;This rabbit hole keeps getting deeper, and its influence is huge—even Sam couldn’t help but learn along with me. He made Udon, and I made Sesame; he made two little dinosaurs, and I made a little turtle and a hat. We made a Christmas tree before the holidays and flowers during spring. You could say we are “hooked,” haha.&lt;/p&gt;
+
+&lt;style&gt;
+  
+#masonry-699840899b122edb20b77e027115cbdc-1 {
+  width: 100%;
+}
+
+#masonry-699840899b122edb20b77e027115cbdc-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-699840899b122edb20b77e027115cbdc-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 15px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-699840899b122edb20b77e027115cbdc-1 .masonry-item img {
+  width: 90%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-699840899b122edb20b77e027115cbdc-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-699840899b122edb20b77e027115cbdc-1 .glightbox:hover,
+#masonry-699840899b122edb20b77e027115cbdc-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-699840899b122edb20b77e027115cbdc-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-699840899b122edb20b77e027115cbdc-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-699840899b122edb20b77e027115cbdc-1&#34;
+     data-columns=&#34;3&#34;
+     data-gutter=&#34;15&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/2.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-699840899b122edb20b77e027115cbdc-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/2.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/2.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/3.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-699840899b122edb20b77e027115cbdc-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/3.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/3.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/4.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-699840899b122edb20b77e027115cbdc-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/4.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/4.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/5.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-699840899b122edb20b77e027115cbdc-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/5.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/5.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/6.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-699840899b122edb20b77e027115cbdc-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/6.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/6.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/7.jpg&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-699840899b122edb20b77e027115cbdc-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/7.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/7.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-699840899b122edb20b77e027115cbdc-1&#39;;
+  const config = {
+    columns:  3 ,
+    gutter:  15 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+&lt;h2 id=&#34;the-benefits-of-crochet&#34;&gt;The Benefits of Crochet&lt;/h2&gt;
+&lt;h3 id=&#34;1-extremely-low-cost&#34;&gt;1. Extremely Low Cost&lt;/h3&gt;
+&lt;p&gt;As mentioned, you don’t actually need much:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Yarn&lt;/li&gt;
+&lt;li&gt;A crochet hook (Knitting requires two needles, but crochet uses just one hook with a blunt tip)&lt;/li&gt;
+&lt;li&gt;Stitch markers (To mark your stitches—don’t use safety pins, they’ll prick your fingers. Don’t ask me how I know.)&lt;/li&gt;
+&lt;li&gt;Scissors (Something every household has)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/25/9.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/9.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;If you want to make stuffed animals (amigurumi), you’ll also need:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Safety eyes or embroidery thread&lt;/li&gt;
+&lt;li&gt;Straight pins (To temporarily hold the limbs in place to confirm positioning)&lt;/li&gt;
+&lt;li&gt;Fiberfill/Stuffing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you want to tackle amigurumi or multi-colored projects right away, you can buy a pre-packed crochet kit. That way, you don’t have to worry about color matching or buying excessive materials. However, the unit price is higher, so use your discretion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: I bought a yarn holder but later realized it wasn’t necessary. Maybe the one I got wasn’t heavy enough. It kept falling over while I worked. You can skip it.&lt;/p&gt;
+&lt;h3 id=&#34;2-easy-to-learn&#34;&gt;2. Easy to Learn&lt;/h3&gt;
+&lt;p&gt;YouTube is full of free tutorials. I recommend starting with &lt;a href=&#34;https://www.youtube.com/@EvelinesCrochet&#34;target=&#34;_blank&#34;
+&gt;Eveline&lt;/a&gt;’s &lt;a href=&#34;https://youtube.com/playlist?list=PLJZs-ZBpJ2IXYB61RLnqRWcIwQJlHHrrb&amp;amp;si=ANUvBvf7VGL_jyOd&#34;target=&#34;_blank&#34;
+&gt;Crochet Basic Stitch Tutorials&lt;/a&gt;. Once you master the basics, everything else becomes a breeze. Some items look complex, but the principles are simple. For example, cats and dinosaurs are usually made by crocheting the body first, then the limbs, and finally sewing them together. Plus, this skill is like riding a bike—even if you don’t pick it up for a long time, it’s easy to remember.&lt;/p&gt;
+&lt;h3 id=&#34;3-great-for-gifts-and-personal-use&#34;&gt;3. Great for Gifts and Personal Use&lt;/h3&gt;
+&lt;p&gt;Crochet works are incredibly versatile: you can make a small ball for your cat, a little animal for a child, or something cute for yourself. Empty walls? Crochet some flowers to decorate them! Can’t find clothes in a specific color or pattern? Design your own pattern and make it! As for gifts, who wouldn’t love a handmade item? The warmth of something handmade is irreplaceable.&lt;/p&gt;
+&lt;h3 id=&#34;4-a-healthy-hobby-to-pass-the-time&#34;&gt;4. A Healthy Hobby to Pass the Time&lt;/h3&gt;
+&lt;p&gt;Always felt that mindlessly scrolling through social media is unhealthy, but sometimes don&amp;rsquo;t know what else to do? Here’s a little secret: start crocheting! Unlike scrolling, which leaves you with nothing, crocheting results in a cute little fox, a squirrel, or a warm scarf. The sense of healing is hard to describe. And unlike the addictive nature of social media, crocheting isn’t an “addiction” you can’t stop—you can easily put down a half-finished project to do other things. Plus, it’s portable. Just toss a ball of yarn and a hook in your bag, and you can crochet while waiting for the bus, at the bank, or during your commute.&lt;/p&gt;
+&lt;p&gt;What does crochet have to do with mental health? A journal entry in PubMed answers this.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; In 2018, Australian researchers Burns and Van der Meer surveyed online crochet communities. Out of 8,391 valid responses, the majority (89.5%) felt that crochet brought them calmness. Furthermore, the effects were almost entirely positive (calm, happy, confident…), with only a tiny fraction reporting negative emotions (stress, worthlessness, or anxiety accounted for only 2.1%, 0.5%, and 0.4% respectively). Additionally, some people use crochet to help cope with major life events like the loss of a loved one, divorce, or serious illness.&lt;/p&gt;
+&lt;p&gt;There’s also a moderator on &lt;a href=&#34;https://www.reddit.com/r/crochet/comments/1ep1b3k/the_mental_health_benefits_of_crocheting_arent/&#34;target=&#34;_blank&#34;
+&gt;Reddit&lt;/a&gt;  discussing how crochet helps them manage anxiety:&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;Whenever this (anxiety) happens I’m usually already crocheting or pick up my hook because genuinely crocheting makes me feel so much better i feel like it really helps to expel the nervous energy.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;Someone replied:&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;Crocheting helps me focus on something other than my racing thoughts.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;With a hobby that helps you stay calm and happy, why not give it a try?&lt;/p&gt;
+&lt;h3 id=&#34;5-fun-for-everyoneyoung-old-alone-or-together&#34;&gt;5. Fun for Everyone—Young, Old, Alone, or Together&lt;/h3&gt;
+&lt;p&gt;Do you think crochet is just for grandmas? That’s a lame way to think. Crochet is actually very trendy: you can crochet a painting, bags, or super cool clothes. Type “crochet art” into a search bar, and you’ll see many young artists making cool things you’ve never seen (like this &lt;a href=&#34;https://www.theblueelephants.com/crochet-heart-pattern/&#34;target=&#34;_blank&#34;
+&gt;anatomical heart&lt;/a&gt;—so cool!).&lt;/p&gt;
+&lt;p&gt;Beyond solo crafting, it’s great for groups. Lunar New Year is coming up—awkward family gatherings with nothing to do? Crochet together! Everyone focuses on their work, reducing the frequency of annoying questions. Because you’re doing the same thing, it fosters interaction and care (“Hey, I don’t know how to do this stitch! Can you check it for me?” “Oh, here you just insert the hook and pull the yarn through…”). Plus, there are crochet clubs in many places where you can meet people—just enough social interaction without it being overwhelming. It’s a very introvert friendly activity.&lt;/p&gt;
+&lt;h3 id=&#34;6-training-creativity-and-spatial-awareness--passive-income&#34;&gt;6. Training Creativity and Spatial Awareness + Passive Income&lt;/h3&gt;
+&lt;p&gt;Once you move past the beginner stage, you don’t have to follow someone else’s pattern stitch-by-stitch. You can use your imagination to create something unique. This stage is challenging; it involves a lot of “frogging” (ripping out stitches) and restarting. By converting a mental image into a 2D or 3D object, you train your spatial awareness. Some people sell their original patterns on &lt;a href=&#34;https://www.etsy.com/&#34;target=&#34;_blank&#34;
+&gt;Etsy&lt;/a&gt;. I think this is brilliant: instead of selling finished items that take forever to make, a pattern is a “create once, sell forever” digital product—a great source of passive income.&lt;/p&gt;
+&lt;h2 id=&#34;who-is-crochet-for&#34;&gt;Who is Crochet For?&lt;/h2&gt;
+&lt;p&gt;To summarize, crochet is perfect for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;People looking for an affordable new hobby&lt;/li&gt;
+&lt;li&gt;People wanting to break a social media scrolling habit&lt;/li&gt;
+&lt;li&gt;People with boring commutes&lt;/li&gt;
+&lt;li&gt;People dealing with anxiety or depression&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;People wanting to train their creativity and spatial awareness&lt;/li&gt;
+&lt;li&gt;People interested in passive income&lt;/li&gt;
+&lt;li&gt;Introverts who want a bit of social energy without the drain&lt;/li&gt;
+&lt;li&gt;People who want to give heartfelt, “warm” gifts&lt;/li&gt;
+&lt;li&gt;People whose homes need more decorations or plushies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Come start crocheting together!&lt;/p&gt;
+&lt;h2 id=&#34;afterword&#34;&gt;Afterword&lt;/h2&gt;
+&lt;p&gt;I.&lt;/p&gt;
+&lt;p&gt;I made this video in Canva a while ago and am finally sharing it! It’s a collection of photos of Udon waiting for Sesame to be “born.” Cute, right?&lt;/p&gt;
+
+&lt;div
+  class=&#34;video-js-container&#34;&gt;
+  &lt;video
+    data-setup=&#34;{&amp;#34;language&amp;#34;:&amp;#34;en-US&amp;#34;,&amp;#34;playbackRates&amp;#34;:[0.5,1,1.5,2]}&#34;
+    width=&#34;100%&#34;
+    height=&#34;100%&#34;
+    class=&#34;video-js vjs-default-skin vjs-fluid&#34;
+    
+    
+    controls
+    
+    
+    &gt;
+    &lt;source
+    src=&#34;https://alicehsu.blog/images/Post/25/Hello%20Sesame.mp4&#34;
+    &gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;II.&lt;/p&gt;
+&lt;p&gt;While I was writing this article, Sam finished crocheting this giant dinosaur. Isn’t it adorable? It’s so big and huggable!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese on 01/06/26. It was later translated with assistance from Typeless, edited by me, and published in English on 01/03/26.&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Burns, P, and R Van Der Meer. &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32245337/&#34;target=&#34;_blank&#34;
+&gt;“Happy Hookers: findings from an international study exploring the effects of crochet on wellbeing.”&lt;/a&gt; Perspectives in public health vol. 141,3 (2021): 149-157. doi:10.1177/1757913920911961&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;Crochet cannot and should not replace professional medical or psychological treatment. If you have mental health needs, please consult a professional medical or mental health provider.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </content:encoded>
+    </item>
+    <item>
+      <title>Pros and Cons of Self Hosted Blogs</title>
+      <link>https://alicehsu.blog/posts/2026/01/pros-and-cons-of-self-hosted-blogs/</link>
+      <pubDate>Thu, 08 Jan 2026 21:15:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/posts/2026/01/pros-and-cons-of-self-hosted-blogs/</guid>
+      <description>If no one “likes” or “claps,” why am I still writing?</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post22home.jpeg" />
+        <media:content url="https://alicehsu.blog/images/Post22home.jpeg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post22home.jpeg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post22home.jpeg"
+          loading="eager"
+        /&gt;&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;It has been over two months—nearly three—since this blog launched on October 5th, 2025. Ever since I’ve had this space, I’ve felt an indescribable sense of stability. Ah, it’s like the peace of mind someone feels when they finally buy a house after years of renting.&lt;/p&gt;
+&lt;p&gt;Originally, I titled this post “The Benefits of Blogging,” but then I thought better of it. “Blogging” is fundamentally “writing,” and the core meaning of “writing” is “creation.” Since I already touched upon that in my post &lt;a href=&#34;https://alicehsu.blog/posts/2025/10/why-do-we-create/&#34;&gt;&amp;ldquo;Why Do We Create?&amp;rdquo;&lt;/a&gt;, I won’t repeat myself here. Instead, I want to focus on the pros and cons of the medium itself: the self-hosted blog.&lt;/p&gt;
+&lt;h2 id=&#34;the-cons&#34;&gt;The Cons&lt;/h2&gt;
+&lt;p&gt;Let’s start with the downside.&lt;/p&gt;
+&lt;p&gt;The main disadvantage of self-hosting a blog is the incredibly steep learning curve. For someone who studies literature, has never written code and almost never used a terminal, the difficulty level is quite high. It often takes a long time just to grasp the underlying logic of building a website. Personally, I was spared the pain thanks to my husband. Beyond thanking Sam, I’d like to call out to all the programmers out there: your talents give your friends and family a stage to showcase theirs. If you have the time and energy, please don’t hesitate to help those around you set up their own blogs.&lt;/p&gt;
+&lt;h2 id=&#34;the-pros&#34;&gt;The Pros&lt;/h2&gt;
+&lt;p&gt;Now, let’s talk about the advantages.&lt;/p&gt;
+&lt;p&gt;Wait, you’re asking if that’s it for the cons? Yes, that’s it. And this single disadvantage can be overcome through self-study or the help of friends and family. The control is in your hands.&lt;/p&gt;
+&lt;h3 id=&#34;absolute-ownership&#34;&gt;Absolute Ownership&lt;/h3&gt;
+&lt;p&gt;First and most obviously, the author has absolute ownership. As long as you decide to keep it running, the blog will never be shut down. Back in elementary school, “Wretch” (無名小站) was huge. I remember almost all my classmates had accounts; we’d visit each other’s pages and obsess over the “Who’s visited me” list. Beyond that, we never tired of picking out beautiful themes for our blogs (I think I chose an autumn maple theme). As a kid, I wrote several posts there—mostly “teen angst” essays. Some were locked, meant only for my best friends. Of course, many classmates also used locked posts to talk behind people’s backs.&lt;/p&gt;
+&lt;p&gt;However, the once-glorious Wretch shut down in 2013. By then, I had been using Facebook for four years and had moved my focus there, so I didn’t feel much when Wretch closed. I thought Facebook was good enough. I was so young back then; now, I have no way of knowing what “Little Alice” wrote in her blog.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;In contrast, a self-hosted blog won’t vanish because of someone else’s business decisions. If you want it open, it stays open. If you decide one day you’re done, you take it down yourself.&lt;/p&gt;
+&lt;h3 id=&#34;a-great-way-to-share-travelogues&#34;&gt;A Great Way to Share Travelogues&lt;/h3&gt;
+&lt;p&gt;Secondly, something I realized while writing my &lt;a href=&#34;https://alicehsu.blog/posts/2025/12/journey-to-the-west-part-i-sights-of-san-diego/&#34;&gt;Journey to the West&lt;/a&gt; series: if you want to share travel photos with family and friends, sending a direct blog link is the most space-efficient and meaningful method. Your recipients don’t have to clear out their messaging app storage because of your heavy photo files. Furthermore, unlike writing detailed travel notes directly in a chat app—which risks “information overload” for the recipient—it’s perfectly normal to write long-form text around images on a blog. You can provide interesting captions and reflect deeply on the experience. You might say, “Can’t I do this on FaceBook or Instagram?” Well, your friends and family might not use those platforms! (I am that friend who doesn’t use Instagram).&lt;/p&gt;
+&lt;h3 id=&#34;high-autonomy-in-layout&#34;&gt;High Autonomy in Layout&lt;/h3&gt;
+&lt;p&gt;Thirdly, a point many people mention: the autonomy over layout. Self-hosted blogs are vastly superior to other platforms in this regard.&lt;/p&gt;
+&lt;p&gt;The biggest drawback of using social media or pre-built blog services is that you cannot change the existing layout settings. Worse, when the platform updates, you are forced to accept the new look, whether it’s pretty or ugly.&lt;/p&gt;
+&lt;p&gt;A long, long time ago, I started a Medium account and wrote two articles. Then I got busy and stopped. One day, on a whim, I thought about going back to write something. I clicked in and found: What! Why were the titles changed to this hideously ugly italics? And I couldn’t even change it back. My eyes hurt. Medium was bossier than my landlord. My landlord can’t just barge into the room I rent; but when I write on Medium, they have the right to barge in and paint my walls &lt;span style=&#34;color: #8400ffff;&#34;&gt;bright purple&lt;/span&gt; without me being able to say no.&lt;/p&gt;
+
+&lt;style&gt;
+  
+#masonry-be2ce55306cb121ffb12a8f489b3fc9d-1 {
+  width: 100%;
+}
+
+#masonry-be2ce55306cb121ffb12a8f489b3fc9d-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-be2ce55306cb121ffb12a8f489b3fc9d-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-be2ce55306cb121ffb12a8f489b3fc9d-1 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-be2ce55306cb121ffb12a8f489b3fc9d-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-be2ce55306cb121ffb12a8f489b3fc9d-1 .glightbox:hover,
+#masonry-be2ce55306cb121ffb12a8f489b3fc9d-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-be2ce55306cb121ffb12a8f489b3fc9d-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-be2ce55306cb121ffb12a8f489b3fc9d-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-be2ce55306cb121ffb12a8f489b3fc9d-1&#34;
+     data-columns=&#34;2&#34;
+     data-gutter=&#34;10&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/21/1.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-be2ce55306cb121ffb12a8f489b3fc9d-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/21/1.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/21/1.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/21/2.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-be2ce55306cb121ffb12a8f489b3fc9d-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/21/2.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/21/2.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-be2ce55306cb121ffb12a8f489b3fc9d-1&#39;;
+  const config = {
+    columns:  2 ,
+    gutter:  10 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+&lt;p&gt;(The difference is clear, right?)&lt;/p&gt;
+&lt;p&gt;With a self-hosted blog, you are no longer subject to others’ whims, and you can start doing “out of the box” things. For example, you can draw your own &lt;a href=&#34;https://alicehsu.blog/posts/2025/12/christmas-gif-paintings/&#34;&gt;Christmas illustrations&lt;/a&gt; and place them in the corners of your blog; you can decide on every element, like drawing your own Favicon (the colorful smiling note for this blog is my own drawing!). You also get to decide if a post needs images and how they should be presented. Unlike Instagram, where photos are mandatory and must come before the text, or Facebook, where text always precedes photos, neither allows for a truly integrated “interwoven” layout.&lt;/p&gt;
+&lt;p&gt;Your creativity is precious and unique. Don’t imprison it in Facebook’s &lt;span style=&#34;color: #1877F2;&#34;&gt;#1877F2 blue&lt;/span&gt; and white prison uniform!&lt;/p&gt;
+&lt;p&gt;Additionally, authors can categorize posts systematically, making it easier for readers to understand their perspective on a specific topic. For instance, you can see my posts organized by subject in the &lt;a href=&#34;https://alicehsu.blog/categories/&#34;&gt;“Categories”&lt;/a&gt; section, or click on &lt;a href=&#34;https://alicehsu.blog/posts/2026/01/sesame-oil-chicken-misua/&#34;&gt;orange text&lt;/a&gt; within an article to jump to a related post. These are features current social media lacks.&lt;/p&gt;
+&lt;h3 id=&#34;no-need-for-likes-hearts-or-claps&#34;&gt;No Need for “Likes,” “Hearts,” or “Claps”&lt;/h3&gt;
+&lt;p&gt;Finally, and perhaps most importantly: on your own blog, you can choose not to have “Like,” “Heart,” or “Clap” buttons.&lt;/p&gt;
+&lt;div
+    class=&#34;alert alert-tip my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-tip) 10%, transparent);
+              border-left-color: var(--color-tip);
+              --hover-bg: color-mix(in srgb, var(--color-tip) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-tip) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+      &lt;div
+        class=&#34;
+          cursor-pointer
+         flex items-center justify-between px-6 py-6&#34;
+        
+          onclick=&#34;toggleAlert(&#39;alert-0&#39;)&#34; role=&#34;button&#34; tabindex=&#34;0&#34;
+          aria-expanded=&#34;true&#34; aria-controls=&#34;alert-0-content&#34;
+          onkeydown=&#34;if(event.key===&#39;Enter&#39;||event.key===&#39; &#39;){toggleAlert(&#39;alert-0&#39;);event.preventDefault();}&#34;
+        &gt;
+        &lt;div class=&#34;flex items-center gap-3&#34;&gt;
+          
+          &lt;h4
+            id=&#34;alert-0-title&#34;
+            class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;
+            Fun Fact
+          &lt;/h4&gt;
+        &lt;/div&gt;
+
+        
+        
+          &lt;div
+            class=&#34;flex-shrink-0 transition-transform duration-200&#34;
+            id=&#34;alert-0-chevron&#34;&gt;
+            
+  &lt;svg class=&#34;h-4 w-4&#34;
+    fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34;
+    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M19 9l-7 7-7-7&#34; /&gt;
+&lt;/svg&gt;
+          &lt;/div&gt;
+        
+      &lt;/div&gt;
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;Did you know? Facebook didn’t actually have a “Like” button at the start. That button was added on February 9, 2009, five years after the platform was founded—a decision that made Facebook a fortune. Then in 2016, they added six more moods.”&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;These mechanisms allow readers to express non-verbal reactions quickly, and authors to receive instant feedback. However, “fast” and “efficient” aren’t necessarily “good” for human well-being. In my view, while articles spread much faster and are easily seen, this convenience fosters a specific habit: as a reader, it’s easy to just give an emotional reaction rather than truly digesting and understanding what the author is saying. As an author, it’s easy to measure the value of your work by quantified likes, or even use like counts as a standard for creation. Think about it: many masters of painting, music, and literature were ignored during their lifetimes, only to be discovered and celebrated by later generations. If social media existed back then and they judged their work by “likes,” we might not see many Van Gogh paintings in museums today.&lt;/p&gt;
+&lt;p&gt;To be honest, when I used to post on social media, my mood would fluctuate based on who liked my posts and who didn’t (be honest, you do it too, don’t you?). These fluctuations would affect my state of mind for the next post. I found my writing becoming more and more constrained, my motivation swaying in the wind.&lt;/p&gt;
+&lt;p&gt;Since I started writing on my own blog three months ago, writing has become something much purer: &lt;strong&gt;If no one “likes” or “claps,” why am I still writing? It seems I can write more for the sake of sharing things I love, things I find interesting, valuable, and meaningful.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I won’t claim to be entirely selfless; I must admit that sometimes I really want my work to be seen (which is why this blog has a &lt;a href=&#34;https://alicehsu.blog/portfolio/&#34;&gt;“Portfolio”&lt;/a&gt; page). However, writing on my own blog, without those heart and like mechanisms, makes the act of writing and composing feel much steadier. I can enjoy the satisfaction of the work itself, rather than feeling elated or dejected based on someone else’s emotional feedback.&lt;/p&gt;
+&lt;p&gt;But please don’t misunderstand—I still very much look forward to interacting with readers. I’m always happy to receive emails. To me, constructive written feedback is far more meaningful than a quantified number of likes or hearts.&lt;/p&gt;
+&lt;h2 id=&#34;the-happy-farmer&#34;&gt;The Happy Farmer&lt;/h2&gt;
+&lt;p&gt;That’s about all for the pros and cons of self-hosted blogs. I’m not sure what this blog will look like in the future. Just like three months ago, I couldn’t have imagined it would be this colorful! I’ll just keep writing and drawing. I am no longer an &lt;a href=&#34;https://wiwi.blog/blog/internet-peasant&#34;target=&#34;_blank&#34;
+&gt;internet peasant&lt;/a&gt;; I am a farmer with my own acre of land, continuing to cultivate here happily.&lt;/p&gt;
+&lt;h3 id=&#34;afterword&#34;&gt;Afterword&lt;/h3&gt;
+&lt;p&gt;After finishing this, it feels more and more like a recommendation post. If you are interested in self-hosting a blog, feel free to check out &lt;a href=&#34;https://blogblog.club/resources&#34;target=&#34;_blank&#34;
+&gt;BlogBlog Club&lt;/a&gt; for resources!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese on 12/28/25. It was later translated with assistance from AI tools, edited by me, and published in English on 01/08/26.&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Actually, you can try searching via the Internet Archive’s Wayback Machine, but I’ve even forgotten my account name. If you remember yours, you can follow this tutorial: &lt;a href=&#34;https://www.elle.com/tw/life/tech/g64365475/find-wretch-back/&#34;target=&#34;_blank&#34;
+&gt;https://www.elle.com/tw/life/tech/g64365475/find-wretch-back/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;This history comes from this report: &lt;a href=&#34;https://apnews.com/article/like-button-facebook-history-book-89d00e73c7c6da500b06e251d44b858c&#34;target=&#34;_blank&#34;
+&gt;https://apnews.com/article/like-button-facebook-history-book-89d00e73c7c6da500b06e251d44b858c&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>Changed my emails and Handles!</title>
       <link>https://alicehsu.blog/posts/2026/01/changed-my-emails-and-handles/</link>

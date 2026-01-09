@@ -1,11 +1,11 @@
 +++
-date = '2025-12-22T23:13:59-06:00'
-draft = true
+date = '2026-01-08T21:00:00-06:00'
+draft = false
 title = 'Journey to the West (Final): Unexpected Spots in San Diego'
-summary = ''
-cover = ''
-cover_on_post = false
-categories = []
+summary = 'Finally, the Journey to the West series is coming to an end.'
+cover = '/images/Post/18/2.JPG'
+cover_on_post = true
+categories = ['Travel']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
@@ -18,13 +18,13 @@ Finally, the Journey to the West series is coming to an end. To wrap it up, I’
 
 ## Ec Gallery
 
-One evening after dinner, we were wandering around when we happened to pass by a gallery. Through the transparent display window, we saw the two paintings below—and I was immediately drawn in.
+One evening after dinner, we were wandering around when we happened to pass by a gallery. Through the transparent display window, we saw the two paintings below, and I was immediately drawn in.
 {{< masonry columns=1 gutter=50 maxColumns=10 width=80 >}}
 ![This gaze feels so warm](/images/Post/18/2.JPG)
 ![Schroeder playing and piano and Woodstock playing the violin](/images/Post/18/3.JPG)
 {{< /masonry >}}
 
-After chatting with the staff, we learned that the artist is Tom Everhart. He is actually a close friend of Peanuts creator Charles Schulz. Before Schulz passed away, he entrusted Everhart with the rights, with only one condition: Everhart could not repeat Schulz’s style. He had to paint a Snoopy that was truly his own.
+After chatting with the staff, we learned that the artist is Tom Everhart. He is actually a close friend of Peanuts creator Charles Schulz. Before Schulz passed away, he entrusted Everhart with the copyrights, with only one condition: Everhart could not repeat Schulz’s style. He had to paint a Snoopy that was truly his own.
 
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
 ![A photo of Schulz and Everhart together ](/images/Post/18/4.JPG)
@@ -42,7 +42,7 @@ One night, we had dinner with Sam’s coworkers. During the meal, someone mentio
 
 On stage were Courtney, Eric, and Tom, taking turns performing. Most of the time, two of them played on stage while one took a break. It was usually dual pianos, though occasionally one of them would switch to drums or guitar. Honestly, after listening for the whole night, I was deeply impressed by each musician’s massive song repertoire, their playing and singing skills, and especially their improvisation ability.
 
-Each table had note paper and pencils, so guests could write down song requests and bring them up to place on the piano. Requests for birthday wishes—and those with tips—usually got priority. How many songs do you have to know to pull this off? Incredible.
+Each table had note paper and pencils, so guests could write down song requests and bring them up to place on the piano. Requests for birthday wishes and those with tips usually got priority. How many songs do they have to know to pull this off? Incredible.
 
 {{< video-js src="/images/Post/18/Song 1.mp4" >}}
 (This song is called All My Ex’s Live in Texas. The lyrics are hilarious.)
@@ -66,12 +66,12 @@ We looked it up and found out it was a Christmas production hosted by Awaken Chu
 
 A few days later, on a Saturday afternoon, after wandering around Little Italy, we somehow decided not to take the trolley and instead walk slowly back to the hotel. Along the waterfront path, we saw a guy who seemed to be promoting something. Somehow, despite being introverts, we didn’t avoid him.
 
-He said, “There’s a show tonight! It’s really awesome—you should come check it out!”
+He said, “There’s a show tonight! It’s really awesome. You should come check it out!”
 
 He paused for a moment, then added,
 “The ticket price is a bit high, but if you really want to come, you can tell the ticket booth staff, ‘Esther invited us,’ and it’ll be free.”
 
-And just like that, we got tickets—and once inside, discovered that our seats were right at the front, in the rocking zone.
+And just like that, we got tickets. Once inside, I discovered that our seats were right at the front, in the rocking zone.
 
 Faced with a series of events piled up from so many “somehows,” with such an improbably low chance of happening, I can only describe it as God’s grace. When God gives a gift, it’s delivered right in front of you—and not sparingly, but generously, with front-row seats.
 
@@ -94,4 +94,6 @@ Thank you, Pedro, for your hard work serving under the sun and for giving us the
 
 ## Closing
 
-At last, Journey to the West is finished. I never planned to write this much at the beginning, but as I kept going, the series ended up surpassing 6,000 words (it feels like I’m about to turn into a travel-and-food blogger, lol). Did any part of these posts resonate with you? Feel free to write to me and share your thoughts 🙂
+At last, Journey to the West is finished. I never planned to write this much at the beginning, but as I kept going, the series ended up surpassing 4,000 words (it feels like I’m about to turn into a travel-and-food blogger, lol). Did any part of these posts resonate with you? Feel free to write to me and share your thoughts! 
+
+*NB: This article was first published in Chinese on 12/18/25. It was later translated with assistance from AI tools, edited by me, and published in English on 01/08/26.*

@@ -1,11 +1,11 @@
 +++
-date = '2025-12-22T23:13:11-06:00'
-draft = true
+date = '2026-01-08T20:30:00-06:00'
+draft = false
 title = 'Journey to the West (Part 3): People I Met in San Diego'
-summary = ''
-cover = ''
-cover_on_post = false
-categories = []
+summary = '“I’ve never seen snow in my entire life. I really want to.”'
+cover = '/images/Post17home.gif'
+cover_on_post = true
+categories = ['Travel']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
@@ -20,31 +20,31 @@ At dusk, Little Italy was brightly lit and bustling. The lights of The Market of
 
 The grocery store isn’t big. It sits on a street corner, right next to their own restaurant, and looks as if two rooms were knocked into one. The owner makes extremely efficient use of space (this always reminds me of Chinese supermarkets). One room sells dry goods: shelves packed tightly together, leaving aisles just wide enough for about one and a half people to pass. The shelves are filled with all kinds of sauces and pasta—thin noodles, wide noodles, spirals, shells, and even wheel-shaped pasta—so much that it’s almost overwhelming.
 
-The other room holds a small fresh-food section and somehow also squeezes in a coffee spot with bar seating. Well, maybe “shop” is too generous—“corner” might be more accurate.
+The other room holds a small fresh-food section and somehow also squeezes in a coffee spot with bar seating. Well, it might not really be a shop; let's just call it a corner instead.
 
-No one in the store was idle, including the Italian guy.
+No one in the store was idle, including that Italian guy.
 
 We grabbed a couple of Galvanina sodas and waited at the counter to check out. Peeking over, we saw a guy in a black Buon Appetito T-shirt stocking shelves with merchandise. When he noticed us, he put down what he was doing and started chatting.
 
 “Where are you from?”
 
-“Wisconsin. It’s really cold there—there’s a snowstorm right now.”
+“Wisconsin. It’s really cold there. There’s a snowstorm right now.”
 
 “Wow,” he said. “I’ve never seen snow in my entire life. I really want to.”
 
 {{< hl width=20 >}}
 
-Because the Galvanina soda was just that good, we ended up visiting the shop several more times, and we always saw him there. He was either busy working or chatting with customers.
+Because the Galvanina soda was so good, we ended up visiting the shop several more times, and we always saw him there. He was either busy working or chatting with customers.
 
-When I saw him again, I said, “Hey, we meet again!”
+When I saw him again, I said, “It's good to see you again!”
 
-“Oh right—you were here a few days ago.”
+“Oh right! You were here a few days ago.”
 
-After a bit of small talk, we ordered two espressos from that mysterious little coffee corner and kept chatting. He talked with Sam about conferences and AI, and mentioned that he was also a student, working here part-time for now, and that he was quite interested in those topics too. Mid-conversation, he suddenly seemed to remember something and said:
+After a bit of small talk, we ordered two espressos from that mysterious little coffee corner and kept chatting. He talked with Sam about conferences and AI, and mentioned that he was also a student, working here part-time for now, and that he was quite interested in those topics too. Mid-conversation, he suddenly seemed to remember something and said,
 
-“Ah, I hate to break the mood, but… you still need to pay.”
+“Ah, I hate to say that, but… you still need to pay.”
 
-We all laughed. After paying, we chatted a bit more. Then another customer came up with a question. He waved to us and went back to being busy.
+We all laughed. After paying, we chatted a bit more. Then another customer came up with a question. He waved us off and got busy again.
 
 {{< hl width=20 >}}
 
@@ -64,11 +64,11 @@ I hope that one day, he’ll get to see real snow.
 
 Right outside the back door of the hotel is a coastal walkway where many people walk their dogs or go for a run.
 
-There are lots of runners—most commonly young women in yoga pants and shirtless men.
+There are lots of runners. Most commonly young women in yoga pants and shirtless men.
 
-Besides yoga pants and bare chests, another common accessory among them is a speaker. Yes, a speaker—not headphones. The kind that plays music out loud so everyone can enjoy it without needing to clean their ears.
+Besides yoga pants and bare chests, another common accessory among them is a speaker. Yes, a speaker—not headphones. The kind that plays music out loud so everyone can hear it without needing to clean their ears.
 
-It reminded me of how many uncles in Taiwan bring their own BGM when hiking. The difference is that instead of Taiwanese love ballads, they play trendy, thumping English dance music. Of course, people with speakers here look much cooler than those uncles.
+It reminded me of how many uncles in Taiwan bring their own speakers when hiking. The difference is that instead of Taiwanese love songs, they play trendy, rhythmic English dance music. Of course, people with speakers here look much cooler than those uncles.
 
 Even though it’s visually pleasing, I still don’t really like people who bring their own BGM (after all, you have to endure music you may not enjoy). So I asked Sam a hypothetical question:
 
@@ -78,7 +78,7 @@ He thought for a moment and said:
 
 “Probably the one dancing with headphones. You can’t be sure they’re actually listening to music—maybe they’re just high. And you can’t predict their movements either. If you get too close, you might accidentally get hit.”
 
-Just a few minutes later, we ran into a guy wearing over-ear headphones, dancing as if no one else existed.
+Just a few minutes later, we ran into a guy wearing headphones, dancing as if no one else existed.
 
 ……
 
@@ -86,4 +86,8 @@ Just a few minutes later, we ran into a guy wearing over-ear headphones, dancing
 
 ### Postscript
 
-The first two parts of Journey to the West were image-driven travel posts. For this final piece, I wanted to try a different style—using pure text to sketch the interesting people we met in San Diego. After finishing it, I realized that these fragments of memory came together into a surprisingly pleasing shape. I quite like it.
+The first two parts of "Journey to the West" were image-driven travel posts. For this final piece, I wanted to try a different style—using pure text to sketch the interesting people we met in San Diego. After finishing it, I realized these fragments of memory came together to form a surprisingly interesting shape. I quite like it.
+
+---
+
+*NB: This article was first published in Chinese on 12/17/25. It was later translated with assistance from AI tools, edited by me, and published in English on 01/08/26.*
