@@ -6,8 +6,394 @@
     <description>Recent content in Books on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Oct 2025 21:50:24 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 13:25:05 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/categories/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life is a Lavish Gift</title>
+      <link>https://alicehsu.blog/posts/2026/01/life-is-a-lavish-gift/</link>
+      <pubDate>Fri, 09 Jan 2026 13:25:05 -0600</pubDate>
+      <guid>https://alicehsu.blog/posts/2026/01/life-is-a-lavish-gift/</guid>
+      <description>Life is a Lavish Gift  acts as a staircase built through Wu Kun-sheng’s essays, hoping that readers might stand upon these steps to draw closer to the true light of Christ.</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post23home.jpeg" />
+        <media:content url="https://alicehsu.blog/images/Post23home.jpeg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post23home.jpeg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;Existentialists say life is a void; Buddhists say the karma accumulated from past lives is repaid in the present; only Christians say that life is a generous gift bestowed by God.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Life is a Lavish Gift&lt;/em&gt; (生命是一份厚禮), written by Wu Kun-sheng (吳鯤生), is a collection of illustrated essays spanning just over a hundred pages. While the writing is plain and accessible, its reflections on life are far from shallow. The weight of the words reveals the author’s extensive reading and his keen awareness of Christ’s presence in everyday life.&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;If “death” is a bridge, and eternity lies on the other side: though parting brings sadness, beyond the immense sorrow lies an even greater assurance of “meeting again.” (pp. 118–119)&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;…However, Death forgot one fact: Death is the consequence of sin, and it can only detain those who have sinned. Thus, when one day a man who “had been tempted in every way, just as we are, yet was without sin” took the initiative to face the torture of the cross and walk into Death, Death realized its mistake. The holy and sinless Jesus entered the valley of the shadow of Death to confront it. (p. 100)&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;&lt;em&gt;Life is a Lavish Gift&lt;/em&gt;  invites readers to seek the source of life through the small things in everyday life. For instance, the author describes how unexpectedly adopting a dog gave him an urgent reason to return home, evoking a sense of empathy for the concept of “home” in the reader, before ultimately articulating his own longing for an eternal homeland:&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;Homeland is a calling, a yearning; when I lean toward a downward path, the longing for home pulls me back and refuses to give up on me. (p. 25)&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;These timeless words do not seek pity or comfort, nor do they carry the air of a writer showing off their erudition. &lt;em&gt;Life is a Lavish Gift&lt;/em&gt;  acts as a staircase built through Wu Kun-sheng’s essays, hoping that readers might stand upon these steps to draw closer to the true light of Christ.&lt;/p&gt;
+&lt;p&gt;Bibliography:
+Wu, Kun-sheng. &lt;em&gt;Life is a Lavish Gift&lt;/em&gt; . New Taipei City: CampusPress, 2018.&lt;/p&gt;
+&lt;p&gt;Purchase Links: &lt;a href=&#34;https://www.books.com.tw/products/0010807841&#34;target=&#34;_blank&#34;
+&gt;Books.com.tw&lt;/a&gt; / &lt;a href=&#34;https://shop.campus.org.tw/ProductDetails.aspx?productID=000544689&#34;target=&#34;_blank&#34;
+&gt;CampusPress&lt;/a&gt; / &lt;a href=&#34;https://www.taaze.tw/products/11316450170.html&#34;target=&#34;_blank&#34;
+&gt;TAAZE&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;afterword&#34;&gt;Afterword&lt;/h3&gt;
+&lt;p&gt;This article was originally published on Medium on July 2, 2020. Following &lt;a href=&#34;https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;“What Happened When I Deleted My Facebook and Instagram App?,”&lt;/a&gt; this is the second and final post migrated from Medium, now re-posted on this blog after proofreading and formatting. With this, the migration from Medium is complete. Bye bye, Medium!&lt;/p&gt;
+
+&lt;style&gt;
+  
+#masonry-bca15c05610c05b32a4cd467f6961358-1 {
+  width: 100%;
+}
+
+#masonry-bca15c05610c05b32a4cd467f6961358-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-bca15c05610c05b32a4cd467f6961358-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 10px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-bca15c05610c05b32a4cd467f6961358-1 .masonry-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-bca15c05610c05b32a4cd467f6961358-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-bca15c05610c05b32a4cd467f6961358-1 .glightbox:hover,
+#masonry-bca15c05610c05b32a4cd467f6961358-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-bca15c05610c05b32a4cd467f6961358-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-bca15c05610c05b32a4cd467f6961358-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-bca15c05610c05b32a4cd467f6961358-1&#34;
+     data-columns=&#34;2&#34;
+     data-gutter=&#34;10&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/23/1.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-bca15c05610c05b32a4cd467f6961358-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/23/1.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/23/1.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-bca15c05610c05b32a4cd467f6961358-1&#39;;
+  const config = {
+    columns:  2 ,
+    gutter:  10 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;NB 1: Life is a Lavish Gift was originally written in Chinese and it hasn&amp;rsquo;t been officially translated into English yet.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NB 2: This article was first published in Chinese on 12/31/25. It was later translated with assistance from Typeless, edited by me, and published in English on 01/09/26.&lt;/em&gt;&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>⛲ Source of Creation</title>
       <link>https://alicehsu.blog/posts/2025/10/source-of-creation/</link>
