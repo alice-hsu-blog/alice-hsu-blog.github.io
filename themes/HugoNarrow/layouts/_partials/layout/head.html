@@ -7,6 +7,10 @@
 
 <title>{{- if .IsHome -}}{{ site.Title }}{{- else if .Title -}}{{ .Title }} | {{ site.Title }}{{- else -}}{{ site.Title }}{{- end -}}</title>
 
+{{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<meta name="robots" content="noindex,follow">
+{{ end }}
+
 <script type="application/ld+json">
 {{ printf `{
   "@context": "https://schema.org",

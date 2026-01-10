@@ -1,36 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://alicehsu.blog/</loc>
-    <lastmod>2026-01-09T13:25:05-06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/"
-                />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/books/</loc>
-    <lastmod>2026-01-09T13:25:05-06:00</lastmod>
-  </url><url>
-    <loc>https://alicehsu.blog/categories/</loc>
-    <lastmod>2026-01-09T13:25:05-06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/categories/"
-                />
-  </url><url>
+  
+    
+  
+    
+  
+    
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2026/01/life-is-a-lavish-gift/</loc>
     <lastmod>2026-01-09T13:25:05-06:00</lastmod>
     <xhtml:link
@@ -43,20 +21,11 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2026/01/life-is-a-lavish-gift/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/posts/</loc>
-    <lastmod>2026-01-09T13:25:05-06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/posts/"
-                />
-  </url><url>
+  </url>
+  
+    
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2026/01/a-corner-with-a-sunlight-stair/</loc>
     <lastmod>2026-01-09T00:34:23-06:00</lastmod>
     <xhtml:link
@@ -69,10 +38,11 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2026/01/a-corner-with-a-sunlight-stair/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/poetry/</loc>
-    <lastmod>2026-01-09T00:34:23-06:00</lastmod>
-  </url><url>
+  </url>
+  
+    
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2026/01/our-little-cutties-at-home/</loc>
     <lastmod>2026-01-08T22:30:00-06:00</lastmod>
     <xhtml:link
@@ -85,10 +55,11 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2026/01/our-little-cutties-at-home/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/thoughts-and-talks/</loc>
-    <lastmod>2026-01-08T22:30:00-06:00</lastmod>
-  </url><url>
+  </url>
+  
+    
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2026/01/pros-and-cons-of-self-hosted-blogs/</loc>
     <lastmod>2026-01-08T21:15:00-06:00</lastmod>
     <xhtml:link
@@ -101,7 +72,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2026/01/pros-and-cons-of-self-hosted-blogs/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2026/01/journey-to-the-west-final-unexpected-spots-in-san-diego/</loc>
     <lastmod>2026-01-08T21:00:00-06:00</lastmod>
     <xhtml:link
@@ -114,10 +87,11 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2026/01/journey-to-the-west-final-unexpected-spots-in-san-diego/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/travel/</loc>
-    <lastmod>2026-01-08T21:00:00-06:00</lastmod>
-  </url><url>
+  </url>
+  
+    
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2026/01/journey-to-the-west-part-iii-people-i-met-in-san-diego/</loc>
     <lastmod>2026-01-08T20:30:00-06:00</lastmod>
     <xhtml:link
@@ -130,10 +104,11 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2026/01/journey-to-the-west-part-iii-people-i-met-in-san-diego/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/recipe/</loc>
-    <lastmod>2026-01-08T00:10:00-06:00</lastmod>
-  </url><url>
+  </url>
+  
+    
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2026/01/sesame-oil-chicken-misua/</loc>
     <lastmod>2026-01-08T00:10:00-06:00</lastmod>
     <xhtml:link
@@ -146,7 +121,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2026/01/sesame-oil-chicken-misua/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2026/01/changed-my-emails-and-handles/</loc>
     <lastmod>2026-01-07T23:50:31-06:00</lastmod>
     <xhtml:link
@@ -159,7 +136,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2026/01/changed-my-emails-and-handles/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/12/journey-to-the-west-part-ii-food-of-san-diego/</loc>
     <lastmod>2025-12-24T16:20:00-06:00</lastmod>
     <xhtml:link
@@ -172,7 +151,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/12/journey-to-the-west-part-ii-food-of-san-diego/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/12/journey-to-the-west-part-i-sights-of-san-diego/</loc>
     <lastmod>2025-12-23T21:30:00-06:00</lastmod>
     <xhtml:link
@@ -185,7 +166,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/12/journey-to-the-west-part-i-sights-of-san-diego/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/12/ive-recorded-a-christmas-hymns-medley-lead-sheet-is-available/</loc>
     <lastmod>2025-12-23T16:00:00-06:00</lastmod>
     <xhtml:link
@@ -198,10 +181,11 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/12/ive-recorded-a-christmas-hymns-medley-lead-sheet-is-available/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/music/</loc>
-    <lastmod>2025-12-23T16:00:00-06:00</lastmod>
-  </url><url>
+  </url>
+  
+    
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/12/christmas-gif-paintings/</loc>
     <lastmod>2025-12-23T15:30:00-06:00</lastmod>
     <xhtml:link
@@ -214,7 +198,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/12/christmas-gif-paintings/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/12/post-vacation-syndrome/</loc>
     <lastmod>2025-12-23T15:00:00-06:00</lastmod>
     <xhtml:link
@@ -227,7 +213,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/12/post-vacation-syndrome/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/portfolio/</loc>
     <lastmod>2025-12-22T16:30:00-06:00</lastmod>
     <xhtml:link
@@ -240,7 +228,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/portfolio/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari/</loc>
     <lastmod>2025-12-09T15:00:00-06:00</lastmod>
     <xhtml:link
@@ -253,7 +243,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/12/i-made-a-piano-cover-of-fujii-kazes-kirari/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/12/where-is-the-package/</loc>
     <lastmod>2025-12-03T22:50:15-08:00</lastmod>
     <xhtml:link
@@ -266,7 +258,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/12/where-is-the-package/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/12/meet-francis-poulenc/</loc>
     <lastmod>2025-12-03T22:50:10-08:00</lastmod>
     <xhtml:link
@@ -279,7 +273,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/12/meet-francis-poulenc/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/12/hayato-suminos-cateens-piano-recital/</loc>
     <lastmod>2025-12-03T22:50:05-08:00</lastmod>
     <xhtml:link
@@ -292,7 +288,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/12/hayato-suminos-cateens-piano-recital/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/</loc>
     <lastmod>2025-11-09T14:30:43-06:00</lastmod>
     <xhtml:link
@@ -305,7 +303,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/11/%EF%B8%8F-utopian-smart-fridge/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/11/creamy-bacon-carbonara/</loc>
     <lastmod>2025-11-01T15:26:11-05:00</lastmod>
     <xhtml:link
@@ -318,7 +318,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/11/creamy-bacon-carbonara/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/</loc>
     <lastmod>2025-10-31T23:43:10-05:00</lastmod>
     <xhtml:link
@@ -331,7 +333,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/japanese-oyakodon-chicken-and-egg-rice-bowl--tomato-and-corn-soup/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/10/why-do-we-create/</loc>
     <lastmod>2025-10-30T21:15:06-05:00</lastmod>
     <xhtml:link
@@ -344,7 +348,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/why-do-we-create/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/</loc>
     <lastmod>2025-10-25T23:47:21-05:00</lastmod>
     <xhtml:link
@@ -357,7 +363,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/birthday-trip-to-devils-lake/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/10/source-of-creation/</loc>
     <lastmod>2025-10-24T21:50:24-05:00</lastmod>
     <xhtml:link
@@ -370,7 +378,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/source-of-creation/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/10/free-online-music-theory-resources/</loc>
     <lastmod>2025-10-17T21:37:37-05:00</lastmod>
     <xhtml:link
@@ -383,10 +393,11 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/free-online-music-theory-resources/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/categories/resources/</loc>
-    <lastmod>2025-10-17T21:37:37-05:00</lastmod>
-  </url><url>
+  </url>
+  
+    
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/10/the-story-behind-bell/</loc>
     <lastmod>2025-10-12T22:15:47-05:00</lastmod>
     <xhtml:link
@@ -399,7 +410,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/10/the-story-behind-bell/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/about/</loc>
     <lastmod>2025-10-05T09:00:00-05:00</lastmod>
     <xhtml:link
@@ -412,7 +425,9 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/about/"
                 />
-  </url><url>
+  </url>
+  
+    <url>
     <loc>https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/</loc>
     <lastmod>2025-09-28T21:21:01-05:00</lastmod>
     <xhtml:link
@@ -425,17 +440,8 @@
                 hreflang="en-US"
                 href="https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/"
                 />
-  </url><url>
-    <loc>https://alicehsu.blog/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-TW"
-                href="https://alicehsu.blog/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="https://alicehsu.blog/tags/"
-                />
   </url>
+  
+    
+  
 </urlset>
