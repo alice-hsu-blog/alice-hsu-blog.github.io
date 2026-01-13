@@ -5,7 +5,7 @@ title = '《生命是一份厚禮》讀後感'
 summary = '雋永的文字，不討拍取暖，更絲毫不見文人掉書袋的氣息。'
 cover = '/images/Post23home.jpeg'
 cover_on_post = true
-categories = ['書']
+categories = ['閱讀 · 反思']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

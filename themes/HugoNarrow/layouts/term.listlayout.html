@@ -1,0 +1,99 @@
+{{ define "main" }}
+  {{ $view := "list" }}
+  <div class="mx-auto max-w-3xl">
+    <!-- 面包屑导航 -->
+    {{ partial "navigation/breadcrumb.html" . }}
+
+
+    <!-- 页面标题和描述 -->
+    <header class="mb-8">
+    <div class="mb-4 flex items-center gap-3">
+      {{ if eq .Data.Singular "tag" }}
+        {{ partial "features/icon.html" (dict "name" "tag" "size" "lg" "ariaLabel" "") }}
+      {{ else if eq .Data.Singular "category" }}
+        {{ partial "features/icon.html" (dict "name" "folder" "size" "lg" "ariaLabel" "") }}
+      {{ else }}
+        {{ partial "features/icon.html" (dict "name" "bookmark" "size" "lg" "ariaLabel" "") }}
+      {{ end }}
+      <h1 class="text-foreground text-3xl font-bold">
+        {{ .Title }}
+      </h1>
+    </div>
+
+    {{ if .Content }}
+      <div class="prose prose-neutral dark:prose-invert mb-6 max-w-none">
+        {{ .Content }}
+      </div>
+    {{ end }}
+
+
+    <!-- 统计信息 -->
+    <div class="text-muted-foreground flex items-center gap-4 text-sm">
+      <div class="flex items-center gap-1">
+        {{ partial "features/icon.html" (dict "name" "file-text" "size" "sm" "ariaLabel" "") }}
+        <span
+          >{{ i18n "term.total_posts" (dict "count" (len .Pages)) | default (printf " %d pages" (len .Pages)) }}</span
+        >
+      </div>
+
+      <!-- 顯示方式切換 -->
+      <div class="flex items-center gap-2">
+        <!-- 卡片模式 -->
+        {{ i18n "view_option.desc" }}
+        <a
+          href="{{ .RelPermalink }}"
+          class="rounded-md px-2 py-1 transition
+    {{ if eq $view "card" }}bg-muted text-foreground{{ else }}hover:bg-muted/60{{ end }}">
+          {{ i18n "view_option.card" }}
+        </a>
+
+        /
+
+        <!-- 列表模式 -->
+        <a
+          href="{{ .RelPermalink }}list"
+          class="rounded-md px-2 py-1 transition
+    {{ if eq $view "list" }}bg-muted text-foreground{{ else }}hover:bg-muted/60{{ end }}">
+          {{ i18n "view_option.list" }}
+        </a>
+      </div>
+    </div>
+  </header>
+
+    <!-- 文章列表 -->
+    <!-- {{ $posts := .Paginator.Pages }} -->
+    {{ $posts := .Pages }}
+    {{ if $posts }}
+      {{ partial "content/post-list.html" (dict
+        "posts" $posts
+        "view"  $view
+      ) }}
+
+    {{ else }}
+      <!-- 空状态 -->
+      <div class="py-16 text-center">
+        <div
+          class="bg-muted/50 mx-auto mb-6 flex h-20 w-20 items-center justify-center rounded-full">
+          {{ partial "features/icon.html" (dict "name" "folder" "size" "xl" "ariaLabel" "") }}
+        </div>
+        <h2 class="text-foreground mb-3 text-xl font-medium">
+          {{ i18n "post.no_posts" | default "" }}
+        </h2>
+        <p class="text-muted-foreground mb-6">
+          {{ i18n "post.no_posts_desc" | default "" }}
+        </p>
+        <a
+          href="{{ "/" | relLangURL }}"
+          class="bg-primary text-primary-foreground hover:bg-primary/90 inline-flex items-center gap-2 rounded-xl px-6 py-3 font-medium transition-colors duration-300">
+          {{ partial "features/icon.html" (dict "name" "home" "size" "sm" "ariaLabel" "") }}
+          <span>{{ i18n "nav.back_home" | default "" }}</span>
+        </a>
+      </div>
+    {{ end }}
+
+
+    <!-- 分页导航 -->
+    <!-- {{ partial "navigation/pagination.html" . }} -->
+
+  </div>
+{{ end }}

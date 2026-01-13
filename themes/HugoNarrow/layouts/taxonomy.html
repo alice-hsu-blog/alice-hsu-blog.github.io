@@ -78,8 +78,8 @@
             </span>
           </a>
           </h2>
-          <ul class="space-y-2 text-base">
-            {{ range .Pages.ByDate.Reverse }}
+          <ul class="space-y-2 text-base my-4">
+            {{ range first site.Params.home.recentPostsCount (.Pages.ByDate.Reverse) }}
               <li class="flex gap-2 text-muted-foreground">
                 <a
                 href="{{ .RelPermalink }}"
@@ -93,6 +93,14 @@
               </li>
             {{ end }}
           </ul>
+          {{ if gt (len .Pages) site.Params.home.recentPostsCount }}
+            <a
+            href="{{ .Page.RelPermalink }}"
+            class="text-foreground hover:text-primary transition-colors inline-flex items-start gap-3"
+            data-taxonomy="{{ $taxonomySingular }}">
+            {{ i18n "post.view_more_posts" }}
+            </a>
+          {{ end }}
         </div>
       {{ end }}
     </div>

@@ -5,7 +5,7 @@ title = '⛲ Source of Creation'
 summary = 'Recently, I’ve been reading Life Can Be So Beautiful.'
 cover = '/images/Post4home.JPG'
 cover_on_post = true
-categories = ['Books']
+categories = ['Reading & Reflection']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

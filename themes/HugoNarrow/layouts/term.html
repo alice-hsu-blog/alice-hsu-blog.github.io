@@ -1,4 +1,5 @@
 {{ define "main" }}
+  {{ $view := "card" }}
   <!-- 面包屑导航 -->
   {{ partial "navigation/breadcrumb.html" . }}
 
@@ -33,13 +34,38 @@
           >{{ i18n "term.total_posts" (dict "count" (len .Pages)) | default (printf " %d pages" (len .Pages)) }}</span
         >
       </div>
+
+      <!-- 顯示方式切換 -->
+      <div class="flex items-center gap-2">
+        <!-- 卡片模式 -->
+        {{ i18n "view_option.desc" }}
+        <a
+          href="{{ .RelPermalink }}"
+          class="rounded-md px-2 py-1 transition
+    {{ if eq $view "card" }}bg-muted text-foreground{{ else }}hover:bg-muted/60{{ end }}">
+          {{ i18n "view_option.card" }}
+        </a>
+
+        /
+
+        <!-- 列表模式 -->
+        <a
+          href="{{ .RelPermalink }}list"
+          class="rounded-md px-2 py-1 transition
+    {{ if eq $view "list" }}bg-muted text-foreground{{ else }}hover:bg-muted/60{{ end }}">
+          {{ i18n "view_option.list" }}
+        </a>
+      </div>
     </div>
   </header>
 
   <!-- 文章列表 -->
   {{ $posts := .Pages }}
   {{ if $posts }}
-    {{ partial "content/post-list.html" (dict "posts" $posts) }}
+    {{ partial "content/post-list.html" (dict
+      "posts" $posts
+      "view"  $view
+    ) }}
   {{ else }}
     <!-- 空状态 -->
     <div class="py-16 text-center">

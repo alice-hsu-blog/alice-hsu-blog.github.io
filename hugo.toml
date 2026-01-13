@@ -181,6 +181,7 @@ enabled = true
 [outputs]
 home = [ "HTML", "RSS", "JSON", "WebAppManifest"]
 section = ["HTML", "ListLayout"]
+term = ["HTML", "ListLayout"]
 
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
