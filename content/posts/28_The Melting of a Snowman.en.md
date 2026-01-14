@@ -14,7 +14,7 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
-It was freezing a while ago and we had heavy snowfall. The snow accumulation was actually higher than the seat cushions. So, Sam and I decided to build a snowman!
+It was freezing a while ago and we had heavy snowfall. The snow accumulation was actually higher than the seat cushions. So, Sam and I decided to build a [snowman](/posts/2025/12/christmas-gif-paintings/)!
 
 Here is the “History of the Melting Snowman”:
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}

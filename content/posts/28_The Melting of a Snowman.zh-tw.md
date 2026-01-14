@@ -15,7 +15,7 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
-前陣子很冷，下了大雪，雪的厚度比陽台椅墊本人還高。我和 Sam 就堆起了雪人啦！
+前陣子很冷，下了大雪，雪的厚度比陽台椅墊本人還高。我和 Sam 就堆起了[雪人](/zh-tw/posts/2025/12/聖誕小插畫/)啦！
 以下是雪人融化史：
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
 ![](/images/Post/28/1.JPG)
