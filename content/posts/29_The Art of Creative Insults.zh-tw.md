@@ -39,6 +39,6 @@ og_type = 'article'
 
 ---
 
-梁實秋（秋郎）。〈罵人的藝術〉。《罵人的藝術》，新月書店，1929 年，頁 1–10。
+梁實秋（秋郎）。〈罵人的藝術〉。《罵人的藝術》，新月書店，1927 年，頁 1–10。
 
 Thumbnail and Banner: Icons  by [Game-Icons](https://icon-sets.iconify.design/?query=face+to+face), licensed under CC BY 3.0. Modified by Alice Hsu.
