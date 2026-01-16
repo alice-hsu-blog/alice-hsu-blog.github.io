@@ -6,7 +6,7 @@ slug = 'the art of creative insults'
 summary = '你要罵人，要挑一個無論在什麼方面都勝過你的人罵，才不吃虧。'
 cover = '/images/Post29home.jpg'
 cover_on_post = true
-categories = ['隨想雜談']
+categories = ['閱讀 · 反思']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

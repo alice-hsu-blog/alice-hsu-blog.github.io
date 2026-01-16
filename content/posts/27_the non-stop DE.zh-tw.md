@@ -1,7 +1,7 @@
 +++
 date = '2026-01-12T23:30:00-06:00'
 draft = false
-title = '讀余光中先生之〈的的不休〉'
+title = '讀余光中先生〈的的不休〉'
 slug = 'the non-stop DE'
 summary = '的的的的的的的的的'
 cover = '/images/Post27home.jpg'
