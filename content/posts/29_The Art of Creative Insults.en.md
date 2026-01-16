@@ -1,7 +1,7 @@
 +++
-date = '{{ .Date }}'
+date = '2026-01-13T23:05:20-06:00'
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+title = '29_New Post'
 summary = ''
 cover = ''
 cover_on_post = false
