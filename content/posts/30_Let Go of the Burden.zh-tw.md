@@ -54,7 +54,7 @@ og_type = 'article'
 　有耶穌在　你不落單
 
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![草稿](/images/Post30home.jpeg/)
+![草稿](/images/Post30home.jpeg)
 {{< /masonry>}}
 
 ---
