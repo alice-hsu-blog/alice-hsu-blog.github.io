@@ -5,7 +5,7 @@ title = '一個有著陽光階梯的角落'
 summary = '冬季暖陽將 / 濕搭搭的靈魂 / 曬乾拍打'
 cover = '/images/Post20home.jpg'
 cover_on_post = false
-categories = ['詩']
+categories = ['詩詞']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

@@ -37,7 +37,7 @@ I started out as a dog person, then grew to love cats too. Now I am firmly on te
 
 This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: *[What Happened When I Deleted My Facebook and Instagram App?](/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/)*
 
-You can find my music on the “Portfolio” page. It includes my original piano compositions, piano covers I arranged, and recordings of classical pieces. On the “Categories” page, you will find posts I have written on different topics. Also, all of the illustrations on this site are drawn by me. 
+You can find my music on the “Portfolio” page. It includes my original piano compositions, piano covers I arranged, and recordings of classical pieces. On the “Categories” page, you will find posts I have written on different topics. Also, all of the illustrations on this site are drawn or designed by me. 
 
 Finally, I’d like to thank my husband  [Samuel](https://mhyeh.github.io/) ("Sam" in my posts ) for building this website and making it look as beautiful as it does now ❤️
 
