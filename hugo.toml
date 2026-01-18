@@ -51,7 +51,7 @@ language = "en-US"
 shortName = "Alice Hsu's Blog'"
 Twitter_Image = "/images/avatar.jpg"
 Twitter_Site = "@Alicehsu77"
-Image = "/images/avatar.jpg"
+Image = "/images/favicon.png"
 
 stickyHeader = true
 showThemeSwitch = false
