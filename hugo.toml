@@ -49,9 +49,9 @@ keywords = ["Alice Hsu",
 defaultAuthor = "Alice Hsu"
 language = "en-US"
 shortName = "Alice Hsu's Blog'"
-Twitter_Image = "/images/favicon.png"
+Twitter_Image = "/favicon.png"
 Twitter_Site = "@Alicehsu77"
-Image = "/images/favicon.png"
+Image = "/favicon.png"
 
 stickyHeader = true
 showThemeSwitch = false
