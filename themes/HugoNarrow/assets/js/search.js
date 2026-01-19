@@ -538,8 +538,14 @@
     const highlightedTitle = highlightText(result.title, keywords);
 
     // 高亮摘要，限制长度
+    const sourceText =
+      result.summary &&
+      keywords.some(k => result.summary.toLowerCase().includes(k))
+        ? result.summary
+        : result.content;
+
     const highlightedSummary = findAndHighlight(
-      result.summary || result.content,
+      sourceText,
       keywords,
       120,
     );
@@ -587,65 +593,75 @@
   }
 
   // 查找并高亮文本 - 基于 insight.js
-  function findAndHighlight(text, matches, maxlen) {
-    if (!Array.isArray(matches) || !matches.length || !text) {
+  function findAndHighlight(text, keywords, maxlen) {
+    if (!text || !Array.isArray(keywords) || keywords.length === 0) {
       return maxlen ? text.slice(0, maxlen) : text;
     }
 
-    const testText = text.toLowerCase();
-    const indices = matches
-      .map((match) => {
-        const index = testText.indexOf(match.toLowerCase());
-        if (!match || index === -1) {
-          return null;
-        }
-        return [index, index + match.length];
-      })
-      .filter((match) => {
-        return match !== null;
-      })
-      .sort((a, b) => {
-        return a[0] - b[0] || a[1] - b[1];
-      });
+    const ranges = [];
 
-    if (!indices.length) {
-      return text;
-    }
+    // 1️⃣ 找出「所有」關鍵字命中的位置
+    keywords.forEach((keyword) => {
+      if (!keyword) return;
 
-    let result = "";
-    let last = 0;
-    const ranges = merge(indices);
-    const sumRange = [ranges[0][0], ranges[ranges.length - 1][1]];
-
-    if (maxlen && maxlen < sumRange[1]) {
-      last = sumRange[0];
-    }
-
-    for (let i = 0; i < ranges.length; i++) {
-      const range = ranges[i];
-      result += text.slice(last, Math.min(range[0], sumRange[0] + maxlen));
-      if (maxlen && range[0] >= sumRange[0] + maxlen) {
-        break;
+      const regex = new RegExp(escapeRegExp(keyword), "gi");
+      let match;
+      while ((match = regex.exec(text)) !== null) {
+        ranges.push([match.index, match.index + match[0].length]);
       }
+    });
+
+    if (ranges.length === 0) {
+      return maxlen ? text.slice(0, maxlen) : text;
+    }
+
+    // 2️⃣ 依位置排序並合併重疊區間
+    ranges.sort((a, b) => a[0] - b[0]);
+    const merged = merge(ranges);
+
+    // 3️⃣ 決定摘要裁切範圍（以第一個命中為中心）
+    let start = 0;
+    let end = text.length;
+
+    if (maxlen && text.length > maxlen) {
+      const firstHit = merged[0][0];
+      start = Math.max(0, firstHit - Math.floor(maxlen / 2));
+      end = Math.min(text.length, start + maxlen);
+    }
+
+    // 4️⃣ 組合輸出字串並插入 <mark>
+    let result = "";
+    let cursor = start;
+
+    merged.forEach(([from, to]) => {
+      if (to < start || from > end) return;
+
+      const safeFrom = Math.max(from, start);
+      const safeTo = Math.min(to, end);
+
+      if (cursor < safeFrom) {
+        result += text.slice(cursor, safeFrom);
+      }
+
       result +=
         '<mark class="bg-primary/20 text-primary px-1 rounded font-medium">' +
-        text.slice(range[0], range[1]) +
+        text.slice(safeFrom, safeTo) +
         "</mark>";
-      last = range[1];
-      if (i === ranges.length - 1) {
-        if (maxlen) {
-          result += text.slice(
-            range[1],
-            Math.min(text.length, sumRange[0] + maxlen + 1),
-          );
-        } else {
-          result += text.slice(range[1]);
-        }
-      }
+
+      cursor = safeTo;
+    });
+
+    if (cursor < end) {
+      result += text.slice(cursor, end);
     }
+
+    // 5️⃣ 補上省略號（可選）
+    if (start > 0) result = "…" + result;
+    if (end < text.length) result += "…";
 
     return result;
   }
+
 
   // 高亮文本 - 使用改进的算法
   function highlightText(text, keywords) {

@@ -221,11 +221,10 @@
   }
 
   // 搜索按钮
-  const searchBtn = document.getElementById("dock-search");
-  if (searchBtn) {
-    searchBtn.addEventListener("click", function (e) {
+  document.querySelectorAll('.search-button-class').forEach(btn => {
+    btn.addEventListener("click", function (e) {
       e.preventDefault();
-
+      
       // 调用搜索功能，带重试机制
       function tryToggleSearch(retries = 5) {
         if (window.Search) {
@@ -244,10 +243,10 @@
           setTimeout(() => tryToggleSearch(retries - 1), 200);
         }
       }
-
+      
       tryToggleSearch();
     });
-  }
+  });
 
   // 评论按钮 - 只在文章页面且评论启用时存在
   const commentsBtn = document.getElementById("dock-comments");

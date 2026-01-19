@@ -1,0 +1,8 @@
+<button
+      id="dock-search"
+      class="search-button-class border-border bg-background text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 flex h-10 w-10 items-center justify-center rounded-lg border transition-all duration-300 ease-out hover:scale-105 focus:ring-2 focus:outline-none active:scale-95"
+      type="button"
+      title="{{ i18n "dock.search" | default "search" }}"
+      aria-label="{{ i18n "dock.search" | default "search" }}">
+      {{ partial "features/icon.html" (dict "name" "search" "size" "sm" "ariaLabel" "") }}
+    </button>
