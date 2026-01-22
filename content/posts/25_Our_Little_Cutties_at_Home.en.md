@@ -131,4 +131,4 @@ While I was writing this article, Sam finished crocheting this giant dinosaur. I
 [^2]: Crochet cannot and should not replace professional medical or psychological treatment. If you have mental health needs, please consult a professional medical or mental health provider.
 ---
 
-*NB: This article was first published in Chinese on 01/06/26. It was later translated with assistance from Typeless, edited by me, and published in English on 01/03/26.*
+*NB: This article was first published in Chinese on 01/06/26. It was later translated with assistance from Typeless, edited by me, and published in English on 01/08/26.*

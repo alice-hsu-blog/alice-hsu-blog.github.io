@@ -53,7 +53,7 @@ Twitter_Image = "/favicon.png"
 Twitter_Site = "@Alicehsu77"
 Image = "/favicon.png"
 
-stickyHeader = true
+stickyHeader = false
 showThemeSwitch = false
 showDarkModeSwitch = true
 showLanguageSwitch = true

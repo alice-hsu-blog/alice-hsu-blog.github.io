@@ -3401,6 +3401,7 @@
     top: 0.55em;
   }
   .prose code {
+    display: inline-block;
     border-radius: 0.25rem;
     border-width: 1px;
     border-style: solid;
@@ -3412,6 +3413,8 @@
     line-height: var(--tw-leading, var(--text-sm--line-height));
     color: var(--color-primary);
     font-weight: 600;
+    vertical-align: middle;
+    transform: translateY(-0.05em);
   }
   .code-block-container {
     margin: 1.5rem 0;
