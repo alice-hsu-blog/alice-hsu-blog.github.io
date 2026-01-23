@@ -16,9 +16,16 @@
       <description>當我說一個中英夾雜的句子，大多數時候它也沒問題。比如：「我覺得那家 ice cream shop 的 Gelato 很好吃，下次我想要吃 strawberry 口味的！」這句晶晶體的話就是用 Typeless 打的哈哈哈。</description>
 
       
+        <media:thumbnail url="https://alicehsu.blog/images/Post32home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post32home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post32home.jpg" type="image/jpeg" />
+      
 
 
-      <content:encoded>&lt;div
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post32home.jpg"
+          loading="eager"
+        /&gt;&lt;div
     class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
     style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
               border-left-color: var(--color-caution);
