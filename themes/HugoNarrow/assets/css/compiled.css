@@ -3740,6 +3740,59 @@
       font-size: var(--text-xl);
       line-height: var(--tw-leading, var(--text-xl--line-height));
     }
+
+    .portfolio table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0rem;
+      border-width: 0;
+      box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0);
+    }
+
+    .portfolio thead {
+      display: none;
+    }
+
+    .portfolio tbody tr {
+      display: block;
+      background: white;
+      border: 1px solid var(--border, #eee);
+      border-radius: 16px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .portfolio td {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 1rem;
+      padding: .25rem 0;
+    }
+
+    .portfolio tr:last-child td {
+      border-bottom: 1px solid var(--tw-prose-th-borders);
+    }
+
+    /* 新增這個部分來控制內容容器 */
+    .cell-content {
+      text-align: right;
+      display: block; /* 確保內容自成一塊 */
+      word-break: break-word; /* 防止長網址撐破表格 */
+    }
+
+    /* 如果你的連結之間想要有一點點間距（例如 8px） */
+    .cell-content a {
+      display: inline-block;
+    }
+
+    td::before {
+      content: attr(data-label);
+      font-weight: 600;
+      opacity: .6;
+      flex-shrink: 0;
+      margin-right: 1rem; /* 確保標籤跟內容之間有基本間距 */
+    }
   }
   .katex-display {
     overflow-x: auto;
