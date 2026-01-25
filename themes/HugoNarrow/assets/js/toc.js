@@ -127,7 +127,7 @@ class TOCManager {
     if (target) {
       target.scrollIntoView({
         behavior: "smooth",
-        block: "center",
+        block: "start",
       });
     }
   }

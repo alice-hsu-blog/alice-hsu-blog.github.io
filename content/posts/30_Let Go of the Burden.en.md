@@ -53,7 +53,7 @@ og_type = 'article'
 　With Jesus near, you are never alone.
 
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![This poem was originally written in Chinese. The above photo is my Chinese draft.](/images/Post30home.jpeg/)
+![This poem was originally written in Chinese. The above photo is my Chinese draft.](/images/Post30home.jpeg)
 {{< /masonry>}}
 
 ---

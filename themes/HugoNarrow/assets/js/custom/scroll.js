@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
       const target = document.getElementById(id);
       if (target) {
         e.preventDefault();
-        const y = target.getBoundingClientRect().top + window.scrollY - (window.innerHeight / 5) + (target.offsetHeight / 5);
+        const y = target.getBoundingClientRect().top + window.scrollY - (window.innerHeight / 20);
         window.scrollTo({ top: y, behavior: 'smooth' });
         history.pushState(null, '', '#' + id);
       }
