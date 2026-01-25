@@ -5,7 +5,7 @@ date: 2025-12-22T16:30:00-06:00
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
 ---
-Update: 12-22-2025
+Due to a hand injury, I’ll be taking an extended break and won’t be posting updates for now. (01/24/26)
 ### Original Composition
 | Published Date | Title                  | Performance                 | Score |
 |----------------|------------------------|-----------------------------|-------|

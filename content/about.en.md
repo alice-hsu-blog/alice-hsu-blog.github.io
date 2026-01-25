@@ -24,14 +24,14 @@ links:
 Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a musician and a writer.
 
 Hobbies: 
-- Reading all kinds of books
+- [Reading all kinds of books](/categories/reading--reflection/)
 - Browsing blogs
-- Crocheting
+- [Crocheting](/posts/2026/01/our-little-cutties-at-home/)
 - Making pour-over coffee
-- Cooking
+- [Cooking](/categories/recipe/)
 - Taking walks
-- Playing the piano
-- Writing
+- [Playing the piano](/portfolio/)
+- [Writing](/posts/)
 
 I started out as a dog person, then grew to love cats too. Now I am firmly on team cute animals.
 

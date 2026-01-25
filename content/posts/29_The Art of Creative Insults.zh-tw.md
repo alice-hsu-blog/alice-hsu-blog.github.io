@@ -41,4 +41,6 @@ og_type = 'article'
 
 梁實秋（秋郎）。〈罵人的藝術〉。《罵人的藝術》，新月書店，1927 年，頁 1–10。
 
+延伸閱讀：[大師，未曾離席——記梁實秋先生文學成就研討會](https://www.taiwan-panorama.com/zh/Articles/Details?Guid=b767e5d1-381c-434a-91f3-2626977e2822&langId=1&CatId=8&postname=%E5%A4%A7%E5%B8%AB%EF%BC%8C%E6%9C%AA%E6%9B%BE%E9%9B%A2%E5%B8%AD%E2%80%94%E2%80%94%E8%A8%98%E6%A2%81%E5%AF%A6%E7%A7%8B%E5%85%88%E7%94%9F%E6%96%87%E5%AD%B8%E6%88%90%E5%B0%B1%E7%A0%94%E8%A8%8E%E6%9C%83)
+
 Thumbnail and Banner: Icons  by [Game-Icons](https://icon-sets.iconify.design/?query=face+to+face), licensed under CC BY 3.0. Modified by Alice Hsu.

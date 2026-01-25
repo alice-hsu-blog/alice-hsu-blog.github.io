@@ -25,14 +25,14 @@ links:
 我是 Alice Hsu，出生於台灣，目前長居美國威斯康辛州，是音樂家，也是一位文字工作者。
 
 嗜好：
-- 讀五花八門的書 
+- [讀五花八門的書](/zh-tw/categories/閱讀--反思/) 
 -  逛部落格
--  鉤針
+-  [鉤針](/zh-tw/posts/2026/01/lets-go-crocheting-little-cutties/)
 -  沖手沖咖啡
--  煮飯
+-  [煮飯](/zh-tw/categories/食譜/)
 -  散步
--  彈琴
--  寫字
+-  [彈琴](/zh-tw/portfolio/)
+-  [寫字](/zh-tw/posts/)
 
 一開始是狗派，後來也愛貓貓，現在是可愛動物派 {{< icon name="heart" >}} 
 
