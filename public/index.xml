@@ -6,8 +6,331 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Jan 2026 19:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 16:40:00 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Matrix: That Strange Feeling Matters</title>
+      <link>https://alicehsu.blog/posts/2026/01/the-matrix-that-strange-feeling-matters/</link>
+      <pubDate>Tue, 27 Jan 2026 16:40:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/posts/2026/01/the-matrix-that-strange-feeling-matters/</guid>
+      <description>I think every change begins with a sense that something is wrong.</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post33home.png/" />
+        <media:content url="https://alicehsu.blog/images/Post33home.png/" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post33home.png/" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;On my last trip, during a flight from San Diego back to Chicago, I finally watched &lt;em&gt;The Matrix&lt;/em&gt;. There was a dialogue between Keanu Reeves and Laurence Fishburne that left a deep impression on me.&lt;/p&gt;
+
+&lt;style&gt;
+  
+#masonry-f110c3513b35dbc3798c4bc9bc783c7d-1 {
+  width: 100%;
+}
+
+#masonry-f110c3513b35dbc3798c4bc9bc783c7d-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-f110c3513b35dbc3798c4bc9bc783c7d-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 50px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-f110c3513b35dbc3798c4bc9bc783c7d-1 .masonry-item img {
+  width: 60%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-f110c3513b35dbc3798c4bc9bc783c7d-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-f110c3513b35dbc3798c4bc9bc783c7d-1 .glightbox:hover,
+#masonry-f110c3513b35dbc3798c4bc9bc783c7d-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-f110c3513b35dbc3798c4bc9bc783c7d-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-f110c3513b35dbc3798c4bc9bc783c7d-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-f110c3513b35dbc3798c4bc9bc783c7d-1&#34;
+     data-columns=&#34;1&#34;
+     data-gutter=&#34;50&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post33home.png/&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-f110c3513b35dbc3798c4bc9bc783c7d-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post33home.png/&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post33home.png/&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-f110c3513b35dbc3798c4bc9bc783c7d-1&#39;;
+  const config = {
+    columns:  1 ,
+    gutter:  50 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;That you are a slave, Neo.&lt;/p&gt;
+&lt;p&gt;Like everyone else, you were born into bondage,&lt;/p&gt;
+&lt;p&gt;Born into a prison that you cannot smell or taste or touch,&lt;/p&gt;
+&lt;p&gt;A prison… for your mind.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;hr&gt;
+&lt;p&gt;This dialogue is Laurence Fishburne’s description of the &amp;ldquo;Matrix&amp;rdquo;: it tells of how the world the protagonist and everyone else inhabits is not actually the real world, but a world manipulated by the “Matrix.”&lt;/p&gt;
+&lt;p&gt;Sounds like social media, doesn&amp;rsquo;t it?&lt;/p&gt;
+&lt;h2 id=&#34;the-matrix-and-social-media&#34;&gt;The Matrix and Social Media&lt;/h2&gt;
+&lt;p&gt;Social media is like a prison for our minds: algorithms feed us messages every day, and we consume them just like prison food. It keeps you from starving, but it lacks nutrition or flavor. Occasionally, it’s even worse than prison food; some inflammatory and provocative words are actually toxic.&lt;/p&gt;
+&lt;p&gt;Many social media creators are like slaves, contributing their talents within closed platforms while the platforms remain the biggest beneficiaries. Non-creators are also slaves; they contribute their attention. Attention is time, time is life, and life is the most precious asset we have on this earth.&lt;/p&gt;
+&lt;p&gt;I find one thing about social media particularly paradoxical: it feels like you own the key to the prison—you can leave just by logging out. But in reality, it possesses a terrifying, magnet-like force that pulls you back at any moment. Even if you log out repeatedly, you&amp;rsquo;re already hooked on those quick dopamine hits, so you keep coming back. It&amp;rsquo;s addiction, plain and simple.&lt;/p&gt;
+&lt;p&gt;Escaping such a prison requires great effort and cost. Besides struggling with how to quit, you must face the lack of understanding from others and your own occasional FOMO (Fear of Missing Out)—the worry of missing out on other people’s life stories. However, compared to the protagonist in the movie who must undergo a terrifying, inhuman surgery to gain freedom, the price of leaving social media is much smaller. It only takes some effort and method to escape this cage of the mind. Furthermore, unlike the steak in &lt;em&gt;The Matrix&lt;/em&gt; which becomes tasteless after leaving, you will find that there are many more delicious things in the real world: great books, classic movies, and moving music. There are so many wonderful creations from throughout history that don’t exist on Facebook or Instagram!&lt;/p&gt;
+&lt;h2 id=&#34;my-embarrassing-past&#34;&gt;My Embarrassing Past&lt;/h2&gt;
+&lt;p&gt;In the past, especially during my college years, I spent way too much time on Instagram and Facebook. I noticed a behavioral pattern: whenever I encountered setbacks or sadness, I would open social media to look at posts. It was a quick way to distract myself, but it accumulated many hidden problems. At that time, I hadn’t learned to deal with difficulties in a healthy way, resulting in a prime period of my life simply slipping away. Social media substantially stole my time and my life.&lt;/p&gt;
+&lt;p&gt;The article &lt;a href=&#34;https://alicehsu.blog/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/&#34;&gt;“What Happened When I Deleted My Facebook and Instagram App?”&lt;/a&gt; was written in 2019. That wasn’t the moment I truly quit social media; it was just a starting point. It took me years, and eventually, I had to use the extreme method of deleting my accounts directly to truly break free from the influence of social media.&lt;/p&gt;
+&lt;p&gt;Despite the time and effort it took, I am still glad that my 2019 self was like Neo at the beginning of the movie: having an indescribable, strange feeling about this world.&lt;/p&gt;
+&lt;h2 id=&#34;that-strange-feeling-is-the-start-of-everything&#34;&gt;That Strange Feeling is the Start of Everything&lt;/h2&gt;
+&lt;p&gt;That indescribable strange feeling was actually the beginning of everything—it started my journey away from social media. &lt;strong&gt;I think every change begins with a sense that something is wrong, right? It’s that feeling where everyone else thinks things are normal, but only you know that something feels a bit off.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As a side note, if you successfully quit social media but still feel like something is wrong, that is also normal. It means you have discovered an even larger cage surrounding you, and the Christian faith is the force that helps you escape that cage and resist the magnetic pull.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Finally, I want to say: classics are truly classics! &lt;em&gt;The Matrix&lt;/em&gt; was actually released in 1999, a time when social media had not yet overrun the world. Looking at it now, I wouldn’t call it a prophecy; I would only say that a classic possesses the power to pierce through time and space, resonating with people across different generations.&lt;/p&gt;
+&lt;p&gt;Let’s go watch more classics together!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese. It was later translated with assistance from Typeless, edited by me, and published in English.&lt;/em&gt;&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>Recommend Typeless</title>
       <link>https://alicehsu.blog/posts/2026/01/recommend-typeless/</link>

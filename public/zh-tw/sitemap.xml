@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+    <url>
+    <loc>https://alicehsu.blog/zh-tw/posts/2026/01/the-matrix-that-strange-feeling-matters/</loc>
+    <lastmod>2026-01-27T16:30:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/posts/2026/01/the-matrix-that-strange-feeling-matters/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/posts/2026/01/the-matrix-that-strange-feeling-matters/"
+                />
+  </url>
+  
+    
+  
     
   
     
@@ -39,8 +56,6 @@
                 href="https://alicehsu.blog/zh-tw/posts/2026/01/digital-minimalism-manifesto/"
                 />
   </url>
-  
-    
   
     <url>
     <loc>https://alicehsu.blog/zh-tw/posts/2026/01/let-go-of-the-burden/</loc>

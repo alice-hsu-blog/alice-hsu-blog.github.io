@@ -6,8 +6,330 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Jan 2026 22:20:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 16:30:00 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《駭客任務》：怪怪的感覺很重要</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/01/the-matrix-that-strange-feeling-matters/</link>
+      <pubDate>Tue, 27 Jan 2026 16:30:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/01/the-matrix-that-strange-feeling-matters/</guid>
+      <description>那種說不出來的違和感，其實是一切改變的開始。</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post33home.png/" />
+        <media:content url="https://alicehsu.blog/images/Post33home.png/" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post33home.png/" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;上回出去玩，從聖地牙哥飛回芝加哥的航班上，我在飛機上終於看了《駭客任務》（The Matrix）第一集。其中有一段基努·李維和勞倫斯·費許朋的對話，讓我印象十分深刻。&lt;/p&gt;
+
+&lt;style&gt;
+  
+#masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1 {
+  width: 100%;
+}
+
+#masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 50px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1 .masonry-item img {
+  width: 60%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1 .glightbox:hover,
+#masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1&#34;
+     data-columns=&#34;1&#34;
+     data-gutter=&#34;50&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post33home.png/&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post33home.png/&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post33home.png/&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-77de1ec1c2b58d9ec2e09af3df1ca568-1&#39;;
+  const config = {
+    columns:  1 ,
+    gutter:  50 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;That you are a slave, Neo. （你是個奴隸，尼歐）&lt;/p&gt;
+&lt;p&gt;Like everyone else, you were born into bondage, （就跟其他人一樣，你生來便身陷枷鎖）&lt;/p&gt;
+&lt;p&gt;Born into a prison that you cannot smell or taste or touch,&lt;/p&gt;
+&lt;p&gt;（生來就禁錮在一座你聞不到、嘗不到、也觸摸不到的囹圄裡）&lt;/p&gt;
+&lt;p&gt;A prison&amp;hellip;for your mind. （一座&amp;hellip;囚禁你心智的監獄。）&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;hr&gt;
+&lt;p&gt;這段對話是勞倫斯·費許朋對 Matrix（母體）的描述：訴說著主角和這個世界上所有人所處的世界，其實不是真實世界，而是一個由「母體」所操縱的世界。&lt;/p&gt;
+&lt;p&gt;這何嘗不是社群媒體的寫照呢？&lt;/p&gt;
+&lt;h2 id=&#34;駭客任務與社群媒體&#34;&gt;《駭客任務》與社群媒體&lt;/h2&gt;
+&lt;p&gt;社群媒體就像一座囚禁我們心智的監獄：演算法每天餵給我們訊息，我們就吃，就像監獄的牢飯一樣，餓不死，可是也沒太多營養和美味。偶爾還比牢飯更慘，那些激情和煽動的文字，其實是有毒的。&lt;/p&gt;
+&lt;p&gt;許多社群媒體的創作者，就像奴隸一樣，在封閉的平台裡貢獻他們的才華，而最大的獲益者還是平台。至於不創作內容的使用者，其實也是奴隸：他們貢獻專注度，而專注度就是時間，時間就是生命，生命是我們在這地球上最珍貴的資產。&lt;/p&gt;
+&lt;p&gt;我覺得社群媒體很弔詭的一件事情是：你好像擁有監獄的鑰匙，只要登出帳號就能離開；但實際上，它有一種像磁力般可怕的力量，隨時會把你吸回去。即便你一再登出，但已經習慣在上面獲得短暫刺激快樂的你，就會想要一直回去，本質上就是上癮了。&lt;/p&gt;
+&lt;p&gt;要逃脫這樣的監獄需要花費力氣和代價，除了要掙扎怎麼戒掉之外，還要面對別人的不理解，以及自己偶爾的 FOMO（Fear of Missing Out），擔心錯過別人的生命故事。不過，相比電影中主角需要經過可怕、非人的手術才能獲得自由，離開社群媒體所付出的代價小得多，只需要花一點力氣和方法，就能逃脫這個禁錮心智的牢籠。而且離開之後，不像《駭客任務》裡的牛排會變得難吃，你會發現這個世界上原來有更多好吃的東西：好看的書、經典的電影、感動人的音樂。古今中外不在 FB 和 IG 的美好創作，真的超級無敵多！&lt;/p&gt;
+&lt;h2 id=&#34;黑歷史&#34;&gt;黑歷史&lt;/h2&gt;
+&lt;p&gt;過往的我，尤其是大學時期，真的花太多時間在看 Instagram 和 Facebook。我發現自己的行為模式是：一遇到挫折或難過的事，就會打開社群媒體看一些貼文，這是一個能快速放下煩心事的方法，卻累積不少隱患。當時的我並沒有學會以健康的方式處理難題，導致生命中最精華的一段時間就這樣流逝了。社群媒體大幅偷走了我的時間與生命。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2025/09/%e5%88%aa%e6%8e%89-fb-%e8%88%87-ig-%e7%9a%84%e6%88%91%e7%99%bc%e7%94%9f%e4%ba%86%e4%bb%80%e9%ba%bc%e8%ae%8a%e5%8c%96/&#34;&gt;〈刪除 FB 和 IG 的我發生了什麼變化〉&lt;/a&gt;這篇文章寫於 2019 年，那並非我真正戒掉社群媒體的時刻，只是一個起點。我花了多年時間，甚至最後得用直接刪掉帳號這種極端的方式，才真正脫離社群媒體的影響。&lt;/p&gt;
+&lt;p&gt;儘管花很多時間和力氣，我還是很開心 2019 年的我，當時和主角 Neo 在片頭一樣：對這個世界有一種說不出來、怪怪的感覺。&lt;/p&gt;
+&lt;h2 id=&#34;怪怪的感覺是一切的開端&#34;&gt;怪怪的感覺是一切的開端&lt;/h2&gt;
+&lt;p&gt;那種說不出來的違和感，其實是一切改變的開始，開啟了我戒社群媒體的過程。&lt;strong&gt;我想每一個改變，其實就是從一個違和感開始吧？就是那種別人都覺得很正常，但是只有你自己知道，好像有哪裡怪怪的感覺。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;順帶一提，如果你成功戒掉了社群媒體，依然覺得哪裡有怪怪的感覺，那也很正常。這代表你發現有一個更大的牢籠罩著你，而基督信仰是那股走出牢籠、抵抗磁力的力量。&lt;/p&gt;
+&lt;h2 id=&#34;結語&#34;&gt;結語&lt;/h2&gt;
+&lt;p&gt;最後我想說：經典不愧是經典！《駭客任務》是 1999 年上映的電影，當時社群媒體還沒有橫行世界。現在讀來，我不會說它是預言，只會說：一部經典，其實是擁有穿透時空的力量，並且可以讓不同世代的人有所共感。&lt;/p&gt;
+&lt;p&gt;一起來看更多的經典吧！&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>推薦好用的語音輸入軟體 Typeless</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/01/recommend-typeless/</link>
