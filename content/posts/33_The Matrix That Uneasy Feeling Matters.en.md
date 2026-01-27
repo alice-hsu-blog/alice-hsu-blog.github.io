@@ -3,7 +3,7 @@ date = '2026-01-27T16:40:00-06:00'
 draft = false
 title = 'The Matrix: That Strange Feeling Matters'
 summary = 'I think every change begins with a sense that something is wrong.'
-cover = '/images/Post33home.png/'
+cover = '/images/Post33home.png'
 cover_on_post = false
 categories = ['Thoughts and Talks']
 author_twitter_handle = '@Alicehsu77' 
@@ -17,7 +17,7 @@ og_type = 'article'
 On my last trip, during a flight from San Diego back to Chicago, I finally watched *The Matrix*. There was a dialogue between Keanu Reeves and Laurence Fishburne that left a deep impression on me.
 
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![](/images/Post33home.png/)
+![](/images/Post33home.png)
 {{< /masonry>}}
 
 > That you are a slave, Neo. 

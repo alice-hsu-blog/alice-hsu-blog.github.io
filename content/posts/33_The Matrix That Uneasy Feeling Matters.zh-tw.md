@@ -4,7 +4,7 @@ draft = false
 title = '《駭客任務》：怪怪的感覺很重要'
 slug = 'The Matrix That Strange Feeling Matters'
 summary = '那種說不出來的違和感，其實是一切改變的開始。'
-cover = '/images/Post33home.png/'
+cover = '/images/Post33home.png'
 cover_on_post = false
 categories = ['隨想雜談']
 author_twitter_handle = '@Alicehsu77' 
@@ -18,7 +18,7 @@ og_type = 'article'
 上回出去玩，從聖地牙哥飛回芝加哥的航班上，我在飛機上終於看了《駭客任務》（The Matrix）第一集。其中有一段基努·李維和勞倫斯·費許朋的對話，讓我印象十分深刻。
 
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![](/images/Post33home.png/)
+![](/images/Post33home.png)
 {{< /masonry>}}
 
 > That you are a slave, Neo. （你是個奴隸，尼歐）
