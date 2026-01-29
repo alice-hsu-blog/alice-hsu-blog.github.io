@@ -161,3 +161,6 @@ toc:
 link_after_post:
   title: "關於作者"
   url: "/zh-tw/about"
+
+change_language: 
+  icon: "En"

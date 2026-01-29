@@ -57,7 +57,7 @@ stickyHeader = false
 showThemeSwitch = false
 showDarkModeSwitch = true
 showLanguageSwitch = true
-languageSwitchMode = "dropdown"
+languageSwitchMode = "cycle"
 colorScheme = "sunset"
 
 

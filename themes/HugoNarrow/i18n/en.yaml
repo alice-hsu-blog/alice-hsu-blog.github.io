@@ -259,3 +259,6 @@ view_option:
 link_after_post:
   title: "About the Author"
   url: "/about"
+
+change_language: 
+  icon: "中"

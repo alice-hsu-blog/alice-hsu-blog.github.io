@@ -2989,7 +2989,7 @@
     top: 50%;
     transform: translateY(-50%);
     width: 4px;
-    height: 1.5rem;
+    height: 2rem;
     background: var(--color-primary);
     border-radius: 2px;
   }
