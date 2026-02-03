@@ -6,8 +6,126 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Jan 2026 16:30:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 16:00:00 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>胎萌</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/02/vivipary/</link>
+      <pubDate>Tue, 03 Feb 2026 16:00:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/02/vivipary/</guid>
+      <description>番茄發芽了，這還能吃嗎？</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post34home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post34home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post34home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post34home.jpg"
+          loading="eager"
+        /&gt;&lt;p&gt;晚餐時間，廚房傳來一陣驚叫：&lt;/p&gt;
+&lt;p&gt;「番茄發芽了，這還能吃嗎？」Sam 一邊哀嚎一邊問。&lt;/p&gt;
+&lt;p&gt;我仔細一瞧他手中的番茄切塊，原本小小的籽竟然冒出了綠色的芽，有一些甚至還讓番茄的表皮隆起，一副要衝出來的樣子。&lt;/p&gt;
+&lt;p&gt;讓我忍不住想到《獵人》裡面蟻王出生的片段（怕）。&lt;/p&gt;
+&lt;p&gt;上網查了一些資料，發現應該是可以吃，但好像不太好吃。&lt;/p&gt;
+&lt;p&gt;Sam 繼續哀號，一邊挖手中的芽。那些番茄被我們堆在冰箱上許久，可能有一兩個禮拜了吧，大概是溫度跟濕度都十分宜人，讓番茄寶寶迫不及待想要跑出來了。&lt;/p&gt;
+&lt;p&gt;我們把它切一切，挑掉芽之後，弄了個番茄炒蛋吃了，可能也因著加了番茄醬，吃不出番茄味道有什麼區別，過了幾天肚子也很平安。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;這個小插曲最讓我印象深刻的是蕃茄裡小芽的名字，叫作「胎萌」（Vivipary）。&lt;/p&gt;
+&lt;p&gt;這個詞挺神秘的。我查了&lt;a href=&#34;https://dict.revised.moe.edu.tw/index.jsp&#34;target=&#34;_blank&#34;
+&gt;《教育部重編國語辭典修訂本》&lt;/a&gt;找不到這個詞（雖然我覺得教育部的字典很難贏得我的信任），除此之外也查了網路版的&lt;a href=&#34;http://www.kaom.net/book_hanyudacidian.php&#34;target=&#34;_blank&#34;
+&gt;《漢語大辭典》&lt;/a&gt;、&lt;a href=&#34;https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/&#34;target=&#34;_blank&#34;
+&gt;《漢語多功能字庫》&lt;/a&gt;、&lt;a href=&#34;https://www.kangxizidian.com/&#34;target=&#34;_blank&#34;
+&gt;《康熙字典》&lt;/a&gt;&amp;hellip;&amp;hellip;等等，都查不到，試著查一些古籍也沒有。唯一有查到的是在&lt;a href=&#34;https://www.hanyucidian.org/&#34;target=&#34;_blank&#34;
+&gt;《漢語詞典總彙》&lt;/a&gt;裡面，它有收錄這個詞語。不過看起來是收錄在《漢英大詞典》第三版裡頭的其中一個條目，但它也沒有做詳細的解釋，只有「胎萌」加上漢語拼音 [tāi méng]，再加上 vivipary，就沒了。&lt;/p&gt;
+&lt;p&gt;那為什麼我會知道這個詞呢？&lt;/p&gt;
+&lt;p&gt;因為我問了 Claude，它告訴我的。我想，既然它都這麼說了，代表還是有人會使用這些詞吧。&lt;/p&gt;
+&lt;p&gt;於是，我直接把「胎萌」這個詞丟到 Google 去，發現它有出現在&lt;a href=&#34;https://zh.wikipedia.org/wiki/%E8%83%8E%E7%94%9F%E6%A4%8D%E7%89%A9&#34;target=&#34;_blank&#34;
+&gt;維基百科&lt;/a&gt;。是在胎生植物的條目底下：&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;胎生植物（Viviparous plants）又稱胎萌植物，是指果實成熟後不脫離母體植物，種子仍留在果實中並不掉落，而會在果實內直接發芽長成幼苗；即幼苗在母株上發育後才脫落、著生進而獨立生長。&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;我又靈光一閃，在華藝資料庫裡搜尋，發現台灣有篇期刊有用到這個詞。原來不只番茄會「胎萌」，佛手瓜也會。&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;成熟後若未及時採收，種子在瓜中很快就會萌發，此現象稱為「胎萌」，是佛手瓜的一大特點。（65）&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;雖然許多字典沒有「胎萌」這個詞，我自己倒是滿喜歡這個詞的。「胎」這個字，讓我覺得番茄裡的小芽好像擬人化了，在番茄媽媽的肚子裡成長。而「萌」這個字，描述了植物生發的狀態，整體唸起來也很 Q。不管這個詞是從哪裡來的，它真的很可愛，而且讀來簡潔方便。&lt;/p&gt;
+&lt;p&gt;無論如何，番茄裡發出小芽的現象，叫作「胎萌」，應該可以吃（&lt;del&gt;不過吃壞肚子可別怪我&lt;/del&gt;），望周知。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;引用文獻&lt;/p&gt;
+&lt;p&gt;菱怡。〈本是同根生－佛手瓜與龍鬚菜〉。《清流雙月刊》45 (2023): 64-69。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NB&lt;/strong&gt;: Due to the unique semantic nature of the Chinese word 胎萌, no English translation is provided.&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>《駭客任務》：怪怪的感覺很重要</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/01/the-matrix-that-strange-feeling-matters/</link>
