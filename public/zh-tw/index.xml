@@ -118,7 +118,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;/script&gt;
 
 &lt;p&gt;雖然許多字典沒有「胎萌」這個詞，我自己倒是滿喜歡這個詞的。「胎」這個字，讓我覺得番茄裡的小芽好像擬人化了，在番茄媽媽的肚子裡成長。而「萌」這個字，描述了植物生發的狀態，整體唸起來也很 Q。不管這個詞是從哪裡來的，它真的很可愛，而且讀來簡潔方便。&lt;/p&gt;
-&lt;p&gt;無論如何，番茄裡發出小芽的現象，叫作「胎萌」，應該可以吃（&lt;del&gt;不過吃壞肚子可別怪我&lt;/del&gt;），望周知。&lt;/p&gt;
+&lt;p&gt;無論如何，番茄裡發出小芽的現象，叫作「胎萌」，番茄本人應該還可以吃（&lt;del&gt;不過吃壞肚子可別怪我&lt;/del&gt;），望周知。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;引用文獻&lt;/p&gt;
 &lt;p&gt;菱怡。〈本是同根生－佛手瓜與龍鬚菜〉。《清流雙月刊》45 (2023): 64-69。&lt;/p&gt;
@@ -1419,7 +1419,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;p&gt;我讀徐志摩，覺得在「遠近的炊煙」後面，接了大量有「的」的形容詞，彷彿在看一個慢動作電影：看見炊煙各種樣態、形式、顏色和速度。不過我讀老舍就比較累了，有這麼多形容詞在名詞前面，讀來實在辛苦，倒沒什麼文風可言。&lt;/p&gt;
 &lt;p&gt;究竟作者是否為了創造文風，我們不得而知。不過我認為對寫作者而言：不管是刻意製造文風，或是創造凝練語句，兩種能力皆要具備。&lt;/p&gt;
 &lt;h2 id=&#34;結語&#34;&gt;結語&lt;/h2&gt;
-&lt;p&gt;寫這篇文章時，我也忍不住一直用 &lt;code&gt;Ctrl&lt;/code&gt; + &lt;code&gt;F&lt;/code&gt; 檢查我到底會不會寫太多「的」，也不斷調整、編輯語句。比如：&lt;/p&gt;
+&lt;p&gt;寫這篇文章時，我也忍不住一直用 &lt;code&gt;Cmd&lt;/code&gt; + &lt;code&gt;F&lt;/code&gt; 檢查我到底會不會寫太多「的」，也不斷調整、編輯語句。比如：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;做了大量的「古文翻白話」練習題 $\rightarrow$ 既然我們翻譯了許多文言文&lt;/li&gt;
 &lt;li&gt;哪些是比較好的語句、哪些是比較差的語句 $\rightarrow$ 哪些是比較好的語句、哪些比較差&lt;/li&gt;
