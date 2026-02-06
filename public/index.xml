@@ -6,8 +6,90 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Jan 2026 16:40:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 22:00:00 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When the Weather is Dry......</title>
+      <link>https://alicehsu.blog/posts/2026/02/static-shock/</link>
+      <pubDate>Thu, 05 Feb 2026 22:00:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/posts/2026/02/static-shock/</guid>
+      <description>I joke that our &amp;ldquo;sparks&amp;rdquo; are a bit too literal.</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post35home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post35home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post35home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post35home.jpg"
+          loading="eager"
+        /&gt;&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;This is my submission for the &lt;a href=&#34;https://blogblog.club/party&#34;target=&#34;_blank&#34;
+&gt;“BlogBlog Club - February 2026.”&lt;/a&gt; This month’s theme is “Is it just me?” (hosted by Wiwi). If you have your own blog, you’re welcome to join us!&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;When I first moved to the US, I had to adapt not only to differences in language and culture but also to the difference in humidity.&lt;/p&gt;
+&lt;p&gt;As winter arrives and the heater kicks on, the house becomes full of hidden dangers. If I’m not careful, sparks fly as I touch objects around the house. That’s right—static electricity. A phenomenon I barely noticed in Taiwan has become a constant presence in the US.&lt;/p&gt;
+&lt;p&gt;As soon as the heater starts, the indoor humidity plummets. Whenever I touch a doorknob, a hanger, or my laptop, I get zapped with a sharp crack. Sometimes, when I touch Sam, sparks even fly between us. I joke that our &amp;ldquo;sparks&amp;rdquo; are a bit too literal.&lt;/p&gt;
+&lt;p&gt;One day, I finally couldn’t take it anymore and bought a humidifier on Amazon for the living room. Watching the mist slowly puff out gave me so much peace of mind. Eventually, I didn’t have to live my life in a constant state of alert.&lt;/p&gt;
+&lt;p&gt;Even so, the fear of getting shocked is deeply rooted. Whenever I have to touch a metal object, I always find myself using awkward maneuvers to try and reduce the chance of getting zapped.&lt;/p&gt;
+&lt;p&gt;For example: before touching a doorknob, I’ll quickly tap it with my fingernail and only grip it once I’m sure it’s safe. If I’m washing my hands, I’ll turn on the faucet and quickly swipe my hand through the water stream first, making sure it’s okay before putting my hands under to rinse. When I come home and need to hang my coat, I try my best not to touch the coat stand; instead, I’ll swing my coat&amp;rsquo;s hood to hook it.&lt;/p&gt;
+&lt;p&gt;And there are more: passing by the humidifier, I’ll hover my hands over the steam for a second; I don&amp;rsquo;t grab the handle to close the car door, but instead use my elbow; before shaking hands with someone, I’ll secretly breathe into my own palms (though it doesn’t really work—I still end up getting zapped anyway).&lt;/p&gt;
+&lt;p&gt;I wonder if I&amp;rsquo;m the only one this afraid of static electricity? If you’re just as terrified of it as I am, or if you have any clever tricks for fighting it, feel free to email me and share (&lt;a href=&#34;mailto:mail@alicehsu.blog&#34;&gt;mail@alicehsu.blog&lt;/a&gt;). Let me know I’m not alone, haha.&lt;/p&gt;
+&lt;p&gt;When everything is dry and parched, you don’t just have to watch out for fires—you have to watch out for static too!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese. It was later translated with assistance from AI tools, edited by me, and published in English.&lt;/em&gt;&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>The Matrix: That Strange Feeling Matters</title>
       <link>https://alicehsu.blog/posts/2026/01/the-matrix-that-strange-feeling-matters/</link>
@@ -9194,7 +9276,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;p&gt;When the concert ended, cheers filled the hall. Almost everyone stood again. Sam told me that he had become a fan as well. Nothing delights a fan more than converting the people around them.&lt;/p&gt;
 &lt;p&gt;It has been a long time since I last heard a concert that moved me like this. More than good techniques, Cateen’s love for music could be heard in every note he played. He is someone who enjoys playing the piano, a composer full of passion and hope for music and for life. Not every musician is like this.&lt;/p&gt;
 &lt;p&gt;I just want to rush to my piano and practice.&lt;/p&gt;
-&lt;h2 id=&#34;hahahugoshortcode8s0hbhb&#34;&gt;
+&lt;h2 id=&#34;hahahugoshortcode7s0hbhb&#34;&gt;
 &lt;style&gt;
   
 #masonry-9e5c633458c670de50c76cd5b454cb74-1 {
