@@ -6,8 +6,88 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Feb 2026 16:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 19:30:00 -0600</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>天乾物燥，小心......</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/02/static-shock/</link>
+      <pubDate>Thu, 05 Feb 2026 19:30:00 -0600</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/02/static-shock/</guid>
+      <description>一不小心就電光石火，與家中的物品產生互放的光亮。</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post35home.jpg" />
+        <media:content url="https://alicehsu.blog/images/Post35home.jpg" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post35home.jpg" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post35home.jpg"
+          loading="eager"
+        /&gt;&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;這是我的&lt;a href=&#34;https://blogblog.club/party&#34;target=&#34;_blank&#34;
+&gt;「BlogBlog 同樂會 - 2026 年 2 月」&lt;/a&gt;的投稿文章。本月主題是「只有我這樣嗎？」，由 Wiwi 主持。如果你有自己的部落格，歡迎一起來參加！&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;剛來美國的時候，不只要適應語言差異、文化差異，還得要適應濕度差異。&lt;/p&gt;
+&lt;p&gt;入冬，開啟暖氣，家裡危機四伏。一不小心就電光石火，與家中的物品產生互放的光亮。沒錯，就是靜電。一個我在台灣無感的現象，到美國卻變得隨處常見。&lt;/p&gt;
+&lt;p&gt;只要一開啟暖氣，家中的濕度就會驟降。一旦碰到門把、衣架或是電腦，就會被電得劈哩啪啦唏哩嘩啦。有時候碰到 Sam，甚至還會有火花出現。我常笑說，我們兩個還真是來電啊。&lt;/p&gt;
+&lt;p&gt;有一天終於受不了了，在 Amazon 買了個加濕器放在客廳。看著水霧徐徐噴出，內心就安穩許多，總算不用小心翼翼過生活了。&lt;/p&gt;
+&lt;p&gt;雖然如此，被電的恐懼已深植我心。一旦要碰金屬物品，我總會以奇怪的姿勢想辦法降低被電的機率。&lt;/p&gt;
+&lt;p&gt;比如：碰門把之前，我會先用指甲快速碰一下，確定沒事才握緊門把；如果要洗手，我會先打開水龍頭，快速地劃過水流，確認沒事再把手放到水流下沖洗；外出回來，要把大衣掛在衣帽架上，我會想盡辦法不要碰到衣架本人，而是甩動大衣的帽子，讓帽子勾在衣架上後再放下外套。&lt;/p&gt;
+&lt;p&gt;當然還有許多：路過加濕器，手就會在上面蒸一下；不會乖乖用手握著門把關車門，而是用手肘關門；跟別人握手前，先偷偷往自己手裡哈氣（不過沒什麼用就是了，我自己還是被電得霹哩啪啦）。&lt;/p&gt;
+&lt;p&gt;不知道是不是只有我這麼怕靜電？如果你也跟我一樣害怕靜電，或是有什麼奇招可以抵抗靜電的話，歡迎來信和我分享（mail@alicehsu.blog），讓我知道我不是孤單的哈哈哈。&lt;/p&gt;
+&lt;p&gt;天乾物燥，不只要小心火燭，還要小心靜電啊。&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>胎萌</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/02/vivipary/</link>
@@ -1686,7 +1766,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     decoding=&#34;async&#34;
     data-gallery-src=&#34;https://alicehsu.blog/images/Post/25/6.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/7.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/25/8.JPG&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-64793406a751a0b48d1d90a4bb090fe8-1&#34;&gt;
             
