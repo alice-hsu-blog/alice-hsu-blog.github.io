@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+    <url>
+    <loc>https://alicehsu.blog/zh-tw/posts/2026/02/the-apothecary-diaries/</loc>
+    <lastmod>2026-02-10T14:40:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/posts/2026/02/the-apothecary-diaries/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/posts/2026/02/the-apothecary-diaries/"
+                />
+  </url>
+  
+    
+  
     
   
     
@@ -11,6 +28,16 @@
     <url>
     <loc>https://alicehsu.blog/zh-tw/posts/2026/02/chicken-soup/</loc>
     <lastmod>2026-02-09T20:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/posts/2026/02/chicken-soup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/posts/2026/02/chicken-soup/"
+                />
   </url>
   
     
@@ -29,8 +56,6 @@
                 href="https://alicehsu.blog/zh-tw/posts/2026/02/static-shock/"
                 />
   </url>
-  
-    
   
     <url>
     <loc>https://alicehsu.blog/zh-tw/posts/2026/02/vivipary/</loc>
