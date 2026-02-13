@@ -1,6 +1,6 @@
 +++
 date = '2026-01-21T22:20:00-06:00'
-draft = false
+draft = true
 title = '推薦好用的語音輸入軟體 Typeless'
 slug = 'Recommend Typeless'
 summary = '當我說一個中英夾雜的句子，大多數時候它也沒問題。比如：「我覺得那家 ice cream shop 的 Gelato 很好吃，下次我想要吃 strawberry 口味的！」這句晶晶體的話就是用 Typeless 打的哈哈哈。'

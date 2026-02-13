@@ -65,7 +65,7 @@
 &lt;p&gt;When we went to the supermarket, we found there weren’t many choices on the shelf—just two types:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Air-chilled chicken : All the giblets were cleaned out, but the chickens were on the smaller side.&lt;/p&gt;
+&lt;p&gt;Air-chilled chicken: All the giblets were cleaned out, but the chickens were on the smaller side.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Conventionally processed chicken: Much larger, but still had some giblets inside.&lt;/p&gt;
@@ -744,125 +744,6 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;p&gt;Let’s go watch more classics together!&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese. It was later translated with assistance from Typeless, edited by me, and published in English.&lt;/em&gt;&lt;/p&gt;
-
-      </content:encoded>
-    </item>
-    <item>
-      <title>Recommend Typeless</title>
-      <link>https://alicehsu.blog/posts/2026/01/recommend-typeless/</link>
-      <pubDate>Sat, 24 Jan 2026 19:00:00 -0600</pubDate>
-      <guid>https://alicehsu.blog/posts/2026/01/recommend-typeless/</guid>
-      <description>It handles mixed-language sentences quite well. For example: “我覺得那家 ice cream shop 的 Gelato 很好吃，下次我想要吃 strawberry 口味的！” This code-switching sentence was actually dictated using Typeless.</description>
-
-      
-        <media:thumbnail url="https://alicehsu.blog/images/Post32home.jpg" />
-        <media:content url="https://alicehsu.blog/images/Post32home.jpg" medium="image" />
-        <enclosure url="https://alicehsu.blog/images/Post32home.jpg" type="image/jpeg" />
-      
-
-
-      <content:encoded>&lt;img
-          src="https://alicehsu.blog/images/Post32home.jpg"
-          loading="eager"
-        /&gt;&lt;div
-    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
-    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
-              border-left-color: var(--color-caution);
-              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
-    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
-    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
-    role=&#34;alert&#34;
-    aria-labelledby=&#34;alert-0-title&#34;&gt;
-    
-    
-
-    
-    &lt;div
-      id=&#34;alert-0-content&#34;
-      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
-      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
-        &lt;p&gt;This is not a sponsored post, but purely a passionate review—though if Typeless wants to sponsor me, I wouldn’t say no!&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;script&gt;
-function toggleAlert(alertId) {
-  const content = document.getElementById(alertId + &#39;-content&#39;);
-  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
-  const header = content.previousElementSibling;
-  
-  if (content.classList.contains(&#39;hidden&#39;)) {
-    content.classList.remove(&#39;hidden&#39;);
-    chevron.style.transform = &#39;rotate(0deg)&#39;;
-    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
-  } else {
-    content.classList.add(&#39;hidden&#39;);
-    chevron.style.transform = &#39;rotate(-90deg)&#39;;
-    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
-  }
-}
-
-
-document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
-  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
-  collapsedAlerts.forEach(function(content) {
-    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
-    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
-    if (chevron) {
-      chevron.style.transform = &#39;rotate(-90deg)&#39;;
-    }
-  });
-});
-&lt;/script&gt;
-
-&lt;p&gt;Today, I want to recommend a voice input software that has been incredibly helpful to me, called Typeless.&lt;/p&gt;
-&lt;p&gt;I discovered Typeless after reading &lt;a href=&#34;https://readingoutpost.com/typeless/&#34;target=&#34;_blank&#34;
-&gt;an article by Waki&lt;/a&gt; (who, in turn, learned about it from a video by another creator). That’s how I found out about this voice input tool.&lt;/p&gt;
-&lt;p&gt;Typeless is software that respects user privacy. They claim that once data is uploaded to the server and processed, it is immediately destroyed after being downloaded back to your computer. They also don’t use your data to train their language models. Your data stays only on your device. Typeless can be set to output Traditional Chinese. Waki mentioned this is more user-friendly than Whisperflow, which can only produce Simplified Chinese. In my experience, it mostly outputs Traditional Chinese, though occasionally Simplified Chinese appears—a strange little bug. However, I think the pros far outweigh this minor flaw.&lt;/p&gt;
-&lt;h2 id=&#34;how-it-helps-me&#34;&gt;How It Helps Me&lt;/h2&gt;
-&lt;h3 id=&#34;1-giving-my-hands-a-rest&#34;&gt;1. Giving My Hands a Rest&lt;/h3&gt;
-&lt;p&gt;My hands have been injured for a while and are currently in a long-term recovery phase. For me, Typeless arrived at the perfect time. It allows me to “speak” my articles instead of typing them, giving my hands the rest they need.&lt;/p&gt;
-&lt;h3 id=&#34;2-improving-writing-efficiency&#34;&gt;2. Improving Writing Efficiency&lt;/h3&gt;
-&lt;p&gt;Speaking is truly much faster than writing. Sometimes when I dictate a list, it automatically adds numbers for me. When I get stuck and say “um” or “ah,” or even say “Oops, I said that wrong,” it understands and filters out filler words and errors. Furthermore, it handles mixed-language sentences quite well. For example: “我覺得那家 ice cream shop 的 Gelato 很好吃, 下次我想要吃 strawberry 口味的!” This code-switching sentence was actually dictated using Typeless!&lt;/p&gt;
-&lt;h3 id=&#34;3-boosting-translation-efficiency&#34;&gt;3. Boosting Translation Efficiency&lt;/h3&gt;
-&lt;p&gt;I write my blog posts in Chinese first and then use AI to translate them into English (Of course, I will edit and proofread it later.) Previously, I had to paste the text into ChatGPT, wait for the translation, and then paste it back into VS Code. With Typeless, I don’t need to switch between apps. I just copy the Chinese text, select it, press the shortcut, and say: “Please translate this into English.” A few seconds later, it generates the translation right there on the spot.&lt;/p&gt;
-&lt;p&gt;Additionally, I have to mention the translation quality. I find that ChatGPT sometimes doesn’t translate very well; I often have to provide many prompts to help it navigate the differences between Chinese and English (including grammar and idioms), and it still requires significant proofreading and editing. Typeless’s language model is impressive. It requires very little editing and often leaves me in awe. Here are a few examples.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;In &lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/01/lets-go-crocheting-little-cutties/&#34;&gt;&amp;ldquo;Our Little Cutties at Home&lt;/a&gt;,&amp;rdquo; there’s a key phrase, “織織不倦 (zhī zhī bù juàn),” which literally means to weave diligently without feeling tired. I invented this phrase as a playful twist on the Chinese Chengyu “孜孜不倦 (zī zī bù juàn),” which originally means to study or work diligently without getting tired. Typeless translated it as &lt;a href=&#34;https://alicehsu.blog/posts/2026/01/our-little-cutties-at-home/&#34;&gt;“You could say we are hooked,”&lt;/a&gt; and I have to say, the way it handled the pun was brilliant! My original pun was based on sound, replacing 孜孜 (zī zī) with 織織 (zhī zhī). Typeless, however, went for a semantic pun: “hook” refers to the tool used in crocheting, and as an adjective, “hooked” also means being obsessed with or deeply into something. I must admit, that was a really clever choice.&lt;/li&gt;
-&lt;li&gt;In my poem &lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/01/let-go-of-the-burden/&#34;&gt;&amp;ldquo;Let Go of the Burden,&amp;rdquo;&lt;/a&gt; my original Chinese version rhymed. When Typeless &lt;a href=&#34;https://alicehsu.blog/posts/2026/01/let-go-of-the-burden/&#34;&gt;translated it into English&lt;/a&gt;, it actually managed to rhyme perfectly! And it even used the AABB rhyme scheme common in English poetry.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Some might wonder: is it necessary to use AI to turn a Chinese poem into an English one? Does translating poetry with AI lose the beauty of the original? I don’t think it loses the beauty. Rather, it gives the poem a richer form. For me, the Chinese poem (and all my Chinese articles, music, and illustrations) is created entirely without AI—it’s the result of me racking my brain. Once finished, Typeless acts like an American friend, helping me translate my work into idiomatic English.&lt;/p&gt;
-&lt;p&gt;I’m getting a bit off-track; maybe I’ll write a separate post to discuss this more when I have time.&lt;/p&gt;
-&lt;h3 id=&#34;4-faster-bookkeeping&#34;&gt;4. Faster Bookkeeping&lt;/h3&gt;
-&lt;p&gt;Sam and I have a habit of tracking our expenses. Every time we return from the supermarket with a stack of receipts, bookkeeping feels like an exhausting chore. After I started using Typeless, I thought: “Wouldn’t it be so much easier if I could just speak the entries?” So we tried dictating the items and prices, and we found it to be incredibly fast!&lt;/p&gt;
-&lt;h2 id=&#34;how-to-use-it&#34;&gt;How to Use It&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Computer&lt;/strong&gt;: Hold down the default shortcut &lt;code&gt;Fn&lt;/code&gt; to start speaking, and release it when you’re done. The system will display what you just said. You can also use the hands-free mode by pressing &lt;code&gt;Fn&lt;/code&gt; + &lt;code&gt;Space&lt;/code&gt; so you don’t have to keep holding the key.&lt;/p&gt;
-&lt;p&gt;Since my Mac shortcut for Delete is &lt;code&gt;Fn&lt;/code&gt; + &lt;code&gt;Delete&lt;/code&gt;, and I would accidentally trigger Typeless every time I pressed it, I changed the Typeless shortcut to &lt;code&gt;Control&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;So far, I haven’t encountered an interface where it doesn’t work. VS Code, web search bars, ChatGPT, Mac Notes, Finder, etc&amp;hellip;.All work with Typeless.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Mobile&lt;/strong&gt;: After downloading the Typeless app, it integrates into your mobile keyboard. When you need to type, switch the keyboard to Typeless, tap the black microphone, speak, and tap again when finished.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tips-for-use&#34;&gt;Tips for Use&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Sometimes it needs longer sentences to understand context. For example, if I say “Oyster Omelet” in Taiwanese Hokkien (Ô-á-tsian) in isolation, Typeless might output something nonsensical. But if I code-switch between Mandarin and Taiwanese Hokkien: “I want to go to the night market to eat Ô-á-tsian,” it gets the characters &amp;ldquo;蚵仔煎&amp;rdquo; right.&lt;/li&gt;
-&lt;li&gt;Typeless occasionally tries to be “too smart” by rewriting what you said to make it flow better (according to its logic, not necessarily yours). If you want it to transcribe exactly what you say word-for-word, you can tell it: “&lt;strong&gt;Please input every sentence and every word I say verbatim&lt;/strong&gt;: ‘I am very happy to introduce Typeless here…’” and that’s it!&lt;/li&gt;
-&lt;li&gt;We use spreadsheets for bookkeeping and need items and prices in different cells. We give a command before dictating the content, such as: “&lt;strong&gt;Please use a ‘tab’ to separate the item and the price, and don’t add numbers.&lt;/strong&gt; Tomato 2.99, Instant noodles 4.79…” We’ve found that dictating more items at once reduces hallucinations. The only downside is that it transcribes the command as well, but deleting it isn’t a big deal.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;cost&#34;&gt;Cost&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Free Version: 4,000 words per week, which is plenty for those who don’t need to produce large amounts of text.&lt;/li&gt;
-&lt;li&gt;Paid Version: Unlimited words and offers a 30-day trial. If you buy a yearly subscription, it costs about $12 USD per month.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;After using Typeless, I realized that my previous habit of handwriting notes wasn’t very efficient for learning. Instead, by using my voice to take notes, I find it easier to understand what I’ve learned and retain knowledge.&lt;/p&gt;
-&lt;p&gt;I highly recommend it to everyone!&lt;/p&gt;
-&lt;p&gt;Official download link: &lt;a href=&#34;https://www.typeless.com/&#34;target=&#34;_blank&#34;
-&gt;Typeless&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese on 01/21/26. It was later translated with assistance from Typeless, edited by me, and published in English on 01/24/26.&lt;/em&gt;&lt;/p&gt;
 
       </content:encoded>
     </item>
@@ -9610,7 +9491,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;p&gt;When the concert ended, cheers filled the hall. Almost everyone stood again. Sam told me that he had become a fan as well. Nothing delights a fan more than converting the people around them.&lt;/p&gt;
 &lt;p&gt;It has been a long time since I last heard a concert that moved me like this. More than good techniques, Cateen’s love for music could be heard in every note he played. He is someone who enjoys playing the piano, a composer full of passion and hope for music and for life. Not every musician is like this.&lt;/p&gt;
 &lt;p&gt;I just want to rush to my piano and practice.&lt;/p&gt;
-&lt;h2 id=&#34;hahahugoshortcode8s0hbhb&#34;&gt;
+&lt;h2 id=&#34;hahahugoshortcode7s0hbhb&#34;&gt;
 &lt;style&gt;
   
 #masonry-9e5c633458c670de50c76cd5b454cb74-1 {

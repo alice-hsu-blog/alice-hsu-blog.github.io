@@ -863,123 +863,6 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       </content:encoded>
     </item>
     <item>
-      <title>推薦好用的語音輸入軟體 Typeless</title>
-      <link>https://alicehsu.blog/zh-tw/posts/2026/01/recommend-typeless/</link>
-      <pubDate>Wed, 21 Jan 2026 22:20:00 -0600</pubDate>
-      <guid>https://alicehsu.blog/zh-tw/posts/2026/01/recommend-typeless/</guid>
-      <description>當我說一個中英夾雜的句子，大多數時候它也沒問題。比如：「我覺得那家 ice cream shop 的 Gelato 很好吃，下次我想要吃 strawberry 口味的！」這句晶晶體的話就是用 Typeless 打的哈哈哈。</description>
-
-      
-        <media:thumbnail url="https://alicehsu.blog/images/Post32home.jpg" />
-        <media:content url="https://alicehsu.blog/images/Post32home.jpg" medium="image" />
-        <enclosure url="https://alicehsu.blog/images/Post32home.jpg" type="image/jpeg" />
-      
-
-
-      <content:encoded>&lt;img
-          src="https://alicehsu.blog/images/Post32home.jpg"
-          loading="eager"
-        /&gt;&lt;div
-    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
-    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
-              border-left-color: var(--color-caution);
-              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
-    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
-    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
-    role=&#34;alert&#34;
-    aria-labelledby=&#34;alert-0-title&#34;&gt;
-    
-    
-
-    
-    &lt;div
-      id=&#34;alert-0-content&#34;
-      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
-      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
-        &lt;p&gt;這篇文章不是業配文，純粹是熱情心得文，不過如果 Typeless 想贊助我也是可以的啦！&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;script&gt;
-function toggleAlert(alertId) {
-  const content = document.getElementById(alertId + &#39;-content&#39;);
-  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
-  const header = content.previousElementSibling;
-  
-  if (content.classList.contains(&#39;hidden&#39;)) {
-    content.classList.remove(&#39;hidden&#39;);
-    chevron.style.transform = &#39;rotate(0deg)&#39;;
-    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
-  } else {
-    content.classList.add(&#39;hidden&#39;);
-    chevron.style.transform = &#39;rotate(-90deg)&#39;;
-    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
-  }
-}
-
-
-document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
-  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
-  collapsedAlerts.forEach(function(content) {
-    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
-    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
-    if (chevron) {
-      chevron.style.transform = &#39;rotate(-90deg)&#39;;
-    }
-  });
-});
-&lt;/script&gt;
-
-&lt;p&gt;今天想來推薦一款對我幫助很大的語音輸入軟體，叫作 Typeless。&lt;/p&gt;
-&lt;p&gt;會知道 Typeless 是因為看了&lt;a href=&#34;https://readingoutpost.com/typeless/&#34;target=&#34;_blank&#34;
-&gt;瓦基的文章&lt;/a&gt;（而瓦基又是看了另外一個電子報作家錄的影片），才知道有這一款語音輸入的軟體。&lt;/p&gt;
-&lt;p&gt;Typeless 是一個尊重使用者隱私權的軟體，標榜資料上傳到伺服器處理完下載到你的電腦後，就會立刻銷毀伺服器上的資料，也不會拿你的資料來訓練他們的語言模型。你的資料只會存在你的裝置。Typeless 可以設定語言輸出為繁體中文，這點聽瓦基說比只能產生簡體中文的 Whisperflow 好用。我自己使用 Typeless 的過程中，它大部分是產出繁體，不過偶爾會出現簡體，是個奇怪的 bug。不過我覺得瑕不掩瑜，它對我的幫助比這個缺點多上許多。&lt;/p&gt;
-&lt;h2 id=&#34;對我的幫助&#34;&gt;對我的幫助&lt;/h2&gt;
-&lt;h3 id=&#34;一讓我的手休息&#34;&gt;一、讓我的手休息&lt;/h3&gt;
-&lt;p&gt;我的手受傷了好一段時間，正在長期休養中。對我來說，Typeless 真的出現得非常及時，讓我可以「講」文章，而不需要一直「打」文章，手能夠多休息。&lt;/p&gt;
-&lt;h3 id=&#34;二提高寫作效率&#34;&gt;二、提高寫作效率&lt;/h3&gt;
-&lt;p&gt;用說的真的比用寫的快很多。有時候講一個列表，它會自動幫你標上數字；當你思緒卡住，說了「嗯」跟「啊」，或是跟它說「哎呀我講錯了」，它也聽得懂，會幫你删掉贅詞和錯誤的內容。除此之外，當我說一個中英夾雜的句子，大多數時候它也沒問題。比如：「我覺得那家 ice cream shop 的 Gelato 很好吃，下次我想要吃 strawberry 口味的！」這句晶晶體的話就是用 Typeless 打的哈哈哈。&lt;/p&gt;
-&lt;h3 id=&#34;三翻譯效率提升&#34;&gt;三、翻譯效率提升&lt;/h3&gt;
-&lt;p&gt;我的部落格都是自己先用中文寫成，再用 AI 軟體翻成英文（之後會再由我編輯、校正）。以往都需要先把文章貼到 ChatGPT，翻譯完再貼回我的 VS Code。使用 Typeless，我就不需要來回切換不同軟體，只要複製一份中文文章，選取文章並按下快捷鍵，說：「請幫我翻譯成英文。」經過幾秒後，它就能直接在原地產出文章。&lt;/p&gt;
-&lt;p&gt;除此之外，我必須提一下它的翻譯品質。我覺得 ChatGPT 有時候翻得並沒有很好，我常常需要給很多的指令，讓它比較好轉換中英文之間的差異（包括文法和慣用語），不過，還是需要我大量校正與修改。Typeless 的語言模型就非常厲害了，不僅不太需要修改，還常常讓我嘆為觀止。以下是幾個例子：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/01/lets-go-crocheting-little-cutties/&#34;&gt;〈鉤！鉤！Go！那些小可愛們〉&lt;/a&gt;有一個核心用詞叫「織織不倦」，Typeless 譯為&lt;a href=&#34;https://alicehsu.blog/posts/2026/01/our-little-cutties-at-home/&#34;&gt;「You could say we are hooked」&lt;/a&gt;。這邊雙關處理的方式令人驚艷！我原本取聲音上的雙關，以「織織不倦」來取代「孜孜不倦」。但這邊 Typeless 是以詞義來做雙關。Hook 原本是「鉤子」的意思，也可作為「鉤針」，Hooked 這個英文字是 Hook 的形容詞，有「著迷」或「愛上」的意思。不得不說，這個雙關真的是滿厲害的。&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/01/let-go-of-the-burden/&#34;&gt;〈放下重擔〉&lt;/a&gt;這篇詞，我原先有押韻。Typeless &lt;a href=&#34;https://alicehsu.blog/posts/2026/01/let-go-of-the-burden/&#34;&gt;翻成英文&lt;/a&gt;之後，它竟然也能夠完美地押韻！而且還是用英詩常見的 AABB 格律。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;或許有人會覺得，將原本的中文詩用 AI 翻成英詩，真的有必要嗎？用 AI 翻譯詩，是不是就失去了詩的美好？我倒不覺得會失去詩原本的美好，反而可能讓詩有更豐富的樣貌。對我來說，這首中文詩（以及我所有的中文文章、音樂作品、圖像作品）完全沒有用 AI 生成，是我絞盡腦汁所得的作品。完成之後，Typeless 就像我的美國朋友，幫我把文章翻成道地的英文。&lt;/p&gt;
-&lt;p&gt;扯遠了，以後有空再寫一篇相關的文章討論。&lt;/p&gt;
-&lt;h3 id=&#34;四記帳變快了&#34;&gt;四、記帳變快了&lt;/h3&gt;
-&lt;p&gt;我和 Sam 有記帳的習慣。每一次去超市買完東西、拿到一疊收據，記帳對我們來說是一件很累人的事情。開始用 Typeless 之後，想說：「如果用講的就可以輸入，不就輕鬆很多嗎？」於是我們就開始嘗試用口說的方式來輸入品項與價錢的內容，發現速度超級快！&lt;/p&gt;
-&lt;h2 id=&#34;使用方式&#34;&gt;使用方式&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;電腦&lt;/strong&gt;：按著預設的快捷鍵 &lt;code&gt;Fn&lt;/code&gt; 開始說話，講完後放開，系統就會顯示你剛才說的內容；此外，你也可以使用免持系統 &lt;code&gt;Fn&lt;/code&gt; + &lt;code&gt;space&lt;/code&gt; 就不用一直按著。&lt;/p&gt;
-&lt;p&gt;因為我 Mac 的 Delete 快捷鍵是 &lt;code&gt;Fn&lt;/code&gt; + &lt;code&gt;Delete&lt;/code&gt; 鍵，而每次一按到預設的 &lt;code&gt;Fn&lt;/code&gt; 快捷鍵，它都會觸發 Typeless，我就把 Typeless 的快捷鍵改成 &lt;code&gt;Control&lt;/code&gt; 了&lt;/p&gt;
-&lt;p&gt;目前為止，我還沒碰過不能使用的介面。 VS Code、網頁搜尋欄、ChatGPT、Mac 的 Notes 以及 finder&amp;hellip;&amp;hellip;等等，都能用 Typeless。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;手機&lt;/strong&gt;：下載了 Typeless 的 App 之後，它會內建在手機鍵盤。需要打字時，切換鍵盤到 Typeless，接著點一下黑色麥克風，講完後再點一下就好了。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;使用技巧&#34;&gt;使用技巧&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;有時候它需要比較長的句子才能明白你在講什麼。比如說，如果我要用台語講「蚵仔煎」。若我只講這幾個字，我的 Typeless 就會打出「我家 then」，不過如果台灣國語說：「我想要去夜市吃蚵仔煎 」，這樣「蚵仔煎」就會寫對字。&lt;/li&gt;
-&lt;li&gt;Typeless 偶爾會自作聰明改掉你原本講的每個字，讓它覺得比較通順（不是我覺得比較通順）。如果你想要它一字不改你說的話，可以先跟它說：「&lt;strong&gt;請一字不漏地輸入以下我講的每一句、每一個字&lt;/strong&gt;：『我覺得非常開心，可以在這裡介紹 Typeless&amp;hellip;&amp;hellip;』」這樣就好啦！&lt;/li&gt;
-&lt;li&gt;我們用試算表來記帳，需要品項和價格分開記在不同的儲存格。我們會先下指令，才輸入要記的內容，例如：「&lt;strong&gt;請你待會在品項和價錢之間用 tab 分開，不需要加上數字編號。&lt;/strong&gt; 番茄 2.99，泡麵 4.79&amp;hellip;&amp;hellip;」我們發現，一次講多一點品項，它比較不會有幻覺。缺點就是它會把指令語也輸進去，不過刪掉就好，不是太大的問題。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;費用&#34;&gt;費用&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;免費版：一個禮拜可以講 4,000 字，對於不需大量文字產出的人，已經很夠用了。&lt;/li&gt;
-&lt;li&gt;付費版：字數無限，且提供 30 天的試用期。買一年的話，一個月美金 12 元。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;結語&#34;&gt;結語&lt;/h2&gt;
-&lt;p&gt;使用 Typeless 之後，我才發現以前自己手寫筆記的學習效率並不高，反倒是因著用說的來做筆記，更容易理解學到的東西，並記住知識內容。&lt;/p&gt;
-&lt;p&gt;推薦給大家！&lt;/p&gt;
-&lt;p&gt;官方下載點：&lt;a href=&#34;https://www.typeless.com/&#34;target=&#34;_blank&#34;
-&gt;Typeless&lt;/a&gt;&lt;/p&gt;
-
-      </content:encoded>
-    </item>
-    <item>
       <title>數位極簡生活宣言</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/01/digital-minimalism-manifesto/</link>
       <pubDate>Sun, 18 Jan 2026 23:00:00 -0600</pubDate>
@@ -8522,7 +8405,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
      data-lightbox=&#34;true&#34;&gt;
 
   &lt;div class=&#34;masonry-container&#34;&gt;
-    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/14/0-2.JPG&#34; 
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/14/32.JPG&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-e094762fff4917ad1422f086658d21ef-5&#34;&gt;
             

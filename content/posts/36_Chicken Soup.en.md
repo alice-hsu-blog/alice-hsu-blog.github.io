@@ -22,7 +22,7 @@ Making a truly impressive chicken soup is actually quite a hassle. If you’re m
 
 When we went to the supermarket, we found there weren’t many choices on the shelf—just two types:
 
-1. Air-chilled chicken : All the giblets were cleaned out, but the chickens were on the smaller side.
+1. Air-chilled chicken: All the giblets were cleaned out, but the chickens were on the smaller side.
 
 2. Conventionally processed chicken: Much larger, but still had some giblets inside.
 
