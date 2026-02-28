@@ -2937,7 +2937,7 @@
     font-size: 1.1rem;
     max-width: none;
     text-align: justify;
-    text-justify: inter-word;
+    text-justify: inter-character; /* 中文／CJK 兩端對齊 */
     hyphens: auto;
     overflow-wrap: break-word; /* 防止太長的單字超出邊界 */
   }
@@ -3051,6 +3051,8 @@
     margin-top: 1.25rem;
     margin-bottom: 1.25rem;
     color: var(--tw-prose-body);
+    text-align: justify;
+    text-justify: inter-character; /* 中文／CJK 兩端對齊 */
   }
   .prose p:first-child {
     margin-top: 0;
@@ -3248,6 +3250,7 @@
     padding-left: 1.2rem;
     margin: 0.5rem 0.3rem;
     color: var(--tw-prose-body);
+    text-align: justify;
   }
   .prose li > ul > li {
     margin: 0.5rem -1rem;
@@ -3274,6 +3277,7 @@
     margin: 0.5rem 0.6rem;
     counter-increment: item;
     color: var(--tw-prose-body);
+    text-align: justify;
   }
   .prose ol > li::before {
     content: counter(item);
@@ -3364,6 +3368,7 @@
     color: var(--tw-prose-body);
     padding-left: 1rem;
     border-left: 2px solid var(--color-border);
+    text-align: justify;
     @supports (color: color-mix(in lab, red, red)) {
       border-left: 2px solid color-mix(in srgb, var(--color-border) 50%, transparent);
     }

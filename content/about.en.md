@@ -35,7 +35,7 @@ Hobbies:
 
 I started out as a dog person, then grew to love cats too. Now I am firmly on team cute animals.
 
-This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in this post: *[What Happened When I Deleted My Facebook and Instagram App?](/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/)*
+This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in these two posts: *[What Happened When I Deleted My Facebook and Instagram App?](/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/)* and *[Pros and Cons of Self-Hosted Blogs](/posts/2026/01/pros-and-cons-of-self-hosted-blogs/)*
 
 I’d like to thank my husband  [Samuel](https://mhyeh.github.io/) ("Sam" in my posts ) for building this website and making it look as beautiful as it does now ❤️
 

@@ -4,7 +4,7 @@ draft = false
 title = '午後散步'
 slug = 'walk in the afternoon'
 summary = '對湖而言，冰凍三尺，非一日之寒，是好幾日好幾週好幾月之寒'
-cover = '/images/Post/37/1.jpg'
+cover = '/images/Post/38/1.jpg'
 cover_on_post = false
 categories = ['隨想雜談']
 author_twitter_handle = '@Alicehsu77' 
@@ -36,7 +36,7 @@ og_type = 'article'
 午後出去走走，驅散寒氣，迎接初春。
 
 {{< masonry columns=1 gutter=20 maxColumns=10 width=95 >}}
-![](/images/Post/37/1.jpg)
-![](/images/Post/37/2.jpg)
-![](/images/Post/37/3.JPG)
+![](/images/Post/38/1.jpg)
+![](/images/Post/38/2.jpg)
+![](/images/Post/38/3.JPG)
 {{< /masonry>}}

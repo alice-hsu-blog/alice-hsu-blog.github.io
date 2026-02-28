@@ -121,11 +121,14 @@
 }
 
 /* 段落和文本 */
+/* 段落：左右對齊（兩端對齊） */
 .prose p {
   @apply leading-7;
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
   color: var(--tw-prose-body);
+  text-align: justify;
+  text-justify: inter-character; /* 中文／CJK 較佳 */
 }
 
 .prose p:first-child {
@@ -343,6 +346,7 @@
   padding-left: 1rem;
   margin: 0.5rem 0.6rem;
   color: var(--tw-prose-body);
+  text-align: justify;
 }
 
 .prose ul li::before {
@@ -369,6 +373,7 @@
   margin: 0.5rem 0.6rem;
   counter-increment: item;
   color: var(--tw-prose-body);
+  text-align: justify;
 }
 
 .prose ol li::before {
@@ -471,6 +476,7 @@
   padding-left: 1rem;
   border-left: 2px solid
     color-mix(in srgb, var(--color-border) 50%, transparent);
+  text-align: justify;
 }
 
 /* 嵌套列表样式改进 */
