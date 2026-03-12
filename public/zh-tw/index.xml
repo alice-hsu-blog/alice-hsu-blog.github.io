@@ -6,8 +6,660 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 28 Feb 2026 16:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 20:00:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>舊約歷史好難懂？用視覺化的方式讀懂它！</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/03/introduce-visbible.org/</link>
+      <pubDate>Wed, 11 Mar 2026 20:00:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/03/introduce-visbible.org/</guid>
+      <description>北國的亞哈謝和約蘭是兄弟，南國的約蘭和亞哈謝是父子。南國約蘭的兒子亞哈謝，跟北國亞哈謝的兄弟約蘭，一起去基列的拉末打亞蘭王哈薛。</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/40/2.png" />
+        <media:content url="https://alicehsu.blog/images/Post/40/2.png" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/40/2.png" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;這陣子在部落格的發文頻率變得比較低，因為都把時間花在做網站啦！&lt;/p&gt;
+&lt;p&gt;隆重跟大家介紹，我和 Sam 做了一個網站叫做 &lt;a href=&#34;https://visbible.org/&#34;target=&#34;_blank&#34;
+&gt;VisBible.org&lt;/a&gt;。這個網站旨在將聖經裡複雜的概念，以好懂的視覺化方式呈現。目前我們做了一個專案叫做&lt;a href=&#34;https://visbible.org/KingsTimeline/&#34;target=&#34;_blank&#34;
+&gt;「聖經君王時序」&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;讀聖經的痛點&#34;&gt;讀聖經的痛點&lt;/h2&gt;
+&lt;p&gt;如果你是基督徒或者曾經讀過聖經，就會發現一旦讀到舊約《列王紀》和《歷代志》，就是一連串複雜的歷史。有時候《列王紀》有記載的，《歷代志》沒有；有時候《歷代志》有寫的，《列王紀》卻沒提。此外，中文聖經和合本的翻譯裡，有許多不同的君王名字翻譯得一模一樣，導致讀者讀到《列王紀》或《歷代志》時，常覺得是一場大混戰。人很多、事情也多，名字又很像，讀起來非常辛苦：&lt;/p&gt;
+&lt;div
+    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
+              border-left-color: var(--color-note);
+              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+      &lt;div
+        class=&#34;
+          cursor-pointer
+         flex items-center justify-between px-6 py-6&#34;
+        
+          onclick=&#34;toggleAlert(&#39;alert-0&#39;)&#34; role=&#34;button&#34; tabindex=&#34;0&#34;
+          aria-expanded=&#34;true&#34; aria-controls=&#34;alert-0-content&#34;
+          onkeydown=&#34;if(event.key===&#39;Enter&#39;||event.key===&#39; &#39;){toggleAlert(&#39;alert-0&#39;);event.preventDefault();}&#34;
+        &gt;
+        &lt;div class=&#34;flex items-center gap-3&#34;&gt;
+          
+          &lt;h4
+            id=&#34;alert-0-title&#34;
+            class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;
+            請跟我一起繞口令
+          &lt;/h4&gt;
+        &lt;/div&gt;
+
+        
+        
+          &lt;div
+            class=&#34;flex-shrink-0 transition-transform duration-200&#34;
+            id=&#34;alert-0-chevron&#34;&gt;
+            
+  &lt;svg class=&#34;h-4 w-4&#34;
+    fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34;
+    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M19 9l-7 7-7-7&#34; /&gt;
+&lt;/svg&gt;
+          &lt;/div&gt;
+        
+      &lt;/div&gt;
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;南國約蘭的兒子亞哈謝，跟北國亞哈謝的兄弟約蘭，一起去基列的拉末打亞蘭王哈薛。&lt;/p&gt;
+&lt;p&gt;（救命啊&amp;hellip;Orz）&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;更不用說讀到舊約後面的大小先知書了，由於大小先知書的書寫背景是基於前面《列王紀》和《歷代志》所記載的歷史，如果前面都搞不清楚了，讀到後面先知針對以色列南北國以及列國所傳達上帝審判的訊息時，很難有歷史脈絡，只會有一種神很兇的錯誤模糊印象，殊不知是這些王本來就很誇張，上帝已經派許多人提醒過了。&lt;/p&gt;
+&lt;h2 id=&#34;網頁的亮點&#34;&gt;網頁的亮點&lt;/h2&gt;
+&lt;p&gt;以上是身為基督徒的我在讀經時常遇到的困擾，我想可能別人也會有同樣的問題吧。為了解決它，我和 Sam 建立了&lt;a href=&#34;https://visbible.org/KingsTimeline/&#34;target=&#34;_blank&#34;
+&gt;「聖經君王時序」&lt;/a&gt;專案，以每個王為單位，統整《列王紀》及《歷代志》所書寫關於每個王的事件、上帝當時候做的事，以及外邦動向，讓訊息是統整在一起的。&lt;/p&gt;
+&lt;p&gt;除了整合訊息外，這個網頁的亮點如下：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;用不同的顏色區分好王、壞王、介於兩者之間的王、外邦的事件以及神的作為，讓人一眼就可以看出南、北國整體發展的動向&lt;/strong&gt;：例如：北國除了耶戶這個模糊的人物之外，是一如既往的烏漆嘛黑，一大堆惡王；而南國則是中間有幾個好王，但到後面也跟著烏漆嘛黑，越來越壞。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;標註先知在哪些王在位時服事&lt;/strong&gt;：閱讀先知書時，可以來回參照這個網站，迅速得知當時的歷史背景。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;所有事件摘要都附有原文出處&lt;/strong&gt;：點擊超連結就可連至 Bible Gateway 的網站得知出處經文原文段落。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;網頁設計上的取捨--一些qa&#34;&gt;網頁設計上的取捨 / 一些QA&lt;/h2&gt;
+&lt;div
+    class=&#34;alert alert-tip my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-tip) 10%, transparent);
+              border-left-color: var(--color-tip);
+              --hover-bg: color-mix(in srgb, var(--color-tip) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-tip) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-1-title&#34;&gt;
+    
+    
+      &lt;div
+        class=&#34;
+          cursor-pointer
+         flex items-center justify-between px-6 py-6&#34;
+        
+          onclick=&#34;toggleAlert(&#39;alert-1&#39;)&#34; role=&#34;button&#34; tabindex=&#34;0&#34;
+          aria-expanded=&#34;false&#34; aria-controls=&#34;alert-1-content&#34;
+          onkeydown=&#34;if(event.key===&#39;Enter&#39;||event.key===&#39; &#39;){toggleAlert(&#39;alert-1&#39;);event.preventDefault();}&#34;
+        &gt;
+        &lt;div class=&#34;flex items-center gap-3&#34;&gt;
+          
+          &lt;h4
+            id=&#34;alert-1-title&#34;
+            class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;
+            Q: 為什麼不要把網頁用直式來排列，而是用橫式排列？
+          &lt;/h4&gt;
+        &lt;/div&gt;
+
+        
+        
+          &lt;div
+            class=&#34;flex-shrink-0 transition-transform duration-200&#34;
+            id=&#34;alert-1-chevron&#34;&gt;
+            
+  &lt;svg class=&#34;h-4 w-4&#34;
+    fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34;
+    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M19 9l-7 7-7-7&#34; /&gt;
+&lt;/svg&gt;
+          &lt;/div&gt;
+        
+      &lt;/div&gt;
+    
+
+    
+    &lt;div
+      id=&#34;alert-1-content&#34;
+      class=&#34;alert-content 
+        hidden
+       px-6 pb-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;A: 因為直式排列對我本人來說很違反直覺。我認為把南國放在下面、北國放在上面（以地理方位上下來區分）是比較直覺的。另外，歷史時間由左到右呈現，有種電影膠捲的感覺，也比較符合我對時間的直覺。如果你覺得上下排列比較直覺的話，已經有人做過了，可以到&lt;a href=&#34;https://bibleeveryone.com/kings.php&#34;target=&#34;_blank&#34;
+&gt;這個網站&lt;/a&gt;去看看。&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;div
+    class=&#34;alert alert-tip my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-tip) 10%, transparent);
+              border-left-color: var(--color-tip);
+              --hover-bg: color-mix(in srgb, var(--color-tip) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-tip) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-2-title&#34;&gt;
+    
+    
+      &lt;div
+        class=&#34;
+          cursor-pointer
+         flex items-center justify-between px-6 py-6&#34;
+        
+          onclick=&#34;toggleAlert(&#39;alert-2&#39;)&#34; role=&#34;button&#34; tabindex=&#34;0&#34;
+          aria-expanded=&#34;false&#34; aria-controls=&#34;alert-2-content&#34;
+          onkeydown=&#34;if(event.key===&#39;Enter&#39;||event.key===&#39; &#39;){toggleAlert(&#39;alert-2&#39;);event.preventDefault();}&#34;
+        &gt;
+        &lt;div class=&#34;flex items-center gap-3&#34;&gt;
+          
+          &lt;h4
+            id=&#34;alert-2-title&#34;
+            class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;
+            Q: 為什麼要以「王」為單位，而不是以「時間」為單位？
+          &lt;/h4&gt;
+        &lt;/div&gt;
+
+        
+        
+          &lt;div
+            class=&#34;flex-shrink-0 transition-transform duration-200&#34;
+            id=&#34;alert-2-chevron&#34;&gt;
+            
+  &lt;svg class=&#34;h-4 w-4&#34;
+    fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34;
+    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M19 9l-7 7-7-7&#34; /&gt;
+&lt;/svg&gt;
+          &lt;/div&gt;
+        
+      &lt;/div&gt;
+    
+
+    
+    &lt;div
+      id=&#34;alert-2-content&#34;
+      class=&#34;alert-content 
+        hidden
+       px-6 pb-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;A: 如果以時間為單位，有些王在位的年份非常少，可能才七天或是幾個月，在視覺呈現效果上會變得很窄、不好看。所以思前想後，還是決定以「王」為單位，畢竟在讀《歷代志》和《列王紀》的時候，大多數也都是以王為單位。&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;div
+    class=&#34;alert alert-tip my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-tip) 10%, transparent);
+              border-left-color: var(--color-tip);
+              --hover-bg: color-mix(in srgb, var(--color-tip) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-tip) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-3-title&#34;&gt;
+    
+    
+      &lt;div
+        class=&#34;
+          cursor-pointer
+         flex items-center justify-between px-6 py-6&#34;
+        
+          onclick=&#34;toggleAlert(&#39;alert-3&#39;)&#34; role=&#34;button&#34; tabindex=&#34;0&#34;
+          aria-expanded=&#34;false&#34; aria-controls=&#34;alert-3-content&#34;
+          onkeydown=&#34;if(event.key===&#39;Enter&#39;||event.key===&#39; &#39;){toggleAlert(&#39;alert-3&#39;);event.preventDefault();}&#34;
+        &gt;
+        &lt;div class=&#34;flex items-center gap-3&#34;&gt;
+          
+          &lt;h4
+            id=&#34;alert-3-title&#34;
+            class=&#34;m-0 font-semibold text-foreground/90&#34;&gt;
+            Q: 為什麼要用黑色代表「壞王」？紅色代表「好王」？藍色代表「神的作為」？綠色代表「外邦的作為」？
+          &lt;/h4&gt;
+        &lt;/div&gt;
+
+        
+        
+          &lt;div
+            class=&#34;flex-shrink-0 transition-transform duration-200&#34;
+            id=&#34;alert-3-chevron&#34;&gt;
+            
+  &lt;svg class=&#34;h-4 w-4&#34;
+    fill=&#34;none&#34;
+    stroke=&#34;currentColor&#34;
+    viewBox=&#34;0 0 24 24&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M19 9l-7 7-7-7&#34; /&gt;
+&lt;/svg&gt;
+          &lt;/div&gt;
+        
+      &lt;/div&gt;
+    
+
+    
+    &lt;div
+      id=&#34;alert-3-content&#34;
+      class=&#34;alert-content 
+        hidden
+       px-6 pb-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;A: 因為黑色對我而言，感覺就是這個人黑心肝、壞透了。而用紅色代表好王，代表我們要 highlight 做得好的事情，要記得他哪裡值得學習。至於藍色跟綠色嘛&amp;hellip;&amp;hellip;則沒有什麼特別意義，純粹覺得好看。&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;h2 id=&#34;網頁截圖&#34;&gt;網頁截圖&lt;/h2&gt;
+
+&lt;style&gt;
+  
+#masonry-11246d08417f059fb5d01565eb2ee54f-1 {
+  width: 100%;
+}
+
+#masonry-11246d08417f059fb5d01565eb2ee54f-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-11246d08417f059fb5d01565eb2ee54f-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 20px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-11246d08417f059fb5d01565eb2ee54f-1 .masonry-item img {
+  width: 95%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-11246d08417f059fb5d01565eb2ee54f-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-11246d08417f059fb5d01565eb2ee54f-1 .glightbox:hover,
+#masonry-11246d08417f059fb5d01565eb2ee54f-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-11246d08417f059fb5d01565eb2ee54f-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-11246d08417f059fb5d01565eb2ee54f-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-11246d08417f059fb5d01565eb2ee54f-1&#34;
+     data-columns=&#34;1&#34;
+     data-gutter=&#34;20&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/40/1.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-11246d08417f059fb5d01565eb2ee54f-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/40/1.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/40/1.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/40/2.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-11246d08417f059fb5d01565eb2ee54f-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/40/2.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/40/2.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/40/3.png&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-11246d08417f059fb5d01565eb2ee54f-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/40/3.png&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/40/3.png&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-11246d08417f059fb5d01565eb2ee54f-1&#39;;
+  const config = {
+    columns:  1 ,
+    gutter:  20 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+&lt;h2 id=&#34;結語&#34;&gt;結語&lt;/h2&gt;
+&lt;p&gt;所有的事件內容是我一筆筆填寫校訂的，可能還是會有些微的錯誤。網站上附有聯絡信箱和快速報錯表單。如果有發現網站操作或是內容資訊有不對的地方，歡迎&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScBGI-yK-xd7Uk3ICacEKFAgXUnTB3loXTrEnvPMwfUWertDg/viewform&#34;target=&#34;_blank&#34;
+&gt;填寫表單&lt;/a&gt;或來信告知。&lt;/p&gt;
+&lt;p&gt;歡迎去 &lt;a href=&#34;https://visbible.org/&#34;target=&#34;_blank&#34;
+&gt;VisBible.org&lt;/a&gt; 逛逛吧！也歡迎來信告訴我使用心得！&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>布丁的記憶</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/02/memories-of-pudding/</link>
@@ -15232,7 +15884,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       <link>https://alicehsu.blog/zh-tw/about/</link>
       <pubDate>Sun, 05 Oct 2025 09:00:00 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/about/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34; w-49&#34;&gt;&lt;img src=&#34;https://alicehsu.blog/images/avatar.jpg&#34;&#xA;    alt=&#34;profile photo&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;我是 Alice Hsu，出生於台灣，目前長居美國威斯康辛州，是音樂家，也是一位文字工作者。&lt;/p&gt;&#xA;&lt;p&gt;嗜好：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/categories/%e9%96%b1%e8%ae%80--%e5%8f%8d%e6%80%9d/&#34;&gt;讀五花八門的書&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;逛部落格&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/01/lets-go-crocheting-little-cutties/&#34;&gt;鉤針&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;沖手沖咖啡&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/categories/%e9%a3%9f%e8%ad%9c/&#34;&gt;煮飯&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;散步&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/portfolio/&#34;&gt;彈琴&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/&#34;&gt;寫字&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;一開始是狗派，後來也愛貓貓，現在是可愛動物派 &lt;span class=&#34;inline-flex items-center align-middle mx-1&#34;&gt;&#xA;  &lt;svg class=&#34;h-5 w-5&#34;&#xA;    fill=&#34;none&#34;&#xA;    stroke=&#34;currentColor&#34;&#xA;    viewBox=&#34;0 0 24 24&#34;&gt;&#xA;  &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z&#34; /&gt;&#xA;&#xA;&lt;/svg&gt;&lt;/span&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;figure class=&#34; w-49&#34;&gt;&lt;img src=&#34;https://alicehsu.blog/images/avatar.jpg&#34;&#xA;    alt=&#34;profile photo&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;我是 Alice Hsu，出生於台灣，目前長居美國威斯康辛州。基督徒、&lt;a href=&#34;https://visbible.org/&#34;target=&#34;_blank&#34;&#xA;&gt;VisBible.org&lt;/a&gt; 的負責人、音樂家、也是一位文字工作者。&lt;/p&gt;&#xA;&lt;p&gt;嗜好：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/categories/%e9%96%b1%e8%ae%80--%e5%8f%8d%e6%80%9d/&#34;&gt;讀五花八門的書&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;逛部落格&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/01/lets-go-crocheting-little-cutties/&#34;&gt;鉤針&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;沖手沖咖啡&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/categories/%e9%a3%9f%e8%ad%9c/&#34;&gt;煮飯&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;散步&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/portfolio/&#34;&gt;彈琴&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/&#34;&gt;寫字&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;一開始是狗派，後來也愛貓貓，現在是可愛動物派 &lt;span class=&#34;inline-flex items-center align-middle mx-1&#34;&gt;&#xA;  &lt;svg class=&#34;h-5 w-5&#34;&#xA;    fill=&#34;none&#34;&#xA;    stroke=&#34;currentColor&#34;&#xA;    viewBox=&#34;0 0 24 24&#34;&gt;&#xA;  &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z&#34; /&gt;&#xA;&#xA;&lt;/svg&gt;&lt;/span&gt;&lt;/p&gt;</description>
 
       
 
@@ -15241,7 +15893,8 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     alt=&#34;profile photo&#34;&gt;
 &lt;/figure&gt;
 
-我是 Alice Hsu，出生於台灣，目前長居美國威斯康辛州，是音樂家，也是一位文字工作者。&lt;/p&gt;
+我是 Alice Hsu，出生於台灣，目前長居美國威斯康辛州。基督徒、&lt;a href=&#34;https://visbible.org/&#34;target=&#34;_blank&#34;
+&gt;VisBible.org&lt;/a&gt; 的負責人、音樂家、也是一位文字工作者。&lt;/p&gt;
 &lt;p&gt;嗜好：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/categories/%e9%96%b1%e8%ae%80--%e5%8f%8d%e6%80%9d/&#34;&gt;讀五花八門的書&lt;/a&gt;&lt;/li&gt;
