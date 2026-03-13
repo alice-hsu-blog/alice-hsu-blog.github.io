@@ -6,8 +6,540 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Mar 2026 20:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 20:30:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何省時間？</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/03/how-to-save-time/</link>
+      <pubDate>Thu, 12 Mar 2026 20:30:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/03/how-to-save-time/</guid>
+      <description>在家裡附近的圖書館看到一本薄薄的小書，放在 non-fiction 區，叫作 「How to Save Time」</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/41/2.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post/41/2.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/41/2.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;p&gt;在家裡附近的圖書館看到一本薄薄的小書，放在 non-fiction 區，叫作 「How to Save Time」。&lt;/p&gt;
+&lt;p&gt;原本預期這本書是純文字的論述書籍，再加上幾個實用的小技巧吧，結果翻開內文第一頁，我就愣住了。&lt;/p&gt;
+&lt;p&gt;第一頁：
+
+&lt;style&gt;
+  
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-1 {
+  width: 100%;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-1 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-1 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 20px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-1 .masonry-item img {
+  width: 95%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-1 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-1 .glightbox:hover,
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-1 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-1 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-1 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-75b45e79a17b8e676c9b64d0c86234e5-1&#34;
+     data-columns=&#34;1&#34;
+     data-gutter=&#34;20&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/41/1.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-75b45e79a17b8e676c9b64d0c86234e5-1&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/41/1.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/41/1.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-75b45e79a17b8e676c9b64d0c86234e5-1&#39;;
+  const config = {
+    columns:  1 ,
+    gutter:  20 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&amp;hellip;好的喔？&lt;/p&gt;
+&lt;p&gt;快速翻了一下，整本書都像第一頁一樣，一張圖片加上一行簡單的敘述句。&lt;/p&gt;
+&lt;p&gt;「May 總是丟東西。」&lt;/p&gt;
+&lt;p&gt;「她在客廳放了一個碗，碗放了眼鏡、碗放了鑰匙、碗放了手機。」&lt;/p&gt;
+&lt;p&gt;「現在 May 知道她東西放哪了。」&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&amp;hellip;所以之前 May 都把時間浪費在找東西就對了？&lt;/p&gt;
+&lt;p&gt;還有一段：&lt;/p&gt;
+&lt;p&gt;「May 有很多事情要做。」&lt;/p&gt;
+&lt;p&gt;「她要上課。」&lt;/p&gt;
+&lt;p&gt;「她在保齡球隊裡打球。」&lt;/p&gt;
+&lt;p&gt;「她在學前遊戲班幫忙。」&lt;/p&gt;
+&lt;p&gt;「May 沒辦法做所有的事。」&lt;/p&gt;
+&lt;p&gt;「所以她減少事情。」&lt;/p&gt;
+&lt;p&gt;「她就省時間啦。」&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&amp;hellip;人生可以這麼簡單就好啦 XD&lt;/p&gt;
+&lt;p&gt;讓我在圖書館憋不住的是這個：&lt;/p&gt;
+
+&lt;style&gt;
+  
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-2 {
+  width: 100%;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-2 .masonry-container {
+  width: 100%;
+  position: relative;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-2 .masonry-item {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 20px;
+  break-inside: avoid;
+  box-sizing: border-box;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-2 .masonry-item img {
+  width: 95%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 0.5rem;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-2 .glightbox {
+  display: block;
+  text-decoration: none;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 0.5rem;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-2 .glightbox:hover,
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-2 .glightbox:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-2 .masonry-item:hover img {
+  transform: scale(1.05);
+}
+
+#masonry-75b45e79a17b8e676c9b64d0c86234e5-2 .masonry-item {
+  overflow: hidden;
+  border-radius: 0.5rem;
+}
+&lt;/style&gt;
+
+&lt;div class=&#34;masonry-gallery&#34; 
+     id=&#34;masonry-75b45e79a17b8e676c9b64d0c86234e5-2&#34;
+     data-columns=&#34;1&#34;
+     data-gutter=&#34;20&#34;
+     data-animate=&#34;true&#34;
+     data-use-transform=&#34;true&#34;
+     data-center=&#34;true&#34;
+     data-max-columns=&#34;10&#34;
+     data-lightbox=&#34;true&#34;&gt;
+
+  &lt;div class=&#34;masonry-container&#34;&gt;
+    &lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/41/2.JPG&#34; 
+             class=&#34;glightbox&#34;
+             data-gallery=&#34;masonry-75b45e79a17b8e676c9b64d0c86234e5-2&#34;&gt;
+            
+            &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/41/2.JPG&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/41/2.JPG&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;script&gt;
+(function() {
+  const containerId = &#39;masonry-75b45e79a17b8e676c9b64d0c86234e5-2&#39;;
+  const config = {
+    columns:  1 ,
+    gutter:  20 ,
+    maxColumns:  10 ,
+    lightbox:  true ,
+    animate: &#34;true&#34;,
+    useTransform: &#34;true&#34;,
+    center: &#34;true&#34;
+  };
+  
+  console.log(&#39;Initializing masonry gallery:&#39;, containerId, config);
+  
+  function initMasonryGallery() {
+    const container = document.getElementById(containerId);
+    if (!container) {
+      console.error(&#39;Masonry container not found:&#39;, containerId);
+      return;
+    }
+    
+    const masonryContainer = container.querySelector(&#39;.masonry-container&#39;);
+    if (!masonryContainer) {
+      console.error(&#39;Masonry inner container not found&#39;);
+      return;
+    }
+    
+    
+    if (typeof Macy === &#39;undefined&#39;) {
+      console.error(&#39;Macy.js not loaded&#39;);
+      return;
+    }
+    
+    console.log(&#39;Found container and Macy, initializing...&#39;);
+    
+    
+    try {
+      const macyInstance = Macy({
+        container: masonryContainer,
+        trueOrder: false,
+        waitForImages: true,
+        useOwnImageLoader: false,
+        debug: false,
+        mobileFirst: true,
+        columns: config.columns,
+        margin: {
+          x: config.gutter,
+          y: config.gutter
+        },
+        breakAt: {
+          1400: Math.min(config.maxColumns, config.columns),
+          1200: Math.min(config.maxColumns, config.columns),
+          940: Math.min(config.maxColumns, config.columns),  
+          768: Math.min(3, config.columns),
+          520: Math.min(2, config.columns),
+          400: 1
+        }
+      });
+      
+      console.log(&#39;Macy initialized successfully for&#39;, containerId);
+      
+      
+      const images = masonryContainer.querySelectorAll(&#39;img&#39;);
+      let loadedImages = 0;
+      const totalImages = images.length;
+      
+      function onImageLoad() {
+        loadedImages++;
+        console.log(`Image ${loadedImages}/${totalImages} loaded`);
+        
+        if (loadedImages === totalImages) {
+          setTimeout(() =&gt; {
+            if (macyInstance &amp;&amp; macyInstance.reCalculate) {
+              macyInstance.reCalculate(true);
+              console.log(&#39;Macy layout recalculated after all images loaded&#39;);
+            }
+          }, 100);
+        }
+      }
+      
+      images.forEach(img =&gt; {
+        if (img.complete) {
+          onImageLoad();
+        } else {
+          img.addEventListener(&#39;load&#39;, onImageLoad);
+          img.addEventListener(&#39;error&#39;, onImageLoad);
+        }
+      });
+      
+    } catch (error) {
+      console.error(&#39;Error initializing Macy:&#39;, error);
+    }
+    
+    
+    if (config.lightbox) {
+      if (typeof GLightbox !== &#39;undefined&#39;) {
+        try {
+          
+          let globalLightboxConfig = window.HUGO_GALLERY_CONFIG?.lightbox_options || {};
+          
+          if (typeof globalLightboxConfig === &#39;string&#39;) {
+            try {
+              globalLightboxConfig = JSON.parse(globalLightboxConfig);
+            } catch (e) {
+              console.error(&#39;Error parsing masonry GLightbox config:&#39;, e);
+              globalLightboxConfig = {};
+            }
+          }          
+          const lightbox = GLightbox({
+            selector: `#${containerId} .glightbox`,
+            touchNavigation: globalLightboxConfig.touchnavigation ?? globalLightboxConfig.touchNavigation ?? true,
+            loop: globalLightboxConfig.loop ?? true,
+            draggable: globalLightboxConfig.draggable ?? true,
+            zoomable: globalLightboxConfig.zoomable ?? true,
+            preload: globalLightboxConfig.preload ?? true,
+            width: globalLightboxConfig.width || &#39;90vw&#39;,
+            height: globalLightboxConfig.height || &#39;90vh&#39;,
+            descPosition: globalLightboxConfig.descposition || globalLightboxConfig.descPosition || &#39;bottom&#39;,
+            onOpen: () =&gt; {
+              console.log(&#39;GLightbox opened for&#39;, containerId);
+            }
+          });
+          
+          console.log(&#39;GLightbox initialized successfully for&#39;, containerId, &#39;with global config&#39;);
+          
+        } catch (error) {
+          console.error(&#39;Error initializing GLightbox:&#39;, error);
+        }
+      } else {
+        console.error(&#39;GLightbox not loaded but lightbox is enabled&#39;);
+      }
+    }
+  }
+  
+  
+  function waitForLibraries() {
+    let attempts = 0;
+    const maxAttempts = 50;
+    
+    function check() {
+      attempts++;
+      
+      const macyReady = typeof Macy !== &#39;undefined&#39;;
+      const lightboxReady = !config.lightbox || typeof GLightbox !== &#39;undefined&#39;;
+      
+      if (macyReady &amp;&amp; lightboxReady) {
+        initMasonryGallery();
+      } else if (attempts &lt; maxAttempts) {
+        setTimeout(check, 100);
+      } else {
+        console.error(&#39;Timeout waiting for libraries. Macy:&#39;, macyReady, &#39;GLightbox:&#39;, lightboxReady);
+      }
+    }
+    
+    check();
+  }
+  
+  
+  if (document.readyState === &#39;loading&#39;) {
+    document.addEventListener(&#39;DOMContentLoaded&#39;, waitForLibraries);
+  } else {
+    setTimeout(waitForLibraries, 50);
+  }
+})();
+&lt;/script&gt;
+&lt;p&gt;（這跟省時間有什麼關係啊？）我的內心大喊，在圖書館忍笑忍得很難過，肩膀直抖動。&lt;/p&gt;
+&lt;p&gt;人生不能太過追求表面的生產力，適當的休息還是必要的，這是作者想傳達的意思對吧？&lt;/p&gt;
+&lt;p&gt;如果有興趣的話，歡迎到&lt;a href=&#34;https://us.grassrootsbooks.net/products/how-to-save-time&#34;target=&#34;_blank&#34;
+&gt;這裡&lt;/a&gt;買書，一本 9.95，網站上有試閱，噢順帶一提，其實試聽音檔就能聽完整本書了。&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>舊約歷史好難懂？用視覺化的方式讀懂它！</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/03/introduce-visbible.org/</link>
