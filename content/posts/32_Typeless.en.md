@@ -1,6 +1,6 @@
 +++
 date = '2026-01-24T19:00:00-06:00'
-draft = true
+draft = false
 title = 'Recommend Typeless'
 summary = 'It handles mixed-language sentences quite well. For example: “我覺得那家 ice cream shop 的 Gelato 很好吃，下次我想要吃 strawberry 口味的！” This code-switching sentence was actually dictated using Typeless. '
 cover = '/images/Post32home.jpg'
