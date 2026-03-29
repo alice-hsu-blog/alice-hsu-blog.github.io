@@ -22,7 +22,7 @@ links:
   alt="profile photo"
   class=" w-49"
 >}}
-我是 Alice Hsu，出生於台灣，目前長居美國威斯康辛州。基督徒、[VisBible.org](https://visbible.org/) 的負責人、音樂家、也是一位文字工作者。
+Alice Hsu，出生於台灣，目前長居美國威斯康辛州。基督徒、[VisBible.org](https://visbible.org/) 負責人、音樂家、文字工作者。
 
 嗜好：
 - [讀五花八門的書](/zh-tw/categories/閱讀--反思/) 
