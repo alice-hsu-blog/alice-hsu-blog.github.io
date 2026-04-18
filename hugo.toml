@@ -97,7 +97,7 @@ dock = 'scroll'
 [params.toc]
   enabled = true         # Enable or disable TOC globally
   position = "right"      # Options: card left right
-  maxWidth = "220px"
+  maxWidth = "250px"
   maxHeight = "80vh"
 
 [params.home]

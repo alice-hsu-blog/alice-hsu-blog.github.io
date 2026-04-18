@@ -2915,6 +2915,10 @@
   ::-webkit-scrollbar-thumb:hover {
     background-color: var(--color-muted-foreground);
   }
+  .metadata {
+    max-width: none;
+    width: 93%;
+  }
   .prose {
     --tw-prose-body: var(--color-foreground);
     --tw-prose-headings: var(--color-foreground);
@@ -2936,6 +2940,7 @@
     line-height: calc(var(--spacing) * 8);
     font-size: 1.1rem;
     max-width: none;
+    width: 93%;
     text-align: justify;
     text-justify: inter-character; /* 中文／CJK 兩端對齊 */
     hyphens: auto;
@@ -3047,7 +3052,7 @@
   }
   .prose p {
     --tw-leading: calc(var(--spacing) * 8);
-    line-height: calc(var(--spacing) * 8);
+    line-height: calc(var(--spacing) * 7.3);
     margin-top: 1.25rem;
     margin-bottom: 1.25rem;
     color: var(--tw-prose-body);

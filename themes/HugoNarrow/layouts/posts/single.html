@@ -22,7 +22,7 @@
     {{- $colorIndex := $placeholderData.colorIndex | default 0 -}}
 
     {{- if $coverImage -}}
-      <div class="mb-8 overflow-hidden rounded-2xl">
+      <div class="mb-8 metadata overflow-hidden rounded-2xl">
         <img
           src="{{ $coverImage }}"
           alt="{{ .Title }}"
@@ -44,7 +44,7 @@
 
 
   <!-- 文章头部信息 -->
-  <header class="mb-8">
+  <header class="mb-8 metadata">
     {{ partial "content/post-meta.html" . }}
   </header>
 
