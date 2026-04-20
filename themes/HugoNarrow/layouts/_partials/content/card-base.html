@@ -80,12 +80,12 @@
                 {{ $page.Date.Format (i18n "time.date_format" | default "2006-01-02") }}
               </time>
             </div>
-            {{ if $page.ReadingTime }}
+            <!-- {{ if $page.ReadingTime }}
               <div class="flex items-center gap-1.5">
                 {{ partial "features/icon.html" (dict "name" "clock" "size" "sm" "ariaLabel" (i18n "post.reading_time")) }}
                 <span class="font-medium">{{ $page.ReadingTime }} {{ i18n "time.minute" | default "min" }}</span>
               </div>
-            {{ end }}
+            {{ end }} -->
             
           </div>
           <!-- 标签行 -->
