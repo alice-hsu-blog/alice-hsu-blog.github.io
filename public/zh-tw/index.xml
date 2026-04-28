@@ -6,8 +6,129 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Apr 2026 15:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:00:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>不要再說生產力了</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/04/dont-use-the-word-productivity-anymore/</link>
+      <pubDate>Tue, 28 Apr 2026 01:00:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/04/dont-use-the-word-productivity-anymore/</guid>
+      <description>你真覺得自己的價值和機器一樣？難道你花了許多力氣照顧生病的自己就不算一種生產力？</description>
+
+      
+
+
+      <content:encoded>&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;這是我的「&lt;a href=&#34;https://blogblog.club/party/?ref=wen-lab.tw&#34;target=&#34;_blank&#34;
+&gt;BlogBlog 同樂會 - 2026 年 4 月&lt;/a&gt;」的投稿文章。本月主題是「&lt;a href=&#34;https://www.wen-lab.tw/blogblog-party-productivity/&#34;target=&#34;_blank&#34;
+&gt;生產力&lt;/a&gt;」！&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;hr&gt;
+&lt;p&gt;　　　　　　　　　　　　　　「真正重要的事情是眼睛看不見的，唯有用心看才看得見。」&lt;br&gt;&amp;mdash;&amp;mdash;聖修伯里《小王子》&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;大學時期，我將生產力奉為圭臬。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; 當時我買了克里斯．貝利（Chris Bailey）的《最有生產力的一年》，讀了好多遍，將書裡頭的概念付諸行動，最大化每一天可以做的事情。&lt;/p&gt;
+&lt;p&gt;過了幾年，我發現我對生產力的看法完全變了。原本奉之為圭臬，現在卻棄之若敝屣。&lt;/p&gt;
+&lt;p&gt;這是為什麼呢？核心在於我發現了「生產力」（Productivity）這個詞背後所隱含的概念。&lt;/p&gt;
+&lt;p&gt;根據《牛津英文詞典》（Oxford English Dictionary），「Productivity」這個詞有以下三個意思：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;這詞最早見於 1818 年，定義為「具有生產能力的狀態或特質。」&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;到 1876 年，這個詞開始用於指涉與經濟相關的意涵，其意思為：「指投入資源（包括勞動力、材料、設備等）後所產出的產品或商品之效率，尤其常用於工業領域。」&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;到了 1881 年，與生態學相關的新意思出来了：「指個體、族群或群落產生新生物量的速率；亦指特定棲地或區域的繁殖能力與承載潛力。」&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;由此可見，「生產力」其實是很新的詞。是人類千年文明以來，近兩百年才出現的詞。也就是說，這並非亙古以來人類的共同心靈意識（至少放牧的人不會用「生產力」這個字吧）。而現代人常說的「哇這個人好有生產力」或是「我今天一整天生產力很高」，大概是從上述第二個經濟層面的意思衍生而來的。只不過，投入的資源是一個人的時間、精力、才能，而產出的則是身體和心智的勞動成果。&lt;/p&gt;
+&lt;p&gt;問題就出在這裡呀！為什麼人會用「生產力高」或「生產力低」&amp;mdash;&amp;mdash;這個因著工業革命而產生的詞語來評判自己的勞動成果呢？明明人就不是機器，卻用著看機器的眼光看自己，並且，使用這個詞彙，潛意識裡容易將自己物化之外，也容易將所有事情量化並且加上價值評判：量化自己的努力，量化勞動成果的價值，並且嘗試在這當中找到一個方程式，期望將投注的資源和結果都緊握在自己手裡，就能獲得人生的最佳解。&lt;/p&gt;
+&lt;p&gt;人生才沒那麼簡單。&lt;/p&gt;
+&lt;p&gt;今天可能有個意外、或是突如其來的一場病就會打破你原定的「生產計畫」。並且，以生產力來看待自己的工作產出不覺得狹隘嗎？難道你今天因著生病，沒辦法有太多工作成果，就要說自己「生產力低」嗎？你真覺得自己的價值和機器一樣？難道你花了許多力氣照顧生病的自己就不算一種生產力？&lt;/p&gt;
+&lt;p&gt;除此之外，我總覺得用「生產力」去評判一個人所做的事，其實是很廉價的：&lt;/p&gt;
+&lt;p&gt;「哇，這個學者的生產力好高喔！」：我們不問學者的研究帶來多重要的影響，只看他出版的論文篇數；
+&lt;br&gt;
+「哇，這個作家的生產力好高喔！」：我們不看作家的書籍安慰多少人的心靈，只看他一年寫了幾本書；
+&lt;br&gt;
+「哇，我今天生產力好高喔！」：我們不思考做事情最重要的目的是什麼？只看量有沒有達成原先所設的目標。&lt;/p&gt;
+&lt;p&gt;或許你會掙扎著重新定義生產力、重新界定生產力的定義範圍不只包括量還包括質，不過重新定義代表著必須除魅，一不小心，最初的意思會鬼影幢幢出沒攪擾你的思緒、你的信心、你對人生應該要怎樣的既定想像。&lt;/p&gt;
+&lt;p&gt;既然如此，該當如何？我認為：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;不要再使用「生產力」這個詞來描述人了&lt;/strong&gt;：「生產力」即便重新定義，還是常需要與舊的意思對抗，何不選一個意思不模稜兩可、大家都有共識的詞？如果真要找一個詞來描述「所付出之能力與所獲得之功效的比率」，&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; 不是還有一個更好的詞嗎？就是「&lt;strong&gt;效率&lt;/strong&gt;」。效率這個詞客觀描繪人做事情投入的資源與其成果的比率，沒有額外的意思，不像「生產力」，難免會將比率與價值評判畫上等號。而且有趣的是，當我們大大方方用「效率」這個詞來指涉「量」，就不會想再貪心地拿這個詞去概括「質」的意思了。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;重新思考你所做的事情，是否為達成目的的最佳手段&lt;/strong&gt;：一天結束之際，別急著用做了多少事情來評價自己，先回頭思考做事情的目的是什麼，而你所安排的這些事情，是否真為達成目的的最佳手段？畢竟，若這些行動並非最好的方法，或者根本達不到目的地，那就算你做再多生產力再高，也只能生產出成堆成山的徒勞。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;開頭時曾提到，我大學時代曾視生產力為人生之重要準則，回頭看來，其實是生產力提供當時的我一個幻象：只要我生產力越高，所有的事情就都能抓在手裡，我就擁有越多的機會和可能性，而這樣的機會和可能性就等同自我價值。不過當泡泡越吹越大，突地破滅之後，我被炸出一身焦慮和恐慌。就連上述提及的生產力研究專家貝利也提到，他在演講時突然焦慮恐慌發作的情形，迫使他必須思考生產力的意義，也迫使他重新為生產力定下界限。&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;我認為貝利書中所提的方法有待商榷，因此情願設立一個更遠的界線，也就是不再用生產力這個詞語。如果你真的要使用「生產力」這個詞，那主詞至少放個機器吧！比如：某某機器的生產力很高，不要再拿它來描述、量化人了。&lt;/p&gt;
+&lt;p&gt;畢竟，那些最難以量化的人事物，正因為無法以同一公式複製重現，往往具備最寶貴的價值。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;赫然發現&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2025/09/%e5%88%aa%e6%8e%89-fb-%e8%88%87-ig-%e7%9a%84%e6%88%91%e7%99%bc%e7%94%9f%e4%ba%86%e4%bb%80%e9%ba%bc%e8%ae%8a%e5%8c%96/&#34;&gt;當初的自己&lt;/a&gt;潛意識裡連娛樂也要有生產力，實在是&amp;hellip;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;原文為「The state or quality of being productive.」 “Productivity, N.” Oxford English Dictionary, Oxford UP, September 2025, &lt;a href=&#34;https://doi.org/10.1093/OED/4998692053&#34;target=&#34;_blank&#34;
+&gt;https://doi.org/10.1093/OED/4998692053&lt;/a&gt;.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;原文為「&lt;em&gt;Economics.&lt;/em&gt; The effectiveness of productive effort, especially in industry, as measured in terms of the rate of output (of goods, products, etc.) per unit of input (of labour, materials,equipment, etc.)」，同上。&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;原文為「&lt;em&gt;Ecology.&lt;/em&gt; The rate of production of new biomass by an individual, population, or community; the fertility or capacity of a given habitat or area」，同上。&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;此為教育部辭典對於「效率」一詞的定義 &lt;a href=&#34;https://dict.revised.moe.edu.tw/dictView.jsp?ID=107225&amp;amp;q=1&amp;amp;word=%E6%95%88%E7%8E%87&#34;target=&#34;_blank&#34;
+&gt;https://dict.revised.moe.edu.tw/dictView.jsp?ID=107225&amp;q=1&amp;word=%E6%95%88%E7%8E%87&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;出自於《愈平靜愈有生產力》一書。（克里斯．貝利。《愈平靜愈有生產力》。吳凱琳譯，天下文化，2023年。）&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>尋訪海芋 - 陽明山竹子湖</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/04/a-visit-to-calla-lily-fields/</link>
