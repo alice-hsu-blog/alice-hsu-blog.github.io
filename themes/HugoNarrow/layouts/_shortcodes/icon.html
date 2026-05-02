@@ -7,12 +7,18 @@
   - name (positional or named): Icon name (required) - corresponds to SVG file in assets/icons/
   - size (named): Predefined size (optional) - "xs", "sm", "md", "lg", "xl", "2xl", default: "md"
   - class (named): Custom CSS classes (optional)
+  - url or href (named): If set, wraps the icon in a link (use label for icon-only links)
+  - label or ariaLabel (named): aria-label on the link when url is set (recommended for accessibility)
+  - title (named): Optional title attribute on the link
+  - newtab (named): If true, opens the link in a new tab (target="_blank" rel="noopener noreferrer")
   
   Usage:
     {{< icon "heart" >}}
     {{< icon name="github" size="lg" >}}
     {{< icon "sun" class="text-primary" >}}
     {{< icon name="moon" size="xl" class="text-yellow-500" >}}
+    {{< icon name="github" url="https://github.com/..." label="GitHub profile" >}}
+    {{< icon "arrow-right" url="/posts/" label="All posts" >}}
   
   Available icons:
   See assets/icons/ directory for all available icons.
@@ -23,17 +29,37 @@
 {{- $name := .Get "name" | default (.Get 0) -}}
 {{- $size := .Get "size" | default "md" -}}
 {{- $class := .Get "class" | default "" -}}
+{{- $url := .Get "url" | default (.Get "href") | default "" -}}
+{{- $label := .Get "label" | default (.Get "ariaLabel") | default "" -}}
+{{- $title := .Get "title" | default "" -}}
+{{- $rawNewtab := .Get "newtab" -}}
+{{- $newtab := false -}}
+{{- if or (eq $rawNewtab true) (eq $rawNewtab "true") (eq $rawNewtab 1) (eq $rawNewtab "1") -}}
+  {{- $newtab = true -}}
+{{- end -}}
+{{- $wrapClass := "inline-flex items-center align-middle mx-1 cursor-pointer transition-opacity hover:opacity-80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 rounded-sm" -}}
+{{- $partialCtx := dict "name" $name "size" $size "class" $class -}}
+{{- if and $url $label -}}
+  {{- $partialCtx = merge $partialCtx (dict "hidden" true) -}}
+{{- end -}}
 
 {{- /* Validate icon name */ -}}
 {{- if not $name -}}
   {{- errorf "The %q shortcode requires an icon name. Usage: {{< icon \"name\" >}} or {{< icon name=\"name\" >}}. See %s" .Name .Position -}}
 {{- end -}}
 
-
+{{- if $url -}}
+<a
+  href="{{ $url | safeURL }}"
+  class="{{ $wrapClass }}"
+  {{- if $label }} aria-label="{{ $label }}"{{ end -}}
+  {{- if $title }} title="{{ $title }}"{{ end -}}
+  {{- if $newtab }} target="_blank" rel="noopener noreferrer"{{ end -}}
+>
+  {{- partial "features/icon.html" $partialCtx -}}
+</a>
+{{- else -}}
 <span class="inline-flex items-center align-middle mx-1">
-  {{- partial "features/icon.html" (dict 
-    "name" $name 
-    "size" $size 
-    "class" $class
-  ) -}}
+  {{- partial "features/icon.html" $partialCtx -}}
 </span>
+{{- end -}}

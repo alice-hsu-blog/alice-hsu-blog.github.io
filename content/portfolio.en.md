@@ -9,27 +9,27 @@ Due to a hand injury, I’ll be taking an extended break and won’t be posting 
 ### Original Composition
 | Published Date | Title                  | Performance                 | Score |
 |----------------|------------------------|-----------------------------|-------|
-| 10-13-2025   | Bell (Stage E. Piano)         | [YouTube](https://youtu.be/3qoF04GK2zI) / [SoundCloud](https://soundcloud.com/alice_h_hsu/alice-hsu-bell-stage-e-piano-original-piano-composition)         | [Download](/pdf/Bell.pdf)   |
-| 10-13-2025   | Bell         | [YouTube](https://youtu.be/Z4o3uY5C2EI) / [SoundCloud](https://soundcloud.com/alice_h_hsu/alice-hsu-bell-original-piano-composition)         | [Download](/pdf/Bell.pdf)   |
-| 08-27-2025   | Ruins         | [YouTube](https://youtu.be/RsftgIKy3LM ) / [SoundCloud](https://on.soundcloud.com/USjfFvWS2FYXasseaL)         | [Download](/pdf/Ruins.pdf)   |
-| 07-01-2025   | Bitter Sweet  | [YouTube](https://youtu.be/iFkaTUgE1PE) / [SoundCloud](https://on.soundcloud.com/EUAzsPntLhmjrm2gCZ)    | [Download](/pdf/Bitter%20Sweet.pdf)   |
-| 06-18-2025   | Farewell      | [YouTube](https://youtu.be/Rx4R5YYzuEg) / [SoundCloud](https://on.soundcloud.com/KXcNYTUocrhkzbLj8z)        | [Download](/pdf/Farewell.pdf)  |
+| 10-13-2025   | Bell (Stage E. Piano)         | {{< icon name="youtube" url="https://youtu.be/3qoF04GK2zI" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://soundcloud.com/alice_h_hsu/alice-hsu-bell-stage-e-piano-original-piano-composition" label="SoundCloud" newtab="true" size="lg" >}}         | [Download](/pdf/Bell.pdf)   |
+| 10-13-2025   | Bell         | {{< icon name="youtube" url="https://youtu.be/Z4o3uY5C2EI" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://soundcloud.com/alice_h_hsu/alice-hsu-bell-original-piano-composition" label="SoundCloud" newtab="true" size="lg" >}}         | [Download](/pdf/Bell.pdf)   |
+| 08-27-2025   | Ruins         | {{< icon name="youtube" url="https://youtu.be/RsftgIKy3LM" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/USjfFvWS2FYXasseaL" label="SoundCloud" newtab="true" size="lg" >}}         | [Download](/pdf/Ruins.pdf)   |
+| 07-01-2025   | Bitter Sweet  | {{< icon name="youtube" url="https://youtu.be/iFkaTUgE1PE" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/EUAzsPntLhmjrm2gCZ" label="SoundCloud" newtab="true" size="lg" >}}    | [Download](/pdf/Bitter%20Sweet.pdf)   |
+| 06-18-2025   | Farewell      | {{< icon name="youtube" url="https://youtu.be/Rx4R5YYzuEg" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/KXcNYTUocrhkzbLj8z" label="SoundCloud" newtab="true" size="lg" >}}        | [Download](/pdf/Farewell.pdf)  |
 
 
 ### Piano Covers
 | Published Date | Original Creator                  | Title                 | Performance |
 |----------------|------------------------|-----------------------------|-------|
-| 12-20-2025   | John F. Wade / From William Sandy's Christmas Carols, 1833 / John Stainer / Franz Grüber / French Carol         | [Christmas Hymns Medley](/pdf/Christmas%20Hymns%20Medley.pdf)         | [YouTube](https://www.youtube.com/watch?v=exz_3UsK_hk&t=4s) / [SoundCloud](https://on.soundcloud.com/WAJOmUA4crqsWt0dp8)  |
-| 11-25-2025   | Fujii Kaze         | Kirari         | [YouTube](https://www.youtube.com/watch?v=rIAMN3ULdX8) / [SoundCloud](https://on.soundcloud.com/9POR1wvqA5q98GWS54)  |
-| 09-16-2025   | Five for Fighting         | 100 Years         | [YouTube](https://youtu.be/a4PW3n9SA8A) / [SoundCloud](https://on.soundcloud.com/Yfra4kwTA3Di3PShph)  |
-| 08-09-2025   | Sodagreen        | Daylight (2 Piano Covers)        |  [YouTube](https://youtu.be/sNEwXQAIC3A ) / [SoundCloud](https://on.soundcloud.com/jZC8DiKaGManSVUAcP)   |
-| 06-23-2025   | Sodagreen  | Once in a Lifetime    | [YouTube](https://youtu.be/FShd3-4umQI) / [SoundCloud](https://on.soundcloud.com/Gx5LJzRlXnUtvylvmr)   |
-| 06-08-2025   | Sodagreen      | What's the Trouble on Your Mind?  | [YouTube](https://youtu.be/JpLZL5CxitI) / [SoundCloud](https://on.soundcloud.com/bI4zUMFiUCqAYPNEDc)   |
+| 12-20-2025   | John F. Wade / From William Sandy's Christmas Carols, 1833 / John Stainer / Franz Grüber / French Carol         | [Christmas Hymns Medley](/pdf/Christmas%20Hymns%20Medley.pdf)         | {{< icon name="youtube" url="https://www.youtube.com/watch?v=exz_3UsK_hk&t=4s" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/WAJOmUA4crqsWt0dp8" label="SoundCloud" newtab="true" size="lg" >}}  |
+| 11-25-2025   | Fujii Kaze         | Kirari         | {{< icon name="youtube" url="https://www.youtube.com/watch?v=rIAMN3ULdX8" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/9POR1wvqA5q98GWS54" label="SoundCloud" newtab="true" size="lg" >}}  |
+| 09-16-2025   | Five for Fighting         | 100 Years         | {{< icon name="youtube" url="https://youtu.be/a4PW3n9SA8A" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/Yfra4kwTA3Di3PShph" label="SoundCloud" newtab="true" size="lg" >}}  |
+| 08-09-2025   | Sodagreen        | Daylight (2 Piano Covers)        |  {{< icon name="youtube" url="https://youtu.be/sNEwXQAIC3A" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/jZC8DiKaGManSVUAcP" label="SoundCloud" newtab="true" size="lg" >}}   |
+| 06-23-2025   | Sodagreen  | Once in a Lifetime    | {{< icon name="youtube" url="https://youtu.be/FShd3-4umQI" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/Gx5LJzRlXnUtvylvmr" label="SoundCloud" newtab="true" size="lg" >}}   |
+| 06-08-2025   | Sodagreen      | What's the Trouble on Your Mind?  | {{< icon name="youtube" url="https://youtu.be/JpLZL5CxitI" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/bI4zUMFiUCqAYPNEDc" label="SoundCloud" newtab="true" size="lg" >}}   |
 
 
 ### Classical Music
 | Published Date | Composer                  | Title                 | Performance |
 |----------------|------------------------|-----------------------------|-------|
-| 11-05-2025   | Francis Poulenc  | Improvisation No. 7     | [YouTube](https://www.youtube.com/watch?v=vE9QNQYPN2Q) / [SoundCloud](https://soundcloud.com/alice_h_hsu/francis-poulenc-improvisation-no-7-alice-hsu?si=6f79b944c30c4c28a313056290bb51f5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)   |
-| 10-02-2025   | Dmitri Shostakovich  | Romance (from Dances of the Dolls)    | [YouTube](https://youtu.be/1hjkNCefsao) / [SoundCloud](https://on.soundcloud.com/V3xWwHzUic6wuWIH0a)   |
-| 09-26-2025   | Dmitri Shostakovich      | Lyrical Waltz (from Dances of the Dolls)  | [YouTube](https://youtu.be/PujmjvfiSsE) / [SoundCloud](https://on.soundcloud.com/VXtjg68HfjPNB3lIGJ)   |
+| 11-05-2025   | Francis Poulenc  | Improvisation No. 7     | {{< icon name="youtube" url="https://www.youtube.com/watch?v=vE9QNQYPN2Q" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://soundcloud.com/alice_h_hsu/francis-poulenc-improvisation-no-7-alice-hsu?si=6f79b944c30c4c28a313056290bb51f5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" label="SoundCloud" newtab="true" size="lg" >}}   |
+| 10-02-2025   | Dmitri Shostakovich  | Romance (from Dances of the Dolls)    | {{< icon name="youtube" url="https://youtu.be/1hjkNCefsao" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/V3xWwHzUic6wuWIH0a" label="SoundCloud" newtab="true" size="lg" >}}   |
+| 09-26-2025   | Dmitri Shostakovich      | Lyrical Waltz (from Dances of the Dolls)  | {{< icon name="youtube" url="https://youtu.be/PujmjvfiSsE" label="YouTube" newtab="true" size="lg" >}} / {{< icon name="soundcloud" url="https://on.soundcloud.com/VXtjg68HfjPNB3lIGJ" label="SoundCloud" newtab="true" size="lg" >}}   |

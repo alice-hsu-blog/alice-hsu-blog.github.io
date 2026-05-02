@@ -21,7 +21,7 @@ nav:
   total_pages: "共 {{ .count }} 頁"
   back_home: "返回首頁"
   post_navigation: "文章導覽"
-  about_us: "關於我"
+  about_us: "關於"
   portfolio: "作品集"
 
 # 主題相關
@@ -141,8 +141,8 @@ links: "連結"
 
 authors:
   author_name: "Alice Hsu"
-  author_title: "音樂家 / 文字工作者"
-  author_description: "分享音樂、閱讀和生活的網站。"
+  author_title: "文字工作者"
+  author_description: ""
   contact: "歡迎來信："
   mail: "mail@alicehsu.blog"
     

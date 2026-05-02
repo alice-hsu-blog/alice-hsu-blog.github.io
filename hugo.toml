@@ -49,9 +49,9 @@ keywords = ["Alice Hsu",
 defaultAuthor = "Alice Hsu"
 language = "en-US"
 shortName = "Alice Hsu's Blog'"
-Twitter_Image = "/favicon.png"
+Twitter_Image = "/favicon2.png"
 Twitter_Site = "@Alicehsu77"
-Image = "/favicon.png"
+Image = "/favicon2.png"
 
 stickyHeader = false
 showThemeSwitch = false
@@ -62,7 +62,7 @@ colorScheme = "sunset"
 
 
 [params.logo]
-image = "/favicon.svg"
+image = "/favicon2.svg"
 link = "/"
 
 [params.mermaid]
@@ -73,8 +73,8 @@ enabled = true
     output = 'img'
 
 [params.favicon]
-svg = "/favicon.svg"
-ico = "/favicon.ico"
+svg = "/favicon2.svg"
+ico = "/favicon2.ico"
 
 [params.author]
 name = "authors.author_name"
@@ -82,15 +82,15 @@ title = "authors.author_title"
 description = "authors.author_description"
 avatar = "/images/avatar.jpg"
 
-[[params.author.social]]
-  name = "YouTube"
-  url = "https://www.youtube.com/@alicehsumusic"
-  icon = "youtube"
+# [[params.author.social]]
+#   name = "YouTube"
+#   url = "https://www.youtube.com/@alicehsumusic"
+#   icon = "youtube"
 
-[[params.author.social]]
-  name = "SoundCloud"
-  url = "https://soundcloud.com/alicehsumusic"
-  icon = "soundcloud"
+# [[params.author.social]]
+#   name = "SoundCloud"
+#   url = "https://soundcloud.com/alicehsumusic"
+#   icon = "soundcloud"
 
 dock = 'scroll'
 
@@ -219,13 +219,13 @@ weight = 30
   [menus.main.params]
   icon = "categories"
 
-[[menus.main]]
-name = "nav.portfolio"
-pageRef = "/portfolio"
-weight = 40
+# [[menus.main]]
+# name = "nav.portfolio"
+# pageRef = "/portfolio"
+# weight = 40
 
-  [menus.main.params]
-  icon = "archive"
+  # [menus.main.params]
+  # icon = "archive"
 
 
 

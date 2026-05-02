@@ -2,17 +2,17 @@
 title: "About"
 layout: "about"
 summary: ""
-date: 2025-10-05T09:00:00-05:00
+date: 2026-05-01T23:30:00-05:00
 featured_image: "/images/avatar.png"
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
-links:
-  - name: "YouTube"
-    url: "https://youtube.com/@alicehsumusic"
-    icon: "https://www.youtube.com/s/desktop/1c6b3028/img/favicon_48x48.png"
-  - name: "SoundCloud"
-    url: "https://soundcloud.com/alicehsumusic"
-    icon: "https://favicon.im/soundcloud.com?larger=true"
+# links:
+#   - name: "YouTube"
+#     url: "https://youtube.com/@alicehsumusic"
+#     icon: "https://www.youtube.com/s/desktop/1c6b3028/img/favicon_48x48.png"
+#   - name: "SoundCloud"
+#     url: "https://soundcloud.com/alicehsumusic"
+#     icon: "https://favicon.im/soundcloud.com?larger=true"
   
 
 ---
@@ -21,22 +21,14 @@ links:
   alt="profile photo"
   class=" w-49"
 >}}
-Hi, I’m Alice Hsu. I was born in Taiwan and now live in Wisconsin, U.S. I am a musician and a writer.
 
-Hobbies: 
-- [Reading all kinds of books](/categories/reading--reflection/)
-- Browsing blogs
-- [Crocheting](/posts/2026/01/our-little-cutties-at-home/)
-- Making pour-over coffee
-- [Cooking](/categories/recipe/)
-- Taking walks
-- [Playing the piano](/portfolio/)
-- [Writing](/posts/)
+Writing, for me, is a way to settle, clarify, converse, experiment, and share.
 
-I started out as a dog person, then grew to love cats too. Now I am firmly on team cute animals.
+After writing on multiple platforms, I found that the nature of a platform undeniably shapes how a person expresses themselves and what they choose to write about. In order to preserve the greatest possible freedom in my writing, I started this blog in October 2025. As I kept writing, I realized this is still the place where I feel most at ease, and where I tend to meet a more authentic version of myself. Why is that? You can head right to the end of the hall to "[Pros and Cons of Self Hosted Blogs](/posts/2026/01/pros-and-cons-of-self-hosted-blogs/)" to find out.
 
-This personal website is my online home. A few years ago, I chose to step back from social media. While I still keep a Facebook account, it’s usually deactivated. As for Instagram, I deleted my account completely. If you’re curious, I’ve written about the reasons in these two posts: *[What Happened When I Deleted My Facebook and Instagram App?](/posts/2025/09/what-happened-when-i-deleted-my-facebook-and-instagram-app/)* and *[Pros and Cons of Self-Hosted Blogs](/posts/2026/01/pros-and-cons-of-self-hosted-blogs/)*
+Besides writing, I built a website called [VisBible](https://visbible.org/) — a Bible visualization project designed to help readers navigate the wealth of information in the Bible without feeling overwhelmed, so they can come to understand who God is and what His heart toward people looks like. I also have some [musical works](/portfolio/) you're welcome to browse.
 
-I’d like to thank my husband  [Samuel](https://mhyeh.github.io/) ("Sam" in my posts ) for building this website and making it look as beautiful as it does now ❤️
+Finally, a heartfelt thank you to my husband [Samuel](https://mhyeh.github.io/) (Sam in my posts) for setting up this website and making it look so beautiful ❤️
 
-For any feedback on my posts or music, please don't hesitate to contact me by email. You can reach me at: mail\@alicehsu.blog
+
+For any feedback, please don't hesitate to contact me by email. You can reach me at: mail\@alicehsu.blog
