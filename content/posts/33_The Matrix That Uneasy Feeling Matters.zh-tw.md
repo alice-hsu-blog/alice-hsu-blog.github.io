@@ -6,7 +6,7 @@ slug = 'The Matrix That Strange Feeling Matters'
 summary = '那種說不出來的違和感，其實是一切改變的開始。'
 cover = '/images/Post33home.png'
 cover_on_post = false
-categories = ['隨想雜談']
+categories = ['觀影 · 絮語']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

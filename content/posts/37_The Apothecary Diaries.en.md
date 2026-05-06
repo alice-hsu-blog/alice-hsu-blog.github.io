@@ -6,7 +6,7 @@ slug = 'The Apothecary Diaries'
 summary = 'why do the protagonist’s traits resonate with me so much? I think it’s because she reminds me of my friends.'
 cover = '/images/Post37home.jpg'
 cover_on_post = true
-categories = ['Thoughts and Talks']
+categories = ['Films and Series']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

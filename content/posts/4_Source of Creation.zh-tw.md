@@ -1,7 +1,7 @@
 +++
 date = '2025-10-24T21:50:24-05:00'
 draft = false
-title = '⛲ 創作的泉源'
+title = '⛲ 創作的泉源：讀林文月先生《生活可以如此美好》'
 summary = '最近在讀林文月先生（1933-2023）的《生活可以如此美好》散文集'
 cover = '/images/Post4home.JPG'
 cover_on_post = true

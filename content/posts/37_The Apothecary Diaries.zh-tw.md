@@ -6,7 +6,7 @@ slug = 'The Apothecary Diaries'
 summary = '為什麼主角這些特質會引發我的共鳴呢？我想，大概是我想到了我的朋友們吧。'
 cover = '/images/Post37home.jpg'
 cover_on_post = true
-categories = ['隨想雜談']
+categories = ['觀影 · 絮語']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

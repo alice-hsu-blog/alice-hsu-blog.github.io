@@ -5,7 +5,7 @@ title = 'The Matrix: That Strange Feeling Matters'
 summary = 'I think every change begins with a sense that something is wrong.'
 cover = '/images/Post33home.png'
 cover_on_post = false
-categories = ['Thoughts and Talks']
+categories = ['Films and Series']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
