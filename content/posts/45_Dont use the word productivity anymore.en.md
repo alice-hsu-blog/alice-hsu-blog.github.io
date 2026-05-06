@@ -16,61 +16,57 @@ og_type = 'article'
   lastRow = 'center'
 +++
 > [!Caution]+
-> 這是我的「[BlogBlog 同樂會 - 2026 年 4 月](https://blogblog.club/party/?ref=wen-lab.tw)」的投稿文章。本月主題是「[生產力](https://www.wen-lab.tw/blogblog-party-productivity/)」！
+> This is my submission for the [BlogBlog Club]((https://blogblog.club/party/?ref=wen-lab.tw)) - April 2026. This month's theme is [Productivity]((https://www.wen-lab.tw/blogblog-party-productivity/))!
 
 
----
 
 
-　　　　　　　　　　　　　　「真正重要的事情是眼睛看不見的，唯有用心看才看得見。」<br>------聖修伯里《小王子》
- 
+　　　　　　　　　　　　　　「"What is essential is invisible to the eye; it is only with the heart that one can see rightly."<br>------Antoine de Saint-Exupéry, *The Little Prince*
 
----
+In college, I treated productivity as something close to a personal creed.1 I bought Chris Bailey's The Productivity Project, read it cover to cover multiple times, put its ideas into practice, and tried to maximize everything I could accomplish in a day.
 
-大學時期，我將生產力奉為圭臬。[^1] 當時我買了克里斯．貝利（Chris Bailey）的《最有生產力的一年》，讀了好多遍，將書裡頭的概念付諸行動，最大化每一天可以做的事情。
+A few years later, I found that my view on productivity had completely changed. What I once treated as a guiding principle, I had quietly set aside.
 
-過了幾年，我發現我對生產力的看法完全變了。原本奉之為圭臬，現在卻棄之若敝屣。
+Why? The turning point came when I started paying attention to what the word "productivity" actually implies.
+According to the Oxford English Dictionary, "productivity" carries three distinct meanings:
 
-這是為什麼呢？核心在於我發現了「生產力」（Productivity）這個詞背後所隱含的概念。
+1. First recorded in 1818, it was defined as "the state or quality of being productive."
+2. By 1876, the word had taken on an economic sense: "the effectiveness of productive effort, especially in industry, as measured in terms of the rate of output (of goods, products, etc.) per unit of input (of labour, materials, equipment, etc.)."
+3. By 1881, an ecological meaning had emerged: "the rate of production of new biomass by an individual, population, or community; the fertility or capacity of a given habitat or area."
 
-根據《牛津英文詞典》（Oxford English Dictionary），「Productivity」這個詞有以下三個意思：
-1. 這詞最早見於 1818 年，定義為「具有生產能力的狀態或特質。」[^2]
-2. 到 1876 年，這個詞開始用於指涉與經濟相關的意涵，其意思為：「指投入資源（包括勞動力、材料、設備等）後所產出的產品或商品之效率，尤其常用於工業領域。」[^3]
-3. 到了 1881 年，與生態學相關的新意思出来了：「指個體、族群或群落產生新生物量的速率；亦指特定棲地或區域的繁殖能力與承載潛力。」[^4]
+What this tells us is that "productivity" is a remarkably recent word — one that emerged only in the last two hundred years of human civilization. It is not some ancient, universal human concept (shepherds through the ages certainly did not measure their days in units of productivity). When people today say "wow, that person is so productive" or "I had such a productive day," they are almost certainly drawing on that second, economic definition — one born of the Industrial Revolution. The inputs, in this case, are a person's time, energy, and abilities; the outputs are the results of their physical and mental labor.
+And that is precisely where the problem lies. Why would anyone use the language of industrial output — a framework invented to evaluate machines — to assess their own efforts and worth? We are not machines, and yet we look at ourselves through that lens. In doing so, we quietly objectify ourselves, and we begin to reduce everything to numbers with attached value judgments: quantifying our effort, quantifying the worth of what we produce, and searching for some formula that will let us hold both inputs and outcomes firmly in our own hands, as though the optimal life could be solved like an equation.
+Life is not that simple.
+An unexpected event, a sudden illness — any of these can shatter a carefully laid plan for the day. And doesn't it feel reductive to evaluate your work purely through the lens of productivity? If you're sick and can't get much done, does that make you "low-productivity"? Do you genuinely believe your worth is equivalent to that of a machine? Does spending an enormous amount of energy caring for yourself when you're unwell not count as productive?
+Beyond this, I've always found it somewhat cheap to reduce what a person does to a measure of productivity:
+"Wow, that scholar is so productive!" — we don't ask what impact their research has had; we count the papers they've published.
+"Wow, that author is so productive!" — we don't consider how many people their books have comforted; we count how many they've written in a year.
+"Wow, I was so productive today!" — we don't stop to ask what the real purpose of our work is; we only check whether the quantity met the target we set.
+You might be tempted to redefine productivity, to expand it to include quality alongside quantity. But redefining a word is no simple task. The old meaning has a way of haunting the new one, creeping back in to muddle your thinking, undermine your confidence, and disturb whatever vision you've tried to build for how life should look.
+So what should we do instead? Here is what I think:
 
-由此可見，「生產力」其實是很新的詞。是人類千年文明以來，近兩百年才出現的詞。也就是說，這並非亙古以來人類的共同心靈意識（至少放牧的人不會用「生產力」這個字吧）。而現代人常說的「哇這個人好有生產力」或是「我今天一整天生產力很高」，大概是從上述第二個經濟層面的意思衍生而來的。只不過，投入的資源是一個人的時間、精力、才能，而產出的則是身體和心智的勞動成果。
+Stop using the word "productivity" to describe people. Even a redefined version of productivity still has to fight its old meaning at every turn. Why not choose a word whose meaning is unambiguous and widely agreed upon? If what you really want to describe is "the ratio of effort invested to results achieved,"5 there is already a better word for it: efficiency. Efficiency describes, neutrally and objectively, the relationship between what you put in and what you get out. It doesn't carry the implicit value judgments that "productivity" does. And interestingly, once we use "efficiency" to refer squarely to quantity, we stop feeling the urge to stretch it to cover quality as well.
+Reconsider whether what you're doing is actually the best means to your intended end. At the end of the day, resist the urge to evaluate yourself by how much you got done. Instead, ask what the purpose behind your work really is, and whether the things you've arranged to do are genuinely the best way to get there. Because if the actions you're taking aren't the right methods, or can't actually get you to your destination, then no amount of output will produce anything but a very large pile of wasted effort.
 
-問題就出在這裡呀！為什麼人會用「生產力高」或「生產力低」------這個因著工業革命而產生的詞語來評判自己的勞動成果呢？明明人就不是機器，卻用著看機器的眼光看自己，並且，使用這個詞彙，潛意識裡容易將自己物化之外，也容易將所有事情量化並且加上價值評判：量化自己的努力，量化勞動成果的價值，並且嘗試在這當中找到一個方程式，期望將投注的資源和結果都緊握在自己手裡，就能獲得人生的最佳解。
+Looking back, I can see that the productivity obsession of my college years offered me a kind of illusion: the higher my productivity, the more I could keep everything under control, and the more control I had, the more opportunities and possibilities would open up, and those opportunities and possibilities were what made me worth something. But the bigger that bubble grew, the more violently it eventually burst, and when it did, I was left with nothing but anxiety and panic. Even Bailey himself, the productivity expert I had followed so devotedly, describes experiencing a sudden anxiety attack mid-lecture — an experience that forced him to reckon with the meaning of productivity and to set new limits around it.6
+I find myself unconvinced by the limits Bailey ultimately draws in his books, which is why I prefer to draw a more definitive line: I simply no longer use the word productivity to describe people. If you must use it, at least apply it to machines — "this machine has high productivity" works just fine. Stop using it to describe, and quantify, human beings.
+Because the things that are hardest to measure — precisely because they cannot be replicated by any formula — are so often the things that matter most.
+Footnotes
 
-人生才沒那麼簡單。
 
-今天可能有個意外、或是突如其來的一場病就會打破你原定的「生產計畫」。並且，以生產力來看待自己的工作產出不覺得狹隘嗎？難道你今天因著生病，沒辦法有太多工作成果，就要說自己「生產力低」嗎？你真覺得自己的價值和機器一樣？難道你花了許多力氣照顧生病的自己就不算一種生產力？
+I recently reread something I wrote back then and realized, with some amusement, that past me had unconsciously tried to make even leisure productive. ↩
 
-除此之外，我總覺得用「生產力」去評判一個人所做的事，其實是很廉價的：
 
-「哇，這個學者的生產力好高喔！」：我們不問學者的研究帶來多重要的影響，只看他出版的論文篇數；
-<br>
-「哇，這個作家的生產力好高喔！」：我們不看作家的書籍安慰多少人的心靈，只看他一年寫了幾本書；
-<br>
-「哇，我今天生產力好高喔！」：我們不思考做事情最重要的目的是什麼？只看量有沒有達成原先所設的目標。
+"Productivity, N." Oxford English Dictionary, Oxford UP, September 2025, https://doi.org/10.1093/OED/4998692053. ↩
 
-或許你會掙扎著重新定義生產力、重新界定生產力的定義範圍不只包括量還包括質，不過重新定義代表著必須除魅，一不小心，最初的意思會鬼影幢幢出沒攪擾你的思緒、你的信心、你對人生應該要怎樣的既定想像。
 
-既然如此，該當如何？我認為：
+Ibid. ↩
 
-1. **不要再使用「生產力」這個詞來描述人了**：「生產力」即便重新定義，還是常需要與舊的意思對抗，何不選一個意思不模稜兩可、大家都有共識的詞？如果真要找一個詞來描述「所付出之能力與所獲得之功效的比率」，[^5] 不是還有一個更好的詞嗎？就是「**效率**」。效率這個詞客觀描繪人做事情投入的資源與其成果的比率，沒有額外的意思，不像「生產力」，難免會將比率與價值評判畫上等號。而且有趣的是，當我們大大方方用「效率」這個詞來指涉「量」，就不會想再貪心地拿這個詞去概括「質」的意思了。
-2. **重新思考你所做的事情，是否為達成目的的最佳手段**：一天結束之際，別急著用做了多少事情來評價自己，先回頭思考做事情的目的是什麼，而你所安排的這些事情，是否真為達成目的的最佳手段？畢竟，若這些行動並非最好的方法，或者根本達不到目的地，那就算你做再多生產力再高，也只能生產出成堆成山的徒勞。
 
-開頭時曾提到，我大學時代曾視生產力為人生之重要準則，回頭看來，其實是生產力提供當時的我一個幻象：只要我生產力越高，所有的事情就都能抓在手裡，我就擁有越多的機會和可能性，而這樣的機會和可能性就等同自我價值。不過當泡泡越吹越大，突地破滅之後，我被炸出一身焦慮和恐慌。就連上述提及的生產力研究專家貝利也提到，他在演講時突然焦慮恐慌發作的情形，迫使他必須思考生產力的意義，也迫使他重新為生產力定下界限。[^6]
+Ibid. ↩
 
-我認為貝利書中所提的方法有待商榷，因此情願設立一個更遠的界線，也就是不再用生產力這個詞語。如果你真的要使用「生產力」這個詞，那主詞至少放個機器吧！比如：某某機器的生產力很高，不要再拿它來描述、量化人了。
 
-畢竟，那些最難以量化的人事物，正因為無法以同一公式複製重現，往往具備最寶貴的價值。
+This is the definition given by the Ministry of Education Dictionary for the term "efficiency" (效率). https://dict.revised.moe.edu.tw/dictView.jsp?ID=107225&q=1&word=%E6%95%88%E7%8E%87 ↩
 
-[^1]: 赫然發現[當初的自己](/zh-tw/posts/2025/09/刪掉-fb-與-ig-的我發生了什麼變化/)潛意識裡連娛樂也要有生產力，實在是...
-[^2]: 原文為「The state or quality of being productive.」 “Productivity, N.” Oxford English Dictionary, Oxford UP, September 2025, https://doi.org/10.1093/OED/4998692053.
-[^3]: 原文為「*Economics.* The effectiveness of productive effort, especially in industry, as measured in terms of the rate of output (of goods, products, etc.) per unit of input (of labour, materials,equipment, etc.)」，同上。
-[^4]: 原文為「*Ecology.* The rate of production of new biomass by an individual, population, or community; the fertility or capacity of a given habitat or area」，同上。
-[^5]: 此為教育部辭典對於「效率」一詞的定義 https://dict.revised.moe.edu.tw/dictView.jsp?ID=107225&q=1&word=%E6%95%88%E7%8E%87
-[^6]: 出自於《愈平靜愈有生產力》一書。（克里斯．貝利。《愈平靜愈有生產力》。吳凱琳譯，天下文化，2023年。）
 
+From How to Calm Your Mind by Chris Bailey. (Bailey, Chris. How to Calm Your Mind. Translated by Wu Kailin, Commonwealth Publishing, 2023.) ↩
