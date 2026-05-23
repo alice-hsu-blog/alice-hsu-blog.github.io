@@ -6,8 +6,100 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 20 May 2026 22:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 17:00:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Are Precious and Honored in My Sight</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/05/you-are-precious-and-honored-in-my-sight/</link>
+      <pubDate>Sat, 23 May 2026 17:00:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/05/you-are-precious-and-honored-in-my-sight/</guid>
+      <description>另外一部分的我，內心產生了一些波動，好像有某個東西被撼動了。</description>
+
+      
+
+
+      <content:encoded>&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;這是我的「&lt;a href=&#34;https://blogblog.club/party/&#34;target=&#34;_blank&#34;
+&gt;BlogBlog 同樂會 - 2026 年 5 月&lt;/a&gt;」的投稿文章。本月主題是「&lt;a href=&#34;https://eddielv.com/articles/a-sentence-changing-you/&#34;target=&#34;_blank&#34;
+&gt;改變人生觀的一句話&lt;/a&gt;」，由 &lt;a href=&#34;https://eddielv.com&#34;target=&#34;_blank&#34;
+&gt;Eddie Lv&lt;/a&gt; 主持。如果你有自己的部落格，歡迎一起來參加！&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;大三那年，我信了主，成為基督徒不久後的某一天，我讀聖經時看到這麼一句話：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;「You are precious and honored in my sight」&lt;/strong&gt;
+&lt;br&gt;
+&lt;strong&gt;（在我眼裡，你是珍貴且尊榮的。）&lt;/strong&gt; &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;這段話的前後文，其實是上帝對以色列民族說：他們是屬神的人，不要害怕外在的困難，因為上帝是他們的神；在神的眼裡，以色列人是珍貴且尊榮的。&lt;/p&gt;
+&lt;p&gt;當時候的我對聖經不熟，對這段經文背後所指涉的歷史背景及其意義不是很懂。但讀著讀著，那個當下不知知為何，這句原本對以色列民族所說的話，彷彿是指著我的鼻子看著我的眼睛說的。&lt;/p&gt;
+&lt;p&gt;我成了這句話語裡頭的「You」，而上帝彷彿面對面告訴我：在他眼裡，我是珍貴且尊榮的。&lt;/p&gt;
+&lt;p&gt;一部分的我覺得：「喔好喔，so what？那又怎樣？」&lt;/p&gt;
+&lt;p&gt;但另外一部分的我，內心產生了一些波動，好像有某個東西被撼動了。我生命當中的確有一些我所珍視的人，但我好像不會用「尊貴、榮耀」來形容他們。不過，在造物主、比我老師老闆總統首富都還大的這一位眼中，我竟然是珍貴、尊貴且榮耀的。有點難以想像。但如果是真的，是否代表我生命有不一樣的可能？&lt;/p&gt;
+&lt;p&gt;而這不一樣的可能，大概會比當時已經有的樣子還要好吧，我如此想著。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;自從這句話出現之後，我慢慢發現原來被撼動的東西叫「努力才有價值論」，也瞭解原本當初「喔好喔，so what」的反應，其實是覺得：如果我不努力、或是努力沒有為我換取一些成果和世俗價值，好像上帝就不會這樣覺得了對吧？&lt;/p&gt;
+&lt;p&gt;對吧？&lt;/p&gt;
+&lt;p&gt;結果一直到後來的幾年，甚至是近一兩年來，明明自己已經用盡全身心的力量去面對一些人、做一些事，卻還是失敗，很難不感覺自己是世界的渣渣的時候，這句話&amp;mdash;&amp;mdash;「You are precious and honored in my sight」卻還是陰魂不散地出現在我腦袋裡（用「陰魂不散」好像有點大不敬，但它確實很精準地描繪了那種不是我特意要想，卻一直冒出來的感覺），我才發現我錯了。上帝並不是看人落魄就拋棄人的渣男，即使是我在這麼低、這麼低的時候，他的戀愛保鮮期從來都沒過，就像情人眼裡出西施一樣，我在他眼中還是一個這麼寶貴的人。&lt;/p&gt;
+&lt;p&gt;接著與「努力才有價值論」相對的、新的價值慢慢長出來了，它叫作「因為有價值，所以努力論」：我努力工作不是為了創造自己的價值，也不是為了要贏得安全感；我本來就已經擁有不隨工作成果而流動的固定價值，而努力工作只是我身而為人，自然流露出來的樣子。&lt;/p&gt;
+&lt;p&gt;我必須說，這不是完全靠著我自己的意志力或理性而長出來的東西；也不是一聽到這一句話，就瞬間有什麼魔法發生，進而改變我長達幾十年的舊有思考模式，畢竟人類要改變自己或是改變別人都是極其困難的，俗諺也說：「牛牽到北京還是牛。」整體的改變比較像是滴水穿石、聚沙成塔的；上帝細水長流的愛，慢慢地模塑我的脾性。舊有的價值觀，將我塑造成一隻非常 cranky、暴躁易怒的牛牛，很擔心如果土地沒有長出來東西，我就會被賣掉殺掉；不過新的價值觀，讓我可以比較溫和平靜耕著我的地，至於這塊地長出或沒長出什麼，都不會有生存危機，還是上帝眼中一隻可愛的哞。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;這大概就是 &lt;strong&gt;「You are precious and honored in my sight」&lt;/strong&gt; 背後的故事了，這句話其實是神為我量身打造的一句話，可能不見得對你適用；不過，如果你需要屬於你的話語，上帝也都已經預備好了，只等你向他要，試著跟他要要看吧；如果想找人聊聊基督信仰的話，也歡迎來信。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;這段經文出自舊約聖經《以賽亞書》43 章 4 節，中文和合本的翻譯為：「因我看你為寶為尊。」但我個人不太喜歡這個翻譯，所以自己翻成：「在我眼裡，你是珍貴且尊榮的。」&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>【阿姨看紅樓】搖搖欲墜是賈府：一至二十回</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/05/read-dream-of-the-red-chamber-1-to-20-chapters/</link>
