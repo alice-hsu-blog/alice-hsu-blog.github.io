@@ -3,7 +3,7 @@ title: "關於"
 layout: "about"
 summary: ""
 date: 2026-05-01T23:00:00-05:00
-featured_image: "/images/avatar.png"
+featured_image: "/images/avatar2.jpg"
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
 # links:
@@ -18,7 +18,7 @@ og_type: "article"
 
 ---
 {{< figure
-  src="/images/avatar.jpg"
+  src="/images/avatar2.jpg"
   alt="profile photo"
   class=" w-49"
 >}}

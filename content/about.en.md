@@ -17,7 +17,7 @@ og_type: "article"
 
 ---
 {{< figure
-  src="/images/avatar.jpg"
+  src="/images/avatar2.jpg"
   alt="profile photo"
   class=" w-49"
 >}}

@@ -80,7 +80,7 @@ ico = "/favicon.ico"
 name = "authors.author_name"
 title = "authors.author_title"
 description = "authors.author_description"
-avatar = "/images/avatar.jpg"
+avatar = "/images/avatar2.jpg"
 
 # [[params.author.social]]
 #   name = "YouTube"
