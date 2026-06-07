@@ -6,8 +6,114 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 24 May 2026 19:00:05 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 22:50:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【阿姨看紅樓】情思纏綿寶黛釵：二十一至四十回</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-21-to-40-chapters/</link>
+      <pubDate>Sat, 06 Jun 2026 22:50:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-21-to-40-chapters/</guid>
+      <description>「喔，你怕熱喔，那應該是因為你胖吧！」</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post52home.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post52home.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post52home.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post52home.JPG"
+          loading="eager"
+        /&gt;&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;此文涉及《紅樓夢》情節討論，若不喜爆雷，請勿閱讀。&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;終於看到第四十章了！畢竟開了專欄就得要連載，總覺得放太久就會疏懶不想寫，所以還是督促自己，按著進度看一些寫一些。這二十章裡出現了許多名場面，包含黛玉葬花，還有出現在中學課本的劉姥姥進大觀園。而這一次，我想來聊聊林黛玉跟薛寶釵這兩個女主角。&lt;/p&gt;
+&lt;h3 id=&#34;二十一至四十回重要情節速記&#34;&gt;二十一至四十回重要情節速記&lt;/h3&gt;
+&lt;p&gt;寶玉和一干眾姊妹搬進大觀園、黛玉葬花、賈政差點把寶玉打死、詩社成立、劉姥姥進大觀園。&lt;/p&gt;
+&lt;h2 id=&#34;黛玉&#34;&gt;黛玉&lt;/h2&gt;
+&lt;p&gt;Sam 問我《紅樓夢》的主線劇情是什麼，我說：就是看這些弟弟妹妹談戀愛呀！（「看大家族如何衰落」這個回答太悶了，這樣誰要讀啊！）寶玉跟黛玉就像偶像劇的男女主角，外型漂漂亮亮，一下子鬧誤會、生悶氣，好不容易解開了，忽然發現對方是知己，又不斷試探彼此的心意，這不是偶像劇是什麼？&lt;/p&gt;
+&lt;p&gt;儘管曹雪芹對黛玉為何愛哭有給宿命性的解釋，我想先以人性的角度，去理解黛玉為何多愁善感。寶黛釵三人裡頭，黛玉年紀最小，寶玉居中，寶釵最長。黛玉小小年紀（大概國中吧），父母雙亡，碰觸到死亡對任何人來說都是撼動生命的事，更別提她這個年紀的小女孩了。再加上身體不好，時常微恙，她父親就是因病走的。對她而言，死亡常常伏在門口，彷彿隨時要吞吃她，因此，要她像個快樂的小朋友，其實不大可能。再加上必須和舅舅一大家子住在一起，與人的碰撞摩擦只會多不會少，她對自己不是那麼有自信，性格又比較認真一點，生活起來的確辛苦。&lt;/p&gt;
+&lt;p&gt;看著這位體弱多病卻又才氣縱橫的女孩，與我們富家公子曖昧的片段，作為讀者的我都會忍不住呵呵呵地姨母笑起來。比如曹雪芹這段描述：&lt;strong&gt;「那黛玉見寶玉出了一天的門，便悶悶的，晚間打發人來問了兩三遍，知道（寶玉）燙了，便親自趕過來」&lt;/strong&gt;，喜歡的人受傷了，黛玉的關心表露無遺啊！當寶玉來串她的門子，聽見她自言自語，黛玉就 &lt;strong&gt;「自覺忘情，不覺紅了臉，拿袖子遮了臉，翻身向裡裝睡著了。」&lt;/strong&gt; 天啊，不覺得黛玉很可愛嗎？這麼可愛的黛玉，還有農家裝扮款的喔！她去葬花的時候，其造型讓我不禁想起電視劇《卿卿日常》裡頭的女主角李薇。明明身著農裝，但整個人看起來卻乾乾淨淨、可可愛愛的。&lt;/p&gt;
+&lt;p&gt;黛玉和寶玉是相互喜歡的，目前為止，黛玉是唯一能觸碰到寶玉內心深處那塊時光易逝、傷春悲秋情懷的人，她也是唯一一個不會叫他努力追求功名的人，這正是寶玉喜歡她的地方。儘管默默認知到對方是知己，青春的無所適從卻又纏擾著他們。他們之間的難，除了難在曖昧中彼此都容易口是心非之外，更難在宿命性的「金玉良緣」之說。&lt;/p&gt;
+&lt;p&gt;曹雪芹在《紅樓夢》裡並沒有直接透過敘事者解釋何謂「金玉良緣」，而是透過故事中角色們的對話，讓讀者推斷出角色們已有的資訊：寶玉是銜玉出生的，而寶釵有一個金鎖，是和尚給的，說將來要與有玉的公子結為夫妻，而這一說大家都知道，也默認寶玉和寶釵會是一對。因此對黛玉而言，即便確認寶玉真是她知己，那種宿命感還是讓她無法毫無顧忌對寶玉表露感情，因為宴席總是要散的，那還是不要有快樂的回憶會比較好。讀到這裡我也比較理解為何寶玉總是亂摔他身上的玉，因為通靈玉彷彿是一個掙不脫、摔不爛的「好姻緣」，是個別人覺得好，卻困住他追求心之所向的桎梏。&lt;/p&gt;
+&lt;p&gt;所以，實在不能怪黛玉愛哭啊，她有她的不得已和痛苦呀。&lt;/p&gt;
+&lt;h2 id=&#34;寶釵&#34;&gt;寶釵&lt;/h2&gt;
+&lt;p&gt;身為偶像劇女二的寶釵，有著不像十五歲的成熟和懂事。她和黛玉一樣，父親早逝，不過母親尚且健在，所以跟著母親和哥哥薛蟠來投奔賈府，雖然她是妹妹，不過薛蟠實在不太像哥哥，成日遊手好閒，使得寶釵的性格反倒像姊姊，再加上寶黛釵三人裡，她的年紀最長，寶玉跟黛玉就像她的弟弟跟妹妹一樣。除此之外，寶釵和黛玉一樣有文采，不過相較起黛玉的浪漫，她的性格比較樸實，就跟她的房間一樣，沒有太多的裝飾，注重實用。&lt;/p&gt;
+&lt;p&gt;寶釵在賈府很有人緣，她的 EQ 和社交能力很高，懂得體貼別人的心。她對自己說話和行為會產生什麼後果，具備敏銳的覺察力。有一回賈母問她喜歡什麼，她因懂得老人家喜歡熱鬧戲文、愛吃甜爛食物，便投其所好，將這些愛好說過一遍，使得老人家更喜歡她。另一次本想要去找黛玉，結果發現寶玉先一步到瀟湘館，她便抽身離開，因為不想讓那兩人感到不舒服。寶釵替人著想的特質就像吃飯喝水一樣自然，不太像是刻意討好人。要說刻意討好，我想到的人會是賈政。曹雪芹描述賈政每每要討好人，就用「陪笑」這個動詞，但他並沒有這樣描述寶釵。&lt;/p&gt;
+&lt;p&gt;讀《紅樓夢》到四十章，我發現目前最好奇的問題就是：究竟這個很體貼人的寶釵，到底有沒有喜歡寶玉？目前看到一些蛛絲馬跡，覺得她好像只是把他當弟弟而已。身為「金玉良緣」一說的女主角，她當然知道這個說法，但她的反應卻是遠避寶玉。甚至當她看到寶玉的姐姐元春給她和寶玉一樣的禮物，她會覺得沒意思，有時候她也會鬧鬧寶玉跟黛玉這對兩小無猜。不過，當她聽到寶玉在睡夢中喊罵，偏不信什麼金玉姻緣，而是木石姻緣時，寶釵的反應還是會怔怔的。我目前的猜測是，她對寶玉並沒有男女之情，可能只是把他當弟弟看吧，並且大概把「金玉良緣」視為一個「既然大家都這麼說，那就這樣囉」的說法。雖然她也不太喜歡，但好像也沒什麼必要拒絕，可以讓大家開心就好。不曉得如此的猜測對不對？讓我們繼續看下去。&lt;/p&gt;
+&lt;h2 id=&#34;讓人不禁想吐槽的男主&#34;&gt;讓人不禁想吐槽的男主&lt;/h2&gt;
+&lt;p&gt;我總覺得寶玉這個富家公子，很多時候都不知自己的行為會帶給別人多大的困擾。&lt;/p&gt;
+&lt;p&gt;比如有一回，他在外淋雨淋濕了，要回怡紅院換衣服，裡頭的丫鬟很久不開門，他就想待會不管誰來都要踹她一腳。沒想到來開門的是最照顧他的襲人，他不分青紅皂白地一腳踹過去，踢到襲人的肋骨，害得人家吐血。雖然他事後後悔，也有好好照顧襲人，但還是覺得這個人挺誇張的。&lt;/p&gt;
+&lt;p&gt;再來就是他不知輕重，調戲他媽媽的丫鬟金釧兒。結果這媽媽護著自己的兒子，覺得有問題的都是婢女，最後開除對方。誰知金釧兒想不通透，竟然投井死了。寶玉雖然難過，卻還問對方的妹妹玉釧兒，其母親是否安好，實在不懂人情世故，就是他間接把人害死了，竟還問對方母親好不好。&lt;/p&gt;
+&lt;p&gt;還有還有，寶釵嫌天氣熱、不去跟眾人一齊聽戲時，寶玉的反應竟然是：&lt;strong&gt;「怪不得他們拿姊姊比楊妃，原也富胎些。」&lt;/strong&gt;「富胎」的意思就是胖。這個人竟敢對女性說這種大不敬的話，意思就是：「喔，你怕熱喔，那應該是因為你胖吧！」沒禮貌！！😡😡🤬 尤有甚者，當她看到寶釵雪白的胳膊，就忍不住想： &lt;strong&gt;「若長在林姑娘身上，或者還得摸一摸；偏長在他身上，正是恨我沒福。」&lt;/strong&gt; 這不是變態是什麼？&lt;/p&gt;
+&lt;h2 id=&#34;小結&#34;&gt;小結&lt;/h2&gt;
+&lt;p&gt;讀《紅樓夢》，難以避免會分成「黛玉派」或「寶釵派」，猜猜我是哪一派？&lt;/p&gt;
+&lt;div class=&#34;blur-text&#34;&gt;從我行文的熱情，不難猜我是黛玉派吧！黛玉真的好可愛，傲嬌起來更可愛！
+&lt;p&gt;不過，雖然我是黛玉派，賈寶玉還真不是我的菜，Sam 還是我的最愛❤️（無預警撒狗糧）。&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;我會比較喜歡她，或許是看見中學時期的自己吧！當時候容易觸景傷情（好啦就是愛哭），也對人世的離別和蒼涼很有感，不太能消化複雜的情緒情感，常常自己糾結困頓。不過，萬幸的是遇到一些好人（雖然不是沒遇過壞人，但比例比較低），很險很險平安長大了。&lt;/p&gt;
+&lt;p&gt;如果可以的話，真不希望黛玉的結尾是悲劇，那種感覺，就像看見年少的自己，少了幾盞重要的燈而走了一條通往消亡的道路一樣令人難過。所以回過頭來看，真覺得可以活過黯淡的青春歲月，實在要感謝那一些曾經照亮我的人，幫助我走了另一條路呢。&lt;/p&gt;
+&lt;p&gt;最後，悲慘的命運似乎正悄悄靠近寶黛釵三個人。他們說的話做的事，彷彿不斷預示著最終的命運：寶玉說，如果黛玉死了，他要去做和尚；黛玉把寶玉從身邊推開；而寶釵所做的詩，似乎預言將來夫妻情分只會短不會長。究竟三人如何走到那步田地的呢？欲知後事如何，待下回分解。&lt;/p&gt;
+&lt;h3 id=&#34;有趣詞彙&#34;&gt;【有趣詞彙】&lt;/h3&gt;
+&lt;p&gt;黑色字為定義，&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;橘色字代表我的想法。&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;趔趄（ㄌㄧㄝˋ ㄐㄩ）：腳步歪斜，站不穩要摔倒的樣子。&lt;/li&gt;
+&lt;li&gt;呆雁：諷刺人們痴呆，如同說「傻子」、「呆子」。&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;這個詞讓我想到之前在路上看到&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/05/cranes-and-goose/&#34;&gt;亂入的鵝&lt;/a&gt;。果然，不管是今人或古人，都覺得鵝呆呆的。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;富胎：形容體態豐滿。&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;胖。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;富貴閒人：賈寶玉的綽號（筆名）。&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;古代版的有錢又有閒。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;不當家花拉的：「不當家」即「不該」、「罪過」的意思。「花拉的」是個詞尾，也說「花拉拉」或「花拉子」。&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;此句法跟現代版的「完了完了芭比Ｑ了」是一樣的邏輯。&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>亂入的鵝</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/05/cranes-and-goose/</link>

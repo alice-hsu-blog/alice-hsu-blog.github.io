@@ -4642,3 +4642,13 @@
   background: var(--color-primary);
   border-radius: 2px;
 }
+
+.blur-text {
+    filter: blur(5px);
+    transition: filter 0.3s ease;
+}
+
+/* Optional: Reveals text when hovered */
+.blur-text:hover {
+    filter: blur(0);
+}
