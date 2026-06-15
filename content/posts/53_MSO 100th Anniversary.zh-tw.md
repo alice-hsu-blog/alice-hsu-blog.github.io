@@ -15,6 +15,9 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
+> [!Caution]+
+> 這是我的「[BlogBlog 同樂會 - 2026 年 6 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[音樂與記憶](https://www.yozblog.com/posts/music-and-memories)」，由 [柚子](https://www.yozblog.com/) 主持。如果你有自己的部落格，歡迎一起來參加！P.S. 寫完正文之後才發現剛好符合六月的主題耶！順便來投個稿！
+
 剛剛聽完音樂會回家，感動和興奮尚未褪去，趕緊寫下聽音樂會的心得。
 
 ---
