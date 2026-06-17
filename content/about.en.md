@@ -22,6 +22,8 @@ og_type: "article"
   class=" w-49"
 >}}
 
+### Alice Hsu
+
 Writing, for me, is a way to settle, clarify, converse, experiment, and share.
 
 After writing on multiple platforms, I found that the nature of a platform undeniably shapes how a person expresses themselves and what they choose to write about. In order to preserve the greatest possible freedom in my writing, I started this blog in October 2025. As I kept writing, I realized this is still the place where I feel most at ease, and where I tend to meet a more authentic version of myself. Why is that? You can head right to the end of the hall to "[Pros and Cons of Self Hosted Blogs](/posts/2026/01/pros-and-cons-of-self-hosted-blogs/)" to find out.

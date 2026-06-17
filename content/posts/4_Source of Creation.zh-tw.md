@@ -14,7 +14,7 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
-最近在讀[林文月先生](https://cws.nmtl.gov.tw/home/zh-tw/writer/756861?search=%7B%22search%22:%22%E6%9E%97%E6%96%87%E6%9C%88%22,%22menuIds%22:%5B2412%5D%7D&moduleKey=TAG&searchType=search&offset=0&mark=%E6%9E%97%E6%96%87%E6%9C%88)（1933-2023）的《生活可以如此美好》散文集，其中的一篇文章〈給女兒的信——擬《傅雷家書》〉（寫於 1987 年 10 月），她提及創作的幾項靈感來源，發人省思，也有我想與其對話之處，故援引原文如下：
+最近在讀[林文月先生](https://cws.nmtl.gov.tw/home/zh-tw/writer/756861?search=%7B%22search%22:%22%E6%9E%97%E6%96%87%E6%9C%88%22,%22menuIds%22:%5B2412%5D%7D&moduleKey=TAG&searchType=search&offset=0&mark=%E6%9E%97%E6%96%87%E6%9C%88)（1933-2023）的[《生活可以如此美好》](https://www.taaze.tw/products/11100618153.html)散文集，其中的一篇文章〈給女兒的信——擬《傅雷家書》〉（寫於 1987 年 10 月），她提及創作的幾項靈感來源，發人省思，也有我想與其對話之處，故援引原文如下：
 
 > 至於那創作求新的泉源從哪裏來呢？
 > 

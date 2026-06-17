@@ -14,7 +14,7 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
-Recently, I’ve been reading *Life Can Be So Beautiful*,[^1] a collection of essays written by Professor[ Lin, Wen-yueh](https://www.moc.gov.tw/EN/News_Content2.aspx?n=481&sms=10717&s=17489) (1933–2023). In one article, “A Letter to My Daughter—In the Style of Fu Lei’s Family Letters” (written in October 1987), she discusses several sources of inspiration for artistic creation. Her words are deeply thought-provoking, and I feel compelled to respond to them. Here is the original passage:
+Recently, I’ve been reading [*Life Can Be So Beautiful*](https://www.taaze.tw/products/11100618153.html),[^1] a collection of essays written by Professor[ Lin, Wen-yueh](https://www.moc.gov.tw/EN/News_Content2.aspx?n=481&sms=10717&s=17489) (1933–2023). In one article, “A Letter to My Daughter—In the Style of Fu Lei’s Family Letters” (written in October 1987), she discusses several sources of inspiration for artistic creation. Her words are deeply thought-provoking, and I feel compelled to respond to them. Here is the original passage:
 
 > Where do creativity and innovation come from? 
 > 
