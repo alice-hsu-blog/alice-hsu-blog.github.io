@@ -97,3 +97,5 @@ og_type = 'article'
 
 ### 紅樓夢系列文章
 [【阿姨看紅樓】情思纏綿寶黛釵：二十一至四十回](/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-21-to-40-chapters/)
+<br>
+[【阿姨看紅樓】假作真時真亦假：四十一至六十回](/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-41-to-60-chapters/)

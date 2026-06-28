@@ -6,8 +6,183 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 23:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 17:30:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【阿姨看紅樓】假作真時真亦假：四十一至六十回</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-41-to-60-chapters/</link>
+      <pubDate>Sun, 28 Jun 2026 17:30:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-41-to-60-chapters/</guid>
+      <description>如果人生的真相就是悲劇和空無，那為何大部分的我們還是會有衝動要努力、渴望有個好的關係、想要有所追求呢？</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post55home.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post55home.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post55home.JPG" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;img
+          src="https://alicehsu.blog/images/Post55home.JPG"
+          loading="eager"
+        /&gt;&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;此文涉及《紅樓夢》情節討論，若不喜爆雷，請勿閱讀。&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;《紅樓夢》看一半了！開啟專欄後，發現要連載真不是一件容易的事啊，&lt;del&gt;好想拖稿&lt;/del&gt;。&lt;/p&gt;
+&lt;p&gt;首先，我想先補充一下前一回提到的：紅樓夢的主線是看寶玉黛玉談戀愛這個點。我擔心讀者會誤以為曹雪芹花了大量篇幅描述他們兩個的互動，但其實不太算有。至少在前六十話，曹雪芹敘述了很多其他角色的互動情節，將其鑲嵌在整個賈家故事的每一環，透過這些人物展示人生百態，讓讀者得以俯視不同人所追尋的生命方向。&lt;/p&gt;
+&lt;p&gt;或許，比起愛情這個主題，曹雪芹更著重討論「何謂真正值得追求的人生」這個議題。&lt;/p&gt;
+&lt;h3 id=&#34;四十一至六十回重要情節速記&#34;&gt;四十一至六十回重要情節速記&lt;/h3&gt;
+&lt;p&gt;鳳姐將賈璉和鮑二媳婦捉姦在床；黛玉和寶釵和解；鴛鴦抵死不嫁給賈赦；鳳姐小產休養中，由王夫人、李紈、探春接手管家；寶玉被紫鵑的玩笑話嚇到魂飛了半條。&lt;/p&gt;
+&lt;h2 id=&#34;何謂真正值得追求的人生&#34;&gt;何謂真正值得追求的人生？&lt;/h2&gt;
+&lt;p&gt;對故事中的每個人，答案都不一樣，有些人是最純粹的愛情，有些人是絕對的權力，有些人是和平的關係。無論是哪一點，當事人必定要先假設那些東西是真實存在、而非虛假的。必須要有這個前提，才有動力去追尋。不過，曹雪芹在《紅樓夢》裡卻模糊了真實與虛假的界限：&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;假作真時真亦假，無為有處有還無。&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;這副對聯是故事前期賈寶玉夢遊太虛幻境讀到的，也是整部小說的中心思想：虛假可能映照真實，而你以為的真實可能是假的。這個前提底下，我們發現「虛假」的夢境成為作者預示「真實」結局的工具，如寶玉在夢境裡所讀到的《金陵十二釵又副冊》，書中描述的話語其實是大觀園幾位女子的悲劇結局。另一方面，故事中的真實生活讀起來，就像是南柯一夢了，大雪天一群人簇擁著作詩、一起吃 BBQ 的情節，就有種好到不真實的感覺。&lt;/p&gt;
+&lt;p&gt;儘管讀者有這樣子的意識，作品裡的角色卻沒有：雖然賈寶玉或王熙鳳做了預知夢，他們卻不太曉得夢境的意思，夢醒了，照常在對未來懞懞懂懂的狀態底下，盡情地笑、盡情地哭，盡情地追求心之所嚮往的價值。對寶玉和黛玉來說，情之真摯為最，就算世人不肯定，他們也不管不顧；對王熙鳳而言，女強人的形象要堅不可摧，即使因長期過勞而流產、身體極其虛弱，她還是在人前撐著；於邢夫人（王熙鳳的婆婆），丈夫的命令是金科玉律。即便她的丈夫賈赦叫她幫忙找小三，她也會毫不猶豫去做。&lt;/p&gt;
+&lt;p&gt;聽起來很荒謬對吧？不過會不會這就是曹雪芹想要的效果？讓我們透過他人的荒謬，來反思自己所堅持的價值到底是否為真、是否值得你費盡全力去追尋。&lt;/p&gt;
+&lt;h2 id=&#34;人生的真相真的是悲劇嗎&#34;&gt;人生的真相真的是悲劇嗎？&lt;/h2&gt;
+&lt;p&gt;不過需要注意的是，這部小說是個悲劇：你以為是虛假的夢境，卻預示了最後悲慘的結局；而你以為的美好卻會落了個空。無論如何，美好不是永恆的，而虛假和空無才是最後人生的真相，或許作者對此的感嘆，就藏在黛玉對宴席的看法：&lt;/p&gt;
+
+  &lt;blockquote
+    class=&#34;border-primary bg-muted/30 hover:bg-muted/40 my-6 rounded-r-lg border-l-4 py-4 pr-4 pl-6  transition-all duration-200 ease-out hover:translate-x-1&#34;&gt;
+    &lt;div class=&#34;prose prose-sm max-w-none&#34;&gt;
+      &lt;p&gt;人有聚就有散，聚時喜歡，到散時豈不清冷？既清冷則生感傷，所以不如倒是不聚的好。比如那花兒開的時候兒叫人愛，到謝的時候兒便增了許多惆悵，所以倒是不開的好。&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/blockquote&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;（咦？這聽起來不就是：既然都要肚子餓了，那還是不吃的好？）&lt;/p&gt;
+&lt;p&gt;我雖然喜歡黛玉這個角色，卻不苟同她的觀點。就像她覺得相聚不是人生的全部一樣，散場雖使人惆悵，它也不會是人生的全部。人相聚時的經驗，就像吃東西一樣，雖然最後會吃完，但食物卻會轉化成養分（或便便），給人帶來滋養（或傷害），從而成為不一樣的人（更健康或者常跑廁所）。&lt;/p&gt;
+&lt;p&gt;況且，如果人生的真相就是悲劇和空無，那為何大部分的我們還是會有衝動要努力、渴望有個好的關係、想要有所追求呢？對人生是悲劇的觀點，是不是因為我們受過傷才這樣覺得的呢？就如黛玉的觀點是因為經歷父母雙亡才這樣相信。受傷的觀點就是絕對的真理嗎？倘若今天她出生在一個快樂的家庭，發表一番：正因人生有聚散，我們更要好好把握當下的言論，是否也能成為真理了？&lt;/p&gt;
+&lt;p&gt;我們對人生最終真相的看法，受到過去的經歷影響，決定我們如何過現在的生活。&lt;/p&gt;
+&lt;p&gt;講得有點遠了，儘管我不同意作者對於「人生最終是悲劇」的觀點，我倒覺得他透過這些人物，讓讀者重新反思所追求的人生是否真實、值得追尋，這點倒滿有意思的。或許我們都需要重新思想：在日常生活中努力追尋的東西，它背後代表的價值到底是什麼？這個價值有沒有虛假的可能？&lt;/p&gt;
+&lt;h2 id=&#34;小結&#34;&gt;小結&lt;/h2&gt;
+&lt;p&gt;隨著越讀越多，明明知道故事會是悲劇，我還是難以抗拒每個人物的魅力啊！這種感覺就像：好不容易和班上的大家混熟了，有點小嫌隙的同學也看出她可愛的地方了，但是，再過一年就要畢業啦 QAQ&lt;/p&gt;
+&lt;p&gt;哎，我也開始看到府裡的下人開始搞事啦，該不會這就是悲劇的前兆吧？欲知後事如何，請待下回分解。&lt;/p&gt;
+&lt;h3 id=&#34;有趣詞彙&#34;&gt;【有趣詞彙】&lt;/h3&gt;
+&lt;p&gt;黑色字為定義，&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;橘色字代表我的想法。&lt;/span&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;爆炭：形容脾氣暴躁。例句：晴雯那蹄子是塊爆炭。&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;非常形象化的形容！可以想見晴雯的脾氣就像炭火一樣劈哩啪拉的。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;開了果子鋪：被打得青一塊紫一塊，皮破血流，好像果子鋪裡食品的五顏六色。例句：湘蓮走上來瞧瞧，知道他（薛蟠）是個不慣捱打的，只使了三分氣力，向他臉上拍了幾下，登時便「開了果子鋪」。&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;很好笑的比喻，以現在的話說就是「臉上開了間水果舖」。&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;蝎蝎螫螫（ㄏㄜˊ ㄏㄜˊ ㄓㄜ ㄓㄜ）：形容過度緊張、膽小怕事的樣子。&lt;/li&gt;
+&lt;li&gt;實心：真心、認真。例句：別說他（寶玉）是個實心的傻孩子。&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;很有意思的形容詞，所以如果一個人內在有許多彎彎繞繞，是否可以說他是「空心」的？lol&lt;/span&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;紅樓夢系列文章&#34;&gt;紅樓夢系列文章&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/05/read-dream-of-the-red-chamber-1-to-20-chapters/&#34;&gt;【阿姨看紅樓】搖搖欲墜是賈府：一至二十回&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-21-to-40-chapters/&#34;&gt;【阿姨看紅樓】情思纏綿寶黛釵：二十一至四十回&lt;/a&gt;&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>大貓貓</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/06/big-cat/</link>
@@ -27,7 +202,7 @@
 &lt;p&gt;我們走進室內區，轉了個彎，一公一母的獅子映入眼簾。我們很幸運站到搖滾區，離獅子只有一玻璃牆之隔。人群慢慢在我們身後聚集，他們倆悠悠哉哉從假山上緩緩走下來，只見萬獸之王張開嘴，面目猙獰露出獠牙，全場哇喔驚嘆聲四起。&lt;/p&gt;
 &lt;p&gt;忘了是不是第一次看到獅子了，但這絕對是第一次這麼近距離看獅子：他厚實的肉球在地上踩踏著，鬃毛看起來粗粗糙糙十分蓬鬆，一張口尖銳的牙齒外露，非常威嚴帥氣令人顫慄。我不禁佩服起被丟到獅子坑的但以理，雖然沒被咬死，但到底是如何沒被嚇死的啊。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;他在我們眼前環繞了幾圈，忽然停下，抬腿，後方尖叫和笑聲同時響起，是的，他尿尿了，而且是朝著玻璃，如果沒這道玻璃，在第一排的我肯定被噴得滿臉都是（這麼精彩珍貴的畫面就不錄影了XD）。&lt;/p&gt;
-&lt;p&gt;後方的母獅在公獅尿尿完之後，走下假山到濕搭搭搭的玻璃之前，千鈞一髮之際&amp;hellip;&amp;hellip;，她聞了聞後就走掉了，還好沒有舔一舔，不然恐怕我後方的人群都要暴動了。&lt;/p&gt;
+&lt;p&gt;後方的母獅在公獅尿尿完之後，走下假山到濕搭搭的玻璃之前，千鈞一髮之際&amp;hellip;&amp;hellip;，她聞了聞後就走掉了，還好沒有舔一舔，不然恐怕我後方的人群都要暴動了。&lt;/p&gt;
 &lt;p&gt;以前對獅子的印象就是電影和卡通裡的威猛形象，不過頂多是理性理解其概念而已，沒有真實感。實際逛了動物園，看見真實的獅子在我面前張牙舞爪（還真是字面上的意思），我真實感覺到他的存在和威嚴，也發現自己寒毛直豎，而這個反應，是我沒辦法光藉著理解獅子這個動物來讓自己有敬畏之心呢。&lt;/p&gt;
 &lt;p&gt;還有沒有哪些，是我們知道概念，卻沒有實際體會過的呢？或許我們都需要實際走一遭動物園，去看真實的大貓貓呢。&lt;/p&gt;
 &lt;p&gt;
@@ -313,7 +488,9 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;li&gt;不當家花拉的：「不當家」即「不該」、「罪過」的意思。「花拉的」是個詞尾，也說「花拉拉」或「花拉子」。&lt;span style=&#34;color: rgb(255, 106, 0);&#34;&gt;此句法跟現代版的「完了完了芭比Ｑ了」是一樣的邏輯。&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;紅樓夢系列文章&#34;&gt;紅樓夢系列文章&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/05/read-dream-of-the-red-chamber-1-to-20-chapters/&#34;&gt;【阿姨看紅樓】搖搖欲墜是賈府：一至二十回&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/05/read-dream-of-the-red-chamber-1-to-20-chapters/&#34;&gt;【阿姨看紅樓】搖搖欲墜是賈府：一至二十回&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-41-to-60-chapters/&#34;&gt;【阿姨看紅樓】假作真時真亦假：四十一至六十回&lt;/a&gt;&lt;/p&gt;
 
       </content:encoded>
     </item>
@@ -857,7 +1034,9 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;紅樓夢系列文章&#34;&gt;紅樓夢系列文章&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-21-to-40-chapters/&#34;&gt;【阿姨看紅樓】情思纏綿寶黛釵：二十一至四十回&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-21-to-40-chapters/&#34;&gt;【阿姨看紅樓】情思纏綿寶黛釵：二十一至四十回&lt;/a&gt;
+&lt;br&gt;
+&lt;a href=&#34;https://alicehsu.blog/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-41-to-60-chapters/&#34;&gt;【阿姨看紅樓】假作真時真亦假：四十一至六十回&lt;/a&gt;&lt;/p&gt;
 
       </content:encoded>
     </item>
