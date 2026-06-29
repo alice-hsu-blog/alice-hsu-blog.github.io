@@ -16,14 +16,14 @@
       <description>如果人生的真相就是悲劇和空無，那為何大部分的我們還是會有衝動要努力、渴望有個好的關係、想要有所追求呢？</description>
 
       
-        <media:thumbnail url="https://alicehsu.blog/images/Post55home.jpg" />
-        <media:content url="https://alicehsu.blog/images/Post55home.jpg" medium="image" />
-        <enclosure url="https://alicehsu.blog/images/Post55home.jpg" type="image/jpeg" />
+        <media:thumbnail url="https://alicehsu.blog/images/Post55home.JPG" />
+        <media:content url="https://alicehsu.blog/images/Post55home.JPG" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post55home.JPG" type="image/jpeg" />
       
 
 
       <content:encoded>&lt;img
-          src="https://alicehsu.blog/images/Post55home.jpg"
+          src="https://alicehsu.blog/images/Post55home.JPG"
           loading="eager"
         /&gt;&lt;div
     class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
