@@ -249,7 +249,7 @@ authors:
   mail: "mail@alicehsu.blog"
 
 statistics:
-  total_posts: "Until now, I wrote {{.Count}} posts, {{.Words}} words"
+  total_posts: "Until now, I have written {{.Count}} posts, totaling {{.Words}} words"
 
 view_option:
   desc: "View option:"
