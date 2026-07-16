@@ -1,6 +1,6 @@
 +++
-date = '2026-07-15T10:10:00-05:00'
-draft = true
+date = '2026-07-16T00:10:00-05:00'
+draft = false
 title = "MSO's 100th Anniversary Concert"
 slug = 'mso 100 anniversary'
 summary = 'So many people kept batting the balloons back and forth, keeping them from touching the ground, as if that alone could stretch out the piece that had just ended, could let them hold on a little longer to a feeling that was already slipping away.'
@@ -32,13 +32,13 @@ The second half featured Gustav Holst's *The Planets, Suite for Large Orchestra,
 
 That sense of stillness got shattered during Jupiter, though to be fair, it wasn't really the piece's fault that it felt more chaotic than intended; it was the guy sitting behind me. About three minutes into the piece, [a very familiar melody](https://youtu.be/Gu77Vtja30c?t=177) came in: the one used as background music in the Japanese drama *Nodame Cantabile*. And the guy behind me happily started humming along with the orchestra. If he'd at least been in tune, fine, but he was wildly off-key (facepalm), so I had to scoot forward a little, trying to salvage whatever notes had survived the massacre, scattered across the floor.
 
-The concert closed with Beethoven's Ninth. Conductor DeMain, endearingly, shared a story: once, after conducting the Ninth, an audience member told him afterward, "I thought it opened with the 'Ode to Joy' theme. I didn't realize we'd have to wait three whole movements for it."
+The concert closed with Beethoven's Ninth. Conductor DeMain shared a story: once, after conducting the Ninth, an audience member told him afterward, "I thought it opened with the 'Ode to Joy' theme. I didn't realize we'd have to wait three whole movements for it."
 
-"So, per popular demand, and also because we're short on time, we're only performing the fourth movement today," he said, with a mischievous grin.
+"So, by popular demand, and also because we're short on time, we're only performing the fourth movement today," he said, with a mischievous grin.
 
 On the afternoon of December 29, 2019, Sam and I once heard the NSO perform the Ninth at the National Concert Hall (yes, I remember the exact date; I have a habit of writing things down). But there were no subtitles that time, so I only had a vague sense that it was a piece praising God. Today, with English subtitles projected in the hall, I finally understood the words more fully, and my heart and my head finally aligned on the same frequency at the same moment, resonating together into a shared sense of awe and reverence for God.
 
-"Brothers! Beyond the starry canopy must dwell a loving father. Bow down, you millions: do you sense the Creator, world?"
+"Brothers, above the starry canopy a loving Father must dwell. Do you fall to your knees, you millions? World, do you sense your Creator?"
 
 The melody built layer upon layer, voices soaring and rising, and as the very last note fell, the balloons that had been tied to the ceiling in all sorts of colors came showering down. The audience erupted in thunderous applause, and so many people kept batting the balloons back and forth, keeping them from touching the ground, as if that alone could stretch out the piece that had just ended, could let them hold on a little longer to a feeling that was already slipping away.
 
@@ -54,4 +54,4 @@ I don't want to believe it will. Maybe that makes me one of those people batting
 
 ---
 
-*NB: This article was first published in Chinese on 06/14/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/15/26.*
+*NB: This article was first published in Chinese on 06/14/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/16/26.*

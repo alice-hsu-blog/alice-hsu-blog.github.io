@@ -1,6 +1,6 @@
 +++
-date = '2026-07-15T09:00:00-05:00'
-draft = true
+date = '2026-07-16T00:05:00-05:00'
+draft = false
 title = 'Cranes and a Goose'
 slug = 'cranes and goose'
 summary = 'Spotted a goose that had wandered into the crane crowd, its dopey little face so cute.'
@@ -28,4 +28,4 @@ So this is how a crane scratches an itch 🤔
 
 ---
 
-*NB: This article was first published in Chinese on 05/24/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/15/26.*
+*NB: This article was first published in Chinese on 05/24/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/16/26.*

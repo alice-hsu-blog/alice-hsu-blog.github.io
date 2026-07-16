@@ -1,8 +1,8 @@
 +++
-date = '2026-07-15T09:10:00-05:00'
-draft = true
+date = '2026-07-16T00:30:00-05:00'
+draft = false
 title = 'Big Kitty'
-slug = 'Big Cat'
+slug = 'Big Kitty'
 summary = 'The king of beasts opened his jaws, baring his fangs with a fierce look, and the whole crowd gasped in awe.'
 cover = '/images/Post/54/2.jpg'
 cover_on_post = false
@@ -23,11 +23,11 @@ We walked into the indoor viewing area, turned a corner, and there they were: a 
 
 I can't remember if this was actually my first time seeing a lion, but it was definitely the closest I've ever been to one: his thick paws padding against the ground, his mane looking coarse and wonderfully full, his mouth opening to reveal sharp teeth, utterly majestic, and honestly kind of terrifying. I found myself with newfound respect for Daniel, who was thrown into the lions' den. He wasn't eaten, sure, but how did he not get scared to death?[^1]
 
-He circled around a few more times right in front of us, then suddenly stopped and lifted a leg. Shrieks and laughter erupted behind us at the same moment: yes, he was peeing, and aiming straight at the glass. If it hadn't been for that pane of glass, I was standing close enough in the front row to have gotten sprayed head to toe (this particular moment, however precious, did not make it into any video XD).
+He circled around a few more times right in front of us, then suddenly stopped and lifted a leg. Shrieks and laughter erupted behind us at the same moment: yes, he was peeing, and aiming straight at the glass. If it hadn't been for that pane of glass, I was standing close enough in the front row to have gotten sprayed head to toe (This moment, however precious, I let go unfilmed).
 
 After the male lion finished his business, the female behind him walked down from the rock formation toward the dripping-wet glass. At the last critical second... she just sniffed it and walked away. Thank goodness she didn't lick it, or the crowd behind me might have actually rioted.
 
-My previous impression of lions came entirely from movies and cartoons: a mighty image I understood only in the abstract, without it ever feeling real. Actually visiting the zoo and seeing a real lion baring its teeth and claws right in front of me (quite literally, in this case) made me genuinely feel his presence and majesty, and I noticed the hair on my arms standing on end. That's a reaction I could never have gotten just from understanding the concept of "lion" in my head.
+My previous impression of lions came entirely from movies and cartoons: a mighty image I understood only in the abstract, without it ever feeling real. Actually visiting the zoo and seeing a real lion baring its teeth and claws right in front of me made me genuinely feel his presence and majesty, and I noticed goosebumps rising on my arms. That's a reaction I could never have gotten just from understanding the concept of "lion" in my head.
 
 Are there other things like this, things we know about only as concepts, but have never actually experienced? Maybe we all need to take an actual trip to the zoo sometime, and go see a real big kitty.
 
@@ -41,4 +41,4 @@ Are there other things like this, things we know about only as concepts, but hav
 
 ---
 
-*NB: This article was first published in Chinese on 06/22/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/15/26.*
+*NB: This article was first published in Chinese on 06/22/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/16/26.*

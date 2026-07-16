@@ -2,7 +2,7 @@
 date = '2026-06-22T23:30:00-05:00'
 draft = false
 title = '大貓貓'
-slug = 'Big Cat'
+slug = 'Big Kitty'
 summary = '只見萬獸之王張開嘴，面目猙獰露出獠牙，全場哇喔驚嘆聲四起。'
 cover = '/images/Post/54/2.jpg'
 cover_on_post = false
