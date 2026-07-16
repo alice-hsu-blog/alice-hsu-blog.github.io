@@ -6,8 +6,92 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Jul 2026 22:10:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 23:50:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You Are Precious and Honored in My Sight</title>
+      <link>https://alicehsu.blog/posts/2026/07/you-are-precious-and-honored-in-my-sight/</link>
+      <pubDate>Wed, 15 Jul 2026 23:50:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/posts/2026/07/you-are-precious-and-honored-in-my-sight/</guid>
+      <description>But another part of me felt something stir inside, as if something had been shaken loose.</description>
+
+      
+
+
+      <content:encoded>&lt;div
+    class=&#34;alert alert-caution my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-caution) 10%, transparent);
+              border-left-color: var(--color-caution);
+              --hover-bg: color-mix(in srgb, var(--color-caution) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-caution) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;This is my submission for the &amp;ldquo;&lt;a href=&#34;https://blogblog.club/party/&#34;target=&#34;_blank&#34;
+&gt;BlogBlog Club - May 2026&lt;/a&gt;.&amp;rdquo; This month&amp;rsquo;s theme is &amp;ldquo;&lt;a href=&#34;https://eddielv.com/articles/a-sentence-changing-you/&#34;target=&#34;_blank&#34;
+&gt;A Sentence That Changed How You See Life&lt;/a&gt;,&amp;rdquo; hosted by &lt;a href=&#34;https://eddielv.com&#34;target=&#34;_blank&#34;
+&gt;Eddie Lv&lt;/a&gt;. If you have your own blog, come join in!&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;p&gt;My junior year of college, not long after I became a Christian, I was reading the Bible one day when I came across this line:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;You are precious and honored in my sight&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The context of that passage is God speaking to Israel: they belong to him, they need not fear outward hardship, because God is their God; and in his sight, the people of Israel are precious and honored.&lt;/p&gt;
+&lt;p&gt;I wasn&amp;rsquo;t very familiar with the Bible at the time and didn&amp;rsquo;t really understand the historical background or significance behind that passage. But as I kept reading, in that moment, for some reason, these words originally spoken to the nation of Israel felt like they were pointed straight at me, looking me in the eye.&lt;/p&gt;
+&lt;p&gt;I became the &amp;ldquo;you&amp;rdquo; in that sentence, and it was as if God were telling me, face to face: in his sight, I am precious and honored.&lt;/p&gt;
+&lt;p&gt;Part of me thought, &amp;ldquo;Okay, sure. So what?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;But another part of me felt something stir inside, as if something had been shaken loose. There are certainly people in my life I treasure, but I don&amp;rsquo;t think I&amp;rsquo;d ever describe any of them as &amp;ldquo;precious and honored.&amp;rdquo; And yet, in the eyes of the Creator (someone far greater than my teachers, my boss, the president, or the richest person alive), I was somehow precious, honored, and full of worth. That was hard to wrap my head around. But if it were true, would it mean my life held different possibilities than I&amp;rsquo;d assumed?&lt;/p&gt;
+&lt;p&gt;And whatever those different possibilities were, I figured, they were probably better than what I already had.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Ever since that sentence appeared, I&amp;rsquo;ve slowly come to realize that what got shaken loose was something I&amp;rsquo;d call &amp;ldquo;the theory that effort is what gives you value.&amp;rdquo; And I&amp;rsquo;ve come to understand that my original &amp;ldquo;okay, so what&amp;rdquo; reaction actually meant: if I don&amp;rsquo;t work hard, or if my effort doesn&amp;rsquo;t earn me some kind of result or worldly worth, then surely God wouldn&amp;rsquo;t feel this way about me, right?&lt;/p&gt;
+&lt;p&gt;Right?&lt;/p&gt;
+&lt;p&gt;As it turned out, over the years that followed, even in just the past year or two, there were times when I&amp;rsquo;d already poured every ounce of my heart and strength into facing certain people or doing certain things, and I still failed, and it was hard, in those moments, not to feel like worthless. And yet that sentence, &amp;ldquo;You are precious and honored in my sight,&amp;rdquo; kept haunting me, refusing to leave (using the word &amp;ldquo;haunting&amp;rdquo; might sound a bit weird, but it really does capture that feeling of something surfacing again and again, unbidden). That&amp;rsquo;s when I realized I&amp;rsquo;d had it wrong. God isn&amp;rsquo;t some player who abandons you the moment you&amp;rsquo;re down on your luck. Even when I was at my absolute lowest, his affection for me never expired: like a lover who only sees beauty in the one they love, in his eyes I was, and still am, someone precious.&lt;/p&gt;
+&lt;p&gt;Then, slowly, a new value system began to grow in place of the old &amp;ldquo;effort is what gives you value&amp;rdquo; one. I&amp;rsquo;d call this new one &amp;ldquo;I work hard because I already have value&amp;rdquo;: I don&amp;rsquo;t work hard in order to create my own worth, and I don&amp;rsquo;t work hard to earn a sense of security. I already possess a fixed worth that doesn&amp;rsquo;t fluctuate with my output, and working hard is simply what naturally flows out of me as a human being.&lt;/p&gt;
+&lt;p&gt;I have to say, this wasn&amp;rsquo;t something that grew purely out of my own willpower or reasoning. And it wasn&amp;rsquo;t as though hearing this one sentence instantly worked some kind of magic, flipping a switch on decades of old thought patterns. After all, changing yourself, or changing anyone, is an extraordinarily difficult thing. There&amp;rsquo;s an old Chinese saying: &amp;ldquo;Drag an ox all the way to Beijing, and it&amp;rsquo;s still an ox.&amp;rdquo; The change, as a whole, has been more like water wearing away stone, God&amp;rsquo;s patient, steady love gradually reshaping my temperament. My old value system had molded me into a very cranky, short-tempered ox, terrified that if the field didn&amp;rsquo;t produce anything, I&amp;rsquo;d be sold off and slaughtered. But this new value system lets me plow my field with a bit more calm and gentleness, and whatever does or doesn&amp;rsquo;t grow in that field, there&amp;rsquo;s no threat to my survival either way. I&amp;rsquo;m still, in God&amp;rsquo;s eyes, a perfectly lovable little moo.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;That is the story behind &lt;strong&gt;&amp;ldquo;You are precious and honored in my sight.&amp;rdquo;&lt;/strong&gt; This sentence was, in a way, tailor-made for me by God; it might not apply to you in quite the same way. But if you need a sentence of your own, I believe God already has one prepared; all you have to do is ask him for it, so why not give it a try? And if you&amp;rsquo;d ever like to talk about the Christian faith, feel free to reach out.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;NB: This article was first published in Chinese on 05/23/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/15/26.&lt;/em&gt;&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>New Glasses</title>
       <link>https://alicehsu.blog/posts/2026/07/new-glasses/</link>
@@ -12118,7 +12202,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;p&gt;When the concert ended, cheers filled the hall. Almost everyone stood again. Sam told me that he had become a fan as well. Nothing delights a fan more than converting the people around them.&lt;/p&gt;
 &lt;p&gt;It has been a long time since I last heard a concert that moved me like this. More than good techniques, Cateen’s love for music could be heard in every note he played. He is someone who enjoys playing the piano, a composer full of passion and hope for music and for life. Not every musician is like this.&lt;/p&gt;
 &lt;p&gt;I just want to rush to my piano and practice.&lt;/p&gt;
-&lt;h2 id=&#34;hahahugoshortcode12s0hbhb&#34;&gt;
+&lt;h2 id=&#34;hahahugoshortcode10s0hbhb&#34;&gt;
 &lt;style&gt;
   
 #masonry-9e5c633458c670de50c76cd5b454cb74-1 {

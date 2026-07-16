@@ -1,6 +1,6 @@
 +++
-date = '2026-07-15T09:40:00-05:00'
-draft = true
+date = '2026-07-15T23:50:00-05:00'
+draft = false
 title = 'You Are Precious and Honored in My Sight'
 slug = 'you are precious and honored in my sight'
 summary = 'But another part of me felt something stir inside, as if something had been shaken loose.'
@@ -21,9 +21,9 @@ og_type = 'article'
 
 My junior year of college, not long after I became a Christian, I was reading the Bible one day when I came across this line:
 
-**"You are precious and honored in my sight"** [^1]
+**"You are precious and honored in my sight"** 
 
-The context of that passage is God speaking to the nation of Israel: they belong to him, they need not fear outward hardship, because God is their God; and in his sight, the people of Israel are precious and honored.
+The context of that passage is God speaking to Israel: they belong to him, they need not fear outward hardship, because God is their God; and in his sight, the people of Israel are precious and honored.
 
 I wasn't very familiar with the Bible at the time and didn't really understand the historical background or significance behind that passage. But as I kept reading, in that moment, for some reason, these words originally spoken to the nation of Israel felt like they were pointed straight at me, looking me in the eye.
 
@@ -41,17 +41,17 @@ Ever since that sentence appeared, I've slowly come to realize that what got sha
 
 Right?
 
-As it turned out, over the years that followed, even in just the past year or two, there were times when I'd already poured every ounce of my heart and strength into facing certain people or doing certain things, and I still failed, and it was hard, in those moments, not to feel like garbage. And yet that sentence, "You are precious and honored in my sight," kept haunting me, refusing to leave (using the word "haunting" might sound a bit irreverent, but it really does capture that feeling of something surfacing again and again, unbidden). That's when I realized I'd had it wrong. God isn't some deadbeat who abandons you the moment you're down on your luck. Even when I was at my absolute lowest, his affection for me never expired: like a lover who only sees beauty in the one they love, in his eyes I was, and still am, someone precious.
+As it turned out, over the years that followed, even in just the past year or two, there were times when I'd already poured every ounce of my heart and strength into facing certain people or doing certain things, and I still failed, and it was hard, in those moments, not to feel like worthless. And yet that sentence, "You are precious and honored in my sight," kept haunting me, refusing to leave (using the word "haunting" might sound a bit weird, but it really does capture that feeling of something surfacing again and again, unbidden). That's when I realized I'd had it wrong. God isn't some player who abandons you the moment you're down on your luck. Even when I was at my absolute lowest, his affection for me never expired: like a lover who only sees beauty in the one they love, in his eyes I was, and still am, someone precious.
 
 Then, slowly, a new value system began to grow in place of the old "effort is what gives you value" one. I'd call this new one "I work hard because I already have value": I don't work hard in order to create my own worth, and I don't work hard to earn a sense of security. I already possess a fixed worth that doesn't fluctuate with my output, and working hard is simply what naturally flows out of me as a human being.
 
-I have to say, this wasn't something that grew purely out of my own willpower or reasoning. And it wasn't as though hearing this one sentence instantly worked some kind of magic, flipping a switch on decades of old thought patterns. After all, changing yourself, or changing anyone, is an extraordinarily difficult thing. There's an old saying: "Drag an ox all the way to Beijing, and it's still an ox." The change, as a whole, has been more like water wearing away stone, like grains of sand slowly piling into a tower, God's patient, steady love gradually reshaping my temperament. My old value system had molded me into a very cranky, short-tempered ox, terrified that if the field didn't produce anything, I'd be sold off and slaughtered. But this new value system lets me plow my field with a bit more calm and gentleness, and whatever does or doesn't grow in that field, there's no threat to my survival either way. I'm still, in God's eyes, a perfectly lovable little moo.
+I have to say, this wasn't something that grew purely out of my own willpower or reasoning. And it wasn't as though hearing this one sentence instantly worked some kind of magic, flipping a switch on decades of old thought patterns. After all, changing yourself, or changing anyone, is an extraordinarily difficult thing. There's an old Chinese saying: "Drag an ox all the way to Beijing, and it's still an ox." The change, as a whole, has been more like water wearing away stone, God's patient, steady love gradually reshaping my temperament. My old value system had molded me into a very cranky, short-tempered ox, terrified that if the field didn't produce anything, I'd be sold off and slaughtered. But this new value system lets me plow my field with a bit more calm and gentleness, and whatever does or doesn't grow in that field, there's no threat to my survival either way. I'm still, in God's eyes, a perfectly lovable little moo.
 
 ---
 
-That, more or less, is the story behind **"You are precious and honored in my sight."** This sentence was, in a way, tailor-made for me by God; it might not apply to you in quite the same way. But if you need a sentence of your own, I believe God already has one prepared; all you have to do is ask him for it, so why not give it a try? And if you'd ever like to talk about the Christian faith, feel free to reach out.
+That is the story behind **"You are precious and honored in my sight."** This sentence was, in a way, tailor-made for me by God; it might not apply to you in quite the same way. But if you need a sentence of your own, I believe God already has one prepared; all you have to do is ask him for it, so why not give it a try? And if you'd ever like to talk about the Christian faith, feel free to reach out.
 
-[^1]: This passage comes from Isaiah 43:4 in the Old Testament. The Chinese Union Version translates it as "因我看你為寶為尊" (roughly, "for I regard you as precious and honored"), but I've never quite liked that translation, so I rendered it myself as "在我眼裡，你是珍貴且尊榮的."
+
 
 ---
 
