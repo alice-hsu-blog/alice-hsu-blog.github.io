@@ -15,7 +15,7 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
-A few weeks ago I ordered a miniature model kit, and Sam and I spent ten nights building it together. I recorded our daily progress along with close-ups of the finished sushi restaurant in the video below!
+A few weeks ago I ordered a miniature house kit. Sam and I spent ten nights building it together. I recorded our daily progress along with close-ups of the finished sushi restaurant in the video below!
 
 {{< video-js src="/images/Post/57/1.mp4" >}}
 

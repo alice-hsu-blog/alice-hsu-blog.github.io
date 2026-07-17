@@ -6,25 +6,12 @@
     <description>Recent content in Categories on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Jul 2026 00:10:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:00:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Music</title>
-      <link>https://alicehsu.blog/categories/music/</link>
-      <pubDate>Thu, 16 Jul 2026 00:10:00 -0500</pubDate>
-      <guid>https://alicehsu.blog/categories/music/</guid>
-      <description></description>
-
-      
-
-
-      <content:encoded>
-      </content:encoded>
-    </item>
     <item>
       <title>Thoughts and Talks</title>
       <link>https://alicehsu.blog/categories/thoughts-and-talks/</link>
-      <pubDate>Thu, 16 Jul 2026 00:05:00 -0500</pubDate>
+      <pubDate>Thu, 16 Jul 2026 21:00:00 -0500</pubDate>
       <guid>https://alicehsu.blog/categories/thoughts-and-talks/</guid>
       <description></description>
 
@@ -37,8 +24,21 @@
     <item>
       <title>Travel</title>
       <link>https://alicehsu.blog/categories/travel/</link>
-      <pubDate>Sat, 02 May 2026 13:30:00 -0500</pubDate>
+      <pubDate>Thu, 16 Jul 2026 00:30:00 -0500</pubDate>
       <guid>https://alicehsu.blog/categories/travel/</guid>
+      <description></description>
+
+      
+
+
+      <content:encoded>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Music</title>
+      <link>https://alicehsu.blog/categories/music/</link>
+      <pubDate>Thu, 16 Jul 2026 00:10:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/categories/music/</guid>
       <description></description>
 
       
