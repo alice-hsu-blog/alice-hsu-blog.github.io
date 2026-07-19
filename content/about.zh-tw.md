@@ -35,3 +35,7 @@ og_type: "article"
 最後，感謝我的先生 [Samuel](https://mhyeh.github.io/) （文章裡的 Sam）幫我架設網站，並且將網站改得如此好看 ❤️
 
 若有任何想法，歡迎來信：mail@alicehsu.blog
+
+---
+
+註：此部落格的 AI 使用原則，請見[這篇文章](/zh-tw/ai-usage-policy/)。

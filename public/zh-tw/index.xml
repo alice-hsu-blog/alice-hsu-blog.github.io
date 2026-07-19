@@ -6,8 +6,37 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 21:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 11:00:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 使用原則</title>
+      <link>https://alicehsu.blog/zh-tw/ai-usage-policy/</link>
+      <pubDate>Sun, 19 Jul 2026 11:00:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/ai-usage-policy/</guid>
+      <description>&lt;p&gt;這個部落格是我思想的健身房、創作的天地、也是吉光片羽靈感的容身之處。&lt;/p&gt;&#xA;&lt;p&gt;我總覺得，若這些都由 AI 生成（甚至不能叫代筆，人才可以代筆，機器則否），那這個部落格就沒有存在的意義了，它就會成爲 AI 的部落格，而非我、Alice Hsu 的部落格。&lt;/p&gt;</description>
+
+      
+
+
+      <content:encoded>&lt;p&gt;這個部落格是我思想的健身房、創作的天地、也是吉光片羽靈感的容身之處。&lt;/p&gt;
+&lt;p&gt;我總覺得，若這些都由 AI 生成（甚至不能叫代筆，人才可以代筆，機器則否），那這個部落格就沒有存在的意義了，它就會成爲 AI 的部落格，而非我、Alice Hsu 的部落格。&lt;/p&gt;
+&lt;p&gt;既然是我的部落格，其中的創作皆出自我手，不過，為了管理網站和翻譯之便，我也會使用 AI 工具。&lt;/p&gt;
+&lt;p&gt;因此，為了讓讀者清楚哪些是我的創作，哪些地方使用 AI 協作，遂撰寫以下細項，供讀者參考。&lt;/p&gt;
+&lt;h3 id=&#34;文字&#34;&gt;文字&lt;/h3&gt;
+&lt;p&gt;此部落格的中文文章都是筆者親自撰寫，並無使用任何 AI 工具。
+&lt;br&gt;
+英文版的文章是由 AI 工具翻譯，再由本人親自編輯校對後發佈。&lt;/p&gt;
+&lt;h3 id=&#34;圖片&#34;&gt;圖片&lt;/h3&gt;
+&lt;p&gt;圖片若無註明引用出處，皆由我拍攝、繪製，並無使用 AI 工具製圖。&lt;/p&gt;
+&lt;h3 id=&#34;音樂&#34;&gt;音樂&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://alicehsu.blog/zh-tw/portfolio/&#34;&gt;作品集&lt;/a&gt;皆是本人創作，並無使用任何 AI 工具。&lt;/p&gt;
+&lt;h3 id=&#34;影片&#34;&gt;影片&lt;/h3&gt;
+&lt;p&gt;影片皆由本人拍攝剪輯，並無使用任何 AI 工具。&lt;/p&gt;
+&lt;h3 id=&#34;網站架設與維護&#34;&gt;網站架設與維護&lt;/h3&gt;
+&lt;p&gt;此部落格是在 Hugo Narrow 的架構上，運用 AI 工具修改其程式碼。&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>空氣品質指標超標，是怎樣的一天？</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/07/air-quality-alert/</link>
@@ -38,7 +67,8 @@
     data-gallery-alt=&#34;&#34;
     data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
 
-  &lt;/figure&gt;&lt;/p&gt;
+  &lt;/figure&gt;
+（圖片來源：Apple Weather App 的截圖）&lt;/p&gt;
 &lt;p&gt;平日 AQI 20 幾的 Wisconsin，飆升到 200 多會是怎樣的一天？&lt;/p&gt;
 &lt;p&gt;昨日看氣象預報，加拿大森林大火的空氣要飄到 Wisconsin 的頭頂上了，睡覺前打開空氣清淨機，轉到最強。&lt;/p&gt;
 &lt;p&gt;今早起來，窗外景色灰濛濛的，就像早晨的霧氣一樣，卻整日不散。明明是晴天，天空卻是混濁的，像水彩的洗筆水一樣。&lt;/p&gt;
@@ -1380,6 +1410,8 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
 &lt;p&gt;最後，感謝我的先生 &lt;a href=&#34;https://mhyeh.github.io/&#34;target=&#34;_blank&#34;
 &gt;Samuel&lt;/a&gt; （文章裡的 Sam）幫我架設網站，並且將網站改得如此好看 ❤️&lt;/p&gt;
 &lt;p&gt;若有任何想法，歡迎來信：mail@alicehsu.blog&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;註：此部落格的 AI 使用原則，請見&lt;a href=&#34;https://alicehsu.blog/zh-tw/ai-usage-policy/&#34;&gt;這篇文章&lt;/a&gt;。&lt;/p&gt;
 
       </content:encoded>
     </item>
@@ -2715,7 +2747,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
       </content:encoded>
     </item>
     <item>
-      <title>舊約歷史好難懂？用視覺化的方式讀懂它！</title>
+      <title>VisBible：舊約歷史視覺化工具</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/03/introduce-visbible.org/</link>
       <pubDate>Wed, 11 Mar 2026 20:00:00 -0500</pubDate>
       <guid>https://alicehsu.blog/zh-tw/posts/2026/03/introduce-visbible.org/</guid>

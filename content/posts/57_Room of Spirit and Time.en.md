@@ -1,9 +1,9 @@
 +++
-date = '2026-07-15T09:30:00-05:00'
-draft = true
+date = '2026-07-19T11:30:00-05:00'
+draft = false
 title = 'Room of Spirit and Time: A Sushi Restaurant Miniature'
 slug = 'Sushi Restaurant Miniature House'
-summary = 'If one day my salmon nigiri got full of itself and told the tuna nigiri next to it, "Ha, I am way better than you," I would probably huff and pick that salmon nigiri right off the table and send it to face the wall.'
+summary = """If one day my salmon nigiri got full of itself and turned to the tuna nigiri next to it and said, "Ha, I'm way better than you," I'd probably scoop it right off the plate and send it to stand in the corner and think about what it did."""
 cover = '/images/Post/57/2.JPG'
 cover_on_post = true
 categories = ['Thoughts and Talks']
@@ -31,11 +31,11 @@ The piece that frustrated me most was the sake bottle from day five, especially 
 
 On the nights we worked on the miniature, it felt like stepping into the Room of Spirit and Time: time would just fly by. Building the model wasn't just a great way to zone out; every so often, some strangely profound thought would surface too. One night, while wrestling with some tiny piece in my hands, I suddenly remembered this verse: "We are the clay, you are the potter; we are all the work of your hand." I felt like I could understand, just a little, what that might feel like from God's side.
 
-If one day my salmon nigiri got full of itself and told the tuna nigiri next to it, "Ha, I am way better than you," I would probably huff and pick that salmon nigiri right off the table and send it to face the wall;
+If one day my salmon nigiri got full of itself and turned to the tuna nigiri next to it and said, "Ha, I'm way better than you," I'd probably scoop it right off the plate and send it to stand in the corner and think about what it did.
 
-and if my little plant piece put itself down and said, "The restaurant would be better off without me," I'd probably say, quite sadly, but I cut you out leaf by leaf with my own hands: the restaurant wouldn't be complete without you!
+And if my little plant piece put itself down and said, "The restaurant would be better off without me," I'd probably say, quite sadly, but I cut you out leaf by leaf with my own hands: the restaurant wouldn't be complete without you!
 
-And if that's how I feel, how much more must God feel the same way.
+If that's how I feel, how much more must God feel the same way.
 
 ---
 
@@ -44,4 +44,4 @@ Lastly, here's a photo of Godzilla (?) attacking the sushi restaurant:
 
 ---
 
-*NB: This article was first published in Chinese on 07/14/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/15/26.*
+*NB: This article was first published in Chinese on 07/14/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/19/26.*

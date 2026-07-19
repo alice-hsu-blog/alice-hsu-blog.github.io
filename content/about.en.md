@@ -34,3 +34,7 @@ Finally, a heartfelt thank you to my husband [Samuel](https://mhyeh.github.io/) 
 
 
 For any feedback, please don't hesitate to contact me by email. You can reach me at: mail\@alicehsu.blog
+
+---
+
+For this blog's AI usage policy, please see [this article](/ai-usage-policy/).

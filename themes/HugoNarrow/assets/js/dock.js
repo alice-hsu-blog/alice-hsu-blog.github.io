@@ -11,7 +11,9 @@
 
   let lastScrollTop = 0;
   let isScrollingUp = false;
-  let scrollThreshold = 100; // 滚动阈值
+  let scrollThreshold = 100; // 滚动阈值：距离顶部多远才允许显示
+  let upScrollDistance = 0; // 连续向上滚动累积的距离
+  let upScrollRequired = 150; // 需要连续向上滚动多少像素才显示 dock
   let isDockVisible = false; // 悬浮模式的显示状态
 
   const dock = document.getElementById("dock");
@@ -26,20 +28,27 @@
   function handleScroll() {
     const currentScrollTop =
       window.pageYOffset || document.documentElement.scrollTop;
+    const delta = currentScrollTop - lastScrollTop;
 
-    // 判断滚动方向
-    if (currentScrollTop < lastScrollTop) {
+    // 判断滚动方向，并累积连续向上滚动的距离
+    if (delta < 0) {
       // 向上滚动
       isScrollingUp = true;
-    } else {
-      // 向下滚动
+      upScrollDistance += -delta;
+    } else if (delta > 0) {
+      // 向下滚动，重置累积距离
       isScrollingUp = false;
+      upScrollDistance = 0;
     }
 
     // 根据模式处理显示/隐藏 dock
     switch (dockMode) {
       case "scroll":
-        if (isScrollingUp && currentScrollTop > scrollThreshold) {
+        if (
+          isScrollingUp &&
+          currentScrollTop > scrollThreshold &&
+          upScrollDistance >= upScrollRequired
+        ) {
           showDock();
         } else if (!isScrollingUp || currentScrollTop <= scrollThreshold) {
           hideDock();

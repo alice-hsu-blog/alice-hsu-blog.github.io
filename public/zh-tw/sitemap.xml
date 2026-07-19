@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+    <url>
+    <loc>https://alicehsu.blog/zh-tw/ai-usage-policy/</loc>
+    <lastmod>2026-07-19T11:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/ai-usage-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/ai-usage-policy/"
+                />
+  </url>
+  
     
   
     
@@ -28,6 +43,16 @@
     <url>
     <loc>https://alicehsu.blog/zh-tw/posts/2026/07/sushi-restaurant-miniature-house/</loc>
     <lastmod>2026-07-14T17:00:00-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://alicehsu.blog/posts/2026/07/sushi-restaurant-miniature-house/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-TW"
+                href="https://alicehsu.blog/zh-tw/posts/2026/07/sushi-restaurant-miniature-house/"
+                />
   </url>
   
     <url>

@@ -71,15 +71,25 @@
             Hugo
           </a>
           <span>&</span>
-          <a 
-            href="https://github.com/tom2almighty/hugo-narrow" 
-            target="_blank" 
+          <a
+            href="https://github.com/tom2almighty/hugo-narrow"
+            target="_blank"
             rel="noopener noreferrer"
             class="text-primary hover:text-primary/80 font-medium transition-colors duration-200 hover:underline"
           >
             Narrow
           </a>
         </p>
+        {{ with site.GetPage "/ai-usage-policy" }}
+          <p class="mt-2">
+            <a
+              href="{{ .RelPermalink }}"
+              class="text-primary hover:text-primary/80 font-medium transition-colors duration-200 hover:underline"
+            >
+              {{ i18n "footer.ai_usage_policy" }}
+            </a>
+          </p>
+        {{ end }}
       </div>
 
       <!-- 社交媒体图标 -->

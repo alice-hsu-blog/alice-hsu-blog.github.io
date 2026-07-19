@@ -16,6 +16,7 @@ og_type = 'article'
   lastRow = 'center'
 +++
 ![](/images/Post58home.jpg)
+（圖片來源：Apple Weather App 的截圖）
 
 平日 AQI 20 幾的 Wisconsin，飆升到 200 多會是怎樣的一天？
 
