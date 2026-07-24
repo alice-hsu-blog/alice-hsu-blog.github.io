@@ -29,7 +29,7 @@ I wonder what the lake looks like in winter and spring. If I get the chance, I'd
 ![](/images/Post/59/3.jpg)
 ![](/images/Post/59/4.jpg)
 ![](/images/Post/59/5.jpg)
-![](/images/Post/59/6.jpg)
+![](/images/Post/59/6.JPG)
 ![](/images/Post/59/7.jpg)
 
 ---

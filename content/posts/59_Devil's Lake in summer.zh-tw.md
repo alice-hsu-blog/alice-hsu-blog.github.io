@@ -29,5 +29,5 @@ og_type = 'article'
 ![](/images/Post/59/3.jpg)
 ![](/images/Post/59/4.jpg)
 ![](/images/Post/59/5.jpg)
-![](/images/Post/59/6.jpg)
+![](/images/Post/59/6.JPG)
 ![](/images/Post/59/7.jpg)
