@@ -1,6 +1,6 @@
 +++
 date = '2026-07-19T10:50:00-05:00'
-draft = false
+draft = true
 title = '[Auntie Reads the Red Chamber] When the False Is Taken for True, the True Becomes False Too: Chapters 41-60'
 slug = 'Read Dream of the Red Chamber 41 to 60 chapters'
 summary = 'If the ultimate truth of life really is tragedy and emptiness, then why do most of us still feel this urge to work hard, to long for good relationships, to chase after something?'

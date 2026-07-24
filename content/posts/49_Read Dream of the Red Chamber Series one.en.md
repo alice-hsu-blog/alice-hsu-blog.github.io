@@ -1,6 +1,6 @@
 +++
 date = '2026-07-19T10:30:00-05:00'
-draft = false
+draft = true
 title = '[Auntie Reads the Red Chamber] The Jia Household, Teetering: Chapters 1-20'
 slug = 'Read Dream of the Red Chamber 1 to 20 chapters'
 summary = "Watching this cast of teenage siblings fall in love, and these little brats trash-talking and brawling in the schoolroom, I realized I actually needed to take a deep breath and be patient about it, and I really felt like part of me had gotten old. Guess the column name has to be 'Auntie Reads the Red Chamber' then."

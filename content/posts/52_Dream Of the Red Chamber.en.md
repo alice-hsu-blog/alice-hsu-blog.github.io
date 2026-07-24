@@ -1,6 +1,6 @@
 +++
 date = '2026-07-19T10:40:00-05:00'
-draft = false
+draft = true
 title = '[Auntie Reads the Red Chamber] Entangled Hearts Among Bao-yu, Dai-yu, and Bao-chai: Chapters 21-40'
 slug = 'Read Dream of the Red Chamber 21 to 40 chapters'
 summary = '"Oh, you feel hot? That must be because you are fat!"'
