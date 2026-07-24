@@ -1,6 +1,6 @@
 +++
-date = '2026-07-15T10:50:00-05:00'
-draft = true
+date = '2026-07-19T10:50:00-05:00'
+draft = false
 title = '[Auntie Reads the Red Chamber] When the False Is Taken for True, the True Becomes False Too: Chapters 41-60'
 slug = 'Read Dream of the Red Chamber 41 to 60 chapters'
 summary = 'If the ultimate truth of life really is tragedy and emptiness, then why do most of us still feel this urge to work hard, to long for good relationships, to chase after something?'
@@ -27,14 +27,12 @@ Maybe, more than romantic love as a theme, what Cao Xueqin is really more focuse
 
 
 ### Quick recap of key plot points, Chapters 41-60
-Xi-feng catches Jia Lian and Second Bao's wife in bed together; Dai-yu and Bao-chai reconcile; Yuan-yang refuses, to the death, to marry Jia She; Xi-feng, recovering from a miscarriage, hands off household management to Lady Wang, Li Wan, and Tan-chun; Bao-yu is scared half out of his wits by a joke Zi-juan plays on him.
+Xi-feng catches Jia Lian and Bao-er's wife in bed together; Dai-yu and Bao-chai reconcile; Faithful refuses, to the death, to marry Jia She; Xi-feng, recovering from a miscarriage, hands off household management to Lady Wang, Li Wan, and Tan-chun; Bao-yu is scared half out of his wits by a joke Nightingale plays on him.
 
 ## What actually counts as a life worth pursuing?
-For every character in the story, the answer is different: for some it's the purest form of love, for others it's absolute power, for others it's peaceful relationships. Whatever it is, the person pursuing it first has to assume that thing is real, not illusory. That premise has to hold before there's any motivation to chase after it at all. And yet in *Dream of the Red Chamber*, Cao Xueqin deliberately blurs the line between what's real and what's illusory:
+For every character in the story, the answer is different: for some it's the purest form of love, for others it's absolute power, for others it's peaceful relationships. Whatever it is, the person pursuing it first has to assume that thing is real, not illusory. That premise has to hold before there's any motivation to chase after it at all. And yet in *Dream of the Red Chamber*, Cao Xueqin deliberately blurs the line between what's real and what's illusory, in a couplet that could be paraphrased as: treat the false as true, and the true turns false as well; treat nothingness as something, and something turns, in the end, back to nothing.
 
-> When the false is taken for true, the true becomes false too; where nothing is made to be something, something turns, in the end, again to nothing.
-
-This couplet is what Jia Bao-yu reads early in the story during his dream-journey through the Land of Illusion, and it also serves as the central theme of the entire novel: illusion may well reflect reality, and what you believe to be real may well be false. Working from that premise, we find that the "illusory" dream sequences become the author's tool for foreshadowing the "real" ending, for instance, the registers of the twelve beauties of Jinling that Bao-yu reads in his dream, whose verses actually describe the tragic fates awaiting several of the young women of the Grand View Garden. On the flip side, the "real" life depicted in the story ends up reading like a fleeting dream itself: scenes like everyone huddling together to compose poetry and grill meat together in the snow carry a sense of being almost too good to be real.
+This couplet is what Jia Bao-yu reads early in the story during his dream-journey through the Land of Illusion, and it also serves as the central theme of the entire novel: illusion may well reflect reality, and what you believe to be real may well be false. Working from that premise, we find that the "illusory" dream sequences become the author's tool for foreshadowing the "real" ending, for instance, the Second Supplementary Register of the Twelve Beauties of Jinling that Bao-yu reads in his dream, whose verses actually describe the tragic fates awaiting several of the young women of Prospect Garden. On the flip side, the "real" life depicted in the story ends up reading like a fleeting dream itself: scenes like everyone huddling together to compose poetry and grill meat together in the snow carry a sense of being almost too good to be real.
 
 Even though readers may pick up on this, the characters within the story don't: even after Bao-yu and Wang Xi-feng each experience prophetic dreams, neither of them really grasps what those dreams mean. Once they wake, they go right back to living in blissful ignorance of what's coming, laughing as much as they want, crying as much as they want, chasing after whatever their hearts desire without restraint. For Bao-yu and Dai-yu, sincerity of feeling is what matters most, and they don't care whether the rest of the world approves or not. For Wang Xi-feng, the image of the unbreakable powerhouse woman must be maintained at all costs: even after a miscarriage brought on by chronic overwork leaves her body severely weakened, she still puts up a strong front in front of others. For Lady Xing (Wang Xi-feng's mother-in-law), her husband's word is absolute law: even when her husband, Jia She, asks her to help him find a concubine, she does it without a moment's hesitation.
 
@@ -42,9 +40,7 @@ Sounds pretty absurd, right? But maybe that's exactly the effect Cao Xueqin was 
 
 ## Is the ultimate truth of life really tragedy?
 
-That said, it's worth noting that this novel is, at its core, a tragedy: the dream sequences you assume are illusory turn out to foreshadow a genuinely tragic ending, while the beauty you assume is real ultimately amounts to nothing. Either way, beauty is never eternal, and illusion and emptiness are, in the end, what life's truth really comes down to. Perhaps the author's own lament on this is hidden in Dai-yu's view on banquets:
-
-> Wherever people gather, they must eventually part; joyful as the gathering may be, isn't the parting that follows bound to feel cold and desolate? And with that cold desolation comes sorrow, so wouldn't it be better never to gather at all? Just like how flowers delight us when they bloom, and only bring us more heartache once they wither, so wouldn't it be better if they never bloomed at all?
+That said, it's worth noting that this novel is, at its core, a tragedy: the dream sequences you assume are illusory turn out to foreshadow a genuinely tragic ending, while the beauty you assume is real ultimately amounts to nothing. Either way, beauty is never eternal, and illusion and emptiness are, in the end, what life's truth really comes down to. Perhaps the author's own lament on this is hidden in Dai-yu's view on banquets: wherever people gather, they must eventually part, and however joyful the gathering, doesn't the parting that follows only bring on a chill and a sadness? So maybe it's better never to gather at all. She likens it to flowers: they delight us when they bloom, but only bring more heartache once they wither, so maybe it would be better if they never bloomed in the first place.
 
 (Wait, doesn't this basically boil down to: since you're going to get hungry again eventually, wouldn't it be better not to eat at all?)
 
@@ -63,7 +59,7 @@ Ugh, and now I'm starting to see the household servants stirring up trouble too.
 
 ### [Fun Vocabulary]
 Text in black is the definition, <span style="color: rgb(255, 106, 0);">orange text is my own take on it.</span>
-1. Baotan (爆炭, "exploding charcoal"): describes a fiery, hot temper. Example sentence: "That little wretch Qing-wen has a temper like exploding charcoal." <span style="color: rgb(255, 106, 0);">A wonderfully vivid image! You can practically picture Qing-wen's temper crackling and popping like burning charcoal.</span>
+1. Baotan (爆炭, "exploding charcoal"): describes a fiery, hot temper. Example sentence: "That little wretch Skybright has a temper like exploding charcoal." <span style="color: rgb(255, 106, 0);">A wonderfully vivid image! You can practically picture Skybright's temper crackling and popping like burning charcoal.</span>
 2. "Opened a fruit stand": beaten black and blue, skin broken and bleeding, like the riot of colors in a fruit stand's produce. Example sentence: "Xiang-lian walked over to take a look, and realizing he (Xue Pan) wasn't used to taking a beating, only used about thirty percent of his strength, giving his face a few slaps, and just like that, he'd 'opened a fruit stand.'" <span style="color: rgb(255, 106, 0);">A pretty funny metaphor: in modern terms, you'd basically say his face "opened up its own fruit shop."</span>
 3. Hehezhezhe (蝎蝎螫螫): describes being excessively anxious, timid, and easily fussed.
 4. Shixin ("solid heart"): sincere, earnest. Example sentence: "Don't go saying he (Bao-yu) is just some sincere, foolish child." <span style="color: rgb(255, 106, 0);">A pretty interesting descriptor: so does that mean if someone's got a lot of twists and turns going on inside them, you could call them "hollow-hearted"? lol</span>
@@ -75,4 +71,4 @@ Text in black is the definition, <span style="color: rgb(255, 106, 0);">orange t
 
 ---
 
-*NB: This article was first published in Chinese on 06/28/26. It was later translated with assistance from AI tools, edited by me, and published in English on 07/15/26.*
+*NB: This article was first published in Chinese on 06/28/26. It was later translated with assistance from AI tools, cross-checked against Cao Xueqin's original text and David Hawkes's translation *The Story of the Stone* for character names and terminology, edited by me, and published in English on 07/19/26.*
