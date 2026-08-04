@@ -6,8 +6,573 @@
     <description>Recent content on Alice Hsu&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 22:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 18:50:00 -0500</lastBuildDate>
     <atom:link href="https://alicehsu.blog/zh-tw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>知更鳥育兒記</title>
+      <link>https://alicehsu.blog/zh-tw/posts/2026/08/robins/</link>
+      <pubDate>Tue, 04 Aug 2026 18:50:00 -0500</pubDate>
+      <guid>https://alicehsu.blog/zh-tw/posts/2026/08/robins/</guid>
+      <description>我發現「翅膀硬了就要飛了」不應該是一個否定、貶義的用詞，應該是一個中性，甚至是期待的詞。</description>
+
+      
+        <media:thumbnail url="https://alicehsu.blog/images/Post/60/28.webp" />
+        <media:content url="https://alicehsu.blog/images/Post/60/28.webp" medium="image" />
+        <enclosure url="https://alicehsu.blog/images/Post/60/28.webp" type="image/jpeg" />
+      
+
+
+      <content:encoded>&lt;div
+    class=&#34;alert alert-note my-6 overflow-hidden rounded-lg transition-all duration-200 ease-out hover:-translate-y-0.5 hover:shadow-md&#34;
+    style=&#34;background-color: color-mix(in srgb, var(--color-note) 10%, transparent);
+              border-left-color: var(--color-note);
+              --hover-bg: color-mix(in srgb, var(--color-note) 15%, transparent);&#34;
+    onmouseover=&#34;this.style.backgroundColor = this.style.getPropertyValue(&#39;--hover-bg&#39;)&#34;
+    onmouseout=&#34;this.style.backgroundColor = &#39;color-mix(in srgb, var(--color-note) 10%, transparent)&#39;&#34;
+    role=&#34;alert&#34;
+    aria-labelledby=&#34;alert-0-title&#34;&gt;
+    
+    
+
+    
+    &lt;div
+      id=&#34;alert-0-content&#34;
+      class=&#34;alert-content  px-6 pb-6  py-6  items-center justify-between &#34;&gt;
+      &lt;div class=&#34;prose prose-sm text-foreground/90 max-w-none&#34;&gt;
+        &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; 此篇有大量的照片和動圖，RSS 的讀者建議請至網站閱讀以獲最佳體驗。
+另外，這也是我的&lt;a href=&#34;https://blogblog.club/party/&#34;target=&#34;_blank&#34;
+&gt;「BlogBlog 同樂會 – 2026 年 8 月 」&lt;/a&gt;的投稿文章。本月主題是&lt;a href=&#34;https://blog.ikukaroom.com/ichigo-ichie/&#34;target=&#34;_blank&#34;
+&gt;「一期一會」&lt;/a&gt;，由 &lt;a href=&#34;https://blog.ikukaroom.com/&#34;target=&#34;_blank&#34;
+&gt;ikuka&lt;/a&gt; 主持。如果你有自己的部落格，歡迎一起來參加！&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;script&gt;
+function toggleAlert(alertId) {
+  const content = document.getElementById(alertId + &#39;-content&#39;);
+  const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+  const header = content.previousElementSibling;
+  
+  if (content.classList.contains(&#39;hidden&#39;)) {
+    content.classList.remove(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(0deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;true&#39;);
+  } else {
+    content.classList.add(&#39;hidden&#39;);
+    chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    header.setAttribute(&#39;aria-expanded&#39;, &#39;false&#39;);
+  }
+}
+
+
+document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
+  const collapsedAlerts = document.querySelectorAll(&#39;.alert-content.hidden&#39;);
+  collapsedAlerts.forEach(function(content) {
+    const alertId = content.id.replace(&#39;-content&#39;, &#39;&#39;);
+    const chevron = document.getElementById(alertId + &#39;-chevron&#39;);
+    if (chevron) {
+      chevron.style.transform = &#39;rotate(-90deg)&#39;;
+    }
+  });
+});
+&lt;/script&gt;
+
+&lt;hr&gt;
+&lt;p&gt;六月初，我們家的陽台忽然多了一位常客，是一隻知更鳥，她探頭探腦一陣子後，開始叼一些材料在陽台的護欄築巢。&lt;/p&gt;
+&lt;p&gt;能被知更鳥相中為築巢的地點，我和 Sam 都覺得百般榮幸和不可思議，畢竟，我們住的可是公寓型社區（Apartment Complex），竟然在百戶中挑中我們家，實在神奇。&lt;/p&gt;
+&lt;p&gt;於是，我們就經營起 Airbnb 了！雖然客人要自己建房間和抓早餐。&lt;/p&gt;
+&lt;p&gt;每一天，小鄰居辛勤地叼著各樣的材料來築巢，大部分是草和泥土，有時候是塑膠片，不過塑膠片不好固定，掉落了好幾次之後她就放棄了。巢差不多成形的某一天，天氣忽然狂風暴雨，不得不說她真是選了個好位子，巢恰好是在屋簷正下方的背風處，固若金湯，紋絲不動。&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/1.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/1.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/2.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/2.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;過幾天，小鄰居安然歸來，開始在巢中等待生產，接著，一天一顆蛋，四天生了四顆。趁著小鄰居出外覓食，我隔著落地窗拍了照，發現鳥蛋的顏色還真如許多資料顯示的，是暗藍綠色，並且透著神秘夢幻的光澤，難怪珠寶公司 Tiffany 會選用它作為公司品牌的顏色啊。&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/3.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/3.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/4.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/4.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/5.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/5.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/6.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/6.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;孵蛋的過程可謂天長地久，小鄰居常常坐在巢中一動也不動，只有需要吃飯的時候才會飛離一下下。大部分她就這麼看著巢外的景色發呆，偶爾眼睛瞇起來打瞌睡，偶爾與在沙發上的我四目相對。&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/7.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/7.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/8.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/8.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/9.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/9.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/10.webp&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/10.webp&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/11.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/11.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;有一天趁著小鄰居外出，我伸著脖子往巢中一看，有一團粉色的肉在蠕動著，小鳥出生了！過幾天，巢中活動的數目增長。不過我算來算去，怎麼樣都只有三隻小鳥，明明是四顆蛋啊，怎麼會有一顆不見了呢？連蛋殼也不見蹤影。查了資料才發現，有可能是那一顆鳥蛋沒有受精成功，就把第四顆鳥蛋丟掉了；當然也有可能有偷蛋賊，不過我沒看到就是了。&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/12.webp&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/12.webp&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/13.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/13.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/14.webp&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/14.webp&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/15.webp&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/15.webp&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/16.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/16.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/17.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/17.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/18.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/18.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/19.webp&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/19.webp&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/20.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/20.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;三隻小雛鳥就在巢中慢慢長大。每天鳥媽媽努力抓蟲來餵食小朋友，偶爾，鳥爸爸也會來幫忙。小雛鳥張開嘴巴，其寬度跟身體差不多大，整天不是吃就是睡，跟人類小孩差不多。牠們成長的速度非常驚人，從剛孵育軟軟一坨肉到離開巢，整體也才短短兩個星期而已，羽毛更是在一個晚上就長出來了，如果人類小孩也能這麼快那就輕鬆多啦。&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/21.webp&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/21.webp&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/22.webp&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/22.webp&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/23.webp&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/23.webp&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/24.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/24.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/25.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/25.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/26.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/26.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;小鳥離巢的那一天，他們的爸媽先飛離巢，在前方草坪上的大樹上呼喚著他們。三隻小鳥分別從巢中站了起來，第一隻很快從巢中飛到陽台上，再從陽台飛到前方的草坪，幾乎沒有任何猶豫，是天賦異稟的資優生。他爸爸（或媽媽？）飛下來迎接他，在前方引導他走路，小鳥也亦步亦趨學著，或跑或飛，超可愛。第二隻不久也跟著飛了下去，只有第三隻鳥鳥，大概是離巢時不小心摔了一下（就是以下這隻綜藝摔的鳥鳥），對飛翔的心理陰影面積有點大，在陽台踱步超久，最後才飛走。&lt;/p&gt;
+&lt;p&gt;
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/27.jpg&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/27.jpg&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;
+
+&lt;figure class=&#34;image-figure not-prose my-8&#34; 
+        data-lightbox-enabled=&#34;true&#34;
+        data-gallery-type=&#34;auto&#34;&gt;
+  &lt;div class=&#34;image-container&#34;&gt;
+    &lt;img
+    src=&#34;https://alicehsu.blog/images/Post/60/28.webp&#34;
+    alt=&#34;&#34;
+    
+    
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    data-gallery-src=&#34;https://alicehsu.blog/images/Post/60/28.webp&#34;
+    data-gallery-alt=&#34;&#34;
+    data-gallery-title=&#34;&#34; /&gt;&lt;/div&gt;
+
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;這次觀察知更鳥的成長過程，我想起中文這句「翅膀硬了就要飛了」，常常出自一個氣急敗壞父母的口中，言下之意是批評小孩不聽從自己的命令或安排。不過，我發現「翅膀硬了就要飛了」不應該是一個否定、貶義的用詞，應該是一個中性，甚至是期待的詞。畢竟，小鳥生來就是要飛的啊，如果小鳥不飛出巢，那三隻小鳥的活動空間會非常拘束、很不舒服擠在熱呼呼的巢裡，爸媽也要累得半死每天叼蟲來給他們吃。&lt;/p&gt;
+&lt;p&gt;再者，通常會用這句話來責罵小孩的父母，通常都不知道該怎麼樣好好引導小孩。人家是知更鳥爸媽可不是就讓小孩飛出去什麼都不管，他們會在過渡時期，站在小鳥前方引導他們該怎樣走路、怎樣飛翔、怎樣捕食。&lt;/p&gt;
+&lt;p&gt;希望每個人類幼崽都有像知更鳥的爸媽，對於「翅膀硬了就要飛了」抱持一個正向的態度，可以對小孩說：「你的翅膀會慢慢變硬，到時候就能像我們一樣飛到大樹上、飛到雲端上，看到不一樣的風景喔！」並且，知道什麼時候不能再餵食，得要站在前方的大樹，鼓勵他們飛出第一步，並且在跌跌撞撞的過程裡，在前方引導他們。&lt;/p&gt;
+&lt;p&gt;這樣世界會和平許多吧。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;後記&#34;&gt;後記&lt;/h3&gt;
+&lt;p&gt;小鄰居一家離開之後，有時候我走在路上，會忍不住想：我眼前的的知更鳥究竟是不是他們家其中一鳥？（雖然如果是的話我也認不出來）儘管未來有可能有別的鳥在我家築巢，不過就不會是最令人心動的第一次了，與小鄰居一家的相遇，真的是一生才有一次的經歷呢。&lt;/p&gt;
+
+      </content:encoded>
+    </item>
     <item>
       <title>Devil&#39;s Lake 半日遊</title>
       <link>https://alicehsu.blog/zh-tw/posts/2026/07/devils-lake-half-day-trip/</link>
@@ -932,7 +1497,7 @@ document.addEventListener(&#39;DOMContentLoaded&#39;, function() {
     decoding=&#34;async&#34;
     data-gallery-src=&#34;https://alicehsu.blog/images/Post/51/2.jpg&#34;
     data-gallery-alt=&#34;&#34;
-    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/51/1.jpg&#34; 
+    data-gallery-title=&#34;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;masonry-item&#34;&gt;&lt;a href=&#34;https://alicehsu.blog/images/Post/51/3.jpg&#34; 
              class=&#34;glightbox&#34;
              data-gallery=&#34;masonry-e9b3e242662153361834eef26296a473-1&#34;&gt;
             
