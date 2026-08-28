@@ -81,3 +81,5 @@ Sam 問我《紅樓夢》的主線劇情是什麼，我說：就是看這些弟�
 [【阿姨看紅樓】搖搖欲墜是賈府：一至二十回](/zh-tw/posts/2026/05/read-dream-of-the-red-chamber-1-to-20-chapters/)
 <br>
 [【阿姨看紅樓】假作真時真亦假：四十一至六十回](/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-41-to-60-chapters/)
+<br>
+[【阿姨看紅樓】正宮妾室大決鬥：六十一至八十回](/zh-tw/posts/2026/08/read-dream-of-the-red-chamber-61-to-80-chapters/)

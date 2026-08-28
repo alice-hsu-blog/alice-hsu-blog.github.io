@@ -72,3 +72,5 @@ og_type = 'article'
 [【阿姨看紅樓】搖搖欲墜是賈府：一至二十回](/zh-tw/posts/2026/05/read-dream-of-the-red-chamber-1-to-20-chapters/)
 <br>
 [【阿姨看紅樓】情思纏綿寶黛釵：二十一至四十回](/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-21-to-40-chapters/)
+<br>
+[【阿姨看紅樓】正宮妾室大決鬥：六十一至八十回](/zh-tw/posts/2026/08/read-dream-of-the-red-chamber-61-to-80-chapters/)
