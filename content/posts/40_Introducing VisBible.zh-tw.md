@@ -6,7 +6,7 @@ slug = 'introduce visbible.org'
 summary = '北國的亞哈謝和約蘭是兄弟，南國的約蘭和亞哈謝是父子。南國約蘭的兒子亞哈謝，跟北國亞哈謝的兄弟約蘭，一起去基列的拉末打亞蘭王哈薛。'
 cover = '/images/Post/40/2.png'
 cover_on_post = false
-categories = ['VisBible']
+categories = ['我做的小工具']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
