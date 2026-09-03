@@ -43,7 +43,7 @@ og_type = 'article'
 ![](/images/Post/5/28.jpg)
 ![](/images/Post/5/29.jpg)
 ![](/images/Post/5/30.jpg)
-![](/images/Post/5/4.jpg)
+![](/images/Post/5/4.JPG)
 
 ## 午餐
 午餐在 Devil's Lake 附近的 Balanced Rock Winery 享用很厲害的 Signature Charcuterie Board 和 Wine flight。 拼盤配料豐富價格實惠，我們兩人點了最小的份量還是吃不完，打包後又是滿滿的一盒，不愧是起司州！Wine Flight 的話，我個人最喜歡最右邊的水果酒，酒有桃子的香甜味。

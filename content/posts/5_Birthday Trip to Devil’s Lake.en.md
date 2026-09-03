@@ -44,7 +44,7 @@ Early in the morning, Samuel and I went to Devil’s Lake to see the fall foliag
 ![](/images/Post/5/28.jpg)
 ![](/images/Post/5/29.jpg)
 ![](/images/Post/5/30.jpg)
-![](/images/Post/5/4.jpg)
+![](/images/Post/5/4.JPG)
 
 
 ## Lunch
