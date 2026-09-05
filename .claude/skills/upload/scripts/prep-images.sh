@@ -15,7 +15,10 @@ cd "$ROOT" || exit 1
 echo "== Step 1: compress images (long edge -> ${MAXDIM}px) =="
 
 # New / modified image files under static/images (NUL-safe, handles spaces)
-mapfile -t FILES < <(
+FILES=()
+while IFS= read -r line; do
+  FILES+=("$line")
+done < <(
   git status --porcelain=v1 --untracked-files=all -z \
   | tr '\0' '\n' \
   | sed -E 's/^(.{2}) //' \

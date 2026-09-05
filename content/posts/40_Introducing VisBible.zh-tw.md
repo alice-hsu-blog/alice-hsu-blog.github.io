@@ -1,7 +1,7 @@
 +++
 date = '2026-03-11T20:00:00-05:00'
 draft = false
-title = 'VisBible：舊約歷史視覺化工具'
+title = 'VisBible：聖經視覺化工具'
 slug = 'introduce visbible.org'
 summary = '北國的亞哈謝和約蘭是兄弟，南國的約蘭和亞哈謝是父子。南國約蘭的兒子亞哈謝，跟北國亞哈謝的兄弟約蘭，一起去基列的拉末打亞蘭王哈薛。'
 cover = '/images/Post/40/2.png'
