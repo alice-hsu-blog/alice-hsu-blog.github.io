@@ -1,7 +1,7 @@
 +++
-date = '2026-09-07T21:49:38-05:00'
-draft = true
-title = 'A Few Tips for Using Echo'
+date = '2026-09-09T18:25:00-05:00'
+draft = false
+title = 'Some Tips of Using Echo'
 slug = 'Some Tips of Using Echo'
 summary = 'Today I want to share a few tips that make Echo even easier to use.'
 cover = '/images/Post/63/0.png'
@@ -19,7 +19,7 @@ og_type = 'article'
 
 ### Tip 1: Add a sentence with a keyboard shortcut
 ![](/images/Post/65/1.webp)
-By default, the + key adds a new sentence. In practice, once I've finished adding one sentence, I just press `Shift` + `+` to quickly add the next one.
+By default, the + key adds a new sentence. Once I've finished adding one sentence, I just press `Shift` + `+` to quickly add the next one.
 
 ### Tip 2: Customize the shortcuts
 ![](/images/Post/65/2.webp)
@@ -33,7 +33,7 @@ In the source field, just press the `↓` key to bring up the last five entries 
 ![](/images/Post/65/4.webp)
 If you want to sort the quotes you've collected, click the + next to Folders, then select the quote cards and drag them over!
 
-On top of that, sharp-eyed readers have probably noticed that Echo has a dark interface — just head to "Appearance" to switch it; you can also change the language under "Preferences."
+On top of that, readers have probably noticed that Echo has a dark interface! Just head to "Appearance" to switch it; you can also change the language under "Preferences."
 ![](/images/Post/65/5.png)
 ![](/images/Post/65/6.png)
 Go download it and give it a try!
@@ -42,4 +42,4 @@ Go download it and give it a try!
 
 ---
 
-*NB: This article was first published in Chinese. It was later translated with assistance from AI tools, edited by me, and published in English.*
+*NB: This article was first published in Chinese on 09/07/2026. It was later translated with assistance from AI tools, edited by me, and published in English on 09/09/2026.*
