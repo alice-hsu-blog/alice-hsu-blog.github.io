@@ -4,7 +4,7 @@ draft = false
 title = '【阿姨看紅樓】假作真時真亦假：四十一至六十回'
 slug = 'Read Dream of the Red Chamber 41 to 60 chapters'
 summary = '如果人生的真相就是悲劇和空無，那為何大部分的我們還是會有衝動要努力、渴望有個好的關係、想要有所追求呢？'
-cover = '/images/Post55home.JPG'
+cover = '/images/Post55home.jpg'
 cover_on_post = true
 categories = ['閱讀 · 反思']
 author_twitter_handle = '@Alicehsu77' 
@@ -74,3 +74,5 @@ og_type = 'article'
 [【阿姨看紅樓】情思纏綿寶黛釵：二十一至四十回](/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-21-to-40-chapters/)
 <br>
 [【阿姨看紅樓】正宮妾室大決鬥：六十一至八十回](/zh-tw/posts/2026/08/read-dream-of-the-red-chamber-61-to-80-chapters/)
+<br>
+[【阿姨看紅樓】瀟湘妃子含恨逝：八十一至一百回](/zh-tw/posts/2026/09/read-dream-of-the-red-chamber-81-to-100-chapters/)
