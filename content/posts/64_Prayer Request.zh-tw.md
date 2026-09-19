@@ -29,3 +29,5 @@ og_type = 'article'
 
 點這裡填寫：[Google 表單連結](https://docs.google.com/forms/d/e/1FAIpQLSd-sMky-Belie3z-oXmwgWqoIN_Q14MNWCEiVi9dCX57Z6xnQ/viewform?usp=dialog)
 
+---
+**2026/09/18 更新**：**我把截止日期拿掉了，禱告計劃已經正式成為本部落格的長期專案。** 如果有需要代禱的事情，一樣可以點擊以上連結請我幫忙禱告喔，如果希望我回信的話，我會在收到的一週內回信給你。

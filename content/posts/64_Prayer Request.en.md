@@ -29,4 +29,8 @@ Honestly, I'm not sure whether anyone will need this, so I'll try it for a week 
 
 Click here to fill it in: [Google Form link](https://docs.google.com/forms/d/e/1FAIpQLSd-sMky-Belie3z-oXmwgWqoIN_Q14MNWCEiVi9dCX57Z6xnQ/viewform?usp=dialog)
 
+---
+
+**Update, 2026/09/18**: **I've removed the deadline, and the prayer project has officially become a long-term project on this blog.** If there's anything you'd like prayer for, you can still click the link above and ask me to pray for you. If you'd like a reply, I'll write back within a week of receiving your message.
+
 *NB: This article was first published in Chinese. It was later translated with assistance from AI tools, edited by me, and published in English.*
