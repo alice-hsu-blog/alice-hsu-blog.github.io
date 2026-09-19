@@ -16,7 +16,7 @@ og_type = 'article'
   lastRow = 'center'
 +++
 > [!Caution]+
-> 這是我的[「BlogBlog 同樂會 - 2026 年 2 月」](https://blogblog.club/party)的投稿文章。本月主題是「只有我這樣嗎？」，由 Wiwi 主持。如果你有自己的部落格，歡迎一起來參加！
+> 這是[「BlogBlog 同樂會 - 2026 年 2 月」](https://blogblog.club/party)的投稿文章。本月主題是「只有我這樣嗎？」，由 Wiwi 主持。如果你有自己的部落格，歡迎一起來參加！
 
 剛來美國的時候，不只要適應語言差異、文化差異，還得要適應濕度差異。
 

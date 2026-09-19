@@ -16,7 +16,7 @@ og_type = 'article'
   lastRow = 'center'
 +++
 > [!Caution]+
-> 這是我的「[BlogBlog 同樂會 - 2026 年 4 月](https://blogblog.club/party/?ref=wen-lab.tw)」的投稿文章。本月主題是「[生產力](https://www.wen-lab.tw/blogblog-party-productivity/)」！
+> 這是「[BlogBlog 同樂會 - 2026 年 4 月](https://blogblog.club/party/?ref=wen-lab.tw)」的投稿文章。本月主題是「[生產力](https://www.wen-lab.tw/blogblog-party-productivity/)」！
 
 
 ---

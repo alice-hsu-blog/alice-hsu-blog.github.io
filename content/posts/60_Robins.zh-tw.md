@@ -17,7 +17,7 @@ og_type = 'article'
 +++
 > [!Note]+
 > **Note:** 此篇有大量的照片和動圖，RSS 的讀者建議請至網站閱讀以獲最佳體驗。
-> 另外，這也是我的[「BlogBlog 同樂會 – 2026 年 8 月 」](https://blogblog.club/party/)的投稿文章。本月主題是[「一期一會」](https://blog.ikukaroom.com/ichigo-ichie/)，由 [ikuka](https://blog.ikukaroom.com/) 主持。如果你有自己的部落格，歡迎一起來參加！
+> 另外，這也是[「BlogBlog 同樂會 – 2026 年 8 月 」](https://blogblog.club/party/)的投稿文章。本月主題是[「一期一會」](https://blog.ikukaroom.com/ichigo-ichie/)，由 [ikuka](https://blog.ikukaroom.com/) 主持。如果你有自己的部落格，歡迎一起來參加！
 
 ---
 

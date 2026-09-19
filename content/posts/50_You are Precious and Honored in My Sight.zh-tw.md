@@ -16,7 +16,7 @@ og_type = 'article'
   lastRow = 'center'
 +++
 > [!Caution]+
-> 這是我的「[BlogBlog 同樂會 - 2026 年 5 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[改變人生觀的一句話](https://eddielv.com/articles/a-sentence-changing-you/)」，由 [Eddie Lv](https://eddielv.com) 主持。如果你有自己的部落格，歡迎一起來參加！
+> 這是「[BlogBlog 同樂會 - 2026 年 5 月](https://blogblog.club/party/)」的投稿文章。本月主題是「[改變人生觀的一句話](https://eddielv.com/articles/a-sentence-changing-you/)」，由 [Eddie Lv](https://eddielv.com) 主持。如果你有自己的部落格，歡迎一起來參加！
 
 
 大三那年，我信了主，成為基督徒不久後的某一天，我讀聖經時看到這麼一句話：

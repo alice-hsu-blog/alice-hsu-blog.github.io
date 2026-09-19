@@ -16,7 +16,7 @@ og_type = 'article'
   lastRow = 'center'
 +++
 > [!Caution]+ 
-> 這是我的 2026 年 1 月份 [BlogBlog 同樂會](https://blogblog.club/party)投稿，歡迎大家一同來 Party！
+> 這是 2026 年 1 月份 [BlogBlog 同樂會](https://blogblog.club/party)投稿，歡迎大家一同來 Party！
 
 「嘿，Udon！有客人來囉！快來打招呼！」
 
