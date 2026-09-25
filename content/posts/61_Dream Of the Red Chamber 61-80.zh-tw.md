@@ -78,5 +78,7 @@ og_type = 'article'
 [【阿姨看紅樓】假作真時真亦假：四十一至六十回](/zh-tw/posts/2026/06/read-dream-of-the-red-chamber-41-to-60-chapters/)
 <br>
 [【阿姨看紅樓】瀟湘妃子含恨逝：八十一至一百回](/zh-tw/posts/2026/09/read-dream-of-the-red-chamber-81-to-100-chapters/)
+<br>
+[【阿姨看紅樓】紅樓一夢恍如煙：一零一至一百二十回](/zh-tw/posts/2026/09/read-dream-of-the-red-chamber-101-to-120-chapters/)
 
 [^1]: 最近看台灣新聞的讀者有沒有覺得很耳熟 XD

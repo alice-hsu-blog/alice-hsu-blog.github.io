@@ -103,3 +103,5 @@ og_type = 'article'
 [【阿姨看紅樓】正宮妾室大決鬥：六十一至八十回](/zh-tw/posts/2026/08/read-dream-of-the-red-chamber-61-to-80-chapters/)
 <br>
 [【阿姨看紅樓】瀟湘妃子含恨逝：八十一至一百回](/zh-tw/posts/2026/09/read-dream-of-the-red-chamber-81-to-100-chapters/)
+<br>
+[【阿姨看紅樓】紅樓一夢恍如煙：一零一至一百二十回](/zh-tw/posts/2026/09/read-dream-of-the-red-chamber-101-to-120-chapters/)
