@@ -1,0 +1,266 @@
+{{- /*
+  互動測驗。用法：{{< quiz "red_chamber" >}}，題目放在 data/quizzes/<名稱>.yaml
+*/ -}}
+{{- $name := .Get 0 -}}
+{{- $data := index site.Data.quizzes $name -}}
+{{- if not $data -}}
+  {{- errorf "quiz: 找不到 data/quizzes/%s.yaml（%s）" $name .Position -}}
+{{- end -}}
+{{- $id := printf "rcq-%s-%d" $name .Ordinal -}}
+{{- $total := len $data.questions -}}
+
+{{- /* 把〈篇名〉換成連到該篇文章的連結 */ -}}
+{{- $links := slice -}}
+{{- range $title, $path := $data.links -}}
+  {{- with site.GetPage $path -}}
+    {{- $links = $links | append (dict "from" (printf "〈%s〉" $title) "to" (printf "〈<a href=\"%s\" target=\"_blank\" rel=\"noopener\">%s</a>〉" .RelPermalink $title)) -}}
+  {{- else -}}
+    {{- warnf "quiz: 找不到連結的文章 %q" $path -}}
+  {{- end -}}
+{{- end -}}
+
+<div class="rcq" id="{{ $id }}" data-total="{{ $total }}">
+  <div class="rcq-head">
+    <span class="rcq-progress">第 <b>1</b> / {{ $total }} 題</span>
+    <span class="rcq-running">目前得分：<b>0</b></span>
+  </div>
+  <div class="rcq-bar" aria-hidden="true"><i></i></div>
+
+  {{- range $i, $q := $data.questions }}
+  {{- $multi := gt (len $q.answer) 1 }}
+  {{- $explain := htmlEscape $q.explain }}
+  {{- range $links }}{{ $explain = replace $explain .from .to }}{{ end }}
+  <section class="rcq-q" data-answer="{{ delimit $q.answer "," }}"{{ if $multi }} data-multi{{ end }}{{ if $i }} hidden{{ end }}>
+    <p class="rcq-num">第 {{ add $i 1 }} 題{{ if $multi }}<span class="rcq-tag">複選</span>{{ end }}</p>
+    <p class="rcq-title">{{ $q.q }}</p>
+    {{- if $multi }}<p class="rcq-hint">請選出所有正確答案，再按「送出答案」。全對得 1 分，答對一部分得部分分數，選到錯的就沒有分數喔。</p>{{ end }}
+    <div class="rcq-options">
+      {{- range $j, $opt := $q.options }}
+      <button type="button" class="rcq-opt" data-i="{{ add $j 1 }}" aria-pressed="false"><span class="rcq-mark">{{ add $j 1 }}</span><span>{{ $opt }}</span></button>
+      {{- end }}
+    </div>
+    {{- if $multi }}
+    <button type="button" class="rcq-btn rcq-submit" disabled>送出答案</button>
+    {{- end }}
+    <div class="rcq-feedback" hidden>
+      <p class="rcq-verdict"></p>
+      <p class="rcq-explain">{{ $explain | safeHTML }}</p>
+    </div>
+    <button type="button" class="rcq-btn rcq-next" hidden>{{ if eq (add $i 1) $total }}看結果 →{{ else }}下一題 →{{ end }}</button>
+  </section>
+  {{- end }}
+
+  <section class="rcq-result" hidden>
+    <p class="rcq-result-label">你的得分</p>
+    <p class="rcq-final"><b></b><span> / {{ $total }}</span></p>
+    <p class="rcq-rank"></p>
+    <p class="rcq-rank-msg"></p>
+    <ol class="rcq-review" aria-label="各題結果"></ol>
+    <button type="button" class="rcq-btn rcq-retry">再測一次</button>
+  </section>
+
+  <script type="application/json" class="rcq-ranks">{{ $data.ranks | jsonify | safeJS }}</script>
+</div>
+
+<style>
+.rcq {
+  --rcq-ok: var(--color-tip);
+  --rcq-bad: var(--color-caution);
+  --rcq-half: var(--color-warning);
+  margin: 2rem 0;
+  padding: 1.25rem;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--color-card);
+  color: var(--color-card-foreground);
+}
+.rcq [hidden] { display: none !important; }
+.rcq p { margin: 0; }
+.rcq-head {
+  display: flex; justify-content: space-between; gap: 1rem;
+  font-size: .875rem; color: var(--color-muted-foreground);
+}
+.rcq-head b { color: var(--color-foreground); }
+.rcq-bar { height: 4px; margin: .5rem 0 1.25rem; border-radius: 2px; background: var(--color-muted); overflow: hidden; }
+.rcq-bar i { display: block; height: 100%; width: 0; background: var(--color-primary); transition: width .3s ease; }
+.rcq-num { font-size: .875rem; color: var(--color-muted-foreground); display: flex; align-items: center; gap: .5rem; }
+.rcq-tag { font-size: .75rem; padding: 0 .5rem; border-radius: 999px; border: 1px solid var(--color-border); }
+.rcq-title { font-size: 1.125rem; font-weight: 600; line-height: 1.6; margin: .25rem 0 .75rem !important; }
+.rcq-hint { font-size: .875rem; color: var(--color-muted-foreground); margin-bottom: .75rem !important; }
+.rcq-options { display: grid; gap: .5rem; }
+.rcq-opt {
+  display: flex; align-items: center; gap: .75rem; width: 100%;
+  padding: .75rem 1rem; text-align: left; font: inherit; line-height: 1.5;
+  color: inherit; background: var(--color-background);
+  border: 1px solid var(--color-border); border-radius: 8px; cursor: pointer;
+  transition: border-color .15s, background .15s;
+}
+.rcq-opt:hover:not(:disabled) { border-color: var(--color-muted-foreground); }
+.rcq-opt:disabled { cursor: default; }
+.rcq-mark {
+  flex: none; display: inline-grid; place-items: center;
+  width: 1.75rem; height: 1.75rem; border-radius: 50%;
+  font-size: .8125rem; border: 1px solid var(--color-border); background: var(--color-muted);
+}
+.rcq-opt[aria-pressed="true"] { border-color: var(--color-primary); }
+.rcq-opt[aria-pressed="true"] .rcq-mark { background: var(--color-primary); color: var(--color-primary-foreground); border-color: var(--color-primary); }
+.rcq-opt.is-correct { border-color: var(--rcq-ok); background: color-mix(in srgb, var(--rcq-ok) 12%, var(--color-background)); }
+.rcq-opt.is-correct .rcq-mark { background: var(--rcq-ok); border-color: var(--rcq-ok); color: #fff; }
+.rcq-opt.is-wrong { border-color: var(--rcq-bad); background: color-mix(in srgb, var(--rcq-bad) 12%, var(--color-background)); }
+.rcq-opt.is-wrong .rcq-mark { background: var(--rcq-bad); border-color: var(--rcq-bad); color: #fff; }
+.rcq-opt.is-missed { border: 2px dashed var(--rcq-ok); }
+.rcq-opt.is-missed .rcq-mark { border-color: var(--rcq-ok); color: var(--rcq-ok); font-weight: 700; }
+.rcq-btn {
+  margin-top: 1rem; padding: .6rem 1.25rem; font: inherit; font-weight: 500;
+  color: var(--color-primary-foreground); background: var(--color-primary);
+  border: none; border-radius: 8px; cursor: pointer;
+}
+.rcq-btn:disabled { opacity: .4; cursor: not-allowed; }
+.rcq-feedback {
+  margin-top: 1rem; padding: .875rem 1rem; border-radius: 8px;
+  border-left: 4px solid var(--rcq-state, var(--color-border));
+  background: color-mix(in srgb, var(--rcq-state, var(--color-muted)) 10%, var(--color-card));
+}
+.rcq-feedback.is-ok { --rcq-state: var(--rcq-ok); }
+.rcq-feedback.is-half { --rcq-state: var(--rcq-half); }
+.rcq-feedback.is-bad { --rcq-state: var(--rcq-bad); }
+.rcq-verdict { font-weight: 600; margin-bottom: .35rem !important; }
+.rcq-explain { line-height: 1.75; }
+.rcq-result { text-align: center; padding: .5rem 0; }
+.rcq-result-label { color: var(--color-muted-foreground); font-size: .875rem; }
+.rcq-final b { font-size: 3rem; font-weight: 700; line-height: 1.2; }
+.rcq-final span { color: var(--color-muted-foreground); }
+.rcq-rank { font-size: 1.375rem; font-weight: 700; margin-top: .75rem !important; }
+.rcq-rank-msg { margin-top: .5rem !important; line-height: 1.75; }
+.rcq-review {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: .375rem;
+  list-style: none; padding: 0 !important; margin: 1.25rem 0 0 !important;
+}
+.rcq-review li {
+  margin: 0 !important; padding: 0 !important;
+  display: grid; place-items: center; width: 2rem; height: 2rem; border-radius: 50%;
+  font-size: .75rem; color: #fff; background: var(--rcq-bad);
+}
+.rcq-review li::before, .rcq-review li::marker { content: none; }
+.rcq-review li.is-ok { background: var(--rcq-ok); }
+.rcq-review li.is-half { background: var(--rcq-half); }
+@media (max-width: 480px) {
+  .rcq { padding: 1rem; }
+  .rcq-opt { padding: .625rem .75rem; }
+}
+</style>
+<script>
+(() => {
+  const fmt = n => (Number.isInteger(n) ? n : n.toFixed(1));
+
+  function setup(root) {
+    if (root.dataset.ready) return;
+    root.dataset.ready = '1';
+    const qs = [...root.querySelectorAll('.rcq-q')];
+    const total = qs.length;
+    const ranks = JSON.parse(root.querySelector('.rcq-ranks').textContent);
+    const result = root.querySelector('.rcq-result');
+    const progress = root.querySelector('.rcq-progress b');
+    const running = root.querySelector('.rcq-running b');
+    const bar = root.querySelector('.rcq-bar i');
+    let current = 0, scores = [];
+
+    const sum = () => scores.reduce((a, b) => a + b, 0);
+
+    function show(i) {
+      qs.forEach((q, j) => (q.hidden = j !== i));
+      result.hidden = i < total;
+      progress.textContent = Math.min(i + 1, total);
+      bar.style.width = (Math.min(i, total) / total) * 100 + '%';
+      if (root.getBoundingClientRect().top < 0) root.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    // 單選：對 1 分、錯 0 分；複選：選到錯的 0 分，否則依答對比例給分
+    function grade(q) {
+      const answer = q.dataset.answer.split(',');
+      const opts = [...q.querySelectorAll('.rcq-opt')];
+      const picked = opts.filter(o => o.getAttribute('aria-pressed') === 'true').map(o => o.dataset.i);
+      const wrong = picked.filter(p => !answer.includes(p));
+      const hit = picked.filter(p => answer.includes(p));
+      const score = wrong.length ? 0 : hit.length / answer.length;
+
+      opts.forEach(o => {
+        o.disabled = true;
+        const isAns = answer.includes(o.dataset.i), isPicked = picked.includes(o.dataset.i);
+        if (isAns) o.classList.add(isPicked ? 'is-correct' : 'is-missed');
+        if (isAns && !isPicked && !q.hasAttribute('data-multi')) o.classList.replace('is-missed', 'is-correct');
+        if (!isAns && isPicked) o.classList.add('is-wrong');
+      });
+      const sub = q.querySelector('.rcq-submit');
+      if (sub) sub.hidden = true;
+
+      const answerText = opts.filter(o => answer.includes(o.dataset.i))
+        .map(o => o.dataset.i + '. ' + o.lastElementChild.textContent).join('、');
+      const fb = q.querySelector('.rcq-feedback');
+      const verdict = fb.querySelector('.rcq-verdict');
+      fb.classList.remove('is-ok', 'is-half', 'is-bad');
+      if (score === 1) { fb.classList.add('is-ok'); verdict.textContent = '答對了！+1 分'; }
+      else if (score > 0) { fb.classList.add('is-half'); verdict.textContent = `答對一部分，+${fmt(score)} 分。正確答案是：${answerText}`; }
+      else { fb.classList.add('is-bad'); verdict.textContent = `答錯囉！正確答案是：${answerText}`; }
+      fb.hidden = false;
+      q.querySelector('.rcq-next').hidden = false;
+
+      scores[qs.indexOf(q)] = score;
+      running.textContent = fmt(sum());
+      bar.style.width = ((qs.indexOf(q) + 1) / total) * 100 + '%';
+    }
+
+    function finish() {
+      const s = sum();
+      const rank = ranks.find(r => s >= r.min) || ranks[ranks.length - 1];
+      result.querySelector('.rcq-final b').textContent = fmt(s);
+      result.querySelector('.rcq-rank').textContent = rank.title;
+      result.querySelector('.rcq-rank-msg').textContent = rank.message;
+      result.querySelector('.rcq-review').innerHTML = scores.map((v, i) =>
+        `<li class="${v === 1 ? 'is-ok' : v > 0 ? 'is-half' : ''}" title="第 ${i + 1} 題：${fmt(v)} 分">${i + 1}</li>`).join('');
+      current = total;
+      show(total);
+    }
+
+    function reset() {
+      scores = [];
+      qs.forEach(q => {
+        q.querySelectorAll('.rcq-opt').forEach(o => {
+          o.disabled = false;
+          o.setAttribute('aria-pressed', 'false');
+          o.classList.remove('is-correct', 'is-wrong', 'is-missed');
+        });
+        const sub = q.querySelector('.rcq-submit');
+        if (sub) { sub.hidden = false; sub.disabled = true; }
+        q.querySelector('.rcq-feedback').hidden = true;
+        q.querySelector('.rcq-next').hidden = true;
+      });
+      running.textContent = '0';
+      current = 0;
+      show(0);
+    }
+
+    qs.forEach(q => {
+      const multi = q.hasAttribute('data-multi');
+      const sub = q.querySelector('.rcq-submit');
+      q.querySelectorAll('.rcq-opt').forEach(o => o.addEventListener('click', () => {
+        if (multi) {
+          o.setAttribute('aria-pressed', String(o.getAttribute('aria-pressed') !== 'true'));
+          sub.disabled = !q.querySelector('.rcq-opt[aria-pressed="true"]');
+        } else {
+          o.setAttribute('aria-pressed', 'true');
+          grade(q);
+        }
+      }));
+      if (sub) sub.addEventListener('click', () => grade(q));
+      q.querySelector('.rcq-next').addEventListener('click', () => {
+        if (++current < total) show(current); else finish();
+      });
+    });
+    root.querySelector('.rcq-retry').addEventListener('click', reset);
+  }
+
+  const init = () => document.querySelectorAll('.rcq').forEach(setup);
+  document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', init) : init();
+})();
+</script>

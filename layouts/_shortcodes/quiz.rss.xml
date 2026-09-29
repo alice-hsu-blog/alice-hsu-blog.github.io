@@ -1,0 +1,3 @@
+{{- /* RSS 版：閱讀器不會執行 JavaScript，所以只放邀請卡，請讀者到網站上作答 */ -}}
+{{- $data := index site.Data.quizzes (.Get 0) -}}
+<p>📝 這是紅樓夢連載的互動小測驗，共 {{ len $data.questions }} 題，邀請 RSS 的讀者到網站上作答：<a href="{{ .Page.Permalink }}">{{ .Page.Permalink }}</a></p>
