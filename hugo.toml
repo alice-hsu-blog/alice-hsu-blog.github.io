@@ -198,7 +198,7 @@ isPlainText = true
 [[menus.main]]
 name = "nav.about_us"
 pageRef = "/about"
-weight = 10
+weight = 30
 
   [menus.main.params]
   icon = "about"
@@ -206,7 +206,7 @@ weight = 10
 [[menus.main]]
 name = "nav.posts"
 pageRef = "/posts"
-weight = 20
+weight = 10
 
   [menus.main.params]
   icon = "posts"
@@ -214,7 +214,7 @@ weight = 20
 [[menus.main]]
 name = "nav.categories"
 pageRef = "/categories"
-weight = 30
+weight = 20
 
   [menus.main.params]
   icon = "categories"
