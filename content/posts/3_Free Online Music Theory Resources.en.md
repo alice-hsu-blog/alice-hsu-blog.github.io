@@ -1,7 +1,8 @@
 +++
 date = '2025-10-17T21:37:37-05:00'
 draft = false
-title = '📚Free Online Music Theory Resources '
+title = 'Free Online Music Theory Resources '
+slug = 'free-online-music-theory-resources'
 summary = 'I have a bookmark folder in my browser called “music,” where I’ve saved all kinds of wonderful music-related resources I’ve found over the years.'
 cover = '/images/Post3home.jpg'
 cover_on_post = true

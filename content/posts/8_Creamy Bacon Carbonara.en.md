@@ -1,7 +1,8 @@
 +++
 date = '2025-11-01T15:26:11-05:00'
 draft = false
-title = '🤤 Creamy Bacon Carbonara'
+title = 'Creamy Bacon Carbonara'
+slug = 'creamy-bacon-carbonara'
 summary = 'Here is the Delicious Spaghetti'
 cover = '/images/Post/8/1.jpg'
 cover_on_post = false

@@ -1,7 +1,8 @@
 +++
 date = '2025-10-30T21:15:06-05:00'
 draft = false
-title = '🤔 Why Do We Create?'
+title = 'Why Do We Create?'
+slug = 'why-do-we-create'
 summary = 'Recently, I’ve been thinking about this question quite often, and I find it really intriguing, so I’d like to try answering it.'
 cover = '/images/Post6home.jpg'
 cover_on_post = true

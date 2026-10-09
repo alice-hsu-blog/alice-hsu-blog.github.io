@@ -1,7 +1,9 @@
 +++
 date = '2025-11-09T14:30:43-06:00'
 draft = false
-title = '❄️ Utopian Smart Fridge'
+title = 'Utopian Smart Fridge'
+slug = 'utopian-smart-fridge'
+aliases = ['/posts/2025/11/️-utopian-smart-fridge/']
 summary = 'What might a truly user-friendly smart fridge look like?'
 cover = '/images/Post9home.jpg'
 cover_on_post = true

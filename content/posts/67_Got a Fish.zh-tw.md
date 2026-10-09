@@ -1,7 +1,7 @@
 +++
 date = '2026-09-10T20:30:00-05:00'
 draft = false
-title = '終魚🐟！'
+title = '終魚！'
 slug = 'Got a Fish'
 summary = '傍晚與 Sam 和他同事一起去湖邊釣魚，我終於釣到人生中的第一條魚啦！'
 cover = '/images/Post67home.jpg'

@@ -1,7 +1,8 @@
 +++
 date = '2025-10-12T22:15:47-05:00'
 draft = false
-title = '🔔 Bell 的創作歷程'
+title = 'Bell 的創作歷程'
+slug = 'bell-的創作歷程'
 cover = '/images/Post2home.png'
 cover_on_post = false
 summary = '有一天即興時忽然彈出前八小節，覺得不錯聽，就錄進了我的 Yamaha P525。'

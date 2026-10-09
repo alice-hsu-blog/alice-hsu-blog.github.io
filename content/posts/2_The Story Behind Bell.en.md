@@ -1,7 +1,8 @@
 +++
 date = '2025-10-12T22:15:47-05:00'
 draft = false
-title = '🔔 The Story Behind Bell'
+title = 'The Story Behind Bell'
+slug = 'the-story-behind-bell'
 cover = '/images/Post2home.png'
 cover_on_post = false
 summary = 'One day while improvising, I played the opening eight measures by chance and thought they sounded nice.'
