@@ -37,6 +37,15 @@
 <script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "WebSite" "name" site.Title "url" site.BaseURL | jsonify | safeJS }}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{{- /* 字體：中文用 Noto Serif TC，英文字母和數字用 Newsreader。
+     英文頁面載入完整的 Newsreader。
+     中文頁面只載入 Newsreader 的英文字母、數字和半形標點（text= 參數），
+     這樣「」以外的全形標點（“ ” —— ……）仍然由中文字體顯示，不會變窄。 */}}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;500;700&display=swap">
+{{- if eq site.Language.Lang "en" }}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,700;1,6..72,400;1,6..72,700&display=swap">
+{{- else }}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,700;1,6..72,400;1,6..72,700&text=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789%20.%2C%3A%3B%21%3F%27%22%28%29%5B%5D%2F%26%40%23%25%2B-%3D%2A_%24~%E2%80%99%C3%80%C3%81%C3%82%C3%83%C3%84%C3%85%C3%86%C3%87%C3%88%C3%89%C3%8A%C3%8B%C3%8C%C3%8D%C3%8E%C3%8F%C3%91%C3%92%C3%93%C3%94%C3%95%C3%96%C3%98%C3%99%C3%9A%C3%9B%C3%9C%C3%9D%C3%A0%C3%A1%C3%A2%C3%A3%C3%A4%C3%A5%C3%A6%C3%A7%C3%A8%C3%A9%C3%AA%C3%AB%C3%AC%C3%AD%C3%AE%C3%AF%C3%B1%C3%B2%C3%B3%C3%B4%C3%B5%C3%B6%C3%B8%C3%B9%C3%BA%C3%BB%C3%BC%C3%BD%C3%BF&display=swap">
+{{- end }}
 {{- $css := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">

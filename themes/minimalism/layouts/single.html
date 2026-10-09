@@ -25,16 +25,31 @@
     <div class="prose">
       {{ .Content }}
     </div>
-    {{- if and $isPost site.Params.post.showRelated }}
-    {{- with site.RegularPages.Related . | first (site.Params.post.relatedPostsCount | default 3) }}
-    <section class="related">
-      <h2>{{ i18n "post.related_posts" }}</h2>
-      <ul class="list">
-        {{- range . }}
-        {{ partial "post-row.html" (dict "page" . "right" (.Date.Format "2006")) }}
-        {{- end }}
-      </ul>
-    </section>
+    {{- if $isPost }}
+    {{- /* 上一篇是日期較早的那篇，下一篇是日期較晚的那篇 */}}
+    {{- $older := .PrevInSection }}
+    {{- $newer := .NextInSection }}
+    {{- if or $older $newer }}
+    <nav class="pager" aria-label="{{ i18n "post.pager" }}">
+      {{- with $older }}
+      <a class="pager-item prev" href="{{ .RelPermalink }}" rel="prev">
+        <span class="k"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>{{ i18n "post.previous" }}</span>
+        <span class="t">{{ .Title }}</span>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      </a>
+      {{- else }}
+      <div class="pager-item prev empty" aria-hidden="true"></div>
+      {{- end }}
+      {{- with $newer }}
+      <a class="pager-item next" href="{{ .RelPermalink }}" rel="next">
+        <span class="k">{{ i18n "post.next" }}<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></span>
+        <span class="t">{{ .Title }}</span>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      </a>
+      {{- else }}
+      <div class="pager-item next empty" aria-hidden="true"></div>
+      {{- end }}
+    </nav>
     {{- end }}
     {{- end }}
   </article>

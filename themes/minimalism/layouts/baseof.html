@@ -4,9 +4,6 @@
 {{ partial "head.html" . }}
 </head>
 <body>
-{{- if and site.Params.readingProgress.enabled .IsPage (eq .Section "posts") }}
-<div class="progress" aria-hidden="true"><i id="progress-bar"></i></div>
-{{- end }}
 <div class="wrap">
   {{ partial "header.html" . }}
   <main>
@@ -15,6 +12,17 @@
   {{ partial "footer.html" . }}
 </div>
 {{ partial "search.html" . }}
+{{- if or .IsPage (eq .Kind "term") (and (eq .Kind "section") (eq .Section "posts")) }}
+{{- /* 文章、單頁、「文章」總列表和各個分類頁：往上捲時出現「回到頂部」，往下捲時出現「滑到底部」，一次只顯示一個 */}}
+<div class="jump" id="jump">
+  <button type="button" id="jump-top" aria-label="{{ i18n "nav.to_top" }}" title="{{ i18n "nav.to_top" }}" hidden>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M6 11l6-6 6 6"/></svg>
+  </button>
+  <button type="button" id="jump-bottom" aria-label="{{ i18n "nav.to_bottom" }}" title="{{ i18n "nav.to_bottom" }}" hidden>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M6 13l6 6 6-6"/></svg>
+  </button>
+</div>
+{{- end }}
 {{- $js := resources.Get "js/main.js" | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
 </body>

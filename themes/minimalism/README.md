@@ -13,8 +13,7 @@ Alice Hsu's Blog 的主題。純 CSS（`assets/css/main.css`）加一小段 JS�
 
 選單的 `name` 可以直接寫文字，也可以寫 `i18n/` 裡的鍵（例如 `nav.posts`），會自動翻成目前語言。
 
-會讀取的 `params`：`favicon`、`description`、`keywords`、`defaultAuthor`、`Image`、`Twitter_Site`、
-`readingProgress.enabled`、`post.showRelated`、`post.relatedPostsCount`。
+會讀取的 `params`：`favicon`、`description`、`keywords`、`defaultAuthor`、`Image`、`Twitter_Site`。
 
 ## 文章 front matter
 

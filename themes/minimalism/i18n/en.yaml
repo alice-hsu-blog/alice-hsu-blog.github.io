@@ -10,6 +10,8 @@ nav:
   search: "Search"
   theme: "Switch light or dark theme"
   language: "Switch language"
+  to_top: "Back to top"
+  to_bottom: "Jump to bottom"
 
 footer:
   personal: "Personal site"
@@ -30,7 +32,9 @@ toc:
   title: "Contents"
 
 post:
-  related_posts: "Related posts"
+  previous: "Previous"
+  next: "Next"
+  pager: "Previous and next posts"
 
 search:
   placeholder: "Search posts…"

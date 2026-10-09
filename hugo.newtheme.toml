@@ -76,27 +76,8 @@ name = "VisBible"
 url = "https://visbible.org/"
 weight = 30
 
-[[menus.elsewhere]]
-name = "GitHub"
-url = "https://github.com/alice-hsu-blog"
-weight = 40
-
 # 頁尾最下面一行
 [[menus.footer]]
 name = "footer.rss_feed"
 url = "/index.xml"
 weight = 30
-
-# 「相關文章」：同分類的文章，日期近的優先
-[related]
-includeNewer = true
-threshold = 80
-toLower = false
-
-[[related.indices]]
-name = "categories"
-weight = 100
-
-[[related.indices]]
-name = "date"
-weight = 10

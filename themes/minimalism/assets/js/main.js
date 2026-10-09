@@ -24,16 +24,22 @@
     });
   }
 
-  // 閱讀進度
-  var bar = document.getElementById('progress-bar');
-  if (bar) {
-    var update = function () {
-      var max = document.documentElement.scrollHeight - window.innerHeight;
-      bar.style.width = (max > 0 ? Math.min(100, window.scrollY / max * 100) : 0) + '%';
-    };
-    window.addEventListener('scroll', update, { passive: true });
-    window.addEventListener('resize', update);
-    update();
+  // 往上捲時顯示「回到頂部」，往下捲時顯示「滑到底部」；已經在頂部或底部就不顯示
+  var toTop = document.getElementById('jump-top');
+  var toBottom = document.getElementById('jump-bottom');
+  if (toTop && toBottom) {
+    var lastY = window.scrollY;
+    var maxY = function () { return document.documentElement.scrollHeight - window.innerHeight; };
+    window.addEventListener('scroll', function () {
+      var y = window.scrollY;
+      if (Math.abs(y - lastY) < 4) return;
+      var up = y < lastY;
+      lastY = y;
+      toTop.hidden = !(up && y > 200);
+      toBottom.hidden = !(!up && maxY() - y > 200);
+    }, { passive: true });
+    toTop.addEventListener('click', function () { window.scrollTo(0, 0); });
+    toBottom.addEventListener('click', function () { window.scrollTo(0, maxY()); });
   }
 
   // 搜尋

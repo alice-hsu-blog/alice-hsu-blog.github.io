@@ -10,8 +10,8 @@
     {
       "name": "hugo-new-theme",
       "runtimeExecutable": "hugo",
-      "runtimeArgs": ["server", "-D", "--config", "hugo.toml,hugo.newtheme.toml", "--port", "1314"],
-      "port": 1314
+      "runtimeArgs": ["server", "-D", "--disableFastRender", "--config", "hugo.toml,hugo.newtheme.toml", "--port", "1316"],
+      "port": 1316
     }
   ]
 }
