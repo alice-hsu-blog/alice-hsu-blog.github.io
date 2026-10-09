@@ -4,6 +4,14 @@
 
 theme = ["minimalism", "hugo-embed-pdf-shortcode"]
 
+# 數學公式：$...$ 與 $$...$$ 交給主題的 render-passthrough.html 轉成 MathML
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [["$$", "$$"], ["\\[", "\\]"]]
+inline = [["$", "$"], ["\\(", "\\)"]]
+
 # 新主題沒有舊主題的「列表檢視」輸出格式
 [outputs]
 home = ["HTML", "RSS", "JSON", "WebAppManifest"]

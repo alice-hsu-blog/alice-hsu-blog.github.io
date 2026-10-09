@@ -1,0 +1,10 @@
+{{- /* 數學公式：建置時直接轉成 MathML，不需要額外載入 JS / CSS。
+       拿掉 <annotation>（LaTeX 原始碼），免得混進搜尋索引、摘要和 RSS。 */ -}}
+{{- $opts := dict "output" "mathml" "displayMode" (eq .Type "block") -}}
+{{- with try (transform.ToMath .Inner $opts) -}}
+  {{- with .Err -}}
+    {{- errorf "無法轉換數學公式：%s：%s" . $.Position -}}
+  {{- else -}}
+    {{- replaceRE `<annotation[^>]*>.*?</annotation>` "" .Value | safeHTML -}}
+  {{- end -}}
+{{- end -}}

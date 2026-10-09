@@ -116,9 +116,9 @@ I also think it might sound lovely on a glockenspiel or other bell-like instrume
 
 Before writing this post, I asked ChatGPT for topic suggestions related to composition. It not only gave me topics but also some hilariously overly poetic lines. Here are a few:
 
-1. “Sometimes I get stuck between two notes—it’s like words on the tip of my tongue that I can’t say.” $\rightarrow$ I mean, yes, I do get stuck—but that metaphor is a bit too much.
-2. “When I played the final note, I suddenly felt the piece no longer belonged to me.” $\rightarrow$ Nope. It still does! My name’s right there on the copyright page.
-3. “Every composition is a letter to a moment in time.” $\rightarrow$ Wow, that’s... dramatic. Sounds like something out of a romance novel.
+1. “Sometimes I get stuck between two notes—it’s like words on the tip of my tongue that I can’t say.” → I mean, yes, I do get stuck—but that metaphor is a bit too much.
+2. “When I played the final note, I suddenly felt the piece no longer belonged to me.” → Nope. It still does! My name’s right there on the copyright page.
+3. “Every composition is a letter to a moment in time.” → Wow, that’s... dramatic. Sounds like something out of a romance novel.
 
 So instead of following ChatGPT’s flowery advice, I decided to just write plainly—honestly recording my thoughts during the creative process.
 
