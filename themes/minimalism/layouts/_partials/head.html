@@ -2,8 +2,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="CfroEw87nUma8yMX_HuBmkBUPfZtQSixxgJiyT0aCVo">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ partial "page-title.html" . }} | {{ site.Title }}{{ end }}</title>
-{{- /* 在畫面出現前套用訪客上次選的深淺色，避免閃一下 */}}
-<script>try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+{{- /* 在畫面出現前套用訪客上次選的深淺色、上一篇下一篇的排序方式，避免閃一下 */}}
+<script>try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);if(localStorage.getItem('pager')==='category')document.documentElement.setAttribute('data-pager','category')}catch(e){}</script>
 {{- $desc := "" }}
 {{- with .Description }}{{ $desc = . }}{{ else }}{{ with .Params.summary }}{{ $desc = . }}{{ else }}{{ if and .IsPage .Content }}{{ $desc = .Summary }}{{ else }}{{ $desc = site.Params.description }}{{ end }}{{ end }}{{ end }}
 <meta name="description" content="{{ $desc | plainify | truncate 160 "..." }}">
@@ -49,3 +49,6 @@
 {{- end }}
 {{- $css := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+{{- if .HasShortcode "embed-pdf" }}
+{{ partial "embed-pdf-head.html" . }}
+{{- end }}

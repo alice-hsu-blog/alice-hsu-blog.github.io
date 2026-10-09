@@ -13,6 +13,19 @@
     });
   }
 
+  // 上一篇、下一篇：在時間順序和同分類之間切換，記住訪客的選擇
+  var pagerSwitch = document.querySelector('.pager-switch');
+  if (pagerSwitch) {
+    pagerSwitch.hidden = false;
+    pagerSwitch.setAttribute('aria-checked', String(root.getAttribute('data-pager') === 'category'));
+    pagerSwitch.addEventListener('click', function () {
+      var on = root.getAttribute('data-pager') !== 'category';
+      if (on) root.setAttribute('data-pager', 'category'); else root.removeAttribute('data-pager');
+      pagerSwitch.setAttribute('aria-checked', String(on));
+      try { localStorage.setItem('pager', on ? 'category' : 'date'); } catch (e) {}
+    });
+  }
+
   // 首頁線條畫：點一下重播
   var drawBtn = document.getElementById('draw-btn');
   if (drawBtn) {
@@ -40,6 +53,68 @@
     }, { passive: true });
     toTop.addEventListener('click', function () { window.scrollTo(0, 0); });
     toBottom.addEventListener('click', function () { window.scrollTo(0, maxY()); });
+  }
+
+  // 相簿：同一段裡連續的相片（中間沒有空行）自動排成每列等高；masonry 裡的相片不處理
+  var GAP = 12;
+  var ratioOf = function (fig) {
+    var img = fig.querySelector('img');
+    if (img.naturalWidth) return img.naturalWidth / img.naturalHeight;
+    var w = +img.getAttribute('width'), h = +img.getAttribute('height');
+    return w && h ? w / h : 1.5;
+  };
+  var layoutPhotos = function (box) {
+    var width = box.clientWidth;
+    if (!width) return;
+    // 列高可以由文章的 justified_gallery.rowHeight 指定；手機上縮成約三分之二
+    var prose = box.closest('.prose');
+    var target = (prose && +prose.dataset.rowHeight) || 220;
+    if (width < 480) target = Math.round(target * 0.68);
+    var row = [], sum = 0;
+    var flush = function (full) {
+      var gaps = GAP * (row.length - 1);
+      row.forEach(function (it) {
+        it.fig.style.setProperty('--ar', it.r);
+        it.fig.style.width = full
+          ? 'calc((100% - ' + (gaps + 0.5) + 'px) * ' + (it.r / sum).toFixed(5) + ')'
+          : Math.round(it.r * target) + 'px';
+      });
+      row = []; sum = 0;
+    };
+    Array.prototype.forEach.call(box.children, function (fig) {
+      var r = ratioOf(fig);
+      row.push({ fig: fig, r: r });
+      sum += r;
+      if (sum * target + GAP * (row.length - 1) >= width) flush(true);
+    });
+    flush(false);
+  };
+  var grouped = [];
+  Array.prototype.forEach.call(document.querySelectorAll('.prose figure'), function (fig) {
+    if (fig.parentNode.className === 'photos' || fig.closest('.gallery') || !fig.querySelector('img')) return;
+    var group = [fig];
+    var next = fig.nextElementSibling;
+    while (next && next.tagName === 'FIGURE' && next.querySelector('img')) { group.push(next); next = next.nextElementSibling; }
+    if (group.length < 2) return;
+    var box = document.createElement('div');
+    box.className = 'photos';
+    fig.parentNode.insertBefore(box, fig);
+    group.forEach(function (f) {
+      box.appendChild(f);
+      // 沒有寫 width、height 的圖，要等載入後才知道比例
+      var img = f.querySelector('img');
+      if (!img.naturalWidth) img.addEventListener('load', function () { layoutPhotos(box); });
+    });
+    grouped.push(box);
+  });
+  if (grouped.length) {
+    grouped.forEach(layoutPhotos);
+    if (window.ResizeObserver) {
+      var ro = new ResizeObserver(function (entries) { entries.forEach(function (e) { layoutPhotos(e.target); }); });
+      grouped.forEach(function (box) { ro.observe(box); });
+    } else {
+      window.addEventListener('resize', function () { grouped.forEach(layoutPhotos); });
+    }
   }
 
   // 搜尋

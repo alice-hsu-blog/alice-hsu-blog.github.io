@@ -22,34 +22,39 @@
     {{- if and .Params.cover .Params.cover_on_post }}
     <img class="cover" src="{{ .Params.cover }}" alt="">
     {{- end }}
-    <div class="prose">
+    {{- /* 自動相簿的列高：文章 front matter 的 justified_gallery.rowHeight，沒寫就用 main.js 的預設值 */ -}}
+    {{- $rowHeight := 0 }}
+    {{- with .Params.justified_gallery }}{{ with .rowheight }}{{ $rowHeight = int . }}{{ end }}{{ end }}
+    <div class="prose"{{ if gt $rowHeight 0 }} data-row-height="{{ $rowHeight }}"{{ end }}>
       {{ .Content }}
     </div>
     {{- if $isPost }}
     {{- /* 上一篇是日期較早的那篇，下一篇是日期較晚的那篇 */}}
     {{- $older := .PrevInSection }}
     {{- $newer := .NextInSection }}
+    {{- /* 同分類的上一篇、下一篇：以文章的第一個分類為準，該分類只有這一篇就不提供切換 */}}
+    {{- $term := false }}
+    {{- $catOlder := false }}
+    {{- $catNewer := false }}
+    {{- with .GetTerms "categories" }}
+    {{- $term = index . 0 }}
+    {{- $siblings := where $term.Pages "Section" "posts" }}
+    {{- $catOlder = $siblings.Prev $ }}
+    {{- $catNewer = $siblings.Next $ }}
+    {{- end }}
+    {{- $hasCat := or $catOlder $catNewer }}
     {{- if or $older $newer }}
-    <nav class="pager" aria-label="{{ i18n "post.pager" }}">
-      {{- with $older }}
-      <a class="pager-item prev" href="{{ .RelPermalink }}" rel="prev">
-        <span class="k"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>{{ i18n "post.previous" }}</span>
-        <span class="t">{{ .Title }}</span>
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
-      </a>
-      {{- else }}
-      <div class="pager-item prev empty" aria-hidden="true"></div>
+    <div class="pager-wrap{{ if $hasCat }} has-cat{{ end }}">
+      {{ partial "pager.html" (dict "set" "date" "older" $older "newer" $newer) }}
+      {{- if $hasCat }}
+      {{ partial "pager.html" (dict "set" "category" "older" $catOlder "newer" $catNewer) }}
+      {{- /* 沒有 JavaScript 時不顯示開關，維持時間順序 */}}
+      <button class="pager-switch" type="button" role="switch" aria-checked="false" hidden>
+        <span class="track" aria-hidden="true"></span>
+        <span>{{ i18n "post.same_category" }}{{ $term.LinkTitle }}</span>
+      </button>
       {{- end }}
-      {{- with $newer }}
-      <a class="pager-item next" href="{{ .RelPermalink }}" rel="next">
-        <span class="k">{{ i18n "post.next" }}<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></span>
-        <span class="t">{{ .Title }}</span>
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
-      </a>
-      {{- else }}
-      <div class="pager-item next empty" aria-hidden="true"></div>
-      {{- end }}
-    </nav>
+    </div>
     {{- end }}
     {{- end }}
   </article>

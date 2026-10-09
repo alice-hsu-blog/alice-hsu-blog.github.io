@@ -1,2 +1,10 @@
-{{- /* 圖片：有替代文字時，在圖下顯示成圖說 */ -}}
-<figure><img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async">{{ with .PlainText }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>
+{{- /* 圖片：有替代文字時，在圖下顯示成圖說。
+     static/ 裡找得到的圖會寫上 width、height，讓瀏覽器在圖片載入前就知道比例（相簿排版也靠它）。 */ -}}
+{{- $size := "" -}}
+{{- $file := printf "static%s" .Destination -}}
+{{- if and (hasPrefix .Destination "/") (findRE `(?i)\.(jpe?g|png|gif|webp)$` .Destination) (fileExists $file) -}}
+  {{- with imageConfig $file -}}
+    {{- $size = printf ` width="%d" height="%d"` .Width .Height -}}
+  {{- end -}}
+{{- end -}}
+<figure><img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ $size | safeHTMLAttr }} loading="lazy" decoding="async">{{ with .PlainText }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>

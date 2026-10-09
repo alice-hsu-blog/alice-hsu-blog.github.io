@@ -35,6 +35,7 @@ post:
   previous: "Previous"
   next: "Next"
   pager: "Previous and next posts"
+  same_category: "Same category only: "
 
 search:
   placeholder: "Search posts…"

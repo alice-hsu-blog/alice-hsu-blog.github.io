@@ -1,0 +1,21 @@
+{{- /* 上一篇（左）和下一篇（右）。參數：set（date 或 category）、older、newer */ -}}
+<nav class="pager" data-set="{{ .set }}" aria-label="{{ i18n "post.pager" }}">
+  {{- with .older }}
+  <a class="pager-item prev" href="{{ .RelPermalink }}" rel="prev">
+    <span class="k"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>{{ i18n "post.previous" }}</span>
+    <span class="t">{{ .Title }}</span>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+  </a>
+  {{- else }}
+  <div class="pager-item prev empty" aria-hidden="true"></div>
+  {{- end }}
+  {{- with .newer }}
+  <a class="pager-item next" href="{{ .RelPermalink }}" rel="next">
+    <span class="k">{{ i18n "post.next" }}<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></span>
+    <span class="t">{{ .Title }}</span>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+  </a>
+  {{- else }}
+  <div class="pager-item next empty" aria-hidden="true"></div>
+  {{- end }}
+</nav>
