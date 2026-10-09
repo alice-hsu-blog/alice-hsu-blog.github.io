@@ -1,0 +1,306 @@
+{{- /*
+  一步一步填寫的表單，送出後資料進 Google 表單。
+  用法：{{< gform "prayer" >}}，題目和文字放在 data/forms/<名稱>.yaml
+*/ -}}
+{{- $name := .Get 0 -}}
+{{- $data := index site.Data.forms $name -}}
+{{- if not $data -}}
+  {{- errorf "gform: 找不到 data/forms/%s.yaml（%s）" $name .Position -}}
+{{- end -}}
+{{- $lang := site.Language.Lang -}}
+{{- $id := printf "gf-%s-%d" $name .Ordinal -}}
+{{- $t := dict -}}
+{{- range $k, $v := $data.text }}{{ $t = merge $t (dict $k (index $v $lang)) }}{{ end -}}
+
+<div class="gf" id="{{ $id }}" data-action="{{ $data.action }}">
+  <noscript><p><a href="{{ $data.fallback }}" target="_blank" rel="noopener">{{ $t.fallback }}</a></p></noscript>
+  <form novalidate hidden>
+    <div class="gf-head"><span class="gf-progress"></span></div>
+    <div class="gf-bar" aria-hidden="true"><i></i></div>
+
+    {{- range $data.fields }}
+    {{- $fid := printf "%s-%s" $id .id }}
+    <section class="gf-step" data-id="{{ .id }}" data-type="{{ .type }}" data-entry="{{ .entry }}"
+      {{- if .required }} data-required{{ end }}
+      {{- with .page }} data-page="{{ . }}"{{ end }}
+      {{- with .when }} data-when-field="{{ .field }}" data-when-is="{{ .is }}"{{ end }} hidden>
+      {{- if eq .type "choice" }}
+      <p class="gf-title" id="{{ $fid }}-label">{{ index .label $lang }}</p>
+      {{- else }}
+      <label class="gf-title" for="{{ $fid }}">{{ index .label $lang }}</label>
+      {{- end }}
+      {{- with .hint }}<p class="gf-hint" id="{{ $fid }}-hint">{{ index . $lang }}</p>{{ end }}
+      {{- if eq .type "textarea" }}
+      <textarea class="gf-input" id="{{ $fid }}" rows="7"{{ if .hint }} aria-describedby="{{ $fid }}-hint"{{ end }}></textarea>
+      {{- else if eq .type "choice" }}
+      <div class="gf-options" role="group" aria-labelledby="{{ $fid }}-label">
+        {{- range $j, $opt := .options }}
+        <button type="button" class="gf-opt" data-id="{{ $opt.id }}" data-value="{{ $opt.value }}" aria-pressed="false"><span class="gf-mark">{{ add $j 1 }}</span><span>{{ index $opt.label $lang }}</span></button>
+        {{- end }}
+      </div>
+      {{- else }}
+      <input class="gf-input" id="{{ $fid }}" type="{{ .type }}"{{ if eq .type "email" }} autocomplete="email" inputmode="email"{{ else }} autocomplete="off"{{ end }}{{ if .hint }} aria-describedby="{{ $fid }}-hint"{{ end }}>
+      {{- end }}
+    </section>
+    {{- end }}
+
+    <section class="gf-review" hidden>
+      <p class="gf-title">{{ $t.review_title }}</p>
+      <p class="gf-hint">{{ $t.review_hint }}</p>
+      <dl class="gf-summary"></dl>
+    </section>
+
+    {{- /* 給機器人填的陷阱欄位，真人看不到 */}}
+    <div class="gf-trap" aria-hidden="true"><label>Website <input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+
+    <p class="gf-error" role="alert" hidden></p>
+    <div class="gf-nav">
+      <button type="button" class="gf-btn gf-ghost gf-back">{{ $t.back }}</button>
+      <button type="button" class="gf-btn gf-next">{{ $t.next }}</button>
+      <button type="submit" class="gf-btn gf-submit" hidden>{{ $t.submit }}</button>
+    </div>
+  </form>
+
+  <section class="gf-done" tabindex="-1" hidden>
+    <p class="gf-done-title">{{ $t.done_title }}</p>
+    <p class="gf-done-msg">{{ $t.done_message }}</p>
+    <p class="gf-done-reply" hidden>{{ $t.done_reply }}</p>
+    <button type="button" class="gf-btn gf-ghost gf-again">{{ $t.again }}</button>
+  </section>
+
+  <p class="gf-fallback" hidden><a href="{{ $data.fallback }}" target="_blank" rel="noopener">{{ $t.fallback }}</a></p>
+
+  <script type="application/json" class="gf-text">{{ $t | jsonify | safeJS }}</script>
+</div>
+
+<style>
+.gf {
+  margin: 2rem 0;
+  padding: 1.25rem;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: var(--color-card);
+  color: var(--color-card-foreground);
+  text-align: start;
+}
+.gf [hidden] { display: none !important; }
+.gf p { margin: 0; }
+.gf-head { font-size: .875rem; color: var(--color-muted-foreground); }
+.gf-bar { height: 4px; margin: .5rem 0 1.25rem; border-radius: 2px; background: var(--color-muted); overflow: hidden; }
+.gf-bar i { display: block; height: 100%; width: 0; background: var(--color-primary); transition: width .3s ease; }
+.gf-title { display: block; font-size: 1.125rem; font-weight: 600; line-height: 1.6; margin: 0 0 .5rem !important; }
+.gf-hint { font-size: .875rem; line-height: 1.6; color: var(--color-muted-foreground); margin-bottom: .75rem !important; }
+.gf-input {
+  display: block; width: 100%; box-sizing: border-box;
+  padding: .75rem 1rem; font: inherit; font-size: 1rem; line-height: 1.6;
+  color: inherit; background: var(--color-background);
+  border: 1px solid var(--color-border); border-radius: 8px;
+}
+.gf-input:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 1px; }
+textarea.gf-input { resize: vertical; min-height: 8rem; }
+.gf-options { display: grid; gap: .5rem; }
+.gf-opt {
+  display: flex; align-items: center; gap: .75rem; width: 100%;
+  padding: .75rem 1rem; text-align: left; font: inherit; line-height: 1.5;
+  color: inherit; background: var(--color-background);
+  border: 1px solid var(--color-border); border-radius: 8px; cursor: pointer;
+  transition: border-color .15s, background .15s;
+}
+.gf-opt:hover { border-color: var(--color-muted-foreground); }
+.gf-mark {
+  flex: none; display: inline-grid; place-items: center;
+  width: 1.75rem; height: 1.75rem; border-radius: 50%;
+  font-size: .8125rem; border: 1px solid var(--color-border); background: var(--color-muted);
+}
+.gf-opt[aria-pressed="true"] { border-color: var(--color-primary); }
+.gf-opt[aria-pressed="true"] .gf-mark { background: var(--color-primary); color: var(--color-primary-foreground); border-color: var(--color-primary); }
+.gf-summary { margin: 0 !important; display: grid; gap: .75rem; }
+.gf-summary dt { font-size: .875rem; color: var(--color-muted-foreground); margin: 0 !important; }
+.gf-summary dd { margin: .125rem 0 0 !important; padding: 0 !important; line-height: 1.75; white-space: pre-wrap; overflow-wrap: anywhere; }
+.gf-trap { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.gf-error {
+  margin-top: 1rem !important; padding: .75rem 1rem; border-radius: 8px; line-height: 1.6;
+  border-left: 4px solid var(--color-caution);
+  background: color-mix(in srgb, var(--color-caution) 10%, var(--color-card));
+}
+.gf-nav { display: flex; justify-content: space-between; gap: .75rem; margin-top: 1rem; }
+.gf-btn {
+  padding: .6rem 1.25rem; font: inherit; font-weight: 500;
+  color: var(--color-primary-foreground); background: var(--color-primary);
+  border: 1px solid var(--color-primary); border-radius: 8px; cursor: pointer;
+}
+.gf-btn:disabled { opacity: .4; cursor: not-allowed; }
+.gf-ghost { color: inherit; background: transparent; border-color: var(--color-border); }
+.gf-back:disabled { visibility: hidden; }
+.gf-next, .gf-submit { margin-left: auto; }
+.gf-done { text-align: center; padding: 1rem 0 .5rem; outline: none; }
+.gf-done-title { font-size: 1.375rem; font-weight: 700; margin-bottom: .5rem !important; }
+.gf-done-msg, .gf-done-reply { line-height: 1.75; }
+.gf-done .gf-btn { margin-top: 1.25rem; }
+.gf-fallback { margin-top: 1rem !important; font-size: .875rem; text-align: center; color: var(--color-muted-foreground); }
+@media (max-width: 480px) {
+  .gf { padding: 1rem; }
+  .gf-opt { padding: .625rem .75rem; }
+}
+</style>
+<script>
+(() => {
+  function setup(root) {
+    if (root.dataset.ready) return;
+    root.dataset.ready = '1';
+    const text = JSON.parse(root.querySelector('.gf-text').textContent);
+    const form = root.querySelector('form');
+    const steps = [...root.querySelectorAll('.gf-step')];
+    const review = root.querySelector('.gf-review');
+    const done = root.querySelector('.gf-done');
+    const error = root.querySelector('.gf-error');
+    const progress = root.querySelector('.gf-progress');
+    const bar = root.querySelector('.gf-bar i');
+    const back = root.querySelector('.gf-back');
+    const next = root.querySelector('.gf-next');
+    const submit = root.querySelector('.gf-submit');
+    const byId = id => steps.find(s => s.dataset.id === id);
+    let current = 0;
+
+    const picked = s => s.querySelector('.gf-opt[aria-pressed="true"]');
+    const value = s => s.dataset.type === 'choice'
+      ? (picked(s) ? picked(s).dataset.value : '')
+      : s.querySelector('.gf-input').value.trim();
+    const shown = s => s.dataset.type === 'choice'
+      ? (picked(s) ? picked(s).lastElementChild.textContent : '')
+      : value(s);
+
+    // 有 when 條件的題目，只有前面那一題選了指定選項才會出現
+    function visible(s) {
+      if (!s.dataset.whenField) return true;
+      const p = picked(byId(s.dataset.whenField));
+      return !!p && p.dataset.id === s.dataset.whenIs;
+    }
+    const flow = () => [...steps.filter(visible), review];
+
+    function fail(msg) {
+      error.textContent = msg;
+      error.hidden = !msg;
+    }
+
+    function show(i, focus) {
+      const list = flow();
+      current = Math.max(0, Math.min(i, list.length - 1));
+      const el = list[current];
+      [...steps, review].forEach(s => (s.hidden = s !== el));
+      fail('');
+      progress.textContent = text.progress.replace('{n}', current + 1).replace('{total}', list.length);
+      bar.style.width = (current / (list.length - 1)) * 100 + '%';
+      back.disabled = current === 0;
+      next.hidden = el === review;
+      submit.hidden = el !== review;
+      if (el === review) fillReview();
+      if (focus) {
+        const target = el.querySelector('.gf-input, .gf-opt[aria-pressed="true"], .gf-opt') || submit;
+        target.focus({ preventScroll: true });
+        if (root.getBoundingClientRect().top < 0) root.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+
+    function check(s) {
+      const v = value(s);
+      if (!v && s.hasAttribute('data-required')) return text.required;
+      if (v && s.dataset.type === 'email' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v)) return text.invalid_email;
+      return '';
+    }
+
+    function forward() {
+      const el = flow()[current];
+      if (el === review) return;
+      const msg = check(el);
+      if (msg) { fail(msg); (el.querySelector('.gf-input') || el.querySelector('.gf-opt')).focus(); return; }
+      show(current + 1, true);
+    }
+
+    function fillReview() {
+      const dl = review.querySelector('.gf-summary');
+      dl.textContent = '';
+      steps.filter(visible).forEach(s => {
+        const dt = document.createElement('dt');
+        const dd = document.createElement('dd');
+        dt.textContent = s.querySelector('.gf-title').textContent;
+        dd.textContent = shown(s) || text.empty;
+        dl.append(dt, dd);
+      });
+    }
+
+    function reset() {
+      form.reset();
+      root.querySelectorAll('.gf-opt').forEach(o => o.setAttribute('aria-pressed', 'false'));
+    }
+
+    async function send() {
+      const list = steps.filter(visible);
+      const bad = list.find(check);
+      if (bad) { show(flow().indexOf(bad), true); fail(check(bad)); return; }
+
+      const wantsReply = list.some(s => s.dataset.type === 'email' && value(s));
+      const finish = () => {
+        reset();
+        form.hidden = true;
+        done.querySelector('.gf-done-reply').hidden = !wantsReply;
+        done.hidden = false;
+        done.focus({ preventScroll: true });
+        if (root.getBoundingClientRect().top < 0) root.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      };
+      // 陷阱欄位有內容就是機器人，假裝成功但不送出
+      if (form.elements.website.value) return finish();
+
+      const body = new URLSearchParams();
+      const pages = ['0'];
+      list.forEach(s => {
+        if (value(s)) body.append('entry.' + s.dataset.entry, value(s));
+        if (s.dataset.page && !pages.includes(s.dataset.page)) pages.push(s.dataset.page);
+      });
+      body.append('fvv', '1');
+      body.append('pageHistory', pages.join(','));
+
+      submit.disabled = back.disabled = true;
+      submit.textContent = text.sending;
+      fail('');
+      try {
+        // Google 表單不回 CORS 標頭，所以用 no-cors：只知道請求有沒有送出去，讀不到回應
+        await fetch(root.dataset.action, { method: 'POST', mode: 'no-cors', body });
+        finish();
+      } catch (e) {
+        fail(text.error);
+      } finally {
+        submit.disabled = back.disabled = false;
+        submit.textContent = text.submit;
+      }
+    }
+
+    steps.forEach(s => {
+      s.querySelectorAll('.gf-opt').forEach(o => o.addEventListener('click', () => {
+        s.querySelectorAll('.gf-opt').forEach(x => x.setAttribute('aria-pressed', String(x === o)));
+        forward();
+      }));
+      s.querySelectorAll('.gf-input').forEach(inp => inp.addEventListener('input', () => fail('')));
+    });
+    // 在單行欄位按 Enter 是下一步，不是送出
+    form.addEventListener('keydown', e => {
+      if (e.key === 'Enter' && !e.isComposing && e.target.matches('input.gf-input')) { e.preventDefault(); forward(); }
+    });
+    form.addEventListener('submit', e => { e.preventDefault(); if (flow()[current] === review) send(); });
+    next.addEventListener('click', forward);
+    back.addEventListener('click', () => show(current - 1, true));
+    root.querySelector('.gf-again').addEventListener('click', () => {
+      done.hidden = true;
+      form.hidden = false;
+      show(0, true);
+    });
+
+    form.hidden = false;
+    root.querySelector('.gf-fallback').hidden = false;
+    show(0, false);
+  }
+
+  const init = () => document.querySelectorAll('.gf').forEach(setup);
+  document.readyState === 'loading' ? document.addEventListener('DOMContentLoaded', init) : init();
+})();
+</script>

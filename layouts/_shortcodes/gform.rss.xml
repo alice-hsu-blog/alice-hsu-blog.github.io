@@ -1,0 +1,3 @@
+{{- /* RSS 版：閱讀器不會執行 JavaScript，所以只放邀請卡，請讀者到網站上填寫 */ -}}
+{{- $data := index site.Data.forms (.Get 0) -}}
+<p>🙏 {{ index $data.text.rss site.Language.Lang }}<a href="{{ .Page.Permalink }}">{{ .Page.Permalink }}</a></p>

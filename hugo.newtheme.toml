@@ -26,7 +26,7 @@ weight = 20
 
 [[menus.main]]
 name = "nav.prayer"
-pageRef = "/posts/64_Prayer Request"
+pageRef = "/prayer-request"
 weight = 30
 
 [[menus.main]]
@@ -47,7 +47,7 @@ weight = 20
 
 [[menus.site]]
 name = "nav.prayer"
-pageRef = "/posts/64_Prayer Request"
+pageRef = "/prayer-request"
 weight = 30
 
 [[menus.site]]

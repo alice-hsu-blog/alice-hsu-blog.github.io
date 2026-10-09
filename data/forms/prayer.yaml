@@ -1,0 +1,123 @@
+# 代禱表單。資料會送進同一份 Google 表單，回覆一樣在 Google 表單裡看。
+# 每段文字都有 zh-tw 和 en 兩個版本，改文字只要改這個檔案。
+#
+# entry：Google 表單的欄位代號。只改題目文字不會變；把題目刪掉重建才會變。
+# value：選擇題送給 Google 的選項文字，必須和 Google 表單上的選項一字不差。
+# page：題目在 Google 表單的第幾頁（從 0 開始）。這份表單的第 0 頁只有標題和說明，
+#       三個題目在第 1 頁，email 在第 2 頁。頁碼錯了，Google 會把那一頁的答案丟掉。
+# when：只有前面某一題選了某個選項，才會出現這一題。
+
+action: https://docs.google.com/forms/d/e/1FAIpQLSd-sMky-Belie3z-oXmwgWqoIN_Q14MNWCEiVi9dCX57Z6xnQ/formResponse
+fallback: https://docs.google.com/forms/d/e/1FAIpQLSd-sMky-Belie3z-oXmwgWqoIN_Q14MNWCEiVi9dCX57Z6xnQ/viewform
+
+fields:
+  - id: name
+    type: text
+    entry: 853678076
+    page: 1
+    label:
+      zh-tw: 怎麼稱呼你？
+      en: What should I call you?
+    hint:
+      zh-tw: 可以匿名，留空也沒關係。
+      en: You can stay anonymous, or leave this blank.
+
+  - id: request
+    type: textarea
+    entry: 1540380608
+    page: 1
+    required: true
+    label:
+      zh-tw: 想請我禱告的內容
+      en: What would you like me to pray for?
+    hint:
+      zh-tw: 不管大事或小事都可以。內容會保密，不會寫在部落格的貼文裡。
+      en: Big or small, anything is welcome. It stays confidential and will never appear in a blog post.
+
+  - id: reply
+    type: choice
+    entry: 522381888
+    page: 1
+    required: true
+    label:
+      zh-tw: 希望我針對你的代禱事項，寄一封簡短的 email 回覆你嗎？
+      en: Would you like me to send you a short email in response to your prayer request?
+    options:
+      - id: "no"
+        value: 不用，請你默默禱告就好 No need. Please just quietly pray for me
+        label:
+          zh-tw: 不用，請你默默禱告就好
+          en: No need. Please just quietly pray for me
+      - id: "yes"
+        value: 好啊～ Sure!
+        label:
+          zh-tw: 好啊～
+          en: Sure!
+
+  - id: email
+    type: email
+    entry: 714577914
+    required: true
+    page: 2
+    when:
+      field: reply
+      is: "yes"
+    label:
+      zh-tw: 請輸入你的 Email
+      en: Please enter your email
+    hint:
+      zh-tw: 我會在一週內親筆回信。
+      en: I will personally write back within one week.
+
+text:
+  progress:
+    zh-tw: 第 {n} / {total} 步
+    en: Step {n} of {total}
+  next:
+    zh-tw: 下一步 →
+    en: Next →
+  back:
+    zh-tw: ← 上一步
+    en: ← Back
+  review_title:
+    zh-tw: 送出前，再看一眼
+    en: One last look before sending
+  review_hint:
+    zh-tw: 想修改的話，可以按「上一步」回去改。
+    en: To change anything, press "Back".
+  empty:
+    zh-tw: （沒有填寫）
+    en: (left blank)
+  submit:
+    zh-tw: 送出
+    en: Send
+  sending:
+    zh-tw: 傳送中…
+    en: Sending…
+  required:
+    zh-tw: 這一題需要填寫喔。
+    en: This one is required.
+  invalid_email:
+    zh-tw: 這個 email 的格式好像不太對，再檢查一下？
+    en: That email doesn't look quite right. Could you check it?
+  error:
+    zh-tw: 送出時出了點問題，可能是網路不穩。請再試一次，或改用 Google 表單填寫。
+    en: Something went wrong while sending, possibly the connection. Please try again, or use the Google Form instead.
+  done_title:
+    zh-tw: 已送出，謝謝你
+    en: Sent. Thank you
+  done_message:
+    zh-tw: 我會為你禱告。上帝祝福你：）
+    en: I will be praying for you. God bless you :)
+  done_reply:
+    zh-tw: 我會在一週內親筆回信給你。
+    en: I will personally write back to you within one week.
+  again:
+    zh-tw: 再填一份
+    en: Send another
+  fallback:
+    zh-tw: 也可以改用 Google 表單填寫
+    en: You can also use the Google Form instead
+  rss:
+    zh-tw: 這一頁有一份代禱表單，邀請 RSS 的讀者到網站上填寫：
+    en: "This page has a prayer request form. RSS readers are invited to fill it in on the website:"
