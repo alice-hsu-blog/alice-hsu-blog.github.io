@@ -14,6 +14,8 @@
   --dash: rgba(85, 46, 27, .3);
   --surface: rgba(85, 46, 27, .06);
   --code-bg: rgba(155, 37, 74, .09);
+  --alert-bg: rgba(155, 37, 74, .028);
+  --alert-rule: rgba(155, 37, 74, .3);
   --select-bg: #9B254A;
   --select-fg: #FFFFFF;
   --logo: #000000;
@@ -27,7 +29,7 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #33101C; --ink: #F3E7E3; --muted: #C49CA2; --deep: #EBD6D2;
-    --accent: #EB9DB1; --quote: #E3A9B8; --toc: #FFFFFF; --rule: rgba(243, 224, 221, .18); --dash: rgba(243, 224, 221, .28); --surface: rgba(243, 224, 221, .06); --code-bg: rgba(243, 224, 221, .06);
+    --accent: #EB9DB1; --quote: #E3A9B8; --toc: #FFFFFF; --rule: rgba(243, 224, 221, .18); --dash: rgba(243, 224, 221, .28); --surface: rgba(243, 224, 221, .06); --code-bg: rgba(243, 224, 221, .06); --alert-bg: rgba(235, 157, 177, .045); --alert-rule: rgba(235, 157, 177, .32);
     --select-bg: #F3E7E3; --select-fg: #33101C;
     --logo: #FFFFFF; --ok: #A3D4AE; --bad: #F4AEBE; --warn: #E6C079;
     color-scheme: dark;
@@ -35,7 +37,7 @@
 }
 :root[data-theme="dark"] {
   --bg: #33101C; --ink: #F3E7E3; --muted: #C49CA2; --deep: #EBD6D2;
-  --accent: #EB9DB1; --quote: #E3A9B8; --toc: #FFFFFF; --rule: rgba(243, 224, 221, .18); --dash: rgba(243, 224, 221, .28); --surface: rgba(243, 224, 221, .06); --code-bg: rgba(243, 224, 221, .06);
+  --accent: #EB9DB1; --quote: #E3A9B8; --toc: #FFFFFF; --rule: rgba(243, 224, 221, .18); --dash: rgba(243, 224, 221, .28); --surface: rgba(243, 224, 221, .06); --code-bg: rgba(243, 224, 221, .06); --alert-bg: rgba(235, 157, 177, .045); --alert-rule: rgba(235, 157, 177, .32);
   --select-bg: #F3E7E3; --select-fg: #33101C;
   --logo: #FFFFFF; --ok: #A3D4AE; --bad: #F4AEBE; --warn: #E6C079;
   color-scheme: dark;
@@ -203,15 +205,21 @@ main { --main-pb: clamp(56px, 9vw, 120px); min-height: 60vh; padding-block: clam
 .prose video, .prose iframe { display: block; margin: 0 auto 1.5em; }
 .prose .footnotes { font-size: 14px; color: var(--muted); }
 
-/* 提示框（> [!Note] 等）：左邊一條色線，標題小字 */
-.prose .alert { margin: 0 0 1.5em; padding: 2px 0 2px 1.2em; border-left: 2px solid var(--alert, var(--muted)); text-align: left; }
+/* 提示框（> [!Note] 等）：主題色的淡底，只有左右兩條直線；左線內側的下方、右線內側的上方各多一小段短線。
+   各種類型都用同一個色系 */
+.prose .alert { position: relative; margin: 0 0 1.5em; padding: .9em 1.2em; background: var(--alert-bg); text-align: left; --alert-tick: 18px; --alert-gap: 6px; }
+.prose .alert::before, .prose .alert::after {
+  content: ""; position: absolute; top: 0; bottom: 0; width: calc(var(--alert-gap) + 1px); pointer-events: none;
+  background-image: linear-gradient(var(--alert-rule), var(--alert-rule)), linear-gradient(var(--alert-rule), var(--alert-rule));
+  background-repeat: no-repeat; background-size: 1px 100%, 1px var(--alert-tick);
+}
+.prose .alert::before { left: 0; background-position: 0 0, 100% 100%; }
+.prose .alert::after { right: 0; background-position: 100% 0, 0 0; }
 .prose .alert > :last-child { margin-bottom: 0; }
-.prose .alert-title, .prose .alert > summary { margin: 0 0 .3em; font-size: 14px; letter-spacing: .12em; color: var(--alert, var(--muted)); }
+.prose .alert p { margin-bottom: .8em; }
+.prose .alert-title, .prose .alert > summary { margin: 0 0 .5em; font-weight: 700; color: var(--quote); }
 .prose .alert > summary { cursor: pointer; }
 .prose .alert:not([open]) > summary { margin-bottom: 0; }
-.prose .alert-tip { --alert: var(--ok); }
-.prose .alert-warning { --alert: var(--warn); }
-.prose .alert-caution, .prose .alert-important { --alert: var(--bad); }
 
 /* masonry shortcode：依 columns 參數排成幾欄，說明文字在圖下 */
 .prose .gallery { display: grid; grid-template-columns: repeat(var(--cols, 1), minmax(0, 1fr)); gap: 12px; align-items: start; margin: 2em 0; }

@@ -1,15 +1,19 @@
-{{- /* 引言。GitHub 樣式的提示框（> [!Note]、> [!Caution] 等）會加上標題；
-     後面接 + 或 - 的可以收合：+ 預設展開，- 預設收起。 */ -}}
+{{- /* 引言。GitHub 樣式的提示框（> [!Note]、> [!Caution] 等）畫成一個淡色的底框，
+     不顯示「注意」「備註」這類預設標題；只有自己寫的標題才會出現。
+     後面接 + 或 - 的可以收合（+ 預設展開，- 預設收起）；
+     沒寫標題的 + 沒有東西可以點，就當成一般的框。 */ -}}
 {{- if eq .Type "alert" -}}
-{{- $title := .AlertTitle | default (i18n (printf "alert.%s" .AlertType) | default (title .AlertType)) -}}
-{{- if .AlertSign }}
+{{- $title := .AlertTitle -}}
+{{- if and .AlertSign (or $title (eq .AlertSign "-")) }}
 <details class="alert alert-{{ .AlertType }}"{{ if eq .AlertSign "+" }} open{{ end }}>
-  <summary>{{ $title }}</summary>
+  <summary>{{ $title | default (i18n (printf "alert.%s" .AlertType) | default (title .AlertType)) }}</summary>
   {{ .Text }}
 </details>
 {{- else }}
 <div class="alert alert-{{ .AlertType }}">
-  <p class="alert-title">{{ $title }}</p>
+  {{- with $title }}
+  <p class="alert-title">{{ . }}</p>
+  {{- end }}
   {{ .Text }}
 </div>
 {{- end }}
