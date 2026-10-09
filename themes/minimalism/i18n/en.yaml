@@ -1,0 +1,55 @@
+nav:
+  home: "Home"
+  posts: "Posts"
+  categories: "Categories"
+  prayer: "Prayer"
+  about: "About"
+  about_us: "About"
+  music: "Music"
+  menu: "Main menu"
+  search: "Search"
+  theme: "Switch light or dark theme"
+  language: "Switch language"
+
+footer:
+  personal: "Personal site"
+  elsewhere: "Elsewhere"
+  rss_feed: "RSS feed"
+
+home:
+  contact: "Email"
+  drawing_alt: "Line drawing of Alice holding a cat"
+  replay: "Replay the drawing"
+
+authors:
+  author_name: "Alice Hsu"
+  author_title: "Writer"
+  mail: "mail@alicehsu.blog"
+
+toc:
+  title: "Contents"
+
+post:
+  related_posts: "Related posts"
+
+search:
+  placeholder: "Search posts…"
+  close: "Close"
+  loading: "Searching…"
+  no_results: "No posts match."
+  failed: "Couldn't load the search index. Reload and try again."
+
+notfound:
+  title: "Page not found"
+  body: "The address may be mistyped, or this page has moved."
+  back: "Back to posts"
+
+change_language:
+  icon: "中"
+
+alert:
+  note: "Note"
+  tip: "Tip"
+  important: "Important"
+  warning: "Warning"
+  caution: "Caution"

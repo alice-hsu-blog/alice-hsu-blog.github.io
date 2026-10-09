@@ -1,0 +1,4 @@
+{{- /* 選單項目的網址：有 pageRef 就連到目前語言的那一頁；站內路徑補上語言前綴；站外網址原樣輸出 */ -}}
+{{- $url := .URL -}}
+{{- with partial "menu-page.html" . }}{{ $url = .RelPermalink }}{{ else }}{{ if strings.HasPrefix $url "/" }}{{ $url = relLangURL $url }}{{ end }}{{ end -}}
+{{- return $url -}}

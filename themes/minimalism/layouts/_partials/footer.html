@@ -1,0 +1,36 @@
+<footer class="site-foot">
+  <div class="foot-grid">
+    <a class="logo" href="{{ site.Home.RelPermalink }}" aria-label="{{ i18n "nav.home" }}">{{ partial "logo.html" . }}</a>
+    <div class="foot-cols">
+      {{- with site.Menus.site }}
+      <div>
+        <h2>{{ i18n "footer.personal" }}</h2>
+        <ul>
+          {{- range . }}
+          <li><a href="{{ partial "menu-url.html" . }}">{{ partial "menu-name.html" . }}</a></li>
+          {{- end }}
+        </ul>
+      </div>
+      {{- end }}
+      {{- with site.Menus.elsewhere }}
+      <div>
+        <h2>{{ i18n "footer.elsewhere" }}</h2>
+        <ul>
+          {{- range . }}
+          <li><a href="{{ partial "menu-url.html" . }}" target="_blank" rel="noopener">{{ partial "menu-name.html" . }}</a></li>
+          {{- end }}
+        </ul>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+  <p class="copy">
+    <span>© {{ now.Year }} {{ site.Params.defaultAuthor | default site.Title }}</span>
+    {{- with site.GetPage "/ai-usage-policy" }}
+    <a href="{{ .RelPermalink }}">{{ i18n "footer.ai_usage_policy" | default .Title }}</a>
+    {{- end }}
+    {{- range site.Menus.footer }}
+    <a href="{{ partial "menu-url.html" . }}">{{ partial "menu-name.html" . }}</a>
+    {{- end }}
+  </p>
+</footer>

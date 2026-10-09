@@ -1,0 +1,42 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="CfroEw87nUma8yMX_HuBmkBUPfZtQSixxgJiyT0aCVo">
+<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ partial "page-title.html" . }} | {{ site.Title }}{{ end }}</title>
+{{- /* 在畫面出現前套用訪客上次選的深淺色，避免閃一下 */}}
+<script>try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t)}catch(e){}</script>
+{{- $desc := "" }}
+{{- with .Description }}{{ $desc = . }}{{ else }}{{ with .Params.summary }}{{ $desc = . }}{{ else }}{{ if and .IsPage .Content }}{{ $desc = .Summary }}{{ else }}{{ $desc = site.Params.description }}{{ end }}{{ end }}{{ end }}
+<meta name="description" content="{{ $desc | plainify | truncate 160 "..." }}">
+{{- with site.Params.keywords }}
+<meta name="keywords" content="{{ delimit . ", " }}">
+{{- end }}
+<meta name="author" content="{{ .Params.author | default site.Params.defaultAuthor }}">
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<meta name="robots" content="noindex,follow">
+{{- else }}
+<meta name="robots" content="{{ .Params.robots | default "index, follow" }}">
+{{- end }}
+<link rel="canonical" href="{{ .Permalink }}">
+{{- range .AllTranslations }}
+<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
+{{- end }}
+{{- with site.Params.favicon.svg }}
+<link rel="icon" type="image/svg+xml" href="{{ . }}">
+{{- end }}
+{{- with site.Params.favicon.ico }}
+<link rel="icon" type="image/x-icon" href="{{ . }}" sizes="32x32">
+{{- end }}
+{{- if site.Home.OutputFormats.Get "WebAppManifest" }}
+<link rel="manifest" href="/site.webmanifest">
+{{- end }}
+{{- with .OutputFormats.Get "rss" }}
+<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ .Permalink }}">
+{{- end }}
+{{ partial "opengraph.html" . }}
+{{ partial "twitter_cards.html" . }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "WebSite" "name" site.Title "url" site.BaseURL | jsonify | safeJS }}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;500;700&display=swap">
+{{- $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">

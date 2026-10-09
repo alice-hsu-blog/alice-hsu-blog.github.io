@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section class="home">
+  <div class="me">
+    <h1>{{ i18n "authors.author_name" }}</h1>
+    <p class="role">{{ i18n "authors.author_title" }}</p>
+    <dl class="contact">
+      <dt>{{ i18n "home.contact" }}</dt>
+      <dd>{{ i18n "authors.mail" }}</dd>
+    </dl>
+  </div>
+  <button type="button" class="draw" id="draw-btn" aria-label="{{ i18n "home.replay" }}">
+    {{ partial "pen-drawing.html" . }}
+  </button>
+</section>
+{{ end }}

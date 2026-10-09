@@ -1,0 +1,2 @@
+{{- /* 圖片：有替代文字時，在圖下顯示成圖說 */ -}}
+<figure><img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}"{{ with .Title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async">{{ with .PlainText }}<figcaption>{{ . }}</figcaption>{{ end }}</figure>

@@ -1,0 +1,31 @@
+<header class="site-head">
+  <a class="logo" href="{{ site.Home.RelPermalink }}" aria-label="{{ i18n "nav.home" }}">{{ partial "logo.html" . }}</a>
+  <nav class="nav" aria-label="{{ i18n "nav.menu" }}">
+    {{- $page := . }}
+    {{- /* 目前頁面如果正好是某個選單項目，只標那一項；否則標它所屬的那一項（例如文章頁標「文章」） */}}
+    {{- $exact := false }}
+    {{- range site.Menus.main }}{{ with partial "menu-page.html" . }}{{ if eq . $page }}{{ $exact = true }}{{ end }}{{ end }}{{ end }}
+    {{- range site.Menus.main }}
+    {{- $active := false }}
+    {{- with partial "menu-page.html" . }}
+      {{- if eq . $page }}{{ $active = true }}{{ else if and (not $exact) (not .IsPage) ($page.IsDescendant .) }}{{ $active = true }}{{ end }}
+    {{- end }}
+    <a href="{{ partial "menu-url.html" . }}"{{ if $active }} aria-current="page"{{ end }}>{{ partial "menu-name.html" . }}</a>
+    {{- end }}
+  </nav>
+  <div class="tools">
+    <button id="theme-btn" type="button" aria-label="{{ i18n "nav.theme" }}">
+      <svg class="icon-sun" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 3v2M12 19v2M3 12h2M19 12h2M5.6 5.600l1.400 1.400M17 17l1.400 1.400M5.600 18.400L7 17M17 7l1.400-1.400"/></svg>
+      <svg class="icon-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.500A8 8 0 0 1 9.500 4a8 8 0 1 0 10.500 10.500z"/></svg>
+    </button>
+    {{- /* 這一頁有另一個語言的版本就連過去，沒有就連到另一個語言的首頁 */}}
+    {{- $other := index .Translations 0 }}
+    {{- if not $other }}{{ $other = index site.Home.Translations 0 }}{{ end }}
+    {{- with $other }}
+    <a href="{{ .RelPermalink }}" lang="{{ .Language.LanguageCode }}" aria-label="{{ i18n "nav.language" }}">{{ i18n "change_language.icon" }}</a>
+    {{- end }}
+    <button id="search-btn" type="button" aria-label="{{ i18n "nav.search" }}">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.500"/><path d="M16 16l4.500 4.500"/></svg>
+    </button>
+  </div>
+</header>

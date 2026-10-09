@@ -1,0 +1,14 @@
+{{ define "main" }}
+<section class="narrow">
+  <h1 class="page-title">{{ partial "page-title.html" . }}</h1>
+  {{- with .Content }}<div class="prose">{{ . }}</div>{{ end }}
+  {{- range .RegularPagesRecursive.GroupByDate "2006" }}
+  <h2 class="year">{{ .Key }}</h2>
+  <ul class="list">
+    {{- range .Pages }}
+    {{ partial "post-row.html" (dict "page" . "right" (index (.Params.categories | default (slice "")) 0)) }}
+    {{- end }}
+  </ul>
+  {{- end }}
+</section>
+{{ end }}

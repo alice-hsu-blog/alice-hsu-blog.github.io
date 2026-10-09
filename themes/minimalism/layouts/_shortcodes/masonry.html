@@ -1,0 +1,5 @@
+{{- /* 相簿：把裡面的圖片排成 columns 欄。其餘參數（gutter、maxColumns、width）是舊主題留下的，這裡不使用。 */ -}}
+{{- $cols := int (.Get "columns" | default 1) -}}
+<div class="gallery{{ if gt $cols 1 }} multi{{ end }}" style="--cols: {{ $cols }}">
+{{ .Page.RenderString (dict "display" "block") .Inner }}
+</div>

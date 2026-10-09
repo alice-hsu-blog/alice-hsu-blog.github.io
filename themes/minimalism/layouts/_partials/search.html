@@ -1,0 +1,11 @@
+<dialog class="search" id="search" aria-label="{{ i18n "nav.search" }}"
+  data-index="{{ "index.json" | relLangURL }}"
+  data-loading="{{ i18n "search.loading" }}"
+  data-empty="{{ i18n "search.no_results" }}"
+  data-failed="{{ i18n "search.failed" }}">
+  <form method="dialog">
+    <input id="search-input" type="search" placeholder="{{ i18n "search.placeholder" }}" autocomplete="off" aria-label="{{ i18n "nav.search" }}">
+    <button type="submit">{{ i18n "search.close" }}</button>
+  </form>
+  <ul class="search-results" id="search-results"></ul>
+</dialog>

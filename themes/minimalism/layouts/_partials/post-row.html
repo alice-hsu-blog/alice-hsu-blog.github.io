@@ -1,0 +1,2 @@
+{{- /* 列表的一列：日期、標題、右側小字。用法：partial "post-row.html" (dict "page" . "right" "分類或年份") */ -}}
+<li><a href="{{ .page.RelPermalink }}"><time datetime="{{ .page.Date.Format "2006-01-02" }}">{{ .page.Date.Format "01-02" }}</time><span class="t">{{ .page.Title }}</span><span class="c">{{ .right }}</span></a></li>

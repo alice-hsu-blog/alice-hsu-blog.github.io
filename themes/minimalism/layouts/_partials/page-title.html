@@ -1,0 +1,5 @@
+{{- /* 頁面標題。「文章」和「分類」這兩個自動產生的列表頁沒有自己的標題，用翻譯檔裡的名稱 */ -}}
+{{- $title := .Title -}}
+{{- if and (eq .Kind "section") (eq .Section "posts") }}{{ $title = i18n "nav.posts" }}{{ end -}}
+{{- if and (eq .Kind "taxonomy") (eq .Data.Plural "categories") }}{{ $title = i18n "nav.categories" }}{{ end -}}
+{{- return $title -}}

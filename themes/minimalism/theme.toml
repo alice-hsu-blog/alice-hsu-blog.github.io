@@ -1,0 +1,8 @@
+name = "minimalism"
+license = "MIT"
+description = "Alice Hsu's Blog 的極簡主題：置中窄欄、Noto Serif TC、首頁線條畫。"
+min_version = "0.146.0"
+
+[author]
+  name = "Alice Hsu"
+  homepage = "https://alicehsu.blog/"

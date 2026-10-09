@@ -1,0 +1,42 @@
+{{ define "main" }}
+{{- $isPost := eq .Section "posts" }}
+{{- $toc := "" }}
+{{- if and $isPost (in .TableOfContents "<li>") }}{{ $toc = .TableOfContents }}{{ end }}
+<div class="article{{ with .Params.layout }} page-{{ . }}{{ end }}">
+  {{- with $toc }}
+  <aside class="toc" aria-label="{{ i18n "toc.title" }}">
+    <h2>{{ i18n "toc.title" }}</h2>
+    {{ . }}
+  </aside>
+  {{- end }}
+  <article class="post">
+    <header>
+      <h1>{{ .Title }}</h1>
+      {{- if $isPost }}
+      <p>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+        {{- with .GetTerms "categories" }}{{ with index . 0 }}　·　<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}{{ end }}
+      </p>
+      {{- end }}
+    </header>
+    {{- if and .Params.cover .Params.cover_on_post }}
+    <img class="cover" src="{{ .Params.cover }}" alt="">
+    {{- end }}
+    <div class="prose">
+      {{ .Content }}
+    </div>
+    {{- if and $isPost site.Params.post.showRelated }}
+    {{- with site.RegularPages.Related . | first (site.Params.post.relatedPostsCount | default 3) }}
+    <section class="related">
+      <h2>{{ i18n "post.related_posts" }}</h2>
+      <ul class="list">
+        {{- range . }}
+        {{ partial "post-row.html" (dict "page" . "right" (.Date.Format "2006")) }}
+        {{- end }}
+      </ul>
+    </section>
+    {{- end }}
+    {{- end }}
+  </article>
+</div>
+{{ end }}

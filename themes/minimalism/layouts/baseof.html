@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="{{ site.Language.LanguageCode }}">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body>
+{{- if and site.Params.readingProgress.enabled .IsPage (eq .Section "posts") }}
+<div class="progress" aria-hidden="true"><i id="progress-bar"></i></div>
+{{- end }}
+<div class="wrap">
+  {{ partial "header.html" . }}
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
+</div>
+{{ partial "search.html" . }}
+{{- $js := resources.Get "js/main.js" | minify | fingerprint }}
+<script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+</body>
+</html>

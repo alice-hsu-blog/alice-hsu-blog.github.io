@@ -1,0 +1,10 @@
+{{- /* 舊主題的圖示 shortcode。這個主題不放圖示：有 url 時輸出文字連結，沒有 url 時只輸出文字。 */ -}}
+{{- $name := .Get "name" | default (.Get 0) -}}
+{{- $url := .Get "url" | default (.Get "href") -}}
+{{- $label := .Get "label" | default (.Get "ariaLabel") | default (.Get "title") | default $name -}}
+{{- $newtab := in (slice true "true" 1 "1") (.Get "newtab") -}}
+{{- if $url -}}
+<a href="{{ $url | safeURL }}"{{ if $newtab }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ $label }}</a>
+{{- else -}}
+<span>{{ $label }}</span>
+{{- end -}}

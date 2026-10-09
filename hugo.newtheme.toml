@@ -1,0 +1,102 @@
+# 新主題（minimalism）的預覽設定。和 hugo.toml 一起使用，只覆寫新主題需要的部分：
+#   hugo server -D --config hugo.toml,hugo.newtheme.toml
+# 正式切換時，把這裡的內容搬進 hugo.toml 即可。
+
+theme = ["minimalism", "hugo-embed-pdf-shortcode"]
+
+# 新主題沒有舊主題的「列表檢視」輸出格式
+[outputs]
+home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+term = ["HTML"]
+
+[menus]
+
+# 頁首置中的導覽
+[[menus.main]]
+name = "nav.posts"
+pageRef = "/posts"
+weight = 10
+
+[[menus.main]]
+name = "nav.categories"
+pageRef = "/categories"
+weight = 20
+
+[[menus.main]]
+name = "nav.prayer"
+pageRef = "/posts/64_Prayer Request"
+weight = 30
+
+[[menus.main]]
+name = "nav.about"
+pageRef = "/about"
+weight = 40
+
+# 頁尾「個人網頁」
+[[menus.site]]
+name = "nav.posts"
+pageRef = "/posts"
+weight = 10
+
+[[menus.site]]
+name = "nav.categories"
+pageRef = "/categories"
+weight = 20
+
+[[menus.site]]
+name = "nav.prayer"
+pageRef = "/posts/64_Prayer Request"
+weight = 30
+
+[[menus.site]]
+name = "nav.about"
+pageRef = "/about"
+weight = 40
+
+[[menus.site]]
+name = "nav.music"
+pageRef = "/portfolio"
+weight = 50
+
+# 頁尾「其他網站」
+[[menus.elsewhere]]
+name = "YouTube"
+url = "https://www.youtube.com/@alicehsumusic"
+weight = 10
+
+[[menus.elsewhere]]
+name = "SoundCloud"
+url = "https://soundcloud.com/alicehsumusic"
+weight = 20
+
+[[menus.elsewhere]]
+name = "VisBible"
+url = "https://visbible.org/"
+weight = 30
+
+[[menus.elsewhere]]
+name = "GitHub"
+url = "https://github.com/alice-hsu-blog"
+weight = 40
+
+# 頁尾最下面一行
+[[menus.footer]]
+name = "footer.rss_feed"
+url = "/index.xml"
+weight = 30
+
+# 「相關文章」：同分類的文章，日期近的優先
+[related]
+includeNewer = true
+threshold = 80
+toLower = false
+
+[[related.indices]]
+name = "categories"
+weight = 100
+
+[[related.indices]]
+name = "date"
+weight = 10

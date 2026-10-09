@@ -1,0 +1,9 @@
+{{ define "main" }}
+<section class="notfound">
+  <h1 class="page-title">{{ i18n "notfound.title" }}</h1>
+  <p>{{ i18n "notfound.body" }}</p>
+  {{- with site.GetPage "/posts" }}
+  <p><a href="{{ .RelPermalink }}">{{ i18n "notfound.back" }}</a></p>
+  {{- end }}
+</section>
+{{ end }}

@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section class="narrow">
+  {{- with .Parent }}
+  <p class="crumb"><a href="{{ .RelPermalink }}">← {{ partial "page-title.html" . }}</a></p>
+  {{- end }}
+  <h1 class="page-title">{{ .Title }}</h1>
+  <ul class="list">
+    {{- range .Pages.ByDate.Reverse }}
+    {{ partial "post-row.html" (dict "page" . "right" (.Date.Format "2006")) }}
+    {{- end }}
+  </ul>
+</section>
+{{ end }}

@@ -1,0 +1,55 @@
+nav:
+  home: "首頁"
+  posts: "文章"
+  categories: "分類"
+  prayer: "禱告"
+  about: "關於"
+  about_us: "關於"
+  music: "音樂作品"
+  menu: "主選單"
+  search: "搜尋"
+  theme: "切換深淺色"
+  language: "切換語言"
+
+footer:
+  personal: "個人網頁"
+  elsewhere: "其他網站"
+  rss_feed: "RSS 訂閱"
+
+home:
+  contact: "來信"
+  drawing_alt: "線條畫：Alice 伸手捧著一隻貓"
+  replay: "重新播放繪製動畫"
+
+authors:
+  author_name: "Alice Hsu"
+  author_title: "文字工作者"
+  mail: "mail@alicehsu.blog"
+
+toc:
+  title: "目錄"
+
+post:
+  related_posts: "相關文章"
+
+search:
+  placeholder: "搜尋文章…"
+  close: "關閉"
+  loading: "搜尋中…"
+  no_results: "找不到符合的文章。"
+  failed: "搜尋資料載入失敗，請重新整理後再試。"
+
+notfound:
+  title: "找不到這一頁"
+  body: "網址可能打錯了，或是這一頁已經搬家。"
+  back: "回到文章列表"
+
+change_language:
+  icon: "EN"
+
+alert:
+  note: "備註"
+  tip: "提示"
+  important: "重要"
+  warning: "警告"
+  caution: "注意"

@@ -1,0 +1,20 @@
+{{- /* 引言。GitHub 樣式的提示框（> [!Note]、> [!Caution] 等）會加上標題；
+     後面接 + 或 - 的可以收合：+ 預設展開，- 預設收起。 */ -}}
+{{- if eq .Type "alert" -}}
+{{- $title := .AlertTitle | default (i18n (printf "alert.%s" .AlertType) | default (title .AlertType)) -}}
+{{- if .AlertSign }}
+<details class="alert alert-{{ .AlertType }}"{{ if eq .AlertSign "+" }} open{{ end }}>
+  <summary>{{ $title }}</summary>
+  {{ .Text }}
+</details>
+{{- else }}
+<div class="alert alert-{{ .AlertType }}">
+  <p class="alert-title">{{ $title }}</p>
+  {{ .Text }}
+</div>
+{{- end }}
+{{- else -}}
+<blockquote{{ with .Attributes.class }} class="{{ . }}"{{ end }}>
+  {{ .Text }}
+</blockquote>
+{{- end -}}

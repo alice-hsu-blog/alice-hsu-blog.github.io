@@ -1,0 +1,4 @@
+{{- /* 選單項目在目前語言對應的頁面（設定檔裡用 pageRef 指定的才有） */ -}}
+{{- $page := false -}}
+{{- with .PageRef }}{{ with site.GetPage . }}{{ $page = . }}{{ end }}{{ end -}}
+{{- return $page -}}

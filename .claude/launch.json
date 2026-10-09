@@ -6,6 +6,12 @@
       "runtimeExecutable": "hugo",
       "runtimeArgs": ["server", "-D"],
       "port": 1313
+    },
+    {
+      "name": "hugo-new-theme",
+      "runtimeExecutable": "hugo",
+      "runtimeArgs": ["server", "-D", "--config", "hugo.toml,hugo.newtheme.toml", "--port", "1314"],
+      "port": 1314
     }
   ]
 }
