@@ -2,6 +2,7 @@ nav:
   home: "Home"
   posts: "Posts"
   categories: "Categories"
+  tags: "Tags"
   prayer: "Prayer"
   about: "About"
   about_us: "About"
@@ -58,3 +59,14 @@ alert:
   important: "Important"
   warning: "Warning"
   caution: "Caution"
+
+list:
+  stats: "{{ .Posts }} posts, {{ .Words }} words in total"
+  years: "Filter by year"
+  all: "All"
+  random: "Random post"
+  featured: "Featured"
+
+featured:
+  red_chamber: "Dream of the Red Chamber series"
+  red_chamber_note: "Reading & Reflection · 6 parts"

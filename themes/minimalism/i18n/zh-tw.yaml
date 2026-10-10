@@ -2,6 +2,7 @@ nav:
   home: "首頁"
   posts: "文章"
   categories: "分類"
+  tags: "標籤"
   prayer: "禱告"
   about: "關於"
   about_us: "關於"
@@ -58,3 +59,14 @@ alert:
   important: "重要"
   warning: "警告"
   caution: "注意"
+
+list:
+  stats: "寫了 {{ .Posts }} 篇文章、總共 {{ .Words }} 個字"
+  years: "依年份篩選"
+  all: "全部"
+  random: "隨機選一篇"
+  featured: "精選"
+
+featured:
+  red_chamber: "《紅樓夢》系列連載"
+  red_chamber_note: "閱讀 · 反思　共 6 篇"

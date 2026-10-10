@@ -26,6 +26,25 @@
     });
   }
 
+  // 文章頁：按年份只顯示那一年的文章，以及隨機選一篇
+  var years = document.querySelector('.years');
+  if (years) {
+    years.hidden = false;
+    var yearGroups = document.querySelectorAll('.year-group');
+    var yearBtns = years.querySelectorAll('[data-year]');
+    Array.prototype.forEach.call(yearBtns, function (btn) {
+      btn.addEventListener('click', function () {
+        var year = btn.dataset.year;
+        Array.prototype.forEach.call(yearBtns, function (b) { b.setAttribute('aria-pressed', String(b === btn)); });
+        Array.prototype.forEach.call(yearGroups, function (g) { g.hidden = year !== 'all' && g.dataset.year !== year; });
+      });
+    });
+    years.querySelector('.random').addEventListener('click', function () {
+      var links = document.querySelectorAll('.year-group .list a');
+      if (links.length) location.href = links[Math.floor(Math.random() * links.length)].href;
+    });
+  }
+
   // 首頁線條畫：點一下重播
   var drawBtn = document.getElementById('draw-btn');
   if (drawBtn) {

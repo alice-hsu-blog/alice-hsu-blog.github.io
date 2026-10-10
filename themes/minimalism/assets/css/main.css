@@ -147,6 +147,25 @@ main { --main-pb: clamp(56px, 9vw, 120px); min-height: 60vh; padding-block: clam
 .list.cats a { grid-template-columns: minmax(0, 1fr) auto; padding-block: 16px; }
 .list.cats .t { font-size: 19px; letter-spacing: .06em; }
 .list.cats .n { color: var(--muted); font-size: 14px; font-variant-numeric: tabular-nums; }
+/* 「文章」頁：標題右邊是統計，下面是精選，再下面一列年份按鈕和隨機選一篇 */
+.list-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px 24px; margin-bottom: 24px; }
+.list-head .page-title { margin: 0; }
+.stats { margin: 0; color: var(--muted); font-size: 14px; letter-spacing: .08em; font-variant-numeric: tabular-nums; }
+.years { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px 24px; margin-bottom: 36px; }
+.year-btns { display: flex; flex-wrap: wrap; gap: 10px; }
+.years button { display: inline-flex; align-items: center; gap: 8px; padding: 3px 16px; border: 1px solid var(--accent); border-radius: 999px; color: var(--accent); font-size: 14px; letter-spacing: .1em; font-variant-numeric: tabular-nums; transition: background-color .2s ease, color .2s ease; }
+.years button:hover, .years button[aria-pressed="true"] { background: var(--accent); color: var(--bg); }
+.years svg { width: 15px; height: 15px; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+.featured { margin-bottom: 36px; }
+.featured h2 { font-size: 14px; font-weight: 400; color: var(--muted); letter-spacing: .2em; margin: 0 0 10px; }
+.featured ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 24px; }
+.featured a { display: flex; flex-direction: column; gap: 2px; height: 100%; padding: 12px 0 14px; border-top: 1px solid var(--accent); }
+.featured .t { font-size: 17px; font-weight: 700; line-height: 1.55; }
+.featured .c { color: var(--muted); font-size: 13px; letter-spacing: .08em; }
+.featured a:hover .t { color: var(--accent); }
+@media (max-width: 560px) {
+  .featured ul { grid-template-columns: minmax(0, 1fr); }
+}
 .crumb { margin: 0 0 20px; font-size: 14px; color: var(--muted); letter-spacing: .08em; }
 .crumb a:hover { color: var(--accent); }
 @media (max-width: 560px) {

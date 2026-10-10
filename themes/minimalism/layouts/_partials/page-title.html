@@ -2,4 +2,5 @@
 {{- $title := .Title -}}
 {{- if and (eq .Kind "section") (eq .Section "posts") }}{{ $title = i18n "nav.posts" }}{{ end -}}
 {{- if and (eq .Kind "taxonomy") (eq .Data.Plural "categories") }}{{ $title = i18n "nav.categories" }}{{ end -}}
+{{- if and (eq .Kind "taxonomy") (eq .Data.Plural "tags") }}{{ $title = i18n "nav.tags" }}{{ end -}}
 {{- return $title -}}

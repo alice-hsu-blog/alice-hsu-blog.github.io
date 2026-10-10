@@ -16,6 +16,7 @@
       <p>
         <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
         {{- with .GetTerms "categories" }}{{ with index . 0 }}　·　<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}{{ end }}
+        {{- range .GetTerms "tags" }}　·　<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
       </p>
       {{- end }}
     </header>

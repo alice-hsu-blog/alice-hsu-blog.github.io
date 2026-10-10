@@ -89,3 +89,18 @@ weight = 30
 name = "footer.rss_feed"
 url = "/index.xml"
 weight = 30
+
+# 「文章」頁的精選文章，照這裡的順序排。
+#   path：content/ 底下的檔名，不含語言和副檔名
+#   title、note：標題和標題下方的小字（翻譯檔的 key 或直接寫文字）；不寫就用文章自己的標題和分類
+# 某個語言沒有翻譯的文章，在那個語言的頁面不會出現。
+[[params.featured]]
+path = "/posts/43_The Stranger"
+
+[[params.featured]]
+path = "/posts/50_You are Precious and Honored in My Sight"
+
+[[params.featured]]
+path = "/posts/49_Read Dream of the Red Chamber Series one"
+title = "featured.red_chamber"
+note = "featured.red_chamber_note"
