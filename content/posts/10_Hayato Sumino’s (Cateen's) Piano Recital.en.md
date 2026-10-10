@@ -57,6 +57,7 @@ I just want to rush to my piano and practice.
 ![](/images/Post/10/4.jpg)
 ![](/images/Post/10/6.jpg)
 {{< /masonry>}}
+
 -----
 
 *NB: This article was first published in Chinese on 11/18/25. It was later translated with assistance from ChatGPT, edited by me, and published in English on 12/3/25.*

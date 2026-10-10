@@ -1,6 +1,6 @@
 baseURL = "https://alicehsu.blog/"
 title = "Alice Hsu's Blog"
-theme = ["HugoNarrow", "hugo-embed-pdf-shortcode", ""]
+theme = ["minimalism", "hugo-embed-pdf-shortcode"]
 enableInlineShortcodes = true
 languageCode = "en-US"
 defaultContentLanguage = "en"
@@ -12,6 +12,14 @@ enableRobotsTXT = true
 
 [markup.goldmark.renderer]
 unsafe = true
+
+# 數學公式：$...$ 與 $$...$$ 交給主題的 render-passthrough.html 轉成 MathML
+[markup.goldmark.extensions.passthrough]
+enable = true
+
+[markup.goldmark.extensions.passthrough.delimiters]
+block = [["$$", "$$"], ["\\[", "\\]"]]
+inline = [["$", "$"], ["\\(", "\\)"]]
 
 [pagination]
 pagerSize = 5
@@ -53,21 +61,6 @@ Twitter_Image = "/favicon.png"
 Twitter_Site = "@Alicehsu77"
 Image = "/favicon.png"
 
-stickyHeader = false
-showThemeSwitch = false
-showDarkModeSwitch = true
-showLanguageSwitch = true
-languageSwitchMode = "cycle"
-colorScheme = "sunset"
-
-
-[params.logo]
-image = "/favicon.svg"
-link = "/"
-
-[params.mermaid]
-enabled = true
-
 [params.kroki]
     endpoint = 'https://kroki.io/'
     output = 'img'
@@ -82,161 +75,101 @@ title = "authors.author_title"
 description = "authors.author_description"
 avatar = "/images/avatar2.jpg"
 
-# [[params.author.social]]
-#   name = "YouTube"
-#   url = "https://www.youtube.com/@alicehsumusic"
-#   icon = "youtube"
-
-# [[params.author.social]]
-#   name = "SoundCloud"
-#   url = "https://soundcloud.com/alicehsumusic"
-#   icon = "soundcloud"
-
-dock = 'scroll'
-
-[params.toc]
-  enabled = true         # Enable or disable TOC globally
-  position = "right"      # Options: card left right
-  maxWidth = "250px"
-  maxHeight = "80vh"
-
-[params.home]
-recentPostsCount = 3
-
-[params.post]
-showRelated = true
-relatedPostsCount = 3
-
-[params.post.license]
-show = false
-author = "Hugo Narrow"
-name = "CC BY-NC-SA 4.0"
-description = "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
-url = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-displayName = "CC BY-NC-SA 4.0"
-
-[params.readingProgress]
-enabled = true
-height = 3
-showOnHomepage = false
-smoothScroll = true
-hideOnComplete = false
-
-
-[params.themes.default]
-name = "Default"
-order = 1
-
-[params.themes.claude]
-name = "Claude"
-order = 2
-
-[params.themes.bumblebee]
-name = "Bumblebee"
-order = 3
-
-[params.themes.emerald]
-name = "Emerald"
-order = 4
-
-[params.themes.nord]
-name = "Nord"
-order = 5
-
-[params.themes.sunset]
-name = "Sunset"
-order = 6
-
-[params.themes.abyss]
-name = "Abyss"
-order = 7
-
-[params.themes.dracula]
-name = "Dracula"
-order = 8
-
-[params.katex]
-enabled = true
-
-  [[params.katex.delimiters]]
-  left = "$$"
-  right = "$$"
-  display = true
-
-  [[params.katex.delimiters]]
-  left = "$"
-  right = "$"
-  display = false
-
-  [[params.katex.delimiters]]
-  left = "\\("
-  right = "\\)"
-  display = false
-
-  [[params.katex.delimiters]]
-  left = "\\["
-  right = "\\]"
-  display = true
 
 [outputs]
-home = [ "HTML", "RSS", "JSON", "WebAppManifest"]
-section = ["HTML", "ListLayout"]
-term = ["HTML", "ListLayout"]
+home = ["HTML", "RSS", "JSON", "WebAppManifest"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+term = ["HTML"]
 
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 baseName = "site"
 isPlainText = true
 
-[outputFormats]
-  [outputFormats.ListLayout]
-    name = "ListLayout"
-    baseName = "list/index"      # 讓產出的檔案叫 index.html
-    mediaType = "text/html"
-    isHTML = true
-
-[[menus.main]]
-name = "nav.about_us"
-pageRef = "/about"
-weight = 30
-
-  [menus.main.params]
-  icon = "about"
-
+# 頁首置中的導覽
 [[menus.main]]
 name = "nav.posts"
 pageRef = "/posts"
 weight = 10
-
-  [menus.main.params]
-  icon = "posts"
 
 [[menus.main]]
 name = "nav.categories"
 pageRef = "/categories"
 weight = 20
 
-  [menus.main.params]
-  icon = "categories"
+[[menus.main]]
+name = "nav.prayer"
+pageRef = "/prayer-request"
+weight = 30
 
-# [[menus.main]]
-# name = "nav.portfolio"
-# pageRef = "/portfolio"
-# weight = 40
+[[menus.main]]
+name = "nav.about"
+pageRef = "/about"
+weight = 40
 
-  # [menus.main.params]
-  # icon = "archive"
+# 頁尾「個人網站」
+[[menus.site]]
+name = "nav.posts"
+pageRef = "/posts"
+weight = 10
 
+[[menus.site]]
+name = "nav.categories"
+pageRef = "/categories"
+weight = 20
 
+[[menus.site]]
+name = "nav.prayer"
+pageRef = "/prayer-request"
+weight = 30
 
+[[menus.site]]
+name = "nav.music"
+pageRef = "/portfolio"
+weight = 40
 
+[[menus.site]]
+name = "nav.about"
+pageRef = "/about"
+weight = 50
+
+# 頁尾「其他網站」
+[[menus.elsewhere]]
+name = "YouTube"
+url = "https://www.youtube.com/@alicehsumusic"
+weight = 10
+
+[[menus.elsewhere]]
+name = "SoundCloud"
+url = "https://soundcloud.com/alicehsumusic"
+weight = 20
+
+[[menus.elsewhere]]
+name = "VisBible"
+url = "https://visbible.org/"
+weight = 30
+
+# 頁尾最下面一行
 [[menus.footer]]
 name = "footer.rss_feed"
 url = "/index.xml"
 weight = 30
 
-  [menus.footer.params]
-  icon = "rss"
+# 「文章」頁的精選文章，照這裡的順序排。
+#   path：content/ 底下的檔名，不含語言和副檔名
+#   title、note：標題和標題下方的小字（翻譯檔的 key 或直接寫文字）；不寫就用文章自己的標題和分類
+# 某個語言沒有翻譯的文章，在那個語言的頁面不會出現。
+[[params.featured]]
+path = "/posts/43_The Stranger"
+
+[[params.featured]]
+path = "/posts/50_You are Precious and Honored in My Sight"
+
+[[params.featured]]
+path = "/posts/49_Read Dream of the Red Chamber Series one"
+title = "featured.red_chamber"
+note = "featured.red_chamber_note"
 
 [caches]
   [caches.images]

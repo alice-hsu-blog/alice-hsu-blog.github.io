@@ -17,8 +17,6 @@
         "server",
         "-D",
         "--disableFastRender",
-        "--config",
-        "hugo.toml,hugo.newtheme.toml",
         "--port",
         "1316"
       ],
@@ -31,8 +29,6 @@
         "server",
         "-D",
         "--disableFastRender",
-        "--config",
-        "hugo.toml,hugo.newtheme.toml",
         "--port",
         "1317"
       ],
@@ -45,8 +41,6 @@
         "server",
         "-D",
         "--disableFastRender",
-        "--config",
-        "hugo.toml,hugo.newtheme.toml",
         "--port",
         "1318"
       ],
