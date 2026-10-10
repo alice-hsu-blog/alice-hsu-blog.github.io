@@ -23,10 +23,10 @@ The English versions are translated with the help of AI tools, then edited and p
 Unless a source is noted, all images are photographed or drawn by me, without any AI-generated graphics.
 
 ### Music
-Everything in my [portfolio](/portfolio/) is my own composition, without any AI tools.
+Everything on my [Music](/portfolio/) page is my own composition, without any AI tools.
 
 ### Video
 All videos are shot and edited by me, without any AI tools.
 
-### Website Development and Maintenance
-This blog is built on the Hugo Narrow theme, and I use AI tools to help modify its code.
+### Website Development
+This blog is built with Hugo, and I used AI tools to help design and build its theme.

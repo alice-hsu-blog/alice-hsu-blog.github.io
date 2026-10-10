@@ -24,7 +24,7 @@ categories = ['音樂']
   calculateItemsHeight= false
 +++
 > [!WARNING]
-> 完整琴譜請至[作品集](/portfolio/)下載，也可在這裡找到我的 YouTube 演奏影片喔！
+> 完整琴譜請至[音樂作品](/portfolio/)下載，也可在這裡找到我的 YouTube 演奏影片喔！
 
 Bell 這首曲式為 A-B-A’ 的鋼琴小品，是由開頭的 8 個小節靈感衍伸而來的
 ![](/images/Post/2/1.png)

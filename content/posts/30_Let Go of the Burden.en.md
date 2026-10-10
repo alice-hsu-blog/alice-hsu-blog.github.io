@@ -3,7 +3,7 @@ date = '2026-01-21T21:30:00-06:00'
 draft = false
 title = 'Let Go of the Burden'
 summary = 'Hey dear, you are under such strain'
-cover = '/images/Post30home.jpeg'
+cover = '/images/Post30home-ink.png'
 cover_on_post = false
 categories = ['Poetry']
 author_twitter_handle = '@Alicehsu77' 
@@ -53,7 +53,7 @@ og_type = 'article'
 　With Jesus near, you are never alone.
 
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![This poem was originally written in Chinese. The above photo is my Chinese draft.](/images/Post30home.jpeg)
+![This poem was originally written in Chinese. The above photo is my Chinese draft.](/images/Post30home-ink.png)
 {{< /masonry>}}
 
 ---

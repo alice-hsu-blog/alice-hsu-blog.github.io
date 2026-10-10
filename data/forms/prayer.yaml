@@ -116,8 +116,8 @@ text:
     zh-tw: 再填一份
     en: Send another
   fallback:
-    zh-tw: 也可以改用 Google 表單填寫
-    en: You can also use the Google Form instead
+    zh-tw: 填寫 Google 表單
+    en: Fill in the Google Form
   rss:
     zh-tw: 這一頁有一份代禱表單，邀請 RSS 的讀者到網站上填寫：
     en: "This page has a prayer request form. RSS readers are invited to fill it in on the website:"

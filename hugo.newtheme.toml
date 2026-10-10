@@ -42,7 +42,7 @@ name = "nav.about"
 pageRef = "/about"
 weight = 40
 
-# 頁尾「個人網頁」
+# 頁尾「個人網站」
 [[menus.site]]
 name = "nav.posts"
 pageRef = "/posts"
@@ -59,13 +59,13 @@ pageRef = "/prayer-request"
 weight = 30
 
 [[menus.site]]
-name = "nav.about"
-pageRef = "/about"
+name = "nav.music"
+pageRef = "/portfolio"
 weight = 40
 
 [[menus.site]]
-name = "nav.music"
-pageRef = "/portfolio"
+name = "nav.about"
+pageRef = "/about"
 weight = 50
 
 # 頁尾「其他網站」

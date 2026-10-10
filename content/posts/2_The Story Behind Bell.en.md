@@ -24,7 +24,7 @@ maxRowsCount= 999999
 calculateItemsHeight= false
 +++
 > [!WARNING]
-> The complete piano score can be downloaded from my [Portfolio](/en/portfolio/), where you can also find my YouTube performance video!
+> The complete piano score can be downloaded from the [Music](/portfolio/) page, where you can also find my YouTube performance video!
 
 Bell is a short piano piece in ternary form (A–B–A’), developed from the first eight measures that came to me rather spontaneously.
 ![](/images/Post/2/1.png)

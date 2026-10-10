@@ -4,7 +4,7 @@ draft = false
 title = '放下重擔'
 slug = 'let go of the burden'
 summary = '親愛的你　壓力很滿'
-cover = '/images/Post30home.jpeg'
+cover = '/images/Post30home-ink.png'
 cover_on_post = false
 categories = ['詩詞']
 author_twitter_handle = '@Alicehsu77' 
@@ -54,7 +54,7 @@ og_type = 'article'
 　有耶穌在　你不落單
 
 {{< masonry columns=1 gutter=50 maxColumns=10 width=60 >}}
-![草稿](/images/Post30home.jpeg)
+![草稿](/images/Post30home-ink.png)
 {{< /masonry>}}
 
 ---

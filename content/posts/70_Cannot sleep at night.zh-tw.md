@@ -4,7 +4,7 @@ draft = false
 title = '半夜睡不著'
 slug = 'cannot sleep at night'
 summary = '躺在床上，時間發沉，意識卻續航力極佳'
-cover = '/images/Post/70/1.jpg'
+cover = '/images/Post/70/1-ink.png'
 cover_on_post = false
 categories = ['詩詞']
 tags = ['BlogBlog 同樂會']
@@ -16,9 +16,9 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
-![](/images/Post/70/1.jpg)
+![](/images/Post/70/1-ink.png)
 
-![](/images/Post/70/2.jpg)
+![](/images/Post/70/2-ink.png)
 
 
 躺在床上，時間發沉，

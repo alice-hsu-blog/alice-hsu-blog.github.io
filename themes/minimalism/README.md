@@ -7,7 +7,7 @@ Alice Hsu's Blog 的主題。純 CSS（`assets/css/main.css`）加一小段 JS�
 選單和頁尾連結都在網站設定檔裡：
 
 - `menus.main`：頁首置中的導覽（文章、分類、禱告、關於）。
-- `menus.site`：頁尾「個人網頁」一欄。
+- `menus.site`：頁尾「個人網站」一欄。
 - `menus.elsewhere`：頁尾「其他網站」一欄。
 - `menus.footer`：頁尾最下面一行（RSS 等）。
 

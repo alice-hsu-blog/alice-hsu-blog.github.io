@@ -4,7 +4,7 @@ draft = false
 title = '走到世界的盡頭'
 slug = 'To the End of This World'
 summary = '走到世界的盡頭 / 才發現 / 回到別人的家'
-cover = '/images/Post56home.jpg'
+cover = '/images/Post56home-ink.png'
 cover_on_post = false
 categories = ['詩詞']
 author_twitter_handle = '@Alicehsu77' 
@@ -16,7 +16,7 @@ og_type = 'article'
   lastRow = 'center'
 +++
 
-![](/images/Post56home.jpg)
+![](/images/Post56home-ink.png)
 
 走到世界的盡頭，
 

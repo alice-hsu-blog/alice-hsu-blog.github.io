@@ -13,7 +13,8 @@
 {{- range $k, $v := $data.text }}{{ $t = merge $t (dict $k (index $v $lang)) }}{{ end -}}
 
 <div class="gf" id="{{ $id }}" data-action="{{ $data.action }}">
-  <noscript><p><a href="{{ $data.fallback }}" target="_blank" rel="noopener">{{ $t.fallback }}</a></p></noscript>
+  {{- /* 預設顯示，表單成功啟動後才藏起來；腳本沒跑起來的讀者至少還有這個連結 */}}
+  <p class="gf-fallback"><a href="{{ $data.fallback }}" target="_blank" rel="noopener">{{ $t.fallback }}</a></p>
   <form novalidate hidden>
     <div class="gf-head"><span class="gf-progress"></span></div>
     <div class="gf-bar" aria-hidden="true"><i></i></div>
@@ -76,7 +77,7 @@
   margin: 2rem 0;
   padding: 1.25rem;
   border: 1px solid var(--color-border);
-  border-radius: 12px;
+  border-radius: 4px;
   background: var(--color-card);
   color: var(--color-card-foreground);
   text-align: start;
@@ -92,7 +93,7 @@
   display: block; width: 100%; box-sizing: border-box;
   padding: .75rem 1rem; font: inherit; font-size: 1rem; line-height: 1.6;
   color: inherit; background: var(--color-background);
-  border: 1px solid var(--color-border); border-radius: 8px;
+  border: 1px solid var(--color-border); border-radius: 4px;
 }
 .gf-input:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 1px; }
 textarea.gf-input { resize: vertical; min-height: 8rem; }
@@ -101,7 +102,7 @@ textarea.gf-input { resize: vertical; min-height: 8rem; }
   display: flex; align-items: center; gap: .75rem; width: 100%;
   padding: .75rem 1rem; text-align: left; font: inherit; line-height: 1.5;
   color: inherit; background: var(--color-background);
-  border: 1px solid var(--color-border); border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--color-border); border-radius: 4px; cursor: pointer;
   transition: border-color .15s, background .15s;
 }
 .gf-opt:hover { border-color: var(--color-muted-foreground); }
@@ -117,7 +118,7 @@ textarea.gf-input { resize: vertical; min-height: 8rem; }
 .gf-summary dd { margin: .125rem 0 0 !important; padding: 0 !important; line-height: 1.75; white-space: pre-wrap; overflow-wrap: anywhere; }
 .gf-trap { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 .gf-error {
-  margin-top: 1rem !important; padding: .75rem 1rem; border-radius: 8px; line-height: 1.6;
+  margin-top: 1rem !important; padding: .75rem 1rem; border-radius: 4px; line-height: 1.6;
   border-left: 4px solid var(--color-caution);
   background: color-mix(in srgb, var(--color-caution) 10%, var(--color-card));
 }
@@ -125,7 +126,7 @@ textarea.gf-input { resize: vertical; min-height: 8rem; }
 .gf-btn {
   padding: .4rem .9rem; font: inherit; font-size: .875rem; font-weight: 500;
   color: var(--color-primary-foreground); background: var(--color-primary);
-  border: 1px solid var(--color-primary); border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--color-primary); border-radius: 4px; cursor: pointer;
 }
 .gf-btn:disabled { opacity: .4; cursor: not-allowed; }
 .gf-ghost { color: inherit; background: transparent; border-color: var(--color-border); }
@@ -135,6 +136,7 @@ textarea.gf-input { resize: vertical; min-height: 8rem; }
 .gf-done-title { font-size: 1.375rem; font-weight: 700; margin-bottom: .5rem !important; }
 .gf-done-msg, .gf-done-reply { line-height: 1.75; }
 .gf-done .gf-btn { margin-top: 1.25rem; }
+.gf-fallback { line-height: 1.75; text-align: center; }
 @media (max-width: 480px) {
   .gf { padding: 1rem; }
   .gf-opt { padding: .625rem .75rem; }
@@ -294,6 +296,7 @@ textarea.gf-input { resize: vertical; min-height: 8rem; }
 
     form.hidden = false;
     show(0, false);
+    root.querySelector('.gf-fallback').hidden = true;
   }
 
   const init = () => document.querySelectorAll('.gf').forEach(setup);

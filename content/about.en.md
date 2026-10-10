@@ -3,7 +3,6 @@ title: "About"
 layout: "about"
 summary: ""
 date: 2026-05-01T23:30:00-05:00
-featured_image: "/images/avatar.png"
 author_twitter_handle: "@Alicehsu77" 
 og_type: "article"
 # links:
@@ -23,18 +22,16 @@ og_type: "article"
 >}}
 
 ### Alice Hsu
+Taiwanese, Christian, currently living in Wisconsin, USA.
 
-Writing, for me, is a way to settle, clarify, converse, experiment, and share.
+I love creating, most often through words and music, as a way of conversing with myself and with others.
 
-After writing on multiple platforms, I found that the nature of a platform undeniably shapes how a person expresses themselves and what they choose to write about. In order to preserve the greatest possible freedom in my writing, I started this blog in October 2025. As I kept writing, I realized this is still the place where I feel most at ease, and where I tend to meet a more authentic version of myself. Why is that? You can head right to the end of the hall to "[Pros and Cons of Self Hosted Blogs](/posts/2026/01/pros-and-cons-of-self-hosted-blogs/)" to find out.
+I started writing here in October 2025, hoping to keep it up as naturally as breathing.
 
-Besides writing, I built a website called [VisBible](https://visbible.org/) — a Bible visualization project designed to help readers navigate the wealth of information in the Bible without feeling overwhelmed, so they can come to understand who God is and what His heart toward people looks like. I also have some [musical works](/portfolio/) you're welcome to browse.
-
-Finally, a heartfelt thank you to my husband [Samuel](https://mhyeh.github.io/) (Sam in my posts) for setting up this website and making it look so beautiful ❤️
-
-
-For any feedback, please don't hesitate to contact me by email. You can reach me at: mail\@alicehsu.blog
+If you have any thoughts, feel free to write to me: mail\@alicehsu.blog
 
 ---
 
-For this blog's AI usage policy, please see [this article](/ai-usage-policy/).
+Note 1: For this blog's AI usage policy, please see [this article](/ai-usage-policy/).
+<br>
+Note 2: Thanks to my husband [Samuel](https://mhyeh.github.io/) for setting up this website and providing technical support.

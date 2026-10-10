@@ -72,7 +72,7 @@ To be honest, when I used to post on social media, my mood would fluctuate based
 
 Since I started writing on my own blog three months ago, writing has become something much purer: **If no one “likes” or “claps,” why am I still writing? It seems I can write more for the sake of sharing things I love, things I find interesting, valuable, and meaningful.**
 
-I won’t claim to be entirely selfless; I must admit that sometimes I really want my work to be seen (which is why this blog has a [“Portfolio”](/portfolio/) page). However, writing on my own blog, without those heart and like mechanisms, makes the act of writing and composing feel much steadier. I can enjoy the satisfaction of the work itself, rather than feeling elated or dejected based on someone else’s emotional feedback.
+I won’t claim to be entirely selfless; I must admit that sometimes I really want my work to be seen (which is why this blog has a [“Music”](/portfolio/) page). However, writing on my own blog, without those heart and like mechanisms, makes the act of writing and composing feel much steadier. I can enjoy the satisfaction of the work itself, rather than feeling elated or dejected based on someone else’s emotional feedback.
 
 But please don’t misunderstand—I still very much look forward to interacting with readers. I’m always happy to receive emails. To me, constructive written feedback is far more meaningful than a quantified number of likes or hearts.
 

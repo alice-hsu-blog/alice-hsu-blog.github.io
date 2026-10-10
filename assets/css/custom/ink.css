@@ -1,0 +1,2 @@
+/* 去背的手寫稿（檔名以 -ink 結尾）：黑色筆跡在深色模式下反白 */
+.dark img[src*="-ink."] { filter: invert(1); }
