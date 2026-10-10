@@ -106,6 +106,11 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 @media (max-width: 640px) {
   .site-head { grid-template-columns: auto 1fr; row-gap: 18px; }
   .nav { grid-column: 1 / -1; grid-row: 2; justify-content: center; gap: 26px; }
+  /* 中文選單字短，手機上跟 logo、工具排同一排；英文維持兩排 */
+  :lang(zh) .site-head { grid-template-columns: auto 1fr auto; gap: 12px; padding-block: 22px; }
+  :lang(zh) .logo svg { height: 34px; }
+  :lang(zh) .nav { grid-column: auto; grid-row: auto; gap: 14px; font-size: 14px; letter-spacing: .06em; position: relative; top: 2px; /* 中文字在行框裡偏高，往下推到跟圖示同一條中線 */ }
+  :lang(zh) .tools { gap: 12px; font-size: 13px; }
 }
 
 main { --main-pb: clamp(56px, 9vw, 120px); min-height: 60vh; padding-block: clamp(24px, 6vw, 72px) var(--main-pb); }
