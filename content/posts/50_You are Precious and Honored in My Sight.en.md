@@ -7,6 +7,7 @@ summary = 'But another part of me felt something stir inside, as if something ha
 cover = ''
 cover_on_post = false
 categories = ['Thoughts and Talks']
+tags = ['BlogBlog Club Party']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

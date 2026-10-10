@@ -7,6 +7,7 @@ summary = '織織不倦'
 cover = '/images/Post/25/8.JPG'
 cover_on_post = false
 categories = ['隨想雜談']
+tags = ['BlogBlog 同樂會']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

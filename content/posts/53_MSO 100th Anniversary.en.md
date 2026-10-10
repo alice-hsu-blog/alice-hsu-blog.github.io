@@ -7,6 +7,7 @@ summary = 'So many people kept batting the balloons back and forth, keeping them
 cover = '/images/Post/53/1.JPG'
 cover_on_post = true
 categories = ['Music']
+tags = ['BlogBlog Club Party']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

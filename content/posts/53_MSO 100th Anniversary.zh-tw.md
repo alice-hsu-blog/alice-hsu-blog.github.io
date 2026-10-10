@@ -7,6 +7,7 @@ summary = '許多人拍打互傳著氣球不讓其觸地，彷彿如此，就能
 cover = '/images/Post/53/1.JPG'
 cover_on_post = true
 categories = ['音樂']
+tags = ['BlogBlog 同樂會']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

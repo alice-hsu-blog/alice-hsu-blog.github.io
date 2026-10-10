@@ -7,6 +7,7 @@ summary = '我常笑說，我們兩個還真是來電啊。'
 cover = '/images/Post35home.jpg'
 cover_on_post = true
 categories = ['隨想雜談']
+tags = ['BlogBlog 同樂會']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

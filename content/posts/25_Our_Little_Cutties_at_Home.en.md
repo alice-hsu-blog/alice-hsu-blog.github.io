@@ -6,6 +6,7 @@ summary = 'You could say we are “hooked,” haha.'
 cover = '/images/Post/25/8.JPG'
 cover_on_post = false
 categories = ['Thoughts and Talks']
+tags = ['BlogBlog Club Party']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

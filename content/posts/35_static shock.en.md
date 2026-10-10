@@ -7,6 +7,7 @@ summary = 'I joke that our "sparks" are a bit too literal.'
 cover = '/images/Post35home.jpg'
 cover_on_post = true
 categories = ['Thoughts and Talks']
+tags = ['BlogBlog Club Party']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

@@ -7,6 +7,7 @@ summary = '你真覺得自己的價值和機器一樣？難道你花了許多力
 cover = ''
 cover_on_post = false
 categories = ['隨想雜談']
+tags = ['BlogBlog 同樂會']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

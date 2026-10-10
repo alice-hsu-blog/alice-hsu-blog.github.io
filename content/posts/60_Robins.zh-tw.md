@@ -7,6 +7,7 @@ summary = '我發現「翅膀硬了就要飛了」不應該是一個否定、貶
 cover = '/images/Post/60/28.webp'
 cover_on_post = false
 categories = ['隨想雜談']
+tags = ['BlogBlog 同樂會']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

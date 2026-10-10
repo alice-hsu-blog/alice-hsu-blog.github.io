@@ -7,6 +7,7 @@ summary = """I've come to think that "their wings have hardened, so now they wan
 cover = '/images/Post/60/28.webp'
 cover_on_post = false
 categories = ['Thoughts and Talks']
+tags = ['BlogBlog Club Party']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]

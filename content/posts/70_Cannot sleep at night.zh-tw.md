@@ -7,6 +7,7 @@ summary = '躺在床上，時間發沉，意識卻續航力極佳'
 cover = '/images/Post/70/1.jpg'
 cover_on_post = false
 categories = ['詩詞']
+tags = ['BlogBlog 同樂會']
 author_twitter_handle = '@Alicehsu77' 
 og_type = 'article'
 [lightbox]
