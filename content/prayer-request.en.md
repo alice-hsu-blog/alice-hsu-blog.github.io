@@ -6,12 +6,10 @@ summary = "Whether or not you're a Christian, you can use this form to ask me to
 author_twitter_handle = '@Alicehsu77'
 og_type = 'article'
 +++
-Whether or not you're a Christian, you can use this form to ask me to pray for you.
+Whether or not you know me, and whether or not you're a Christian, you can ask me to pray for you.
 
-If you're going through difficulties at work, in life, in relationships, or anything else — big or small — feel free to ask me to pray. Everything shared will be kept confidential and will not be written about in my blog posts.
+If you're going through difficulties at work, in life, in relationships, or anything else — big or small — feel free to ask me to pray. Everything shared will be kept confidential and will not be written about in my posts.
 
-Since I'm not a professional counselor, if you have more urgent mental or physical needs, please reach out to friends and family nearby, or seek professional help.
-
-If you'd like to know why I started this project, you can read ["Someone Is Praying for You"]({{< relref "/posts/64_Prayer Request" >}}).
+Curious why I started this project? You can read ["Someone Is Praying for You"]({{< relref "/posts/64_Prayer Request" >}}) first, then come back and fill in the form.
 
 {{< gform "prayer" >}}

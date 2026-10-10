@@ -101,8 +101,8 @@ text:
     zh-tw: 這個 email 的格式好像不太對，再檢查一下？
     en: That email doesn't look quite right. Could you check it?
   error:
-    zh-tw: 送出時出了點問題，可能是網路不穩。請再試一次，或改用 Google 表單填寫。
-    en: Something went wrong while sending, possibly the connection. Please try again, or use the Google Form instead.
+    zh-tw: 送出時出了點問題，可能是網路不穩。請再試一次。
+    en: Something went wrong while sending, possibly the connection. Please try again.
   done_title:
     zh-tw: 已送出，謝謝你
     en: Sent. Thank you

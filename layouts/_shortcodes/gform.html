@@ -68,8 +68,6 @@
     <button type="button" class="gf-btn gf-ghost gf-again">{{ $t.again }}</button>
   </section>
 
-  <p class="gf-fallback" hidden><a href="{{ $data.fallback }}" target="_blank" rel="noopener">{{ $t.fallback }}</a></p>
-
   <script type="application/json" class="gf-text">{{ $t | jsonify | safeJS }}</script>
 </div>
 
@@ -125,7 +123,7 @@ textarea.gf-input { resize: vertical; min-height: 8rem; }
 }
 .gf-nav { display: flex; justify-content: space-between; gap: .75rem; margin-top: 1rem; }
 .gf-btn {
-  padding: .6rem 1.25rem; font: inherit; font-weight: 500;
+  padding: .4rem .9rem; font: inherit; font-size: .875rem; font-weight: 500;
   color: var(--color-primary-foreground); background: var(--color-primary);
   border: 1px solid var(--color-primary); border-radius: 8px; cursor: pointer;
 }
@@ -137,7 +135,6 @@ textarea.gf-input { resize: vertical; min-height: 8rem; }
 .gf-done-title { font-size: 1.375rem; font-weight: 700; margin-bottom: .5rem !important; }
 .gf-done-msg, .gf-done-reply { line-height: 1.75; }
 .gf-done .gf-btn { margin-top: 1.25rem; }
-.gf-fallback { margin-top: 1rem !important; font-size: .875rem; text-align: center; color: var(--color-muted-foreground); }
 @media (max-width: 480px) {
   .gf { padding: 1rem; }
   .gf-opt { padding: .625rem .75rem; }
@@ -296,7 +293,6 @@ textarea.gf-input { resize: vertical; min-height: 8rem; }
     });
 
     form.hidden = false;
-    root.querySelector('.gf-fallback').hidden = false;
     show(0, false);
   }
 
