@@ -35,6 +35,5 @@ Darebee 是 2012 年成立的，遠早於生成式 AI 的出現，運動計畫�
 
 運動本該如此：樸實無華卻簡單有用，推薦大家去 [Darebee](https://darebee.com/) 找你喜歡的運動。
 
-Darebee Logo 圖片來源：[https://darebee.com/press.html](https://darebee.com/press.html)
 
 [^1]: https://darebee.com/faq/do-we-use-ai.html
