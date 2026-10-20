@@ -237,6 +237,10 @@ main { --main-pb: clamp(56px, 9vw, 120px); min-height: 60vh; padding-block: clam
 .prose :not(pre) > code { padding: .25em .4em 0; border: 1px solid var(--rule); border-radius: 4px; background: var(--code-bg); font-family: inherit; }
 .prose video, .prose iframe { display: block; margin: 0 auto 1.5em; }
 .prose .footnotes { font-size: 14px; color: var(--muted); }
+/* 注釋：每條裡面的 <p> 不留段落間距，行高也收緊，條目之間才不會隔太開；靠左對齊避免短行被左右撐開 */
+.prose .footnotes { line-height: 1.8; text-align: left; }
+.prose .footnotes li { margin-bottom: .3em; }
+.prose .footnotes li p { margin: 0; }
 
 /* 提示框（> [!Note] 等）：主題色的淡底，只有左右兩條直線；左線內側的下方、右線內側的上方各多一小段短線。
    各種類型都用同一個色系 */
