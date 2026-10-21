@@ -15,10 +15,8 @@ og_type = 'article'
   enabled = true
   lastRow = 'center'
 +++
-{{< masonry columns=2 gutter=15 width=90 >}}
-![](/images/Post/79/1.jpg)
-![](/images/Post/79/2.jpeg)
-{{< /masonry>}}
+
+![](/images/Post/79/3.jpg)
 
 會讀[《進烤箱的好日子》](https://www.books.com.tw/products/0010993694?sloc=main)，起因是讀到 OpenBook 的[報導](https://www.openbook.org.tw/article/p-72991)，才認識到台灣原來有一位優秀的作家名叫李佳穎，她前些日子去瑞典參加「國際作家舞台」，與瑞典得獎作家庫爾賀德（Elin Cullhed）談她的這部小說。
 
