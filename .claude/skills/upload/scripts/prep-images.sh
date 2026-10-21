@@ -31,6 +31,23 @@ if [ "${#FILES[@]}" -eq 0 ]; then
 else
   for f in "${FILES[@]}"; do
     [ -f "$f" ] || continue
+    # Phone photos are often stored sideways with an EXIF Orientation tag that
+    # tells viewers how to turn them. Step 3 strips that tag, so bake the
+    # rotation into the pixels first and reset the tag to 1 (normal).
+    o=$(exiftool -s3 -n -Orientation "$f" 2>/dev/null)
+    case "${o:-1}" in
+      2) sips -f horizontal "$f" >/dev/null 2>&1 ;;
+      3) sips -r 180 "$f" >/dev/null 2>&1 ;;
+      4) sips -f vertical "$f" >/dev/null 2>&1 ;;
+      5) sips -f horizontal "$f" >/dev/null 2>&1; sips -r 270 "$f" >/dev/null 2>&1 ;;
+      6) sips -r 90 "$f" >/dev/null 2>&1 ;;
+      7) sips -f horizontal "$f" >/dev/null 2>&1; sips -r 90 "$f" >/dev/null 2>&1 ;;
+      8) sips -r 270 "$f" >/dev/null 2>&1 ;;
+    esac
+    if [ "${o:-1}" != "1" ]; then
+      exiftool -n -Orientation=1 -overwrite_original "$f" >/dev/null 2>&1
+      echo "  rotated  (EXIF orientation $o -> upright)   $f"
+    fi
     w=$(sips -g pixelWidth  "$f" 2>/dev/null | awk '/pixelWidth/{print $2}')
     h=$(sips -g pixelHeight "$f" 2>/dev/null | awk '/pixelHeight/{print $2}')
     if [ -z "${w:-}" ] || [ -z "${h:-}" ]; then
@@ -50,6 +67,7 @@ else
 fi
 
 echo
-echo "== Step 3: strip metadata (exiftool, keep ICC profile) =="
-exiftool -all= -tagsfromfile @ -icc_profile -overwrite_original \
+echo "== Step 3: strip metadata (exiftool, keep ICC profile + orientation) =="
+# -orientation is kept as a safety net so an image is never shown sideways.
+exiftool -all= -tagsfromfile @ -icc_profile -orientation -overwrite_original \
   "${ROOT}/static/images/" -r
