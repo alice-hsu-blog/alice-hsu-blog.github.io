@@ -33,4 +33,14 @@
     <a href="{{ partial "menu-url.html" . }}">{{ partial "menu-name.html" . }}</a>
     {{- end }}
   </p>
+  {{- if eq site.Language.Lang "en" }}
+  {{- /* 只在英文版頁尾最底下放 webring */}}
+  <div class="webring">
+    <!-- Indie Web Bloggers webring - flamenet.io -->
+    <div class="webring-box">
+      <strong><a href="https://flamenet.io/webrings/indie-web-bloggers/">Indie Web Bloggers</a></strong><br>
+      <a href="https://flamenet.io/?fnwr_nav=1&amp;ring=indie-web-bloggers&amp;from=0&amp;go=prev">&laquo; Prev</a> | <a href="https://flamenet.io/?fnwr_nav=1&amp;ring=indie-web-bloggers&amp;from=0&amp;go=random">Random</a> | <a href="https://flamenet.io/?fnwr_nav=1&amp;ring=indie-web-bloggers&amp;from=0&amp;go=list">List</a> | <a href="https://flamenet.io/?fnwr_nav=1&amp;ring=indie-web-bloggers&amp;from=0&amp;go=next">Next &raquo;</a>
+    </div>
+  </div>
+  {{- end }}
 </footer>

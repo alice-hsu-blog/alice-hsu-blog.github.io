@@ -350,6 +350,11 @@ a.pager-item:hover .t { color: var(--accent); }
 .foot-cols a:hover { color: var(--accent); }
 .copy { display: flex; flex-wrap: wrap; gap: 6px 20px; margin: 44px 0 0; padding-top: 18px; border-top: 1px solid var(--rule); color: var(--muted); font-size: 12px; letter-spacing: .08em; }
 .copy a:hover { color: var(--accent); }
+.webring { margin-top: 20px; opacity: .55; transition: opacity .2s; }
+.webring:hover, .webring:focus-within { opacity: 1; }
+.webring-box { display: inline-block; border: 1px solid var(--rule); background: var(--surface); padding: 6px 10px; color: var(--muted); font-size: 9px; letter-spacing: .04em; line-height: 1.6; }
+.webring-box a { color: var(--muted); text-decoration: none; font-weight: 600; }
+.webring-box a:hover { color: var(--accent); }
 
 .notfound { max-width: var(--col); margin-inline: auto; }
 .notfound p { color: var(--muted); }
