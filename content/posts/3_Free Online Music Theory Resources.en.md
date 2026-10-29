@@ -91,10 +91,7 @@ Website：[teoría](https://www.teoria.com/index.php)
 These three are the music theory sites I visit most often.
 Other sites I occasionally check out include [musictheory.net](https://www.musictheory.net/lessons), [Musicca](https://www.musicca.com/tw), [Piano With Jonny](https://pianowithjonny.com/library/), etc.
 
-Have any of these sites helped you? Or do you have a favorite theory website of your own?
-Feel free to reach out and share your thoughts with me. I’d love to hear your recommendations!
-
-My email: mail@alicehsu.blog
+Hope these websites are helpful for you :) 
 
 ---
 

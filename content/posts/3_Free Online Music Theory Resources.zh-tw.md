@@ -79,5 +79,4 @@ teoría是由任職波多黎各音樂學院 (Puerto Rico Conservatory of Music) 
 ## 小結
 以上這三個是我最常逛的樂理網站，偶爾會逛的還有： [musictheory.net](https://www.musictheory.net/lessons)、[Musicca](https://www.musicca.com/tw)、[Piano With Jonny](https://pianowithjonny.com/library/) 等等。
 
-這些網站有沒有幫到你呢？或是你有喜歡的樂理網站嗎？歡迎來信和我分享心得：
-mail@alicehsu.blog
+希望這些網站有幫助到你：）
