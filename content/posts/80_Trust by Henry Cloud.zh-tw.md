@@ -74,3 +74,5 @@ Dr. Cloud 提到：
 [^2]: 中文譯本稱之「品格」，不過我覺得「人品」是目前大家普遍運用的詞彙，更加口語直觀，故譯之。
 
 [^3]: 原文：But before trusting someone in a particular, specific way—for particular, specific outcomes—make sure there is enough of the whole picture of traits you need to be able to depend on that person, no matter how honest or brilliant they might be.
+
+圖片來源：[博客來](https://www.books.com.tw/products/0011029652)
